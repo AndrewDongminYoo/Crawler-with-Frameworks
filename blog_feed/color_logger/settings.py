@@ -47,7 +47,7 @@ LOGGING_CONFIG = {
             },
         },
         "query": {
-            "()": "cologlog.ColoredFormatter",
+            "()": "colorlog.ColoredFormatter",
             "format": "%(cyan)s[SQL] %(message)s",
         },
     },
