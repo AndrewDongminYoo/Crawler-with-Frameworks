@@ -1,4 +1,4 @@
-# Scrapy settings for catfood_project project
+# Scrapy settings for CATFOOD project
 #
 # For simplicity, this file contains only settings considered important or
 # commonly used. You can find more settings consulting the documentation:
@@ -7,14 +7,14 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = 'catfood_project'
+BOT_NAME = 'CATFOOD'
 
-SPIDER_MODULES = ['catfood_project.spiders']
-NEWSPIDER_MODULE = 'catfood_project.spiders'
+SPIDER_MODULES = ['CATFOOD.spiders']
+NEWSPIDER_MODULE = 'CATFOOD.spiders'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-#USER_AGENT = 'catfood_project (+http://www.yourdomain.com)'
+#USER_AGENT = 'CATFOOD (+http://www.yourdomain.com)'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
@@ -45,13 +45,13 @@ ROBOTSTXT_OBEY = True
 # Enable or disable spider middlewares
 # See https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 #SPIDER_MIDDLEWARES = {
-#    'catfood_project.middlewares.CatfoodProjectSpiderMiddleware': 543,
+#    'CATFOOD.middlewares.CatfoodSpiderMiddleware': 543,
 #}
 
 # Enable or disable downloader middlewares
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #DOWNLOADER_MIDDLEWARES = {
-#    'catfood_project.middlewares.CatfoodProjectDownloaderMiddleware': 543,
+#    'CATFOOD.middlewares.CatfoodDownloaderMiddleware': 543,
 #}
 
 # Enable or disable extensions
@@ -63,7 +63,7 @@ ROBOTSTXT_OBEY = True
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 #ITEM_PIPELINES = {
-#    'catfood_project.pipelines.CatfoodProjectPipeline': 300,
+#    'CATFOOD.pipelines.CatfoodPipeline': 300,
 #}
 
 # Enable and configure the AutoThrottle extension (disabled by default)
