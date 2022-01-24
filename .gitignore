@@ -139,4 +139,5 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+# AndrewDongminYoo
 /blog_feed/eliot_logger/page_contents.json

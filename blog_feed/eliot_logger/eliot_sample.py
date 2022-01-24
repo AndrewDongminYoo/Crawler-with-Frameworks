@@ -21,7 +21,7 @@ PAGE_URL_LIST = [
 
 def fetch_pages(url_array):
     with start_action(action_type="fetch_pages"):
-        page_contents = {}
+        contents = {}
         for page_url in url_array:
             with start_action(action_type="download", url=page_url):
                 try:
@@ -30,8 +30,8 @@ def fetch_pages(url_array):
                 except requests.exceptions.RequestException as e:
                     write_traceback()
                     continue
-                page_contents[page_url] = r.text
-        return page_contents
+                contents[page_url] = r.text
+        return contents
 
 
 if __name__ == '__main__':
