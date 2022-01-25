@@ -25,3 +25,7 @@ typing_extensions==4.0.1
 urllib3==1.26.8
 uuid==1.30
 wsproto==1.0.0
+Scrapy~=2.5.1
+itemadapter~=0.4.0
+w3lib~=1.22.0
+lxml~=4.7.1
