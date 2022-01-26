@@ -37,16 +37,29 @@ class WebScrapper:
                 item.brand = self.brand_name
                 item.title = driver.title
                 try:
-                    WebDriverWait(driver, 8).until(EC.presence_of_element_located((By.CSS_SELECTOR, ingredients)))
+                    # WebDriverWait(driver, 8).until(EC.presence_of_all_elements_located((By.TAG_NAME, "p")))
+                    time.sleep(2)
                     soup = BeautifulSoup(driver.page_source, "html.parser")
                     if analysis:
-                        item.analysis = soup.select_one(analysis).get_text().replace("\n", " ")
+                        try:
+                            item.analysis = soup.select_one(analysis).get_text().replace("\n", " ")
+                        except AttributeError as e:
+                            self.logger.warning(f"{e} :: 'analysis' on {url}")
                     if ingredients:
-                        item.ingredients = soup.select_one(ingredients).get_text()
+                        try:
+                            item.ingredients = soup.select_one(ingredients).get_text().replace("\n", " ")
+                        except AttributeError as e:
+                            self.logger.warning(f"{e} :: 'ingredients' on {url}")
                     if calorie:
-                        item.calorie = soup.select_one(calorie).get_text()
+                        try:
+                            item.calorie = soup.select_one(calorie).get_text()
+                        except AttributeError as e:
+                            self.logger.warning(f"{e} :: 'calorie' on {url}")
                     if additives:
-                        item.additives = soup.select_one(additives).get_text().replace("\n", " ")
+                        try:
+                            item.additives = soup.select_one(additives).get_text()
+                        except AttributeError as e:
+                            self.logger.warning(f"{e} :: 'additives' on {url}")
                     self.col.update_one({"title": item.title}, {"$set": item.to_mongo()}, upsert=True)
                     self.logger.info(f"Saved ({index+1}/{len(self.url_list)}) :: {url}")
                 except TimeoutException:
