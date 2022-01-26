@@ -3,10 +3,9 @@ from selenium.webdriver import Chrome
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.remote.webelement import WebElement
 from selenium.webdriver.common.by import By
-from pymongo import MongoClient
 
 from crawling_wheel.models import CatFood
-from data import result
+from crawling_wheel.data.data import result
 import time
 
 
