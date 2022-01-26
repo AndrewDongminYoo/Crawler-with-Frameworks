@@ -58,7 +58,7 @@ class WebScrapper:
                 except TimeoutException:
                     self.logger.warning(f"Timeout ({index+1}/{len(self.url_list)}) :: {url}")
                 except AttributeError as e:
-                    self.logger.warning(f"{e} :: on {url}".replace("NoneType", next_value))
+                    self.logger.warning(f"{e} :: {url}".replace("NoneType", next_value))
 
 
 if __name__ == '__main__':
