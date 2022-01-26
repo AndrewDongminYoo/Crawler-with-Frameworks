@@ -36,34 +36,29 @@ class WebScrapper:
                 item.url = url
                 item.brand = self.brand_name
                 item.title = driver.title
+                next_value = ""
                 try:
-                    # WebDriverWait(driver, 8).until(EC.presence_of_all_elements_located((By.TAG_NAME, "p")))
-                    time.sleep(2)
+                    time.sleep(3)
+                    WebDriverWait(driver, 8).until(EC.presence_of_all_elements_located((By.TAG_NAME, "p")))
                     soup = BeautifulSoup(driver.page_source, "html.parser")
                     if analysis:
-                        try:
-                            item.analysis = soup.select_one(analysis).get_text().replace("\n", " ")
-                        except AttributeError as e:
-                            self.logger.warning(f"{e} :: 'analysis' on {url}")
+                        next_value = "analysis"
+                        item.analysis = soup.select_one(analysis).get_text().replace("\n", " ")
                     if ingredients:
-                        try:
-                            item.ingredients = soup.select_one(ingredients).get_text().replace("\n", " ")
-                        except AttributeError as e:
-                            self.logger.warning(f"{e} :: 'ingredients' on {url}")
+                        next_value = "ingredients"
+                        item.ingredients = soup.select_one(ingredients).get_text().replace("\n", " ")
                     if calorie:
-                        try:
-                            item.calorie = soup.select_one(calorie).get_text()
-                        except AttributeError as e:
-                            self.logger.warning(f"{e} :: 'calorie' on {url}")
+                        next_value = "calorie"
+                        item.calorie = soup.select_one(calorie).get_text()
                     if additives:
-                        try:
-                            item.additives = soup.select_one(additives).get_text()
-                        except AttributeError as e:
-                            self.logger.warning(f"{e} :: 'additives' on {url}")
+                        next_value = "additives"
+                        item.additives = soup.select_one(additives).get_text()
                     self.col.update_one({"title": item.title}, {"$set": item.to_mongo()}, upsert=True)
                     self.logger.info(f"Saved ({index+1}/{len(self.url_list)}) :: {url}")
                 except TimeoutException:
                     self.logger.warning(f"Timeout ({index+1}/{len(self.url_list)}) :: {url}")
+                except AttributeError as e:
+                    self.logger.warning(f"{e} :: on {url}".replace("NoneType", next_value))
 
 
 if __name__ == '__main__':
