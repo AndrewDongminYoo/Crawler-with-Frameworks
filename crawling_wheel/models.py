@@ -1,4 +1,3 @@
-import datetime
 import json
 
 import mongoengine as me
@@ -15,7 +14,6 @@ class CatFood(me.Document):
             "analysis": self.analysis,
             "ingredients": self.ingredients,
             "calorie": self.calorie,
-            "additives": self.additives,
         }, ensure_ascii=False)
 
     site = me.URLField(default="")
@@ -26,4 +24,3 @@ class CatFood(me.Document):
     analysis = me.StringField(default="")
     ingredients = me.StringField(default="")
     calorie = me.StringField(default="")
-    updated_at = me.DateTimeField(default=datetime.datetime.now())

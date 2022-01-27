@@ -58,8 +58,7 @@
             "vitamin D3 supplement",
             "folic acid."
         ],
-        "calorie": "*Not recognized as an essential nutrient by the AAFCO Cat Food Nutrient Profiles.",
-        "additives": ""
+        "calorie": "*Not recognized as an essential nutrient by the AAFCO Cat Food Nutrient Profiles."
     },
     {
         "site": "https://www.tasteofthewildpetfood.com",
@@ -125,7 +124,6 @@
             "vitamin D3 supplement",
             "folic acid."
         ],
-        "calorie": "3,741 kcal/kg",
-        "additives": ""
+      "calorie": "3,741 kcal/kg"
     }
 ]

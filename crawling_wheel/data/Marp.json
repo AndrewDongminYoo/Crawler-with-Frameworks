@@ -12,8 +12,7 @@
             "1% Minerals",
             ".5% Sunflower Oil."
         ],
-        "calorie": "",
-        "additives": ""
+        "calorie": ""
     },
     {
         "site": "https://www.marppetfood.com",
@@ -27,8 +26,7 @@
             "29% Broth",
             "1% Minerals."
         ],
-        "calorie": "",
-        "additives": ""
+      "calorie": ""
     },
     {
         "site": "https://www.marppetfood.com",
@@ -42,7 +40,6 @@
             "29% Broth",
             "1% Minerals."
         ],
-        "calorie": "",
-        "additives": ""
+      "calorie": ""
     }
 ]

@@ -71,8 +71,7 @@
             "rosemary extract",
             "mixed tocopherols (a preservative)."
         ],
-        "calorie": "EM Kcal/lb 1889 - Mj/lb 7.90 388 Kcal/cup",
-        "additives": ""
+        "calorie": "EM Kcal/lb 1889 - Mj/lb 7.90 388 Kcal/cup"
     },
     {
         "site": "https://www.farmina.com",
@@ -146,25 +145,24 @@
             "rosemary extract",
             "mixed tocopherols (a preservative)."
         ],
-        "calorie": "EM Kcal/lb 1613 - Mj/lb 6.75 349 Kcal/cup",
-        "additives": ""
+      "calorie": "EM Kcal/lb 1613 - Mj/lb 6.75 349 Kcal/cup"
     },
-    {
-        "site": "https://www.farmina.com",
-        "url": "https://www.farmina.com/us/cat-food/n&d-ancestral-grain-feline/153-lamb-&-blueberry-adult.html",
-        "brand": "Farmina Vet Life Feline",
-        "title": "Farmina Pet Foods - Cat food - N&D Ancestral Grain Feline - Lamb & Blueberry Adult",
-        "image": "",
-        "analysis": [
-            "Crude Protein: 36.00%",
-            "Crude Fat: 20.00%",
-            "Crude Fiber: 1.90%",
-            "Moisture: 8.00%",
-            "Ash: 8.10%",
-            "Docosahexaenoic Acid (DHA): 0.50%",
-            "Eicosapentaenoic Acid (EPA): 0.30%",
-            "Calcium: 1.10%",
-            "Phosphorus: 0.90%",
+  {
+    "site": "https://www.farmina.com",
+    "url": "https://www.farmina.com/us/cat-food/n&d-ancestral-grain-feline/153-lamb-&-blueberry-adult.html",
+    "brand": "Farmina Vet Life Feline",
+    "title": "Farmina Pet Foods - Cat food - N&D Ancestral Grain Feline - Lamb & Blueberry Adult",
+    "image": "https://images.app.goo.gl/kKSRTKLHH7Cd6g1E8",
+    "analysis": [
+      "Crude Protein: 36.00%",
+      "Crude Fat: 20.00%",
+      "Crude Fiber: 1.90%",
+      "Moisture: 8.00%",
+      "Ash: 8.10%",
+      "Docosahexaenoic Acid (DHA): 0.50%",
+      "Eicosapentaenoic Acid (EPA): 0.30%",
+      "Calcium: 1.10%",
+      "Phosphorus: 0.90%",
             "Magnesium: 0.09%",
             "Taurine:: 0.40%",
             "Omega-6 Fatty Acids*: 3.40%",
@@ -221,25 +219,24 @@
             "rosemary extract",
             "mixed tocopherols (a natural preservative)."
         ],
-        "calorie": "EM Kcal/lb 1889 - Mj/lb 7.90 388 Kcal/cup",
-        "additives": ""
+    "calorie": "EM Kcal/lb 1889 - Mj/lb 7.90 388 Kcal/cup"
     },
-    {
-        "site": "https://www.farmina.com",
-        "url": "https://www.farmina.com/us/cat-food/n&d-ocean-feline/494-herring-&-orange-adult.html",
-        "brand": "Farmina Vet Life Feline",
-        "title": "Farmina Pet Foods - Cat food - N&D Ocean feline - Herring & Orange Adult",
-        "image": "",
-        "analysis": [
-            "Crude Protein: 44.00%",
-            "Crude Fat: 20.00%",
-            "Crude Fiber: 1.80%",
-            "Moisture: 8.00%",
-            "Ash: 8.50%",
-            "Docosahexaenoic Acid (DHA): 0.80%",
-            "Eicosapentaenoic Acid (EPA): 0.50%",
-            "Calcium: 1.00%",
-            "Phosphorus: 0.90%",
+  {
+    "site": "https://www.farmina.com",
+    "url": "https://www.farmina.com/us/cat-food/n&d-ocean-feline/494-herring-&-orange-adult.html",
+    "brand": "Farmina Vet Life Feline",
+    "title": "Farmina Pet Foods - Cat food - N&D Ocean feline - Herring & Orange Adult",
+    "image": "https://images.app.goo.gl/DjybcLC5eJTRgBDTA",
+    "analysis": [
+      "Crude Protein: 44.00%",
+      "Crude Fat: 20.00%",
+      "Crude Fiber: 1.80%",
+      "Moisture: 8.00%",
+      "Ash: 8.50%",
+      "Docosahexaenoic Acid (DHA): 0.80%",
+      "Eicosapentaenoic Acid (EPA): 0.50%",
+      "Calcium: 1.00%",
+      "Phosphorus: 0.90%",
             "Magnesium: 0.08%",
             "Taurine: 0.40%",
             "Omega-6 Fatty Acids*: 3.10%",
@@ -291,25 +288,24 @@
             "rosemary extract",
             "mixed tocopherols (a preservative)."
         ],
-        "calorie": "EM Kcal/lb 1907 - Mj/lb 7.98 412 Kcal/cup",
-        "additives": ""
+    "calorie": "EM Kcal/lb 1907 - Mj/lb 7.98 412 Kcal/cup"
     },
-    {
-        "site": "https://www.farmina.com",
-        "url": "https://www.farmina.com/us/cat-food/n&d-ocean-feline/496-cod,-spelt,-oats-&-orange-adult.html",
-        "brand": "Farmina Vet Life Feline",
-        "title": "Farmina Pet Foods - Cat food - N&D Ocean feline - Cod, Spelt, Oats & Orange Adult",
-        "image": "",
-        "analysis": [
-            "Crude Protein: 36.00%",
-            "Crude Fat: 20.00%",
-            "Crude Fiber: 1.90%",
-            "Moisture: 8.00%",
-            "Ash: 8.00%",
-            "Docosahexaenoic Acid (DHA): 1.0%",
-            "Eicosapentaenoic Acid (EPA): 0.80%",
-            "Calcium: 1.00%",
-            "Phosphorus: 0.90%",
+  {
+    "site": "https://www.farmina.com",
+    "url": "https://www.farmina.com/us/cat-food/n&d-ocean-feline/496-cod,-spelt,-oats-&-orange-adult.html",
+    "brand": "Farmina Vet Life Feline",
+    "title": "Farmina Pet Foods - Cat food - N&D Ocean feline - Cod, Spelt, Oats & Orange Adult",
+    "image": "https://images.app.goo.gl/N7Km85uK59F75i2Q7",
+    "analysis": [
+      "Crude Protein: 36.00%",
+      "Crude Fat: 20.00%",
+      "Crude Fiber: 1.90%",
+      "Moisture: 8.00%",
+      "Ash: 8.00%",
+      "Docosahexaenoic Acid (DHA): 1.0%",
+      "Eicosapentaenoic Acid (EPA): 0.80%",
+      "Calcium: 1.00%",
+      "Phosphorus: 0.90%",
             "Magnesium: 0.08%",
             "Taurine: 0.40%",
             "Omega-6 Fatty Acids*: 1.80%",
@@ -362,25 +358,24 @@
             "rosemary extract",
             "mixed tocopherols (a preservative)."
         ],
-        "calorie": "EM Kcal/lb 1891 - Mj/lb 7.91 388 Kcal/cup",
-        "additives": ""
+    "calorie": "EM Kcal/lb 1891 - Mj/lb 7.91 388 Kcal/cup"
     },
-    {
-        "site": "https://www.farmina.com",
-        "url": "https://www.farmina.com/us/cat-food/n&d-prime-feline/145-chicken-&-pomegranate-adult.html",
-        "brand": "Farmina Vet Life Feline",
-        "title": "Farmina Pet Foods - Cat food - N&D Prime Feline - Chicken & Pomegranate Adult",
-        "image": "",
-        "analysis": [
-            "Crude Protein: 44.00%",
-            "Crude Fat: 20.00%",
-            "Crude Fiber: 1.80%",
-            "Moisture: 8.00%",
-            "Ash: 8.50%",
-            "Docosahexaenoic Acid (DHA): 0.50%",
-            "Eicosapentaenoic Acid (EPA): 0.30%",
-            "Calcium: 1.10%",
-            "Phosphorus: 0.90%",
+  {
+    "site": "https://www.farmina.com",
+    "url": "https://www.farmina.com/us/cat-food/n&d-prime-feline/145-chicken-&-pomegranate-adult.html",
+    "brand": "Farmina Vet Life Feline",
+    "title": "Farmina Pet Foods - Cat food - N&D Prime Feline - Chicken & Pomegranate Adult",
+    "image": "https://images.app.goo.gl/26QR8kR2iL8qSaqo6",
+    "analysis": [
+      "Crude Protein: 44.00%",
+      "Crude Fat: 20.00%",
+      "Crude Fiber: 1.80%",
+      "Moisture: 8.00%",
+      "Ash: 8.50%",
+      "Docosahexaenoic Acid (DHA): 0.50%",
+      "Eicosapentaenoic Acid (EPA): 0.30%",
+      "Calcium: 1.10%",
+      "Phosphorus: 0.90%",
             "Magnesium: 0.08%",
             "Taurine: 0.40%",
             "Omega-6 Fatty Acids*: 3.30%",
@@ -435,25 +430,24 @@
             "rosemary extract",
             "mixed tocopherols (a preservative)."
         ],
-        "calorie": "EM Kcal/lb 1907 - Mj/lb 7.98 412 Kcal/cup",
-        "additives": ""
+    "calorie": "EM Kcal/lb 1907 - Mj/lb 7.98 412 Kcal/cup"
     },
-    {
-        "site": "https://www.farmina.com",
-        "url": "https://www.farmina.com/us/cat-food/n&d-prime-feline/147-boar-&-apple-adult.html",
-        "brand": "Farmina Vet Life Feline",
-        "title": "Farmina Pet Foods - Cat food - N&D Prime Feline - Boar & Apple Adult",
-        "image": "",
-        "analysis": [
-            "Crude Protein: 44.00%",
-            "Crude Fat: 20.00%",
-            "Crude Fiber: 1.80%",
-            "Moisture: 8.00%",
-            "Ash: 8.70%",
-            "Docosahexaenoic Acid (DHA): 0.50%",
-            "Eicosapentaenoic Acid (EPA): 0.30%",
-            "Calcium: 1.10%",
-            "Phosphorus: 0.90%",
+  {
+    "site": "https://www.farmina.com",
+    "url": "https://www.farmina.com/us/cat-food/n&d-prime-feline/147-boar-&-apple-adult.html",
+    "brand": "Farmina Vet Life Feline",
+    "title": "Farmina Pet Foods - Cat food - N&D Prime Feline - Boar & Apple Adult",
+    "image": "https://images.app.goo.gl/AmYz7Bdb91f1JKyU9",
+    "analysis": [
+      "Crude Protein: 44.00%",
+      "Crude Fat: 20.00%",
+      "Crude Fiber: 1.80%",
+      "Moisture: 8.00%",
+      "Ash: 8.70%",
+      "Docosahexaenoic Acid (DHA): 0.50%",
+      "Eicosapentaenoic Acid (EPA): 0.30%",
+      "Calcium: 1.10%",
+      "Phosphorus: 0.90%",
             "Magnesium: 0.08%",
             "Taurine: 0.40%",
             "Omega-6 Fatty Acids*: 3.40%",
@@ -510,25 +504,24 @@
             "rosemary extract",
             "mixed tocopherols (a preservative)."
         ],
-        "calorie": "EM Kcal/lb 1904 - Mj/lb 7.96 412 Kcal/cup",
-        "additives": ""
+    "calorie": "EM Kcal/lb 1904 - Mj/lb 7.96 412 Kcal/cup"
     },
-    {
-        "site": "https://www.farmina.com",
-        "url": "https://www.farmina.com/us/cat-food/n&d-quinoa-functional-feline/438-urinary-duck.html",
-        "brand": "Farmina Vet Life Feline",
-        "title": "Farmina Pet Foods - Cat food - N&D Quinoa Functional Feline - Urinary Duck",
-        "image": "",
-        "analysis": [
-            "crude protein: 33.00%",
-            "crude fat: 16.50%",
-            "crude fiber: 2.10%",
-            "moisture: 8.00%",
-            "ash: 7.90%",
-            "Docosahexaenoic Acid (DHA): 0.15%",
-            "Eicosapentaenoic Acid (EPA): 0.10%",
-            "calcium: 1.00%",
-            "phosphorus: 0.90%",
+  {
+    "site": "https://www.farmina.com",
+    "url": "https://www.farmina.com/us/cat-food/n&d-quinoa-functional-feline/438-urinary-duck.html",
+    "brand": "Farmina Vet Life Feline",
+    "title": "Farmina Pet Foods - Cat food - N&D Quinoa Functional Feline - Urinary Duck",
+    "image": "https://images.app.goo.gl/EUKLP6KVYcyBsRTS8",
+    "analysis": [
+      "crude protein: 33.00%",
+      "crude fat: 16.50%",
+      "crude fiber: 2.10%",
+      "moisture: 8.00%",
+      "ash: 7.90%",
+      "Docosahexaenoic Acid (DHA): 0.15%",
+      "Eicosapentaenoic Acid (EPA): 0.10%",
+      "calcium: 1.00%",
+      "phosphorus: 0.90%",
             "sodium: 0.50%",
             "potassium: 0.70%",
             "magnesium: 0.08%",
@@ -581,7 +574,6 @@
             "rosemary extract",
             "mixed tocopherols (a preservative)."
         ],
-        "calorie": "EM Kcal/lb 1807 - Mj/lb 7.56 391 Kcal/cup",
-        "additives": ""
+    "calorie": "EM Kcal/lb 1807 - Mj/lb 7.56 391 Kcal/cup"
     }
 ]

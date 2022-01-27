@@ -78,8 +78,7 @@
             "Calcium Iodate",
             "Yucca Schidigera Extract."
         ],
-        "calorie": "3618 kcal/kg",
-        "additives": ""
+        "calorie": "3618 kcal/kg"
     },
     {
         "site": "https://annamaet.com",
@@ -160,8 +159,7 @@
             "Calcium Iodate",
             "Yucca Schidigera Extract."
         ],
-        "calorie": "4149 kcal/kg",
-        "additives": ""
+      "calorie": "4149 kcal/kg"
     },
     {
         "site": "https://annamaet.com",
@@ -244,7 +242,6 @@
             "Sodium Selenite",
             "Calcium Iodate."
         ],
-        "calorie": "4022 kcal/kg",
-        "additives": ""
+      "calorie": "4022 kcal/kg"
     }
 ]

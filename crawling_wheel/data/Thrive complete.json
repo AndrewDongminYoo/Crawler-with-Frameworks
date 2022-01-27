@@ -1,147 +1,24 @@
 [
     {
-        "site": "https://thrivepetfoods.com",
-        "url": "https://thrivepetfoods.com/catalog/product/view/id/141/s/thriver-complete-100-chicken-and-chicken-liver-75g-tin/category/4/",
-        "brand": "Thrive complete",
-        "title": "Complete Chicken and Chicken Liver - Cats",
-        "image": "https://thrivepetfoods.com/media/catalog/product/cache/c969568634868e10608d26fb3bec9bf1/5/0/5023538101631_t1.jpg",
-        "analysis": [
-            "Analytical Constituents Crude Protein 16%",
-            "Crude Oils & Fats 2%",
-            "Crude Ash 1.5%",
-            "Crude Fibres 0.1%",
-            "Moisture 80%",
-            "ME Kcal/100g 74.4 Nutritional Supplements Per 100g: Vitamin A 2800 IU",
-            "Vitamin D3 29 IU",
-            "Copper 0.6mg",
-            "Iodine 0.2mg",
-            "Iron 6mg",
-            "Manganese 1.4mg",
-            "Zinc 12mg",
-            "Taurine 0.5g. Mineral g/100g Dry Matter Chicken & Liver Calcium 1.25 Phosphorus 1.16 Ca/P ratio 1:1 Potassium 0.60 Sodium 0.68"
-        ],
-        "ingredients": [
-            "Chicken breast (70%)",
-            "Chicken stock",
-            "Chicken Liver (5%)",
-            "Sunflower Oil",
-            "Vitamins & Minerals."
-        ],
-        "calorie": "",
-        "additives": ""
-    },
-    {
-        "site": "https://thrivepetfoods.com",
-        "url": "https://thrivepetfoods.com/cats/complete-beef-with-vegetables",
-        "brand": "Thrive complete",
-        "title": "thrive® Complete 100% Ocean Fish - 75g Tin",
-        "image": "https://thrivepetfoods.com/media/catalog/product/cache/c969568634868e10608d26fb3bec9bf1/b/e/beef_1_2.jpg",
-        "analysis": [
-            "Analytical Constituents Crude protein 11%",
-            "Crude Oils & Fats 2%",
-            "Crude fibres 1%",
-            "Crude ash 2%",
-            "Moisture 83%. Nutritional Additives per 100g: Vitamin A 1000 IU",
-            "Vitamin D3 10 IU",
-            "Manganese 0.3 mg",
-            "Zinc 3.9mg",
-            "Copper 0.135mg",
-            "Iron 5mg",
-            "Iodine 0.06mg",
-            "Taurine 50mg",
-            "ME Kcal/100g 59"
-        ],
-        "ingredients": [
-            "Beef",
-            "Pumpkin",
-            "Green Pea",
-            "Water",
-            "Sunflower Oil",
-            "Vitamins & Minerals"
-        ],
-        "calorie": "",
-        "additives": ""
-    },
-    {
-        "site": "https://thrivepetfoods.com",
-        "url": "https://thrivepetfoods.com/cats/complete-chicken-and-chicken-liver-with-vegetables",
-        "brand": "Thrive complete",
-        "title": "thrive® Complete 100% Ocean Fish - 75g Tin",
-        "image": "https://thrivepetfoods.com/media/catalog/product/cache/c969568634868e10608d26fb3bec9bf1/5/0/5023538102768_t1.jpg",
-        "analysis": [
-            "Analytical Constituents Crude protein 9.5%",
-            "Crude Oils & Fats 2%",
-            "Crude fibres 0.2%",
-            "Crude ash 1.5%",
-            "Moisture 82%. Nutritional Additives: Vitamin A 1000 IU/100g",
-            "Vitamin D3 10 IU/100g",
-            "Manganese 0.3 mg/100g",
-            "Zinc 3.9mg/100g",
-            "Copper 0.135mg/100g",
-            "Iron 5mg/100g",
-            "Iodine 0.06mg/100g"
-        ],
-        "ingredients": [
-            "Chicken",
-            "Chicken Liver",
-            "Brown rice",
-            "Tomato",
-            "Pumpkin",
-            "Water",
-            "Vitamins & Minerals"
-        ],
-        "calorie": "",
-        "additives": ""
-    },
-    {
-        "site": "https://thrivepetfoods.com",
-        "url": "https://thrivepetfoods.com/cats/complete-chicken-with-vegetable",
-        "brand": "Thrive complete",
-        "title": "thrive® Complete 100% Ocean Fish - 75g Tin",
-        "image": "https://thrivepetfoods.com/media/catalog/product/cache/c969568634868e10608d26fb3bec9bf1/5/0/5023538102775_t1_3.jpg",
-        "analysis": [
-            "Analytical Constituents Crude protein 9.5%",
-            "Crude Oils & Fats 2%",
-            "Crude fibres 0.2%",
-            "Crude ash 1.5%",
-            "Moisture 82%. Nutritional Additives: Vitamin A 1000 IU/100g",
-            "Vitamin D3 10 IU/100g",
-            "Manganese 0.3 mg/100g",
-            "Zinc 3.9mg/100g",
-            "Copper 0.135mg/100g",
-            "Iron 5mg/100g",
-            "Iodine 0.06mg/100g"
-        ],
-        "ingredients": [
-            "Chicken",
-            "Water",
-            "Green pea",
-            "Carrot",
-            "Vitamins & Minerals"
-        ],
-        "calorie": "",
-        "additives": ""
-    },
-    {
-        "site": "https://thrivepetfoods.com",
-        "url": "https://thrivepetfoods.com/cats/thrive-reg-complete-100-ocean-fish-75g-tin-troy",
-        "brand": "Thrive complete",
-        "title": "thrive® Complete 100% Ocean Fish - 75g Tin",
-        "image": "https://thrivepetfoods.com/media/catalog/product/cache/c969568634868e10608d26fb3bec9bf1/5/0/5023538101648_t1.jpg",
-        "analysis": [
-            "Analytical Constituents Crude Protein 13.6%",
-            "Crude Oils & Fats 2%",
-            "Crude Ash 1.3%",
-            "Crude Fibres 0.1%",
-            "Moisture 83%.",
-            "ME Kcal/100g 64.6 Nutritional Supplements Per 100g: Vitamin A 2800 IU",
-            "Vitamin D3 29 IU. Trace elements: Zinc 12mg",
-            "Iron 6mg",
-            "Manganese 1.4mg",
-            "Copper 0.6mg",
-            "Iodine 0.2mg",
-            "Taurine 0.5g. Mineral g/100g Dry Matter Ocean Fish Calcium 1.28 Phosphorus 1.27 Ca/P ratio 1:1 Potassium 0.94 Sodium 0.27"
-        ],
+      "site": "https://thrivepetfoods.com",
+      "url": "https://thrivepetfoods.com/cats/thrive-reg-complete-100-ocean-fish-75g-tin-troy",
+      "brand": "Thrive complete",
+      "title": "thrive® Complete 100% Ocean Fish - 75g Tin",
+      "image": "https://thrivepetfoods.com/media/catalog/product/cache/c969568634868e10608d26fb3bec9bf1/5/0/5023538102645_t1_1.jpg",
+      "analysis": [
+        "Crude Protein 13.6%",
+        "Crude Oils & Fats 2%",
+        "Crude Ash 1.3%",
+        "Crude Fibres 0.1%",
+        "Moisture 83%",
+        "ME Kcal/100g 64.6 Nutritional SupplementsPer 100g: Vitamin A 2800 IU",
+        "Vitamin D: 3 29 IU. Trace elements: Zinc 12mg",
+        "Iron 6mg",
+        "Manganese 1.4mg",
+        "Copper 0.6mg",
+        "Iodine 0.2mg",
+        "Taurine 0.5g. Mineral g/100g Dry Matter Ocean Fish Calcium 1.28 Phosphorus 1.27 Ca/P ratio 1:1 Potassium 0.94 Sodium 0.27 "
+      ],
         "ingredients": [
             "Mackerel (71%)",
             "Mackerel stock",
@@ -150,84 +27,7 @@
             "Sunflower oil",
             "Vitamins & Minerals."
         ],
-        "calorie": "",
-        "additives": ""
-    },
-    {
-        "site": "https://thrivepetfoods.com",
-        "url": "https://thrivepetfoods.com/cats/thrive-reg-complete-100-tuna-shrimp-squid-75g-tin",
-        "brand": "Thrive complete",
-        "title": "thrive® Complete 100% Ocean Fish - 75g Tin",
-        "image": "https://thrivepetfoods.com/media/catalog/product/cache/c969568634868e10608d26fb3bec9bf1/5/0/5023538102652_t1.jpg",
-        "analysis": [
-            "Analytical Constituents Crude protein 10.5%",
-            "Crude Oils & Fats 2.5%",
-            "Crude fibres 0%",
-            "Crude ash 1%",
-            "Moisture 82%. Nutritional Additives: Vitamin A 200 IU/100g",
-            "Vitamin D3 1.25 IU/100g",
-            "Manganese 0.2 mg/100g",
-            "Zinc 2.6mg/100g",
-            "Copper 0.135mg/100g",
-            "Iron 2mg/100g",
-            "Iodine 0.04mg/100g"
-        ],
-        "ingredients": [
-            "Tuna 67%",
-            "Shrimp 4%",
-            "Squid 4% in Tuna Stock",
-            "Vitamins & Minerals"
-        ],
-        "calorie": "",
-        "additives": ""
-    },
-    {
-        "site": "https://thrivepetfoods.com",
-        "url": "https://thrivepetfoods.com/cats/thrive-reg-complete-100-tuna-vegetable-75g-tin",
-        "brand": "Thrive complete",
-        "title": "thrive® Complete 100% Ocean Fish - 75g Tin",
-        "image": "https://thrivepetfoods.com/media/catalog/product/cache/c969568634868e10608d26fb3bec9bf1/5/0/5023538102669_t1_1_1.jpg",
-        "analysis": [
-            "Analytical Constituents Crude protein 16%",
-            "Crude Oils & Fats 2%",
-            "Crude fibres 0.10%",
-            "Crude ash 1.5%",
-            "Moisture 80%. Nutritional Additives: Vitamin A 200 IU/100g",
-            "Vitamin D3 1.25 IU/100g",
-            "Manganese 0.2 mg/100g",
-            "Zinc 2.6mg/100g",
-            "Copper 0.135mg/100g",
-            "Iron 2mg/100g",
-            "Iodine 0.04mg/100"
-        ],
-        "ingredients": [
-            "Tuna 67.75%",
-            "Carrot 4%",
-            "Green Pea 4% in Tuna Stock",
-            "Vitamins & Minerals"
-        ],
-        "calorie": "",
-        "additives": ""
-    },
-    {
-        "site": "https://thrivepetfoods.com",
-        "url": "https://thrivepetfoods.com/cats/thrive-reg-complete-sardine-tin",
-        "brand": "Thrive complete",
-        "title": "thrive® Complete 100% Ocean Fish - 75g Tin",
-        "image": "https://thrivepetfoods.com/media/catalog/product/cache/c969568634868e10608d26fb3bec9bf1/5/0/5023538102645_t1_1.jpg",
-        "analysis": [
-            "Analytical Constituents Crude Protein 11.5%",
-            "Crude Oils & Fats 3%",
-            "Crude Ash 1%",
-            "Crude Fibres 0%",
-            "Moisture 81% Nutritional Supplements Made with Sardine and Mackerel – the only source of protein."
-        ],
-        "ingredients": [
-            "Sardine 37.5% and Mackerel 37.5% in Mackerel stock",
-            "Vitamins & Minerals"
-        ],
-        "calorie": "",
-        "additives": ""
+      "calorie": ""
     },
     {
         "site": "https://thrivepetfoods.com",
@@ -255,37 +55,36 @@
             "Sunflower Oil",
             "Vitamins & Minerals."
         ],
-        "calorie": "",
-        "additives": ""
+      "calorie": ""
     },
-    {
-        "site": "https://thrivepetfoods.com",
-        "url": "https://thrivepetfoods.com/cats/thriver-complete-100-chicken-and-chicken-liver-75g-tin-176",
-        "brand": "Thrive complete",
-        "title": "thrive® Complete 100% Tuna Fillet- 75g Tin",
-        "image": "https://thrivepetfoods.com/media/catalog/product/cache/c969568634868e10608d26fb3bec9bf1/5/0/5023538101907_t1.jpg",
-        "analysis": [
-            "Analytical Constituents Crude Protein 16%",
-            "Crude Oils & Fats 2%",
-            "Crude Ash 1.5%",
-            "Crude Fibres 0.1%",
-            "Moisture 80%",
-            "ME Kcal/100g 74.4 Nutritional Supplements Per 100g: Vitamin A 2800 IU",
-            "Vitamin D3 29 IU. Trace elements: Zinc 12mg",
-            "Iron 6mg",
-            "Manganese 1.4mg",
-            "Copper 0.6mg",
-            "Iodine 0.2mg",
-            "Taurine 0.5g. Mineral g/100g Dry Matter Tuna Fillet Calcium 0.90 Phosphorus 0.85 Ca/P ratio 1:1 Potassium 0.60 Sodium 0.74"
-        ],
+  {
+    "site": "https://thrivepetfoods.com",
+    "url": "https://thrivepetfoods.com/thriver-complete-100-chicken-and-chicken-liver-75g-tin-197",
+    "brand": "Thrive complete",
+    "title": "thrive® Complete 100% Chicken Breast & Turkey - 75g Tin",
+    "image": "https://thrivepetfoods.com/media/catalog/product/cache/c969568634868e10608d26fb3bec9bf1/5/0/5023538101662_t1.jpg",
+    "analysis": [
+      "Analytical Constituents Crude Protein 14.5%",
+      "Crude Oils & Fats 2%",
+      "Crude Ash 2%",
+      "Crude Fibres 0.1%",
+      "Moisture 81%",
+      "ME Kcal/100g 69.15 Nutritional Supplements Per 100g: Vitamin A 2800 IU",
+      "Vitamin D3 29 IU. Trace elements: Zinc 12mg",
+      "Iron 6mg",
+      "Manganese 1.4mg",
+      "Copper 0.6mg",
+      "Iodine 0.2mg",
+      "Taurine 0.5g. Mineral g/100g Dry Matter Chicken & Turkey Calcium 1.25 Phosphorus 1.07 Ca/P ratio 1:2:1 Potassium 0.60 Sodium 0.75"
+    ],
         "ingredients": [
-            "Tuna fillet (75%)",
-            "Tuna stock",
-            "Sunflower oil",
-            "Vitamins & Minerals."
+          "Chicken breast (70%)",
+          "Chicken stock",
+          "Turkey (5%)",
+          "Sunflower oil",
+          "Vitamins & Minerals."
         ],
-        "calorie": "",
-        "additives": ""
+    "calorie": ""
     },
     {
         "site": "https://thrivepetfoods.com",
@@ -314,37 +113,83 @@
             "Sunflower oil",
             "Vitamins & Minerals."
         ],
-        "calorie": "",
-        "additives": ""
+      "calorie": ""
     },
-    {
-        "site": "https://thrivepetfoods.com",
-        "url": "https://thrivepetfoods.com/thriver-complete-100-chicken-and-chicken-liver-75g-tin-197",
-        "brand": "Thrive complete",
-        "title": "thrive® Complete 100% Chicken Breast & Turkey - 75g Tin",
-        "image": "https://thrivepetfoods.com/media/catalog/product/cache/c969568634868e10608d26fb3bec9bf1/5/0/5023538101662_t1.jpg",
-        "analysis": [
-            "Analytical Constituents Crude Protein 14.5%",
-            "Crude Oils & Fats 2%",
-            "Crude Ash 2%",
-            "Crude Fibres 0.1%",
-            "Moisture 81%",
-            "ME Kcal/100g 69.15 Nutritional Supplements Per 100g: Vitamin A 2800 IU",
-            "Vitamin D3 29 IU. Trace elements: Zinc 12mg",
-            "Iron 6mg",
-            "Manganese 1.4mg",
-            "Copper 0.6mg",
-            "Iodine 0.2mg",
-            "Taurine 0.5g. Mineral g/100g Dry Matter Chicken & Turkey Calcium 1.25 Phosphorus 1.07 Ca/P ratio 1:2:1 Potassium 0.60 Sodium 0.75"
-        ],
-        "ingredients": [
-            "Chicken breast (70%)",
-            "Chicken stock",
-            "Turkey (5%)",
-            "Sunflower oil",
-            "Vitamins & Minerals."
-        ],
-        "calorie": "",
-        "additives": ""
-    }
+  {
+    "site": "https://thrivepetfoods.com",
+    "url": "https://thrivepetfoods.com/cats/thriver-complete-100-chicken-and-chicken-liver-75g-tin-176",
+    "brand": "Thrive complete",
+    "title": "thrive® Complete 100% Tuna Fillet- 75g Tin",
+    "image": "https://thrivepetfoods.com/media/catalog/product/cache/c969568634868e10608d26fb3bec9bf1/5/0/5023538101907_t1.jpg",
+    "analysis": [
+      "Analytical Constituents Crude Protein 16%",
+      "Crude Oils & Fats 2%",
+      "Crude Ash 1.5%",
+      "Crude Fibres 0.1%",
+      "Moisture 80%",
+      "ME Kcal/100g 74.4 Nutritional Supplements Per 100g: Vitamin A 2800 IU",
+      "Vitamin D3 29 IU. Trace elements: Zinc 12mg",
+      "Iron 6mg",
+      "Manganese 1.4mg",
+      "Copper 0.6mg",
+      "Iodine 0.2mg",
+      "Taurine 0.5g. Mineral g/100g Dry Matter Tuna Fillet Calcium 0.90 Phosphorus 0.85 Ca/P ratio 1:1 Potassium 0.60 Sodium 0.74"
+    ],
+    "ingredients": [
+      "Tuna fillet (75%)",
+      "Tuna stock",
+      "Sunflower oil",
+      "Vitamins & Minerals."
+    ],
+    "calorie": ""
+  },
+  {
+    "site": "https://thrivepetfoods.com",
+    "url": "https://thrivepetfoods.com/catalog/product/view/id/141/s/thriver-complete-100-chicken-and-chicken-liver-75g-tin/category/4/",
+    "brand": "Thrive complete",
+    "title": "Complete Chicken and Chicken Liver - Cats",
+    "image": "https://thrivepetfoods.com/media/catalog/product/cache/c969568634868e10608d26fb3bec9bf1/5/0/5023538101631_t1.jpg",
+    "analysis": [
+      "Analytical Constituents Crude Protein 16%",
+      "Crude Oils & Fats 2%",
+      "Crude Ash 1.5%",
+      "Crude Fibres 0.1%",
+      "Moisture 80%",
+      "ME Kcal/100g 74.4 Nutritional Supplements Per 100g: Vitamin A 2800 IU",
+      "Vitamin D3 29 IU",
+      "Copper 0.6mg",
+      "Iodine 0.2mg",
+      "Iron 6mg",
+      "Manganese 1.4mg",
+      "Zinc 12mg",
+      "Taurine 0.5g. Mineral g/100g Dry Matter Chicken & Liver Calcium 1.25 Phosphorus 1.16 Ca/P ratio 1:1 Potassium 0.60 Sodium 0.68"
+    ],
+    "ingredients": [
+      "Chicken breast (70%)",
+      "Chicken stock",
+      "Chicken Liver (5%)",
+      "Sunflower Oil",
+      "Vitamins & Minerals."
+    ],
+    "calorie": ""
+  },
+  {
+    "site": "https://thrivepetfoods.com",
+    "url": "https://thrivepetfoods.com/cats/thrive-reg-complete-sardine-tin",
+    "brand": "Thrive complete",
+    "title": "thrive® Complete 100% Ocean Fish - 75g Tin",
+    "image": "https://thrivepetfoods.com/media/catalog/product/cache/c969568634868e10608d26fb3bec9bf1/5/0/5023538102645_t1_1.jpg",
+    "analysis": [
+      "Analytical Constituents Crude Protein 11.5%",
+      "Crude Oils & Fats 3%",
+      "Crude Ash 1%",
+      "Crude Fibres 0%",
+      "Moisture 81% Nutritional Supplements Made with Sardine and Mackerel – the only source of protein."
+    ],
+    "ingredients": [
+      "Sardine 37.5% and Mackerel 37.5% in Mackerel stock",
+      "Vitamins & Minerals"
+    ],
+    "calorie": ""
+  }
 ]

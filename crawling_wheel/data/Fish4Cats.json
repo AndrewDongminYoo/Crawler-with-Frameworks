@@ -27,8 +27,7 @@
             "Dried Cranberries",
             "Minerals."
         ],
-        "calorie": "",
-        "additives": ""
+        "calorie": ""
     },
     {
         "site": "https://www.fish4dogs.com",
@@ -58,8 +57,7 @@
             "Dried Cranberries",
             "Minerals ."
         ],
-        "calorie": "",
-        "additives": ""
+        "calorie": ""
     },
     {
         "site": "https://www.fish4dogs.com",
@@ -89,8 +87,7 @@
             "Dried Cranberries",
             "Minerals"
         ],
-        "calorie": "",
-        "additives": ""
+        "calorie": ""
     },
     {
         "site": "https://www.fish4dogs.com",
@@ -98,15 +95,20 @@
         "brand": "Fish4Cats",
         "title": "Tuna Fillet with Squid Complementary Food | Fish4Cats",
         "image": "https://www.fish4dogs.com/pub/media/catalog/product/cache/d5d12983b1ef234cd43ac2c65efd64d5/p/r/product_cat_finest_wet_tuna_squid_1000x1000_4.jpg",
-        "analysis": "Crude Protein 12%, Crude Fats 0.1%, Crude Fibres 1%, Crude Ash 2%, Moisture 84.5%",
+        "analysis": [
+            "Crude Protein 12%",
+            "Crude Fats 0.1%",
+            "Crude Fibres 1%",
+            "Crude Ash 2%",
+            "Moisture 84.5%"
+        ],
         "ingredients": [
             "Tuna 65%",
             "Fish Broth 26%",
             "Squid 5%",
             "Rice 4%"
         ],
-        "calorie": "",
-        "additives": ""
+        "calorie": ""
     },
     {
         "site": "https://www.fish4dogs.com",
@@ -127,8 +129,7 @@
             "Cheese 4%",
             "Rice 4%."
         ],
-        "calorie": "",
-        "additives": ""
+        "calorie": ""
     },
     {
         "site": "https://www.fish4dogs.com",
@@ -149,8 +150,7 @@
             "Crab 4%",
             "Rice 4%"
         ],
-        "calorie": "",
-        "additives": ""
+        "calorie": ""
     },
     {
         "site": "https://www.fish4dogs.com",
@@ -171,7 +171,6 @@
             "Prawn 5%",
             "Rice 4%."
         ],
-        "calorie": "",
-        "additives": ""
+        "calorie": ""
     }
 ]

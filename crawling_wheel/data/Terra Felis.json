@@ -1,30 +1,80 @@
 [
     {
         "site": "https://www.terrafelis.com",
-        "url": "https://www.terrafelis.com/en-eu/beef-rabbit.html",
-        "brand": "Terra Fellis",
-        "title": "Terra Felis Adult Beef & Rabbit",
-        "image": "https://www.terrafelis.com/media/73/71/04/1616506367/TF_Multi_Rind_Kaninchen_80g_A2_EN_Shop.png",
+        "url": "https://www.terrafelis.com/en-eu/chicken.html",
+        "brand": "Terra Felis",
+        "title": "Terra Felis Adult Chicken",
+        "image": "https://www.terrafelis.com/media/21/58/58/1616506353/TF_Mono_Huhn_80g_A2_EN_Shop.png",
         "analysis": "",
         "ingredients": [
-            "rabbit meat (35 %)",
-            "Beef heart muscle meat (31 %)",
-            "beef lung (10 %)",
-            "beef liver (10 %)",
-            "beef muscle meat (4 %)",
-            "carrot (4 %)",
+            "Chicken heart (30 %)",
+            "chicken stomach (26 %)",
+            "chicken skin (14 %) chicken muscle meat (10 %)",
+            "chicken liver (10 %)",
+            "butternut squash (4 %)",
             "tomato powder",
             "rapeseed oil",
             "catnip*",
             "minerals *dried"
         ],
-        "calorie": "",
-        "additives": ""
+        "calorie": ""
+    },
+    {
+        "site": "https://www.terrafelis.com",
+        "url": "https://www.terrafelis.com/en-eu/rabbit.html",
+        "brand": "Terra Felis",
+        "title": "Terra Felis Adult Rabbit",
+        "image": "https://www.terrafelis.com/media/cd/97/bb/1616506344/TF_Mono_Kaninchen_80g_A2_EN_Shop.png",
+        "analysis": "",
+        "ingredients": [
+            "Rabbit meat (90 %)",
+            "butternut squash (4 %)",
+            "tomato powder",
+            "rapeseed oil",
+            "catnip*",
+            "minerals  *dried"
+        ],
+        "calorie": ""
+    },
+    {
+        "site": "https://www.terrafelis.com",
+        "url": "https://www.terrafelis.com/en-eu/salmon.html",
+        "brand": "Terra Felis",
+        "title": "Terra Felis Adult Salmon",
+        "image": "https://www.terrafelis.com/media/70/71/f6/1616506366/TF_Mono_Lachs_80g_A2_EN_Shop.png",
+        "analysis": "",
+        "ingredients": [
+            "Salmon fillet (90 %)",
+            "courgette (4 %)",
+            "tomato powder",
+            "catnip*  *dried"
+        ],
+        "calorie": ""
+    },
+    {
+        "site": "https://www.terrafelis.com",
+        "url": "https://www.terrafelis.com/en-eu/turkey.html",
+        "brand": "Terra Felis",
+        "title": "Terra Felis Adult Turkey",
+        "image": "https://www.terrafelis.com/media/fb/4d/42/1616506363/TF_Mono_Pute_80g_A2_EN_Shop.png",
+        "analysis": "",
+        "ingredients": [
+            "Turkey heart (49 %)",
+            "turkey liver (17 %)",
+            "turkey skin (14 %)",
+            "turkey muscle meat (10 %)",
+            "broccoli (4 %)",
+            "tomato powder",
+            "rapeseed oil",
+            "catnip*",
+            "minerals  *dried"
+        ],
+        "calorie": ""
     },
     {
         "site": "https://www.terrafelis.com",
         "url": "https://www.terrafelis.com/en-eu/beef.html",
-        "brand": "Terra Fellis",
+        "brand": "Terra Felis",
         "title": "Terra Felis Adult Beef",
         "image": "https://www.terrafelis.com/media/26/22/8e/1616506365/TF_Mono_Rind_80g_A2_EN_Shop.png",
         "analysis": "",
@@ -39,13 +89,12 @@
             "catnip*",
             "minerals  *dried"
         ],
-        "calorie": "",
-        "additives": ""
+        "calorie": ""
     },
     {
         "site": "https://www.terrafelis.com",
         "url": "https://www.terrafelis.com/en-eu/chicken-lamb.html",
-        "brand": "Terra Fellis",
+        "brand": "Terra Felis",
         "title": "Terra Felis Adult Chicken & Lamb",
         "image": "https://www.terrafelis.com/media/8e/50/b2/1616506366/TF_Multi_Huhn_Lamm_80g_A2_EN_Shop.png",
         "analysis": "",
@@ -61,13 +110,12 @@
             "catnip*",
             "minerals  *dried"
         ],
-        "calorie": "",
-        "additives": ""
+        "calorie": ""
     },
     {
         "site": "https://www.terrafelis.com",
         "url": "https://www.terrafelis.com/en-eu/chicken-turkey.html",
-        "brand": "Terra Fellis",
+        "brand": "Terra Felis",
         "title": "Terra Felis Adult Chicken & Turkey",
         "image": "https://www.terrafelis.com/media/ee/2e/85/1616506366/TF_Multi_Huhn_Pute_80g_A2_EN_Shop.png",
         "analysis": "",
@@ -84,34 +132,12 @@
             "catnip*",
             "minerals  *dried"
         ],
-        "calorie": "",
-        "additives": ""
-    },
-    {
-        "site": "https://www.terrafelis.com",
-        "url": "https://www.terrafelis.com/en-eu/chicken.html",
-        "brand": "Terra Fellis",
-        "title": "Terra Felis Adult Chicken",
-        "image": "https://www.terrafelis.com/media/21/58/58/1616506353/TF_Mono_Huhn_80g_A2_EN_Shop.png",
-        "analysis": "",
-        "ingredients": [
-            "Chicken heart (30 %)",
-            "chicken stomach (26 %)",
-            "chicken skin (14 %) chicken muscle meat (10 %)",
-            "chicken liver (10 %)",
-            "butternut squash (4 %)",
-            "tomato powder",
-            "rapeseed oil",
-            "catnip*",
-            "minerals *dried"
-        ],
-        "calorie": "",
-        "additives": ""
+        "calorie": ""
     },
     {
         "site": "https://www.terrafelis.com",
         "url": "https://www.terrafelis.com/en-eu/rabbit-turkey.html",
-        "brand": "Terra Fellis",
+        "brand": "Terra Felis",
         "title": "Terra Felis Adult Rabbit & Turkey",
         "image": "https://www.terrafelis.com/media/22/4f/18/1616506367/TF_Multi_Kaninchen_Pute_80g_A2_EN_Shop.png",
         "analysis": "",
@@ -126,31 +152,12 @@
             "catnip*",
             "minerals  *dried"
         ],
-        "calorie": "",
-        "additives": ""
-    },
-    {
-        "site": "https://www.terrafelis.com",
-        "url": "https://www.terrafelis.com/en-eu/rabbit.html",
-        "brand": "Terra Fellis",
-        "title": "Terra Felis Adult Rabbit",
-        "image": "https://www.terrafelis.com/media/cd/97/bb/1616506344/TF_Mono_Kaninchen_80g_A2_EN_Shop.png",
-        "analysis": "",
-        "ingredients": [
-            "Rabbit meat (90 %)",
-            "butternut squash (4 %)",
-            "tomato powder",
-            "rapeseed oil",
-            "catnip*",
-            "minerals  *dried"
-        ],
-        "calorie": "",
-        "additives": ""
+        "calorie": ""
     },
     {
         "site": "https://www.terrafelis.com",
         "url": "https://www.terrafelis.com/en-eu/salmon-chicken.html",
-        "brand": "Terra Fellis",
+        "brand": "Terra Felis",
         "title": "Terra Felis Adult Salmon & Chicken",
         "image": "https://www.terrafelis.com/media/33/31/d9/1616506366/TF_Multi_Lachs_Huhn_80g_A2_EN_Shop.png",
         "analysis": "",
@@ -163,44 +170,27 @@
             "tomato powder",
             "catnip*  *dried"
         ],
-        "calorie": "",
-        "additives": ""
+        "calorie": ""
     },
     {
         "site": "https://www.terrafelis.com",
-        "url": "https://www.terrafelis.com/en-eu/salmon.html",
-        "brand": "Terra Fellis",
-        "title": "Terra Felis Adult Salmon",
-        "image": "https://www.terrafelis.com/media/70/71/f6/1616506366/TF_Mono_Lachs_80g_A2_EN_Shop.png",
+        "url": "https://www.terrafelis.com/en-eu/beef-rabbit.html",
+        "brand": "Terra Felis",
+        "title": "Terra Felis Adult Beef & Rabbit",
+        "image": "https://www.terrafelis.com/media/73/71/04/1616506367/TF_Multi_Rind_Kaninchen_80g_A2_EN_Shop.png",
         "analysis": "",
         "ingredients": [
-            "Salmon fillet (90 %)",
-            "courgette (4 %)",
-            "tomato powder",
-            "catnip*  *dried"
-        ],
-        "calorie": "",
-        "additives": ""
-    },
-    {
-        "site": "https://www.terrafelis.com",
-        "url": "https://www.terrafelis.com/en-eu/turkey.html",
-        "brand": "Terra Fellis",
-        "title": "Terra Felis Adult Turkey",
-        "image": "https://www.terrafelis.com/media/fb/4d/42/1616506363/TF_Mono_Pute_80g_A2_EN_Shop.png",
-        "analysis": "",
-        "ingredients": [
-            "Turkey heart (49 %)",
-            "turkey liver (17 %)",
-            "turkey skin (14 %)",
-            "turkey muscle meat (10 %)",
-            "broccoli (4 %)",
+            "rabbit meat (35 %)",
+            "Beef heart muscle meat (31 %)",
+            "beef lung (10 %)",
+            "beef liver (10 %)",
+            "beef muscle meat (4 %)",
+            "carrot (4 %)",
             "tomato powder",
             "rapeseed oil",
             "catnip*",
-            "minerals  *dried"
+            "minerals *dried"
         ],
-        "calorie": "",
-        "additives": ""
+        "calorie": ""
     }
 ]

@@ -44,8 +44,7 @@
             "Marigold",
             "Aniseed & Fenugreek."
         ],
-        "calorie": "",
-        "additives": ""
+        "calorie": ""
     },
     {
         "site": "https://www.canagan.co.uk",
@@ -93,8 +92,7 @@
             "Cranberry",
             "Aniseed & Fenugreek"
         ],
-        "calorie": "",
-        "additives": ""
+      "calorie": ""
     },
     {
         "site": "https://www.canagan.co.uk",
@@ -138,8 +136,7 @@
             "Aniseed",
             "Fenugreek."
         ],
-        "calorie": "",
-        "additives": ""
+      "calorie": ""
     },
     {
         "site": "https://www.canagan.co.uk",
@@ -186,8 +183,7 @@
             "Marigold",
             "Aniseed & Fenugreek."
         ],
-        "calorie": "",
-        "additives": ""
+      "calorie": ""
     },
     {
         "site": "https://www.canagan.co.uk",
@@ -242,7 +238,6 @@
             "Aniseed",
             "Fenugreek."
         ],
-        "calorie": "",
-        "additives": ""
+      "calorie": ""
     }
 ]

@@ -72,8 +72,7 @@
             "Sodium Selenite",
             "Calcium Iodate."
         ],
-        "calorie": "401 Kcal/cup",
-        "additives": ""
+        "calorie": "401 Kcal/cup"
     },
     {
         "site": "https://bestbreed.com",
@@ -149,7 +148,6 @@
             "Sodium Selenite",
             "Calcium Iodate."
         ],
-        "calorie": "424 Kcal/cup",
-        "additives": ""
+      "calorie": "424 Kcal/cup"
     }
 ]

@@ -59,8 +59,7 @@
             "Folic Acid",
             "Chelated Calcium Iodate."
         ],
-        "calorie": "3900 Kcal/kg ME",
-        "additives": ""
+        "calorie": "3900 Kcal/kg ME"
     },
     {
         "site": "https://www.grandmamaes.com",
@@ -117,8 +116,7 @@
             "Folic Acid",
             "Calcium Iodate."
         ],
-        "calorie": "3525 Kcal/kg",
-        "additives": ""
+        "calorie": "3525 Kcal/kg"
     },
     {
         "site": "https://www.grandmamaes.com",
@@ -180,8 +178,7 @@
             "Sodium Selenite",
             "Chelated Calcium Iodate."
         ],
-        "calorie": "3700 Kcal/kg",
-        "additives": ""
+        "calorie": "3700 Kcal/kg"
     },
     {
         "site": "https://www.grandmamaes.com",
@@ -242,8 +239,7 @@
             "Folic Acid",
             "Calcium Iodate."
         ],
-        "calorie": "3820 KCAL/KG",
-        "additives": ""
+        "calorie": "3820 KCAL/KG"
     },
     {
         "site": "https://www.grandmamaes.com",
@@ -311,7 +307,6 @@
             "Sodium Selenite",
             "Calcium Iodate."
         ],
-        "calorie": "2950 Kcal/kg",
-        "additives": ""
+        "calorie": "2950 Kcal/kg"
     }
 ]

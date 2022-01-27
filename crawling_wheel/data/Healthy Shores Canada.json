@@ -6,110 +6,6 @@
         "title": "Cats - Wet Food - Healthy Shores",
         "image": "https://healthyshores.com/wp-content/uploads/2021/04/HS-Cat-Group-2-min.png",
         "analysis": [
-            "Crude protein: 11.0%",
-            "Crude Fat: 7.5%",
-            "Crude Fibre: 1.0%",
-            "Moisture:: 76%",
-            "Phosphorus: 0.3%",
-            "Ash: 2.0%"
-        ],
-        "ingredients": [
-            "Wild Pacific salmon",
-            "wild salmon broth",
-            "green peas",
-            "navy beans",
-            "lentils",
-            "flaxseed",
-            "sun-cured alfalfa",
-            "taurine",
-            "vitamins and minerals",
-            "agar gum",
-            "potassium chloride",
-            "herb mix",
-            "sodium chloride",
-            "choline chloride",
-            "yucca schidigera extract."
-        ],
-        "calorie": "",
-        "additives": ""
-    },
-    {
-        "site": "https://healthyshores.com",
-        "url": "https://healthyshores.com/cats-wet-food/",
-        "brand": "Healthy Shores Canada",
-        "title": "Cats - Wet Food - Healthy Shores",
-        "image": "https://healthyshores.com/wp-content/uploads/2021/04/HS-Cat-Group-2-min.png",
-        "analysis": [
-            "Crude protein: 13.0%",
-            "Crude Fat: 7.5%",
-            "Crude Fibre: 1.0%",
-            "Moisture:: 76%",
-            "Phosphorus: 0.3%",
-            "Ash: 2.5%"
-        ],
-        "ingredients": [
-            "Wild Albacore tuna",
-            "Albacore tuna broth",
-            "green peas",
-            "navy beans",
-            "lentils",
-            "flaxseed",
-            "sun-cured alfalfa",
-            "taurine",
-            "vitamins and minerals",
-            "agar gum",
-            "potassium chloride",
-            "tricalcium phosphate",
-            "herb mix",
-            "sodium chloride",
-            "choline chloride",
-            "yucca schidigera extract."
-        ],
-        "calorie": "",
-        "additives": ""
-    },
-    {
-        "site": "https://healthyshores.com",
-        "url": "https://healthyshores.com/cats-wet-food/",
-        "brand": "Healthy Shores Canada",
-        "title": "Cats - Wet Food - Healthy Shores",
-        "image": "https://healthyshores.com/wp-content/uploads/2021/04/HS-Cat-Group-2-min.png",
-        "analysis": [
-            "Crude protein: 11.0%",
-            "Crude Fat: 7.5%",
-            "Crude Fibre: 1.0%",
-            "Moisture:: 76%",
-            "Phosphorus: 0.3%",
-            "Ash: 2.5%"
-        ],
-        "ingredients": [
-            "Wild Pacific hake",
-            "hake broth",
-            "green peas",
-            "navy beans",
-            "lentils",
-            "flaxseed",
-            "sun-cured alfalfa",
-            "taurine",
-            "vitamins and minerals",
-            "agar gum",
-            "potassium chloride",
-            "tricalcium phosphate",
-            "herb mix",
-            "sodium chloride",
-            "choline chloride",
-            "yucca schidigera extract."
-        ],
-        "calorie": "",
-        "additives": ""
-    },
-    {
-        "site": "https://healthyshores.com",
-        "url": "https://healthyshores.com/cats-wet-food/",
-        "brand": "Healthy Shores Canada",
-        "title": "Cats - Wet Food - Healthy Shores",
-        "image": "https://healthyshores.com/wp-content/uploads/2021/04/HS-Cat-Group-2-min.png",
-        "analysis": [
             "Crude protein: 10.0%",
             "Crude Fat: 7.5%",
             "Crude Fibre: 1.0%",
@@ -135,7 +31,6 @@
             "choline chloride",
             "yucca schidigera extract."
         ],
-        "calorie": "",
-        "additives": ""
+        "calorie": ""
     }
 ]

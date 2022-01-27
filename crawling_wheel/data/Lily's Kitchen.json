@@ -18,8 +18,7 @@
             "Gravy",
             "Minerals."
         ],
-        "calorie": "90 kcal/100g",
-        "additives": ""
+        "calorie": "90 kcal/100g"
     },
     {
         "site": "https://www.lilyskitchen.co.uk",
@@ -43,8 +42,7 @@
             "Tapioca",
             "Tuna Oil."
         ],
-        "calorie": "78 kcal/100g",
-        "additives": ""
+        "calorie": "78 kcal/100g"
     },
     {
         "site": "https://www.lilyskitchen.co.uk",
@@ -66,8 +64,7 @@
             "Gravy",
             "Minerals."
         ],
-        "calorie": "82 kcal/100g",
-        "additives": ""
+        "calorie": "82 kcal/100g"
     },
     {
         "site": "https://www.lilyskitchen.co.uk",
@@ -91,7 +88,6 @@
             "Tapioca",
             "Tuna Oil."
         ],
-        "calorie": "81 kcal/100g",
-        "additives": ""
+        "calorie": "81 kcal/100g"
     }
 ]

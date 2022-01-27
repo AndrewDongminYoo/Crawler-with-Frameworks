@@ -45,8 +45,7 @@
         "calorie": [
             "66 kcal/2.8 oz. can",
             "128 kcal/5.5 oz. can"
-        ],
-        "additives": ""
+        ]
     },
     {
         "site": "https://tikipets.com",
@@ -95,8 +94,7 @@
         "calorie": [
             "59 kcal/2.8 oz. can",
             "116 kcal/5.5 oz. can"
-        ],
-        "additives": ""
+        ]
     },
     {
         "site": "https://tikipets.com",
@@ -145,8 +143,7 @@
         "calorie": [
             "59 kcal/2.8 oz. can",
             "114 kcal/5.5 oz. can"
-        ],
-        "additives": ""
+        ]
     },
     {
         "site": "https://tikipets.com",
@@ -195,8 +192,7 @@
         "calorie": [
             "61 kcal/2.8 oz. can",
             "120 kcal/5.5 oz. can"
-        ],
-        "additives": ""
+        ]
     },
     {
         "site": "https://tikipets.com",
@@ -245,8 +241,7 @@
         "calorie": [
             "59 kcal/2.8 oz. can",
             "116 kcal/5.5 oz. can"
-        ],
-        "additives": ""
+        ]
     },
     {
         "site": "https://tikipets.com",
@@ -293,9 +288,8 @@
             "vitamin D3 supplement"
         ],
         "calorie": [
-            " 66 kcal/2.8 oz. can",
-            "129 kcal/5.5 oz. can"
-        ],
-        "additives": ""
+          "66 kcal/2.8 oz. can",
+          "129 kcal/5.5 oz. can"
+        ]
     }
 ]

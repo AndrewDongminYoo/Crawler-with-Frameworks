@@ -1,16 +1,61 @@
-{
+[
+  {
     "site": "https://www.catological.com",
     "url": "https://www.catological.com/hi-tek-naturals-dry-cat-food-review/#",
     "brand": "Hi-tek Naturals",
     "title": "Hi-Tek Naturals Cat Food (Dry) Review And Nutrition Analysis",
     "image": "https://catological.b-cdn.net/wp-content/uploads/2018/09/hiteknaturalsdry-1.jpg",
     "analysis": [
-        "Protein Fat Carbs",
-        "Guaranteed Analysis 38% 18% NA",
-        "Dry Matter Basis 43% 20% 23%",
-        "Calorie Weighted Basis 37% 43% 20%"
+      "Protein Fat Carbs",
+      "Guaranteed Analysis 38% 18% NA",
+      "Dry Matter Basis 43% 20% 23%",
+      "Calorie Weighted Basis 37% 43% 20%"
     ],
-    "ingredients": "Chicken Meal, Peas, Chicken Fat (Preserved with Mixed Tocopherols), Sweet Potatoes, Menhaden Fish Meal, Chick Peas, Flax Seed, Potatoes, Natural Flavor, Lentils, Tomato Pomace, Taurine, Dried Chicory Root, Alfalfa Leaf, Carrots, Cranberries, Herring Oil (Preserved with Mixed Tocopherols), Tomatoes, Vitamin E Supplement, Niacin Supplement, D-Calcium Pantothenate, Vitamin B-12 Supplement, Vitamin A Acetate, Vitamin D-3 Supplement, D-Biotin, Riboflavin Supplement, Thiamine Mononitrate, Pyridoxine Hydrochloride, Menadione Sodium Bisulfite, Folic Acid, Lactobacillus Acidophilus, Iron Proteinate, Zinc Proteinate, Manganese Proteinate, Copper Proteinate, Sodium Selinite, Cobalt Protenate, Ethylenediamine Dyhydriodide, Dried Lactobacillus Acidophilus, Enterococcus Faecium, Dreied Spergillus Niger, Dried Trichoderma Longibrachiatum, Dried Basillus Subtilis Fermentation Products.",
-    "calorie": "",
-    "additives": ""
-}
+    "ingredients": [
+      "Chicken Meal",
+      "Peas",
+      "Chicken Fat (Preserved with Mixed Tocopherols)",
+      "Sweet Potatoes",
+      "Menhaden Fish Meal",
+      "Chick Peas",
+      "Flax Seed",
+      "Potatoes",
+      "Natural Flavor",
+      "Lentils",
+      "Tomato Pomace",
+      "Taurine",
+      "Dried Chicory Root",
+      "Alfalfa Leaf",
+      "Carrots",
+      "Cranberries",
+      "Herring Oil (Preserved with Mixed Tocopherols)",
+      "Tomatoes",
+      "Vitamin E Supplement",
+      "Niacin Supplement",
+      "D-Calcium Pantothenate",
+      "Vitamin B-12 Supplement",
+      "Vitamin A Acetate",
+      "Vitamin D-3 Supplement",
+      "D-Biotin",
+      "Riboflavin Supplement",
+      "Thiamine Mononitrate",
+      "Pyridoxine Hydrochloride",
+      "Menadione Sodium Bisulfite",
+      "Folic Acid",
+      "Lactobacillus Acidophilus",
+      "Iron Proteinate",
+      "Zinc Proteinate",
+      "Manganese Proteinate",
+      "Copper Proteinate",
+      "Sodium Selinite",
+      "Cobalt Protenate",
+      "Ethylenediamine Dyhydriodide",
+      "Dried Lactobacillus Acidophilus",
+      "Enterococcus Faecium",
+      "Dreied Spergillus Niger",
+      "Dried Trichoderma Longibrachiatum",
+      "Dried Basillus Subtilis Fermentation Products."
+    ],
+    "calorie": ""
+  }
+]

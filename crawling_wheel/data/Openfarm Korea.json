@@ -61,8 +61,7 @@
             "Folic Acid",
             "Rosemary Extract"
         ],
-        "calorie": "3840 kcal/kg",
-        "additives": ""
+        "calorie": "3840 kcal/kg"
     },
     {
         "site": "https://openfarmpet.com",
@@ -126,8 +125,7 @@
             "Tricalcium Phosphate",
             "Rosemary Extract"
         ],
-        "calorie": "3840 kcal/kg",
-        "additives": ""
+        "calorie": "3840 kcal/kg"
     },
     {
         "site": "https://openfarmpet.com",
@@ -190,8 +188,7 @@
             "Folic Acid",
             "Rosemary Extract"
         ],
-        "calorie": "3840 kcal/kg",
-        "additives": ""
+        "calorie": "3840 kcal/kg"
     },
     {
         "site": "https://openfarmpet.com",
@@ -253,7 +250,6 @@
             "Taurine",
             "Rosemary Extract"
         ],
-        "calorie": "3840 kcal/kg",
-        "additives": ""
+        "calorie": "3840 kcal/kg"
     }
 ]

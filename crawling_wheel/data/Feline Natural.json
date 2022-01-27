@@ -1,53 +1,6 @@
 [
     {
         "site": "https://www.felinenatural.com",
-        "url": "https://www.felinenatural.com/collections/all/products/cans-beef-hoki?variant=40442844217508",
-        "brand": "Feline Natural",
-        "title": "Beef & Hoki Cans, Cat Food – Feline Natural",
-        "image": "https://cdn.shopify.com/s/files/1/0578/6956/6116/products/Feline-Natural-Cat-Food-Cans-Beef-Hoki-85g-3oz_d359a3fa-9308-473c-9f36-bf6293f4b4de.png?v=1630395935",
-        "analysis": [
-            "Minimum Crude Protein 9.1%",
-            "Minimum Crude Fat 6.3%",
-            "Maximum Crude Fibre 1.6%",
-            "Maximum Moisture 81%",
-            "Minimum Taurine 0.3%",
-            "Calcium 0.4%",
-            "Phosphorous 0.2%",
-            "Potassium 0.3%",
-            "Sodium 0.1%",
-            "Chloride 0.1%",
-            "Magnesium 0.02%",
-            "Omega 3's 0.2%"
-        ],
-        "ingredients": [
-            "Beef Heart",
-            "Water Sufficient for Processing",
-            "Hoki",
-            "Beef",
-            "Beef Kidney",
-            "Beef Liver",
-            "Beef Blood",
-            "Sunflower Oil",
-            "Flaxseed Flakes",
-            "New Zealand Green Mussel",
-            "Calcium Carbonate",
-            "Dipotassium Phosphate",
-            "Dried Kelp",
-            "Taurine",
-            "Vitamin E Supplement",
-            "Magnesium Oxide",
-            "Zinc Proteinate",
-            "Copper Proteinate",
-            "Manganese Proteinate",
-            "Thiamine Mononitrate",
-            "Vitamin D3 Supplement",
-            "Folic Acid"
-        ],
-        "calorie": "945 kcal/kg",
-        "additives": ""
-    },
-    {
-        "site": "https://www.felinenatural.com",
         "url": "https://www.felinenatural.com/collections/all/products/cans-beef?variant=40450393342116",
         "brand": "Feline Natural",
         "title": "Beef Cans, Cat Food – Feline Natural",
@@ -92,38 +45,41 @@
             "Folic Acid",
             "Vitamin D3 Supplement"
         ],
-        "calorie": "1123 kcal/kg",
-        "additives": ""
+        "calorie": "1123 kcal/kg"
     },
     {
         "site": "https://www.felinenatural.com",
-        "url": "https://www.felinenatural.com/collections/all/products/cans-chicken-lamb?variant=40441324109988",
+        "url": "https://www.felinenatural.com/collections/all/products/cans-beef-hoki?variant=40442844217508",
         "brand": "Feline Natural",
-        "title": "Chicken & Lamb Cans, Cat Food – Feline Natural",
-        "image": "https://cdn.shopify.com/s/files/1/0578/6956/6116/products/Feline-Natural-Cat-Food-Cans-Chicken-Lamb-85g-3oz_914a7fa7-02f8-4411-9a4f-5b7c762b848c.png?v=1630396019",
+        "title": "Beef & Hoki Cans, Cat Food – Feline Natural",
+        "image": "https://cdn.shopify.com/s/files/1/0578/6956/6116/products/Feline-Natural-Cat-Food-Cans-Beef-Hoki-85g-3oz_d359a3fa-9308-473c-9f36-bf6293f4b4de.png?v=1630395935",
         "analysis": [
-            "Minimum Crude Protein 9.6%",
-            "Minimum Crude Fat 5%",
+            "Minimum Crude Protein 9.1%",
+            "Minimum Crude Fat 6.3%",
             "Maximum Crude Fibre 1.6%",
-            "Maximum Moisture 82.5%",
-            "Minimum Taurine 0.1%",
-            "Calcium 0.6%",
-            "Phosphorous 0.4%",
-            "Potassium 0.2%",
+            "Maximum Moisture 81%",
+            "Minimum Taurine 0.3%",
+            "Calcium 0.4%",
+            "Phosphorous 0.2%",
+            "Potassium 0.3%",
             "Sodium 0.1%",
             "Chloride 0.1%",
             "Magnesium 0.02%",
-            "Omega 3's 0.1%"
+            "Omega 3's 0.2%"
         ],
         "ingredients": [
-            "Chicken",
-            "Lamb Heart",
+            "Beef Heart",
             "Water Sufficient for Processing",
-            "Lamb Kidney",
-            "Lamb Liver",
-            "Lamb Blood",
+            "Hoki",
+            "Beef",
+            "Beef Kidney",
+            "Beef Liver",
+            "Beef Blood",
+            "Sunflower Oil",
             "Flaxseed Flakes",
             "New Zealand Green Mussel",
+            "Calcium Carbonate",
+            "Dipotassium Phosphate",
             "Dried Kelp",
             "Taurine",
             "Vitamin E Supplement",
@@ -135,51 +91,7 @@
             "Vitamin D3 Supplement",
             "Folic Acid"
         ],
-        "calorie": "895 kcal/kg",
-        "additives": ""
-    },
-    {
-        "site": "https://www.felinenatural.com",
-        "url": "https://www.felinenatural.com/collections/all/products/cans-chicken-venison?variant=40442946093220",
-        "brand": "Feline Natural",
-        "title": "Chicken & Venison Cans, Cat Food – Feline Natural",
-        "image": "https://cdn.shopify.com/s/files/1/0578/6956/6116/products/Feline-Natural-Cat-Food-Cans-Chicken-Venison-85g-3oz.png?v=1630396061",
-        "analysis": [
-            "Minimum Crude Protein 9%",
-            "Minimum Crude Fat 5%",
-            "Maximum Crude Fibre 1.6%",
-            "Maximum Moisture 82.5%",
-            "Minimum Taurine 0.1%",
-            "Calcium 0.7%",
-            "Phosphorous 0.4%",
-            "Potassium 0.2%",
-            "Sodium 0.1%",
-            "Chloride 0.1%",
-            "Magnesium 0.02%",
-            "Omega 3's 0.1%"
-        ],
-        "ingredients": [
-            "Chicken",
-            "Venison",
-            "Water Sufficient for Processing",
-            "Venison Kidney",
-            "Venison Liver",
-            "Venison Blood",
-            "Flaxseed Flakes",
-            "New Zealand Green Mussel",
-            "Dried Kelp",
-            "Taurine",
-            "Vitamin E Supplement",
-            "Magnesium Oxide",
-            "Zinc Proteinate",
-            "Copper Proteinate",
-            "Manganese Proteinate",
-            "Thiamine Mononitrate",
-            "Vitamin D3 Supplement",
-            "Folic Acid"
-        ],
-        "calorie": "862 kcal/kg",
-        "additives": ""
+        "calorie": "945 kcal/kg"
     },
     {
         "site": "https://www.felinenatural.com",
@@ -221,40 +133,37 @@
             "Folic Acid",
             "Vitamin D3 Supplement"
         ],
-        "calorie": "1013 kcal/kg",
-        "additives": ""
+        "calorie": "1013 kcal/kg"
     },
     {
         "site": "https://www.felinenatural.com",
-        "url": "https://www.felinenatural.com/collections/all/products/cans-lamb-king-salmon?variant=40443103871140",
+        "url": "https://www.felinenatural.com/collections/all/products/cans-chicken-lamb?variant=40441324109988",
         "brand": "Feline Natural",
-        "title": "Lamb & King Salmon Cans, Cat Food – Feline Natural",
-        "image": "https://cdn.shopify.com/s/files/1/0578/6956/6116/products/Feline-Natural-Cat-Food-Cans-Lamb-King-Salmon-85g-3oz_e303ab5e-b399-4bc7-af48-6da48e68447f.png?v=1630396140",
+        "title": "Chicken & Lamb Cans, Cat Food – Feline Natural",
+        "image": "https://cdn.shopify.com/s/files/1/0578/6956/6116/products/Feline-Natural-Cat-Food-Cans-Chicken-Lamb-85g-3oz_914a7fa7-02f8-4411-9a4f-5b7c762b848c.png?v=1630396019",
         "analysis": [
-            "Minimum Crude Protein 8.5%",
-            "Minimum Crude Fat 7.5%",
+            "Minimum Crude Protein 9.6%",
+            "Minimum Crude Fat 5%",
             "Maximum Crude Fibre 1.6%",
-            "Maximum Moisture 81%",
+            "Maximum Moisture 82.5%",
             "Minimum Taurine 0.1%",
-            "Calcium 0.3%",
-            "Phosphorous 0.2%",
+            "Calcium 0.6%",
+            "Phosphorous 0.4%",
             "Potassium 0.2%",
             "Sodium 0.1%",
             "Chloride 0.1%",
             "Magnesium 0.02%",
-            "Omega 3's 0.4%"
+            "Omega 3's 0.1%"
         ],
         "ingredients": [
+            "Chicken",
             "Lamb Heart",
             "Water Sufficient for Processing",
-            "Salmon",
             "Lamb Kidney",
             "Lamb Liver",
             "Lamb Blood",
             "Flaxseed Flakes",
             "New Zealand Green Mussel",
-            "Calcium Carbonate",
-            "Dipotassium Phosphate",
             "Dried Kelp",
             "Taurine",
             "Vitamin E Supplement",
@@ -266,8 +175,49 @@
             "Vitamin D3 Supplement",
             "Folic Acid"
         ],
-        "calorie": "1060 kcal/kg",
-        "additives": ""
+        "calorie": "895 kcal/kg"
+    },
+    {
+        "site": "https://www.felinenatural.com",
+        "url": "https://www.felinenatural.com/collections/all/products/cans-chicken-venison?variant=40442946093220",
+        "brand": "Feline Natural",
+        "title": "Chicken & Venison Cans, Cat Food – Feline Natural",
+        "image": "https://cdn.shopify.com/s/files/1/0578/6956/6116/products/Feline-Natural-Cat-Food-Cans-Chicken-Venison-85g-3oz.png?v=1630396061",
+        "analysis": [
+            "Minimum Crude Protein 9%",
+            "Minimum Crude Fat 5%",
+            "Maximum Crude Fibre 1.6%",
+            "Maximum Moisture 82.5%",
+            "Minimum Taurine 0.1%",
+            "Calcium 0.7%",
+            "Phosphorous 0.4%",
+            "Potassium 0.2%",
+            "Sodium 0.1%",
+            "Chloride 0.1%",
+            "Magnesium 0.02%",
+            "Omega 3's 0.1%"
+        ],
+        "ingredients": [
+            "Chicken",
+            "Venison",
+            "Water Sufficient for Processing",
+            "Venison Kidney",
+            "Venison Liver",
+            "Venison Blood",
+            "Flaxseed Flakes",
+            "New Zealand Green Mussel",
+            "Dried Kelp",
+            "Taurine",
+            "Vitamin E Supplement",
+            "Magnesium Oxide",
+            "Zinc Proteinate",
+            "Copper Proteinate",
+            "Manganese Proteinate",
+            "Thiamine Mononitrate",
+            "Vitamin D3 Supplement",
+            "Folic Acid"
+        ],
+        "calorie": "862 kcal/kg"
     },
     {
         "site": "https://www.felinenatural.com",
@@ -315,8 +265,51 @@
             "Folic Acid",
             "Vitamin D3 Supplement"
         ],
-        "calorie": "1211 kcal/kg",
-        "additives": ""
+        "calorie": "1211 kcal/kg"
+    },
+    {
+        "site": "https://www.felinenatural.com",
+        "url": "https://www.felinenatural.com/collections/all/products/cans-lamb-king-salmon?variant=40443103871140",
+        "brand": "Feline Natural",
+        "title": "Lamb & King Salmon Cans, Cat Food – Feline Natural",
+        "image": "https://cdn.shopify.com/s/files/1/0578/6956/6116/products/Feline-Natural-Cat-Food-Cans-Lamb-King-Salmon-85g-3oz_e303ab5e-b399-4bc7-af48-6da48e68447f.png?v=1630396140",
+        "analysis": [
+            "Minimum Crude Protein 8.5%",
+            "Minimum Crude Fat 7.5%",
+            "Maximum Crude Fibre 1.6%",
+            "Maximum Moisture 81%",
+            "Minimum Taurine 0.1%",
+            "Calcium 0.3%",
+            "Phosphorous 0.2%",
+            "Potassium 0.2%",
+            "Sodium 0.1%",
+            "Chloride 0.1%",
+            "Magnesium 0.02%",
+            "Omega 3's 0.4%"
+        ],
+        "ingredients": [
+            "Lamb Heart",
+            "Water Sufficient for Processing",
+            "Salmon",
+            "Lamb Kidney",
+            "Lamb Liver",
+            "Lamb Blood",
+            "Flaxseed Flakes",
+            "New Zealand Green Mussel",
+            "Calcium Carbonate",
+            "Dipotassium Phosphate",
+            "Dried Kelp",
+            "Taurine",
+            "Vitamin E Supplement",
+            "Magnesium Oxide",
+            "Zinc Proteinate",
+            "Copper Proteinate",
+            "Manganese Proteinate",
+            "Thiamine Mononitrate",
+            "Vitamin D3 Supplement",
+            "Folic Acid"
+        ],
+        "calorie": "1060 kcal/kg"
     },
     {
         "site": "https://www.felinenatural.com",
@@ -361,8 +354,7 @@
             "Vitamin D3 Supplement",
             "Folic Acid"
         ],
-        "calorie": "4762 kcal/kg",
-        "additives": ""
+        "calorie": "4762 kcal/kg"
     },
     {
         "site": "https://www.felinenatural.com",
@@ -403,8 +395,7 @@
             "Vitamin D3 Supplement",
             "Folic Acid"
         ],
-        "calorie": "4857 kcal/kg",
-        "additives": ""
+        "calorie": "4857 kcal/kg"
     },
     {
         "site": "https://www.felinenatural.com",
@@ -447,7 +438,6 @@
             "Vitamin D3 Supplement",
             "Folic Acid"
         ],
-        "calorie": "5197 kcal/kg",
-        "additives": ""
+        "calorie": "5197 kcal/kg"
     }
 ]

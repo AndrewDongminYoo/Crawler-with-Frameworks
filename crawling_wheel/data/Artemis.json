@@ -68,8 +68,7 @@
             "Vitamin D Supplement",
             "Folic Acid."
         ],
-        "calorie": "3,922 kcal/kg",
-        "additives": ""
+        "calorie": "3,922 kcal/kg"
     },
     {
         "site": "https://artemiscompany.com",
@@ -148,8 +147,7 @@
             "Blueberries",
             "Cranberries"
         ],
-        "calorie": "3,720 kcal/kg",
-        "additives": ""
+      "calorie": "3,720 kcal/kg"
     },
     {
         "site": "https://artemiscompany.com",
@@ -208,7 +206,6 @@
             "vitamin D supplement",
             "folic acid."
         ],
-        "calorie": "3,861 kcal/kg",
-        "additives": ""
+      "calorie": "3,861 kcal/kg"
     }
 ]

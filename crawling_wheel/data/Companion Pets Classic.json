@@ -36,8 +36,7 @@
             "Dried Carrot",
             "Antioxidants"
         ],
-        "calorie": "",
-        "additives": ""
+        "calorie": ""
     },
     {
         "site": "https://www.perfectcompanion.com.tw",
@@ -76,8 +75,7 @@
             "Squid by-Product Meal",
             "Antioxidants"
         ],
-        "calorie": "",
-        "additives": ""
+      "calorie": ""
     },
     {
         "site": "https://www.perfectcompanion.com.tw",
@@ -116,8 +114,7 @@
             "Squid by-Product Meal",
             "Antioxidants"
         ],
-        "calorie": "",
-        "additives": ""
+      "calorie": ""
     },
     {
         "site": "https://www.perfectcompanion.com.tw",
@@ -150,8 +147,7 @@
             "Squid by-Product Meal",
             "Antioxidants"
         ],
-        "calorie": "",
-        "additives": ""
+      "calorie": ""
     },
     {
         "site": "https://www.perfectcompanion.com.tw",
@@ -190,8 +186,7 @@
             "Squid by-Product Meal",
             "Antioxidants"
         ],
-        "calorie": "",
-        "additives": ""
+      "calorie": ""
     },
     {
         "site": "https://www.perfectcompanion.com.tw",
@@ -229,7 +224,6 @@
             "Taurine",
             "Antioxidants"
         ],
-        "calorie": "",
-        "additives": ""
+      "calorie": ""
     }
 ]

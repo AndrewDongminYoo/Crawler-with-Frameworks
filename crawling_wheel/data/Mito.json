@@ -1,18 +1,33 @@
-{
+[
+  {
     "site": "https://www.cagatay.com",
     "url": "https://www.cagatay.com/mito-mitomix-adult-cat-food/",
     "brand": "Mito",
     "title": "Mito Cat Food - Çağatay Pet Food / Mito & MitoMix Adult Cat Food",
     "image": "https://www.cagatay.com/wp-content/uploads/2020/01/mito-product-family-thumbnail.jpg",
     "analysis": [
-        "Protein 29%",
-        "Fat Content 13%",
-        "Crude Ash 8.5%",
-        "Crude Fibre 2.50%",
-        "Omega-6 3,960%",
-        "Omega-3 0,715%"
+      "Protein 29%",
+      "Fat Content 13%",
+      "Crude Ash 8.5%",
+      "Crude Fibre 2.50%",
+      "Omega-6 3,960%",
+      "Omega-3 0,715%"
     ],
-    "ingredients": "Dehydrated Chicken Protein (30%), Wheat Flour (22%), Baldo Rice (16%), Maize (10%), Refined Chicken Oil (8%), Anchovy Meal (8%), Krill Meal (3%), Brewers Dried Yeast, Hydrolized Chicken Liver, Anchovy Oil, Nucleotide Yeast Protein, Minerals, Prebiotic Mannan Oligo Saccarides.",
-    "calorie": "",
-    "additives": ""
-}
+    "ingredients": [
+      "Dehydrated Chicken Protein (30%)",
+      "Wheat Flour (22%)",
+      "Baldo Rice (16%)",
+      "Maize (10%)",
+      "Refined Chicken Oil (8%)",
+      "Anchovy Meal (8%)",
+      "Krill Meal (3%)",
+      "Brewers Dried Yeast",
+      "Hydrolized Chicken Liver",
+      "Anchovy Oil",
+      "Nucleotide Yeast Protein",
+      "Minerals",
+      "Prebiotic Mannan Oligo Saccarides."
+    ],
+    "calorie": ""
+  }
+]

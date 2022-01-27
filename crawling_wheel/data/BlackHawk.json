@@ -49,8 +49,7 @@
             "Emu Oil",
             "Essential Vitamins and Minerals"
         ],
-        "calorie": "Kcal/kg 3,650",
-        "additives": ""
+        "calorie": "Kcal/kg 3,650"
     },
     {
         "site": "https://blackhawkpetcare.com",
@@ -105,8 +104,7 @@
             "Emu Oil",
             "Essential Vitamins and Minerals"
         ],
-        "calorie": "Kcal/kg 3,680",
-        "additives": ""
+        "calorie": "Kcal/kg 3,680"
     },
     {
         "site": "https://blackhawkpetcare.com",
@@ -125,28 +123,7 @@
             "Chicken, peas, chicken broth, plasma protein, egg powder, essential vitamins and minerals*, flaxseed oil, sunflower oil, guar gum, salt, caramel, xanthan gum, taurine, emu oil, glucosamine HCI, chondroitin sulphate, cranberries, blueberries, coconut, pumpkin, dried kelp.",
             "* A blend of essential vitamins, minerals and amino acids to support cat health."
         ],
-        "calorie": "",
-        "additives": ""
-    },
-    {
-        "site": "https://blackhawkpetcare.com",
-        "url": "https://blackhawkpetcare.com/au/cat-food/grain-free-cat-food/wet-cat-food-chicken-with-beef-and-lamb",
-        "brand": "BlackHawk",
-        "title": "Healthy Dog & Cat Food | Every Ingredient Matters | Black Hawk",
-        "image": "https://blackhawkpetcare.com/media/1914/bhc504-black-hawk-grain-free-adult-wet-cat-chicken-with-beef-and-lamb-85g-600x961px.png?anchor=center&mode=crop&width=300&rnd=132314631690000000",
-        "analysis": [
-            "Crude Protein 8.50%",
-            "Crude Fat 5.00%",
-            "Crude Fibre 1.00%",
-            "Ash 2.0%",
-            "Moisture 80%"
-        ],
-        "ingredients": [
-            "Chicken, chicken broth, peas, beef, plasma protein, lamb, carrots, green beans, egg powder, essential vitamins and minerals*, flaxseed oil, sunflower oil, guar gum, salt, caramel, xanthan gum, taurine, emu oil, glucosamine HCI, chondroitin sulphate, cranberries, blueberries, coconut, pumpkin, dried kelp.",
-            "* A blend of essential vitamins, minerals and amino acids to support cat health."
-        ],
-        "calorie": "",
-        "additives": ""
+        "calorie": ""
     },
     {
         "site": "https://blackhawkpetcare.com",
@@ -165,8 +142,7 @@
             "Chicken, chicken broth, peas, lamb, plasma protein, egg powder, essential vitamins and minerals*, flaxseed oil, sunflower oil, guar gum, carrageenan, salt, locust bean gum, caramel, xanthan gum, taurine, emu oil, glucosamine HCI, chondroitin sulphate, cranberries, blueberries, coconut, pumpkin, dried kelp.",
             "* A blend of essential vitamins, minerals and amino acids to support cat health."
         ],
-        "calorie": "",
-        "additives": ""
+        "calorie": ""
     },
     {
         "site": "https://blackhawkpetcare.com",
@@ -185,28 +161,7 @@
             "Chicken, peas, chicken broth, plasma protein, egg powder, essential vitamins and minerals*, flaxseed oil, sunflower oil, guar gum, salt, caramel, xanthan gum, taurine, emu oil, glucosamine HCI, chondroitin sulphate, cranberries, blueberries, coconut, pumpkin, dried kelp.",
             "* A blend of essential vitamins, minerals and amino acids to support cat health."
         ],
-        "calorie": "",
-        "additives": ""
-    },
-    {
-        "site": "https://blackhawkpetcare.com",
-        "url": "https://blackhawkpetcare.com/au/cat-food/grain-free-cat-food/wet-cat-food-chicken-with-tuna-and-ocean-fish",
-        "brand": "BlackHawk",
-        "title": "Healthy Dog & Cat Food | Every Ingredient Matters | Black Hawk",
-        "image": "https://blackhawkpetcare.com/media/1913/bhc503-black-hawk-grain-free-adult-wet-cat-chicken-with-tuna-and-ocean-fish-85g-600x961px.png?anchor=center&mode=crop&width=300&rnd=132314631690000000",
-        "analysis": [
-            "Crude Protein 7.50%",
-            "Crude Fat 5.00%",
-            "Crude Fibre 1.00%",
-            "Ash 2.0%",
-            "Moisture 80%"
-        ],
-        "ingredients": [
-            "Chicken, peas, chicken broth, plasma protein, tuna, ocean fish, egg powder, fish oil, essential vitamins and minerals*, guar gum, salt, caramel, xanthan gum, taurine, emu oil, glucosamine HCI, chondroitin sulphate, cranberries, blueberries, coconut, pumpkin, dried kelp.",
-            "* A blend of essential vitamins, minerals and amino acids to support cat health."
-        ],
-        "calorie": "",
-        "additives": ""
+        "calorie": ""
     },
     {
         "site": "https://blackhawkpetcare.com",
@@ -224,8 +179,7 @@
             "Chicken, peas, chicken broth, plasma protein, salmon, ocean fish, egg powder, fibre, essential vitamins and minerals*, guar gum, carrageenan, salt, locust bean gum, caramel, xanthan gum, taurine, emu oil, fish oil, glucosamine HCI, chondroitin sulphate, cranberries, blueberries, coconut, pumpkin, dried kelp.",
             "* A blend of essential vitamins, minerals and amino acids to support cat health."
         ],
-        "calorie": "",
-        "additives": ""
+        "calorie": ""
     },
     {
         "site": "https://blackhawkpetcare.com",
@@ -244,7 +198,25 @@
             "Chicken, peas, chicken broth, plasma protein, egg powder, essential vitamins and minerals*, flaxseed oil, sunflower oil, guar gum, salt, caramel, xanthan gum, taurine, emu oil, glucosamine HCI, chondroitin sulphate, cranberries, blueberries, coconut, pumpkin, dried kelp.",
             "* A blend of essential vitamins, minerals and amino acids to support cat health."
         ],
-        "calorie": "",
-        "additives": ""
+        "calorie": ""
+    },
+    {
+        "site": "https://blackhawkpetcare.com",
+        "url": "https://blackhawkpetcare.com/au/cat-food/grain-free-cat-food/wet-cat-food-chicken-with-tuna-and-ocean-fish",
+        "brand": "BlackHawk",
+        "title": "Healthy Dog & Cat Food | Every Ingredient Matters | Black Hawk",
+        "image": "https://blackhawkpetcare.com/media/1913/bhc503-black-hawk-grain-free-adult-wet-cat-chicken-with-tuna-and-ocean-fish-85g-600x961px.png?anchor=center&mode=crop&width=300&rnd=132314631690000000",
+        "analysis": [
+            "Crude Protein 7.50%",
+            "Crude Fat 5.00%",
+            "Crude Fibre 1.00%",
+            "Ash 2.0%",
+            "Moisture 80%"
+        ],
+        "ingredients": [
+            "Chicken, peas, chicken broth, plasma protein, tuna, ocean fish, egg powder, fish oil, essential vitamins and minerals*, guar gum, salt, caramel, xanthan gum, taurine, emu oil, glucosamine HCI, chondroitin sulphate, cranberries, blueberries, coconut, pumpkin, dried kelp.",
+            "* A blend of essential vitamins, minerals and amino acids to support cat health."
+        ],
+        "calorie": ""
     }
 ]

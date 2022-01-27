@@ -53,8 +53,7 @@
             "vitamin D3 supplement",
             "folic acid."
         ],
-        "calorie": "3,728 kcal/kg",
-        "additives": ""
+        "calorie": "3,728 kcal/kg"
     },
     {
         "site": "https://www.diamondpet.com",
@@ -120,7 +119,6 @@
             "vitamin D3 supplement",
             "folic acid."
         ],
-        "calorie": "3,080 kcal/kg",
-        "additives": ""
+      "calorie": "3,080 kcal/kg"
     }
 ]

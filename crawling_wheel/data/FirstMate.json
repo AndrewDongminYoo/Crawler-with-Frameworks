@@ -30,8 +30,7 @@
             "Taurine",
             "Kale"
         ],
-        "calorie": "",
-        "additives": ""
+        "calorie": ""
     },
     {
         "site": "https://firstmate.com",
@@ -69,8 +68,7 @@
             "Kale",
             "Rosemary extract"
         ],
-        "calorie": "3430 kcal/kg",
-        "additives": ""
+        "calorie": "3430 kcal/kg"
     },
     {
         "site": "https://firstmate.com",
@@ -103,8 +101,7 @@
             "Taurine",
             "Kale"
         ],
-        "calorie": "",
-        "additives": ""
+        "calorie": ""
     },
     {
         "site": "https://firstmate.com",
@@ -144,8 +141,7 @@
             "Kale",
             "Rosemary extract"
         ],
-        "calorie": "3530 kcal/kg",
-        "additives": ""
+        "calorie": "3530 kcal/kg"
     },
     {
         "site": "https://firstmate.com",
@@ -179,8 +175,7 @@
             "Taurine",
             "Rosemary extract"
         ],
-        "calorie": "3700 kcal/kg",
-        "additives": ""
+        "calorie": "3700 kcal/kg"
     },
     {
         "site": "https://firstmate.com",
@@ -208,7 +203,6 @@
             "Taurine",
             "Kale"
         ],
-        "calorie": "",
-        "additives": ""
+        "calorie": ""
     }
 ]

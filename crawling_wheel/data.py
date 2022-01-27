@@ -125,9 +125,32 @@ result["Stella and Chewys"] = ['https://www.stellaandchewys.com/cat-food/absolut
 result["Steve's Real Food"] = ['https://www.stevesrealfood.com/frozen-raw-dog-food/freeze-dried-pet-food/beef-dry-diet/', 'https://www.stevesrealfood.com/frozen-raw-dog-food/freeze-dried-pet-food/chicken-dry-diet/', 'https://www.stevesrealfood.com/frozen-raw-dog-food/freeze-dried-pet-food/turkey-dry-diet/', 'https://www.stevesrealfood.com/frozen-raw-dog-food/freeze-dried-pet-food/turducken-dry-diet/', 'https://www.stevesrealfood.com/frozen-raw-dog-food/freeze-dried-pet-food/pork-dry-diet/']
 result["Supreme Source"] = ['https://www.supremesourcepet.com/whitefish-meal-and-salmon-meal-recipe/', 'https://www.supremesourcepet.com/chicken-meal-turkey-meal-recipe-cat-food/']
 result["Taste of the Wild"] = ['https://www.tasteofthewildpetfood.com/taste-of-the-wild/grain-free/cat-formulas/canyon-river-feline-recipe-with-trout-smoked-salmon/', 'https://www.tasteofthewildpetfood.com/prey/cat-formulas/turkey-formula-cats/']
-result["Tender and True"] = ['https://tenderandtruepet.com/chicken-liver-organic-dry-cat-food/', 'https://tenderandtruepet.com/org-turkey-liver-dry-cat-food/', 'https://tenderandtruepet.com/chicken-and-brown-rice-dry-cat-food/', 'https://tenderandtruepet.com/catfoodrecipes/turkey_and_brown_rice_dry/', 'https://tenderandtruepet.com/catfoodrecipes/salmon-sweet-potato-recipe-dry-cat-food/', 'https://tenderandtruepet.com/catfoodrecipes/ocean_whitefish_dry/']
-result["Terra Fellis"] = ['https://www.terrafelis.com/en-eu/chicken.html', 'https://www.terrafelis.com/en-eu/rabbit.html', 'https://www.terrafelis.com/en-eu/salmon.html', 'https://www.terrafelis.com/en-eu/turkey.html', 'https://www.terrafelis.com/en-eu/beef.html', 'https://www.terrafelis.com/en-eu/chicken-lamb.html', 'https://www.terrafelis.com/en-eu/chicken-turkey.html', 'https://www.terrafelis.com/en-eu/rabbit-turkey.html', 'https://www.terrafelis.com/en-eu/salmon-chicken.html', 'https://www.terrafelis.com/en-eu/beef-rabbit.html']
-result["Thrive complete"] = ['https://thrivepetfoods.com/cats/complete-beef-with-vegetables', 'https://thrivepetfoods.com/cats/complete-chicken-with-vegetable', 'https://thrivepetfoods.com/cats/complete-chicken-and-chicken-liver-with-vegetables', 'https://thrivepetfoods.com/cats/thrive-reg-complete-sardine-tin', 'https://thrivepetfoods.com/cats/thrive-reg-complete-100-tuna-shrimp-squid-75g-tin', 'https://thrivepetfoods.com/cats/thrive-reg-complete-100-tuna-vegetable-75g-tin', 'https://thrivepetfoods.com/cats/thriver-complete-100-chicken-and-chicken-liver-75g-tin-175', 'https://thrivepetfoods.com/thriver-complete-100-chicken-and-chicken-liver-75g-tin-197', 'https://thrivepetfoods.com/cats/thrive-reg-complete-100-ocean-fish-75g-tin-troy', 'https://thrivepetfoods.com/thrive-reg-complete-100-tuna-and-salmon-75g-tin-troy', 'https://thrivepetfoods.com/cats/thriver-complete-100-chicken-and-chicken-liver-75g-tin-176', 'https://thrivepetfoods.com/catalog/product/view/id/141/s/thriver-complete-100-chicken-and-chicken-liver-75g-tin/category/4/']
+result["Tender and True"] = ['https://tenderandtruepet.com/chicken-liver-organic-dry-cat-food/',
+                             'https://tenderandtruepet.com/org-turkey-liver-dry-cat-food/',
+                             'https://tenderandtruepet.com/chicken-and-brown-rice-dry-cat-food/',
+                             'https://tenderandtruepet.com/catfoodrecipes/turkey_and_brown_rice_dry/',
+                             'https://tenderandtruepet.com/catfoodrecipes/salmon-sweet-potato-recipe-dry-cat-food/',
+                             'https://tenderandtruepet.com/catfoodrecipes/ocean_whitefish_dry/']
+result["Terra Felis"] = ['https://www.terrafelis.com/en-eu/chicken.html',
+                         'https://www.terrafelis.com/en-eu/rabbit.html', 'https://www.terrafelis.com/en-eu/salmon.html',
+                         'https://www.terrafelis.com/en-eu/turkey.html', 'https://www.terrafelis.com/en-eu/beef.html',
+                         'https://www.terrafelis.com/en-eu/chicken-lamb.html',
+                         'https://www.terrafelis.com/en-eu/chicken-turkey.html',
+                         'https://www.terrafelis.com/en-eu/rabbit-turkey.html',
+                         'https://www.terrafelis.com/en-eu/salmon-chicken.html',
+                         'https://www.terrafelis.com/en-eu/beef-rabbit.html']
+result["Thrive complete"] = ['https://thrivepetfoods.com/cats/complete-beef-with-vegetables',
+                             'https://thrivepetfoods.com/cats/complete-chicken-with-vegetable',
+                             'https://thrivepetfoods.com/cats/complete-chicken-and-chicken-liver-with-vegetables',
+                             'https://thrivepetfoods.com/cats/thrive-reg-complete-sardine-tin',
+                             'https://thrivepetfoods.com/cats/thrive-reg-complete-100-tuna-shrimp-squid-75g-tin',
+                             'https://thrivepetfoods.com/cats/thrive-reg-complete-100-tuna-vegetable-75g-tin',
+                             'https://thrivepetfoods.com/cats/thriver-complete-100-chicken-and-chicken-liver-75g-tin-175',
+                             'https://thrivepetfoods.com/thriver-complete-100-chicken-and-chicken-liver-75g-tin-197',
+                             'https://thrivepetfoods.com/cats/thrive-reg-complete-100-ocean-fish-75g-tin-troy',
+                             'https://thrivepetfoods.com/thrive-reg-complete-100-tuna-and-salmon-75g-tin-troy',
+                             'https://thrivepetfoods.com/cats/thriver-complete-100-chicken-and-chicken-liver-75g-tin-176',
+                             'https://thrivepetfoods.com/catalog/product/view/id/141/s/thriver-complete-100-chicken-and-chicken-liver-75g-tin/category/4/']
 result["TIKI CATS"] = ['https://tikipets.com/product/tiki-cat/after-dark/chicken-2/', 'https://tikipets.com/product/tiki-cat/after-dark/chicken-beef/', 'https://tikipets.com/product/tiki-cat/after-dark/chicken-duck/', 'https://tikipets.com/product/tiki-cat/after-dark/chicken-lamb/', 'https://tikipets.com/product/tiki-cat/after-dark/chicken-pork/', 'https://tikipets.com/product/tiki-cat/after-dark/chicken-quail/']
 result["TOMOJO Pet Food"] = ['https://en.tomojo.co/collections/croquettes-et-friandises-pour-chat/products/croquettes-chat-adulte-au-sorgho', 'https://en.tomojo.co/collections/croquettes-et-friandises-pour-chat/products/croquettes-chat-sans-cereales-adulte']
 result["TOTAL ALIMENTOS EQUILIBRIO"] = ['https://www.eu.equilibrio-petfood.com/wp-content/uploads/2019/11/cat-kitten.pdf', 'https://www.eu.equilibrio-petfood.com/wp-content/uploads/2019/11/cat-adult.pdf', 'https://www.eu.equilibrio-petfood.com/wp-content/uploads/2019/11/cat-sterilised.pdf', 'https://www.eu.equilibrio-petfood.com/wp-content/uploads/2019/11/cat-longevity.pdf', 'https://www.eu.equilibrio-petfood.com/wp-content/uploads/2019/11/cat-preference.pdf', 'https://www.eu.equilibrio-petfood.com/wp-content/uploads/2019/11/cat-reduce-calorie.pdf', 'https://www.eu.equilibrio-petfood.com/wp-content/uploads/2019/11/cat-long-hair.pdf']

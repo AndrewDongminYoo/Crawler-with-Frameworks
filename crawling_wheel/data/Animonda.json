@@ -17,8 +17,7 @@
             "calamari (4 %)",
             "shrimps (3 %)."
         ],
-        "calorie": "100g in MJ: 0,27",
-        "additives": ""
+        "calorie": "100g in MJ: 0,27"
     },
     {
         "site": "https://www.animonda.de",
@@ -37,8 +36,7 @@
             "White tuna (40 %)",
             "beef (6 %)."
         ],
-        "calorie": "100g in MJ: 0,27",
-        "additives": ""
+      "calorie": "100g in MJ: 0,27"
     },
     {
         "site": "https://www.animonda.de",
@@ -57,8 +55,7 @@
             "White tuna (40 %)",
             "red snapper (6 %)."
         ],
-        "calorie": "100g in MJ: 0,27",
-        "additives": ""
+      "calorie": "100g in MJ: 0,27"
     },
     {
         "site": "https://www.animonda.de",
@@ -77,8 +74,7 @@
             "White tuna (45 %)",
             "shrimps (8 %)."
         ],
-        "calorie": "100g in MJ: 0,27",
-        "additives": ""
+      "calorie": "100g in MJ: 0,27"
     },
     {
         "site": "https://www.animonda.de",
@@ -100,8 +96,7 @@
             "Meat and animal derivatives (25 % poultry, beef, pork)",
             "minerals."
         ],
-        "calorie": "100g in MJ: 0,4",
-        "additives": ""
+      "calorie": "100g in MJ: 0,4"
     },
     {
         "site": "https://www.animonda.de",
@@ -124,8 +119,7 @@
             "fish and fish derivatives (7.5 % salmon)",
             "minerals."
         ],
-        "calorie": "100g in MJ: 0,4",
-        "additives": ""
+      "calorie": "100g in MJ: 0,4"
     },
     {
         "site": "https://www.animonda.de",
@@ -147,7 +141,6 @@
             "Meat and animal derivatives (30 % beef, poultry, pork)",
             "minerals."
         ],
-        "calorie": "100g in MJ: 0,4",
-        "additives": ""
+      "calorie": "100g in MJ: 0,4"
     }
 ]

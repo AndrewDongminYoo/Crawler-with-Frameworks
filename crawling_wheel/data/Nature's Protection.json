@@ -35,8 +35,7 @@
             "yucca extract",
             "marigold meal."
         ],
-        "calorie": "",
-        "additives": ""
+        "calorie": ""
     },
     {
         "site": "https://www.naturesprotection.eu",
@@ -75,8 +74,7 @@
             "yucca extract",
             "marigold meal. "
         ],
-        "calorie": "",
-        "additives": ""
+      "calorie": ""
     },
     {
         "site": "https://www.naturesprotection.eu",
@@ -97,104 +95,101 @@
             "omega 6 – 1.92%."
         ],
         "ingredients": "",
-        "calorie": "",
-        "additives": ""
+      "calorie": ""
     },
-    {
-        "site": "https://www.naturesprotection.eu",
-        "url": "https://www.naturesprotection.eu/en/catalogue/product/199/long-hair/",
-        "brand": "Nature's Protection",
-        "title": "Long Hair - Cat and dog feeds | Natures protection | Superior care",
-        "image": "",
-        "analysis": "Analytical constituents: crude protein – 30% crude oils and fats – 20% crude ash – 7% crude fibres – 4.1% calcium – 1.1% phosphorus – 0.9% potassium – 0.7% sodium – 0.5% Omega-3 fatty acids – 0.43% Omega-6 fatty acids – 3.8%.",
+  {
+    "site": "https://www.naturesprotection.eu",
+    "url": "https://www.naturesprotection.eu/en/catalogue/product/199/long-hair/",
+    "brand": "Nature's Protection",
+    "title": "Long Hair - Cat and dog feeds | Natures protection | Superior care",
+    "image": "https://images.app.goo.gl/Nbu8aWgHGgcxGxHh9",
+    "analysis": [
+      "crude protein: 30% crude oils and fats: 20% crude ash: 7% crude fibres: 4.1% calcium: 1.1% phosphorus: 0.9% potassium: 0.7% sodium: 0.5% Omega-3 fatty acids: 0.43% Omega-6 fatty acids: 3.8%"
+    ],
+    "ingredients": "",
+    "calorie": ""
+  },
+  {
+    "site": "https://www.naturesprotection.eu",
+    "url": "https://www.naturesprotection.eu/en/catalogue/product/196/large-cat/",
+    "brand": "Nature's Protection",
+    "title": "Large Cat - Cat and dog feeds | Natures protection | Superior care",
+    "image": "https://images.app.goo.gl/VKwriQwgEWMNrfYz9",
+    "analysis": [
+      "Analytical constituents: crude protein – 31%",
+      "crude oils and fats – 17%",
+      "crude ash – 8.5%",
+      "crude fibres – 5.2%",
+      "calcium – 1.7%",
+      "phosphorus – 0.85%",
+      "magnesium - 0.08% omega 3 – 0.32%",
+      "omega 6 – 3.57%."
+    ],
         "ingredients": "",
-        "calorie": "",
-        "additives": ""
+    "calorie": ""
     },
-    {
-        "site": "https://www.naturesprotection.eu",
-        "url": "https://www.naturesprotection.eu/en/catalogue/product/196/large-cat/",
-        "brand": "Nature's Protection",
-        "title": "Large Cat - Cat and dog feeds | Natures protection | Superior care",
-        "image": "",
-        "analysis": [
-            "Analytical constituents: crude protein – 31%",
-            "crude oils and fats – 17%",
-            "crude ash – 8.5%",
-            "crude fibres – 5.2%",
-            "calcium – 1.7%",
-            "phosphorus – 0.85%",
-            "magnesium - 0.08% omega 3 – 0.32%",
-            "omega 6 – 3.57%."
-        ],
+  {
+    "site": "https://www.naturesprotection.eu",
+    "url": "https://www.naturesprotection.eu/en/catalogue/product/202/urinary-formula-s/",
+    "brand": "Nature's Protection",
+    "title": "Urinary Formula-S - Cat and dog feeds | Natures protection | Superior care",
+    "image": "https://images.app.goo.gl/sa7v5hbTP6F7deeaA",
+    "analysis": [
+      "Analytical constituents: crude protein – 31.5%",
+      "crude oils and fats – 15%",
+      "crude ash – 6.5%",
+      "crude fibres – 2.8%",
+      "calcium – 1%",
+      "phosphorus – 0.7%",
+      "potassium – 1%",
+      "sodium – 0.5%",
+      "magnesium – 0.05%",
+      "Omega-3 fatty acids – 0.39%",
+      "Omega-6 fatty acids – 2.49%. "
+    ],
         "ingredients": "",
-        "calorie": "",
-        "additives": ""
+    "calorie": ""
     },
-    {
-        "site": "https://www.naturesprotection.eu",
-        "url": "https://www.naturesprotection.eu/en/catalogue/product/202/urinary-formula-s/",
-        "brand": "Nature's Protection",
-        "title": "Urinary Formula-S - Cat and dog feeds | Natures protection | Superior care",
-        "image": "",
-        "analysis": [
-            "Analytical constituents: crude protein – 31.5%",
-            " crude oils and fats – 15%",
-            " crude ash – 6.5%",
-            " crude fibres – 2.8%",
-            " calcium – 1%",
-            " phosphorus – 0.7%",
-            " potassium – 1%",
-            " sodium – 0.5%",
-            " magnesium – 0.05%",
-            " Omega-3 fatty acids – 0.39%",
-            " Omega-6 fatty acids – 2.49%. "
-        ],
+  {
+    "site": "https://www.naturesprotection.eu",
+    "url": "https://www.naturesprotection.eu/en/catalogue/product/201/sensitive-digestion/",
+    "brand": "Nature's Protection",
+    "title": "Sensitive Digestion - Cat and dog feeds | Natures protection | Superior care",
+    "image": "https://images.app.goo.gl/aAVuhCchSwSYxyBh8",
+    "analysis": [
+      "Analytical constituents: crude protein – 32%",
+      "crude oils and fats – 20%",
+      "crude ash – 8.4%",
+      "crude fibres – 2.4%",
+      "calcium – 1.4%",
+      "phosphorus – 1%",
+      "potassium – 0.7%",
+      "sodium – 0.4%",
+      "Omega-3 fatty acids – 0.38%",
+      "Omega-6 fatty acids – 2.72%. "
+    ],
         "ingredients": "",
-        "calorie": "",
-        "additives": ""
+    "calorie": ""
     },
-    {
-        "site": "https://www.naturesprotection.eu",
-        "url": "https://www.naturesprotection.eu/en/catalogue/product/201/sensitive-digestion/",
-        "brand": "Nature's Protection",
-        "title": "Sensitive Digestion - Cat and dog feeds | Natures protection | Superior care",
-        "image": "",
-        "analysis": [
-            "Analytical constituents: crude protein – 32%",
-            " crude oils and fats – 20%",
-            " crude ash – 8.4%",
-            " crude fibres – 2.4%",
-            " calcium – 1.4%",
-            " phosphorus – 1%",
-            " potassium – 0.7%",
-            " sodium – 0.4%",
-            " Omega-3 fatty acids – 0.38%",
-            " Omega-6 fatty acids – 2.72%. "
-        ],
-        "ingredients": "",
-        "calorie": "",
-        "additives": ""
-    },
-    {
-        "site": "https://www.naturesprotection.eu",
-        "url": "https://www.naturesprotection.eu/en/catalogue/product/200/senior-cat/",
-        "brand": "Nature's Protection",
-        "title": "Senior Cat - Cat and dog feeds | Natures protection | Superior care",
-        "image": "",
-        "analysis": [
-            "Analytical constituents: crude protein – 30%",
-            " crude fibres – 2.1%",
-            " crude fat – 15%",
-            " crude ash – 6.5%",
-            " calcium – 0.85%",
-            " phosphorus – 0.7%",
-            " potassium – 0.7%",
-            " sodium – 0.3%",
-            " magnesium – 0.06%",
-            " Omega-3 fatty acids – 0.63%",
-            " Omega-6 fatty acids – 2.60%. "
-        ],
+  {
+    "site": "https://www.naturesprotection.eu",
+    "url": "https://www.naturesprotection.eu/en/catalogue/product/200/senior-cat/",
+    "brand": "Nature's Protection",
+    "title": "Senior Cat - Cat and dog feeds | Natures protection | Superior care",
+    "image": "https://images.app.goo.gl/YoWxegXqJjEZn3TEA",
+    "analysis": [
+      "Analytical constituents: crude protein – 30%",
+      "crude fibres – 2.1%",
+      "crude fat – 15%",
+      "crude ash – 6.5%",
+      "calcium – 0.85%",
+      "phosphorus – 0.7%",
+      "potassium – 0.7%",
+      "sodium – 0.3%",
+      "magnesium – 0.06%",
+      "Omega-3 fatty acids – 0.63%",
+      "Omega-6 fatty acids – 2.60%. "
+    ],
         "ingredients": [
             "poultry meat 37% (dried and finely ground)",
             "rice",
@@ -214,29 +209,27 @@
             "marigold meal",
             "chondroitin sulphate (100 mg/kg).  "
         ],
-        "calorie": "",
-        "additives": ""
+    "calorie": ""
     },
-    {
-        "site": "https://www.naturesprotection.eu",
-        "url": "https://www.naturesprotection.eu/en/catalogue/product/305/white-cat/",
-        "brand": "Nature's Protection",
-        "title": "White Cat - Cat and dog feeds | Natures protection | Superior care",
-        "image": "",
-        "analysis": [
-            "Analytical constituents: crude protein – 33%",
-            "crude oil and fats – 18%",
-            "crude ash – 7.5%",
-            "crude fibres – 3%",
-            "calcium – 1.1%",
-            "phosphorus – 0.9%",
-            "potassium – 0.7%",
-            "sodium – 0.5%",
-            "omega 3 – 0.22%",
+  {
+    "site": "https://www.naturesprotection.eu",
+    "url": "https://www.naturesprotection.eu/en/catalogue/product/305/white-cat/",
+    "brand": "Nature's Protection",
+    "title": "White Cat - Cat and dog feeds | Natures protection | Superior care",
+    "image": "https://images.app.goo.gl/xEzzusLU8FxwkyaZA",
+    "analysis": [
+      "Analytical constituents: crude protein – 33%",
+      "crude oil and fats – 18%",
+      "crude ash – 7.5%",
+      "crude fibres – 3%",
+      "calcium – 1.1%",
+      "phosphorus – 0.9%",
+      "potassium – 0.7%",
+      "sodium – 0.5%",
+      "omega 3 – 0.22%",
             "omega 6 – 1.98%.    "
         ],
         "ingredients": "",
-        "calorie": "",
-        "additives": ""
+    "calorie": ""
     }
 ]

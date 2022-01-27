@@ -40,8 +40,7 @@
             "Minerals",
             "Probiotics."
         ],
-        "calorie": "",
-        "additives": ""
+        "calorie": ""
     },
     {
         "site": "https://www.earthbornholisticpetfood.com",
@@ -86,7 +85,6 @@
             "Minerals",
             "Probiotics."
         ],
-        "calorie": "3,800/kg",
-        "additives": ""
+      "calorie": "3,800/kg"
     }
 ]

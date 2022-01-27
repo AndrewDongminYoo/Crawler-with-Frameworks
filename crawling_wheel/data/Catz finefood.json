@@ -1,15 +1,78 @@
 [
-    {
-        "site": "https://www.petsnature.de",
-        "url": "https://www.petsnature.de/katzen-shop/brands-by-pets-nature/catz-finefood-classic-kitten/2300/catz-finefood-classic-kitten-n0-03-gefluegel-85g?c=729",
-        "brand": "Catz finefood",
-        "title": "catz finefood Classic Kitten N° 03 Geflügel 85g | Pets Nature Online-Shop",
-        "image": "https://www.petsnature.de/media/image/d8/a0/4e/008899_cff_kitten_no3_gefluegel_85g_front_72dpi_1500px.png",
-        "analysis": [
-            "Rohprotein 11 %",
-            "Fettgehalt 5.9 %",
-            "Rohasche 2.2 %",
-            "Rohfaser 0.5 %",
+  {
+    "site": "https://www.petsnature.de",
+    "url": "https://www.petsnature.de/katzen-shop/nassfutter-fuer-katzen/catz-finefood-purrrr/catz-finefood-purrrr-375400g/1349/catz-finefood-purrrr-n0-107-kaenguru-400g?c=729",
+    "brand": "Catz finefood",
+    "title": "catz finefood Purrrr N° 107 - Känguru 400g | Pets Nature Online-Shop",
+    "image": "https://www.petsnature.de/media/image/4f/7f/25/01406630_cff_purrr_no107_kaenguru_400g_front_72dpi_1500px.jpg",
+    "analysis": [
+      "Rohprotein 10.9%",
+      "Fettgehalt 4.5%",
+      "Rohasche 2.5%",
+      "Rohfaser 0.4%",
+      "Feuchtigkeit 79%"
+    ],
+    "ingredients": [
+      "Zusammensetzung: Känguru 70% (bestehend aus Herzen, Muskelfleisch, Leber)",
+      "Kängurusud 28;8%",
+      "Mineralstoffe 1%",
+      "Borretschöl 0.2%"
+    ],
+    "calorie": "Umsetzbare Energie: 98,52kcal/100g"
+  },
+  {
+    "site": "https://www.petsnature.de",
+    "url": "https://www.petsnature.de/katzen-shop/nassfutter-fuer-katzen/catz-finefood-purrrr/catz-finefood-purrrr-375400g/1347/catz-finefood-purrrr-n0-103-huhn-400g?c=729",
+    "brand": "Catz finefood",
+    "title": "catz finefood Purrrr N° 103 - Huhn 400g | Pets Nature Online-Shop",
+    "image": "https://www.petsnature.de/media/image/fb/44/18/01406616_cff_purrr_no103_huhn_400g_front_72dpi_1500px.jpg",
+    "analysis": [
+      "Rohprotein 10.2%",
+      "Fettgehalt 5.2%",
+      "Rohasche 2.45%",
+      "Rohfaser 0.4%",
+      "Feuchtigkeit 80%"
+    ],
+    "ingredients": [
+      "Zusammensetzung: Huhn 70% (bestehend aus Herzen, Muskelfleisch, Leber, Mägen, Hälsen)",
+      "Hühnersud 28;8%",
+      "Mineralstoffe 1%",
+      "Macadamianussöl 0.2%"
+    ],
+    "calorie": "Umsetzbare Energie: 94,45kcal/100g"
+  },
+  {
+    "site": "https://www.petsnature.de",
+    "url": "https://www.petsnature.de/katzen-shop/nassfutter-fuer-katzen/catz-finefood-purrrr/catz-finefood-purrrr-375400g/1350/catz-finefood-purrrr-n0-109-wildschwein-400g?c=729",
+    "brand": "Catz finefood",
+    "title": "catz finefood Purrrr N° 109 - Wildschwein 400g | Pets Nature Online-Shop",
+    "image": "https://www.petsnature.de/media/image/19/f2/3f/01406647_cff_purrr_no109_wildschwein_400g_front_72dpi_1500px.jpg",
+    "analysis": [
+      "Rohprotein 10.5%",
+      "Fettgehalt 6.5%",
+      "Rohasche 2.8%",
+      "Rohfaser 0.4%",
+      "Feuchtigkeit 77%"
+    ],
+    "ingredients": [
+      "Zusammensetzung: Wildschwein 70 %",
+      "Wildschweinsud 28.8 %",
+      "Mineralstoffe 1%",
+      "Traubenkernöl 0.2%"
+    ],
+    "calorie": "Umsetzbare Energie: 97,31kcal/100g"
+  },
+  {
+    "site": "https://www.petsnature.de",
+    "url": "https://www.petsnature.de/katzen-shop/brands-by-pets-nature/catz-finefood-classic-kitten/2300/catz-finefood-classic-kitten-n0-03-gefluegel-85g?c=729",
+    "brand": "Catz finefood",
+    "title": "catz finefood Classic Kitten N° 03 Geflügel 85g | Pets Nature Online-Shop",
+    "image": "https://www.petsnature.de/media/image/d8/a0/4e/008899_cff_kitten_no3_gefluegel_85g_front_72dpi_1500px.png",
+    "analysis": [
+      "Rohprotein 11 %",
+      "Fettgehalt 5.9 %",
+      "Rohasche 2.2 %",
+      "Rohfaser 0.5 %",
             "Feuchtigkeit 80 %"
         ],
         "ingredients": [
@@ -22,8 +85,7 @@
             "Eierschalenmehl 0.1 %",
             "Ringelblume 0.1 %"
         ],
-        "calorie": "",
-        "additives": ""
+    "calorie": ""
     },
     {
         "site": "https://www.petsnature.de",
@@ -47,8 +109,7 @@
             "Chiasamen 0.2 %",
             "Nachtkerzenöl 0.2 %"
         ],
-        "calorie": "95,45 kcal/100g",
-        "additives": ""
+      "calorie": "95,45 kcal/100g"
     },
     {
         "site": "https://www.petsnature.de",
@@ -73,8 +134,7 @@
             "Chiasamen 0.2 %",
             "Lachsöl 0.2 %"
         ],
-        "calorie": "95,37 kcal/100g",
-        "additives": ""
+      "calorie": "95,37 kcal/100g"
     },
     {
         "site": "https://www.petsnature.de",
@@ -99,8 +159,7 @@
             "Chiasamen 0.2 %",
             "Borretschöl 0.2 %"
         ],
-        "calorie": "92,31 kcal/100g",
-        "additives": ""
+      "calorie": "92,31 kcal/100g"
     },
     {
         "site": "https://www.petsnature.de",
@@ -125,8 +184,7 @@
             "Chiasamen 0.2 %",
             "Sonnenblumenöl 0.2 %"
         ],
-        "calorie": "97,64 kcal/100g",
-        "additives": ""
+      "calorie": "97,64 kcal/100g"
     },
     {
         "site": "https://www.petsnature.de",
@@ -151,73 +209,6 @@
             "Chiasamen 0.2 %",
             "Hanföl 0.2 %"
         ],
-        "calorie": "96,65 kcal/ 100g",
-        "additives": ""
-    },
-    {
-        "site": "https://www.petsnature.de",
-        "url": "https://www.petsnature.de/katzen-shop/nassfutter-fuer-katzen/catz-finefood-purrrr/catz-finefood-purrrr-375400g/1347/catz-finefood-purrrr-n0-103-huhn-400g?c=729",
-        "brand": "Catz finefood",
-        "title": "catz finefood Purrrr N° 103 - Huhn 400g | Pets Nature Online-Shop",
-        "image": "https://www.petsnature.de/media/image/fb/44/18/01406616_cff_purrr_no103_huhn_400g_front_72dpi_1500px.jpg",
-        "analysis": [
-            "Rohprotein 10.2%",
-            "Fettgehalt 5.2%",
-            "Rohasche 2.45%",
-            "Rohfaser 0.4%",
-            "Feuchtigkeit 80%"
-        ],
-        "ingredients": [
-            "Zusammensetzung: Huhn 70% (bestehend aus Herzen, Muskelfleisch, Leber, Mägen, Hälsen)",
-            "Hühnersud 28;8%",
-            "Mineralstoffe 1%",
-            "Macadamianussöl 0.2%"
-        ],
-        "calorie": "Umsetzbare Energie: 94,45kcal/100g",
-        "additives": ""
-    },
-    {
-        "site": "https://www.petsnature.de",
-        "url": "https://www.petsnature.de/katzen-shop/nassfutter-fuer-katzen/catz-finefood-purrrr/catz-finefood-purrrr-375400g/1349/catz-finefood-purrrr-n0-107-kaenguru-400g?c=729",
-        "brand": "Catz finefood",
-        "title": "catz finefood Purrrr N° 107 - Känguru 400g | Pets Nature Online-Shop",
-        "image": "https://www.petsnature.de/media/image/4f/7f/25/01406630_cff_purrr_no107_kaenguru_400g_front_72dpi_1500px.jpg",
-        "analysis": [
-            "Rohprotein 10.9%",
-            "Fettgehalt 4.5%",
-            "Rohasche 2.5%",
-            "Rohfaser 0.4%",
-            "Feuchtigkeit 79%"
-        ],
-        "ingredients": [
-            "Zusammensetzung: Känguru 70% (bestehend aus Herzen, Muskelfleisch, Leber)",
-            "Kängurusud 28;8%",
-            "Mineralstoffe 1%",
-            "Borretschöl 0.2%"
-        ],
-        "calorie": "Umsetzbare Energie: 98,52kcal/100g",
-        "additives": ""
-    },
-    {
-        "site": "https://www.petsnature.de",
-        "url": "https://www.petsnature.de/katzen-shop/nassfutter-fuer-katzen/catz-finefood-purrrr/catz-finefood-purrrr-375400g/1350/catz-finefood-purrrr-n0-109-wildschwein-400g?c=729",
-        "brand": "Catz finefood",
-        "title": "catz finefood Purrrr N° 109 - Wildschwein 400g | Pets Nature Online-Shop",
-        "image": "https://www.petsnature.de/media/image/19/f2/3f/01406647_cff_purrr_no109_wildschwein_400g_front_72dpi_1500px.jpg",
-        "analysis": [
-            "Rohprotein 10.5%",
-            "Fettgehalt 6.5%",
-            "Rohasche 2.8%",
-            "Rohfaser 0.4%",
-            "Feuchtigkeit 77%"
-        ],
-        "ingredients": [
-            "Zusammensetzung: Wildschwein 70 %",
-            "Wildschweinsud 28.8 %",
-            "Mineralstoffe 1%",
-            "Traubenkernöl 0.2%"
-        ],
-        "calorie": "Umsetzbare Energie: 97,31kcal/100g",
-        "additives": ""
+      "calorie": "96,65 kcal/ 100g"
     }
 ]

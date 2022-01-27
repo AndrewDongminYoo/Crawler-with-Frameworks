@@ -3,27 +3,30 @@
         "site": "https://nolnz.com",
         "url": "https://nolnz.com/petbakery-natural-pet-food-products/#for-cats",
         "brand": "New Origin Pet Bakery",
-        "title": "PETBAKERY NATURAL PET FOOD - Beef & Fish",
-        "image": "https://nolnz.com/wp-content/uploads/2020/09/products1.jpg",
+        "title": "PETBAKERY NATURAL PET FOOD - Fish Feast",
+        "image": "",
         "analysis": [
-            "Minimum Crude Protein 42%",
-            "Minimum Crude Fat 35%",
+            "Minimum Crude Protein 48%",
+            "Minimum Crude Fat 34%",
             "Maximum Crude Fibre 3%",
-            "Maximum Moisture 5%",
-            "Minimum Taurine 0.34%"
+            "Maximum Moisture 6%",
+            "Minimum Taurine 0.42%"
         ],
         "ingredients": [
+            "Mackerel",
             "Beef",
-            "Mackeral",
-            "Beef heart",
-            "Beef liver",
-            "Beef kidney",
             "Hoki",
+            "Chicken heart",
+            "Chicken liver",
+            "Beef heart",
             "Kelp",
+            "Beef kidney",
+            "Beef liver",
+            "Chicken",
+            "Eggs",
             "New Zealand green mussel"
         ],
-        "calorie": "4923 kcal/kg",
-        "additives": ""
+        "calorie": "5106 kcal/kg"
     },
     {
         "site": "https://nolnz.com",
@@ -49,8 +52,7 @@
             "New Zealand green mussel",
             "Collagen"
         ],
-        "calorie": "4576 kcal/kg",
-        "additives": ""
+        "calorie": "4576 kcal/kg"
     },
     {
         "site": "https://nolnz.com",
@@ -75,8 +77,7 @@
             "Kelp",
             "New Zealand green mussel"
         ],
-        "calorie": "4837 kcal/kg",
-        "additives": ""
+        "calorie": "4837 kcal/kg"
     },
     {
         "site": "https://nolnz.com",
@@ -105,7 +106,6 @@
             "Eggs",
             "New Zealand green mussel"
         ],
-        "calorie": "5106 kcal/kg",
-        "additives": ""
+        "calorie": "5106 kcal/kg"
     }
 ]

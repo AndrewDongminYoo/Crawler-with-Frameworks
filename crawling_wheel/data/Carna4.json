@@ -1,21 +1,22 @@
-{
+[
+  {
     "site": "https://carna4.com",
     "url": "https://carna4.com/our-products/cat-food/",
     "brand": "Carna4",
     "title": "Carna4 Cat Food - Carna4",
     "image": "https://carna4.com/wpress/wp-content/uploads/2011/01/Carna4-Chicken-Cat-2-lbNEW.jpg",
     "analysis": [
-        "NUTRIENT Carna4 Cat – Fish Carna4 Cat – Chicken AAFCO Adult Cat AAFCO Growth Cat AAFCO",
-        "Crude Protein 40% 40% 23% 27% ",
-        "Crude Fat 17% 17% 8% 8% ",
-        "Crude Fiber 4%: 4%: ",
-        "Moisture 10%: 10%: 10% 10% ",
-        "Ash 5.1% 5.2% "
+      "NUTRIENT Carna4 Cat – Fish Carna4 Cat – Chicken AAFCO Adult Cat AAFCO Growth Cat AAFCO",
+      "Crude Protein 40% 40% 23% 27% ",
+      "Crude Fat 17% 17% 8% 8% ",
+      "Crude Fiber 4%: 4%: ",
+      "Moisture 10%: 10%: 10% 10% ",
+      "Ash 5.1% 5.2% "
     ],
     "ingredients": [
-        "Chicken Formula Ingredients: Chicken, chicken liver, eggs, organic sprouted barley seed, herring, ground fava beans, sweet potato, organic sprouted flaxseed, organic sprouted lentils, organic sprouted peas, potato starch, kelp, cranberry, sea salt, sunflower oil, nutritional yeast, natural baking soda.",
-        "Fish Formula Ingredients: Herring, perch, eggs, organic sprouted barley seed, salmon, ground fava beans, sweet potato, organic sprouted flaxseed, organic sprouted lentils, organic sprouted peas, potato starch, kelp, cranberry, sea salt, sunflower oil, nutritional yeast, natural baking soda."
+      "Chicken Formula Ingredients: Chicken, chicken liver, eggs, organic sprouted barley seed, herring, ground fava beans, sweet potato, organic sprouted flaxseed, organic sprouted lentils, organic sprouted peas, potato starch, kelp, cranberry, sea salt, sunflower oil, nutritional yeast, natural baking soda.",
+      "Fish Formula Ingredients: Herring, perch, eggs, organic sprouted barley seed, salmon, ground fava beans, sweet potato, organic sprouted flaxseed, organic sprouted lentils, organic sprouted peas, potato starch, kelp, cranberry, sea salt, sunflower oil, nutritional yeast, natural baking soda."
     ],
-    "calorie": "",
-    "additives": ""
-}
+    "calorie": ""
+  }
+]

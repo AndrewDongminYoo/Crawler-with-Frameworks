@@ -45,8 +45,7 @@
         "calorie": [
             "Metabolisable Energy kJ 1485",
             "Metabolisable Energy kcal 355"
-        ],
-        "additives": ""
+        ]
     },
     {
         "site": "https://www.specific-diets.co.uk",
@@ -77,8 +76,7 @@
             "minerals",
             "taurine."
         ],
-        "calorie": "Metabolisable Energy kJ 1526",
-        "additives": ""
+        "calorie": "Metabolisable Energy kJ 1526"
     },
     {
         "site": "https://www.specific-diets.co.uk",
@@ -119,8 +117,7 @@
             "taurine",
             "Yucca powder. With natural antioxidants (tocopherols and vitamin C)."
         ],
-        "calorie": "Metabolisable Energy kJ\t1565",
-        "additives": ""
+        "calorie": "Metabolisable Energy kJ\t1565"
     },
     {
         "site": "https://www.specific-diets.co.uk",
@@ -165,8 +162,7 @@
         "calorie": [
             "Metabolisable Energy kJ 1751",
             "Metabolisable Energy kcal 418"
-        ],
-        "additives": ""
+        ]
     },
     {
         "site": "https://www.specific-diets.co.uk",
@@ -211,8 +207,7 @@
         "calorie": [
             "Metabolisable Energy kJ 1480",
             "Metabolisable Energy kcal 353"
-        ],
-        "additives": ""
+        ]
     },
     {
         "site": "https://www.specific-diets.co.uk",
@@ -265,7 +260,6 @@
         "calorie": [
             "Metabolisable Energy kJ 1641",
             "Metabolisable Energy kcal 392"
-        ],
-        "additives": ""
+        ]
     }
 ]

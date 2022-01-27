@@ -47,8 +47,7 @@
             "Taurine",
             "Potassium Chloride."
         ],
-        "calorie": "869 kcal/kg",
-        "additives": ""
+        "calorie": "869 kcal/kg"
     },
     {
         "site": "https://rawznaturalpetfood.com",
@@ -98,8 +97,7 @@
             "Taurine",
             "Potassium Chloride."
         ],
-        "calorie": "867 kcal/kg",
-        "additives": ""
+      "calorie": "867 kcal/kg"
     },
     {
         "site": "https://rawznaturalpetfood.com",
@@ -150,8 +148,7 @@
             "Taurine",
             "Potassium Chloride."
         ],
-        "calorie": "852 kcal/kg",
-        "additives": ""
+      "calorie": "852 kcal/kg"
     },
     {
         "site": "https://rawznaturalpetfood.com",
@@ -199,8 +196,7 @@
             "Taurine",
             "Choline Chloride."
         ],
-        "calorie": "818 kcal/kg",
-        "additives": ""
+      "calorie": "818 kcal/kg"
     },
     {
         "site": "https://rawznaturalpetfood.com",
@@ -249,7 +245,6 @@
             "Potassium Chloride",
             "Salt."
         ],
-        "calorie": "862 kcal/kg.",
-        "additives": ""
+      "calorie": "862 kcal/kg."
     }
 ]

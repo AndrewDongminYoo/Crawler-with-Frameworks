@@ -1,11 +1,28 @@
-{
+[
+  {
     "site": "https://www.walmart.ca",
     "url": "https://www.walmart.ca/en/ip/economy-cat-food-8kg/6000188081685",
     "brand": "Economy ROYAL",
     "title": "Economy ROYAL",
     "image": "https://i5.walmartimages.ca/images/Large/011/074/999999-628915011074.jpg",
     "analysis": "",
-    "ingredients": "Ground Yellow Corn, Poultry By-Product Meal, Wheat Shorts, Soybean Meal, Corn Gluten Meal, Animal Fat Preserved With Mixed Tocopherols (Form Of Vitamin E), Calcium Carbonate, Natural Chicken Flavour, Salt, Vitamins (Vitamin E, Niacin, Vitamin A, Calcium Pantothenate, Thiamine Mononitrate, Riboflavin, Pyridoxine Hydrochloride, Menadione Sodium Bisulfate Complex (Source Of Vitamin K Activity), Biotin, Vitamin D, Vitamin B12, Calcium Iodate, Folic Acid), Minerals (Ferrous Sulphate, Zinc Oxide, Sodium Selenite, Copper Sulphate, Manganous Oxide, Cobalt Carbonate) Phosphoric Acid, Taurine, DL Methionine, Choline Chloride, Potassium Chloride",
-    "calorie": "",
-    "additives": ""
-}
+    "ingredients": [
+      "Ground Yellow Corn",
+      "Poultry By-Product Meal",
+      "Wheat Shorts",
+      "Soybean Meal",
+      "Corn Gluten Meal",
+      "Animal Fat Preserved With Mixed Tocopherols (Form Of Vitamin E)",
+      "Calcium Carbonate",
+      "Natural Chicken Flavour",
+      "Salt",
+      "Vitamins (Vitamin E, Niacin, Vitamin A, Calcium Pantothenate, Thiamine Mononitrate, Riboflavin, Pyridoxine Hydrochloride, Menadione Sodium Bisulfate Complex (Source Of Vitamin K Activity), Biotin, Vitamin D, Vitamin B12, Calcium Iodate, Folic Acid)",
+      "Minerals (Ferrous Sulphate, Zinc Oxide, Sodium Selenite, Copper Sulphate, Manganous Oxide, Cobalt Carbonate) Phosphoric Acid",
+      "Taurine",
+      "DL Methionine",
+      "Choline Chloride",
+      "Potassium Chloride"
+    ],
+    "calorie": ""
+  }
+]

@@ -40,8 +40,7 @@
             "calcium iodate",
             "folic acid"
         ],
-        "calorie": "111.5 kcal/100g",
-        "additives": ""
+        "calorie": "111.5 kcal/100g"
     },
     {
         "site": "https://petkind.com",
@@ -83,8 +82,7 @@
             "calcium iodate",
             "folic acid"
         ],
-        "calorie": "111.5 kcal/100g",
-        "additives": ""
+      "calorie": "111.5 kcal/100g"
     },
     {
         "site": "https://petkind.com",
@@ -126,8 +124,7 @@
             "calcium iodate",
             "folic acid"
         ],
-        "calorie": "111.5 kcal/100g",
-        "additives": ""
+      "calorie": "111.5 kcal/100g"
     },
     {
         "site": "https://petkind.com",
@@ -170,8 +167,7 @@
             "calcium iodate",
             "folic acid"
         ],
-        "calorie": "111.5 kcal/100g",
-        "additives": ""
+      "calorie": "111.5 kcal/100g"
     },
     {
         "site": "https://petkind.com",
@@ -214,8 +210,7 @@
             "calcium iodate",
             "folic acid"
         ],
-        "calorie": "111.5 kcal/100g",
-        "additives": ""
+      "calorie": "111.5 kcal/100g"
     },
     {
         "site": "https://petkind.com",
@@ -256,7 +251,6 @@
             "calcium iodate",
             "folic acid"
         ],
-        "calorie": "111.5 kcal/100g",
-        "additives": ""
+      "calorie": "111.5 kcal/100g"
     }
 ]

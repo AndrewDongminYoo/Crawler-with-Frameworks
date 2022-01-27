@@ -48,8 +48,7 @@
             "Green Tea Extract",
             "Rosemary Extract and Spearmint Extract"
         ],
-        "calorie": "",
-        "additives": ""
+        "calorie": ""
     },
     {
         "site": "https://addictionpet.com",
@@ -115,8 +114,7 @@
             "Tea Extract",
             "Spearmint Extract."
         ],
-        "calorie": "ME: 3700 Kcal  ME/kg 423 Kcal ME/cup ",
-        "additives": ""
+      "calorie": "ME: 3700 Kcal  ME/kg 423 Kcal ME/cup "
     },
     {
         "site": "https://addictionpet.com",
@@ -172,7 +170,6 @@
             "Sodium Selenite",
             "Green Tea Extract and Rosemary Extract"
         ],
-        "calorie": "",
-        "additives": ""
+      "calorie": ""
     }
 ]

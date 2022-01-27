@@ -1,33 +1,6 @@
 [
     {
         "site": "https://www.vitalessentialsraw.com",
-        "url": "https://www.vitalessentialsraw.com/product/chicken-freeze-dried-mini-nibs-entree-2/",
-        "brand": "Vital Essentials",
-        "title": "Chicken Freeze-Dried Mini Nibs Cat Food | Vital Essentials",
-        "image": "https://images.app.goo.gl/qkL1XYCajCzkDZB97",
-        "analysis": [
-            "CRUDE PROTEIN,: 55.0%",
-            "CRUDE FAT,: 18.0%",
-            "CRUDE FIBER,: 5.0%",
-            "MOISTURE,: 8.0%"
-        ],
-        "ingredients": [
-            "Chicken",
-            "chicken heart",
-            "chicken liver",
-            "herring oil",
-            "mixed tocopherols (preservative)",
-            "vitamin E supplement",
-            "zinc amino acid complex",
-            "iron amino acid complex",
-            "copper amino acid complex",
-            "manganese amino acid complex"
-        ],
-        "calorie": "4307 kcal/kg",
-        "additives": ""
-    },
-    {
-        "site": "https://www.vitalessentialsraw.com",
         "url": "https://www.vitalessentialsraw.com/product/chicken-freeze-dried-mini-patties-entree-2/",
         "brand": "Vital Essentials",
         "title": "Chicken Freeze-Dried Mini Patties Entree | Vital Essentials",
@@ -50,26 +23,24 @@
             "copper amino acid complex",
             "manganese amino acid complex"
         ],
-        "calorie": "4307 kcal/kg",
-        "additives": ""
+        "calorie": "4307 kcal/kg"
     },
     {
         "site": "https://www.vitalessentialsraw.com",
-        "url": "https://www.vitalessentialsraw.com/product/duck-freeze-dried-mini-nibs-entree-2/",
+        "url": "https://www.vitalessentialsraw.com/product/chicken-freeze-dried-mini-nibs-entree-2/",
         "brand": "Vital Essentials",
-        "title": "Freeze-Dried Mini Nibs Duck Cat Food | Vital Essentials",
-        "image": "https://images.app.goo.gl/kAJtnM9gMgGG35Zb6",
+        "title": "Chicken Freeze-Dried Mini Nibs Cat Food | Vital Essentials",
+        "image": "https://images.app.goo.gl/qkL1XYCajCzkDZB97",
         "analysis": [
-            "CRUDE PROTEIN,: 47.0%",
-            "CRUDE FAT,: 21.0%",
+            "CRUDE PROTEIN,: 55.0%",
+            "CRUDE FAT,: 18.0%",
             "CRUDE FIBER,: 5.0%",
             "MOISTURE,: 8.0%"
         ],
         "ingredients": [
-            "Duck",
-            "duck gizzard",
-            "duck heart",
-            "duck liver",
+            "Chicken",
+            "chicken heart",
+            "chicken liver",
             "herring oil",
             "mixed tocopherols (preservative)",
             "vitamin E supplement",
@@ -78,8 +49,7 @@
             "copper amino acid complex",
             "manganese amino acid complex"
         ],
-        "calorie": "4537 kcal/kg",
-        "additives": ""
+        "calorie": "4307 kcal/kg"
     },
     {
         "site": "https://www.vitalessentialsraw.com",
@@ -106,8 +76,34 @@
             "copper amino acid complex",
             "manganese amino acid complex"
         ],
-        "calorie": "4537 kcal/kg",
-        "additives": ""
+        "calorie": "4537 kcal/kg"
+    },
+    {
+        "site": "https://www.vitalessentialsraw.com",
+        "url": "https://www.vitalessentialsraw.com/product/duck-freeze-dried-mini-nibs-entree-2/",
+        "brand": "Vital Essentials",
+        "title": "Freeze-Dried Mini Nibs Duck Cat Food | Vital Essentials",
+        "image": "https://images.app.goo.gl/kAJtnM9gMgGG35Zb6",
+        "analysis": [
+            "CRUDE PROTEIN,: 47.0%",
+            "CRUDE FAT,: 21.0%",
+            "CRUDE FIBER,: 5.0%",
+            "MOISTURE,: 8.0%"
+        ],
+        "ingredients": [
+            "Duck",
+            "duck gizzard",
+            "duck heart",
+            "duck liver",
+            "herring oil",
+            "mixed tocopherols (preservative)",
+            "vitamin E supplement",
+            "zinc amino acid complex",
+            "iron amino acid complex",
+            "copper amino acid complex",
+            "manganese amino acid complex"
+        ],
+        "calorie": "4537 kcal/kg"
     },
     {
         "site": "https://www.vitalessentialsraw.com",
@@ -133,37 +129,7 @@
             "copper amino acid complex",
             "manganese amino acid complex"
         ],
-        "calorie": "4806 kcal/kg",
-        "additives": ""
-    },
-    {
-        "site": "https://www.vitalessentialsraw.com",
-        "url": "https://www.vitalessentialsraw.com/product/rabbit-freeze-dried-mini-nibs-entree/",
-        "brand": "Vital Essentials",
-        "title": "Rabbit Freeze-Dried Mini Nibs Entree | Vital Essentials",
-        "image": "https://images.app.goo.gl/PxjzHs1VcCgr6cV68",
-        "analysis": [
-            "CRUDE PROTEIN,: 60%",
-            "CRUDE FAT,: 17%",
-            "CRUDE FIBER,: 3%",
-            "MOISTURE,: 8%"
-        ],
-        "ingredients": [
-            "Rabbit",
-            "rabbit liver",
-            "rabbit heart",
-            "rabbit kidney",
-            "rabbit lung",
-            "herring oil",
-            "mixed tocopherols (preservative)",
-            "vitamin E supplement",
-            "zinc amino acid complex",
-            "iron amino acid complex",
-            "copper amino acid complex",
-            "manganese amino acid complex"
-        ],
-        "calorie": "3796 kcal/kg",
-        "additives": ""
+        "calorie": "4806 kcal/kg"
     },
     {
         "site": "https://www.vitalessentialsraw.com",
@@ -191,25 +157,26 @@
             "copper amino acid complex",
             "manganese amino acid complex"
         ],
-        "calorie": "3796 kcal/kg",
-        "additives": ""
+        "calorie": "3796 kcal/kg"
     },
     {
         "site": "https://www.vitalessentialsraw.com",
-        "url": "https://www.vitalessentialsraw.com/product/turkey-freeze-dried-mini-nibs-entree-2/",
+        "url": "https://www.vitalessentialsraw.com/product/rabbit-freeze-dried-mini-nibs-entree/",
         "brand": "Vital Essentials",
-        "title": "Freeze-Dried Mini Nibs Turkey Cat Food | Vital Essentials",
-        "image": "https://images.app.goo.gl/FaoRmzTPi88kGm2RA",
+        "title": "Rabbit Freeze-Dried Mini Nibs Entree | Vital Essentials",
+        "image": "https://images.app.goo.gl/PxjzHs1VcCgr6cV68",
         "analysis": [
-            "CRUDE PROTEIN,: 53.0%",
-            "CRUDE FAT,: 20.0%",
-            "CRUDE FIBER,: 2.0%",
-            "MOISTURE,: 8.0%"
+            "CRUDE PROTEIN,: 60%",
+            "CRUDE FAT,: 17%",
+            "CRUDE FIBER,: 3%",
+            "MOISTURE,: 8%"
         ],
         "ingredients": [
-            "Turkey",
-            "turkey heart",
-            "turkey liver",
+            "Rabbit",
+            "rabbit liver",
+            "rabbit heart",
+            "rabbit kidney",
+            "rabbit lung",
             "herring oil",
             "mixed tocopherols (preservative)",
             "vitamin E supplement",
@@ -218,8 +185,7 @@
             "copper amino acid complex",
             "manganese amino acid complex"
         ],
-        "calorie": "4448 kcal/kg",
-        "additives": ""
+        "calorie": "3796 kcal/kg"
     },
     {
         "site": "https://www.vitalessentialsraw.com",
@@ -245,7 +211,32 @@
             "copper amino acid complex",
             "manganese amino acid complex"
         ],
-        "calorie": "4448 kcal/kg",
-        "additives": ""
+        "calorie": "4448 kcal/kg"
+    },
+    {
+        "site": "https://www.vitalessentialsraw.com",
+        "url": "https://www.vitalessentialsraw.com/product/turkey-freeze-dried-mini-nibs-entree-2/",
+        "brand": "Vital Essentials",
+        "title": "Freeze-Dried Mini Nibs Turkey Cat Food | Vital Essentials",
+        "image": "https://images.app.goo.gl/FaoRmzTPi88kGm2RA",
+        "analysis": [
+            "CRUDE PROTEIN,: 53.0%",
+            "CRUDE FAT,: 20.0%",
+            "CRUDE FIBER,: 2.0%",
+            "MOISTURE,: 8.0%"
+        ],
+        "ingredients": [
+            "Turkey",
+            "turkey heart",
+            "turkey liver",
+            "herring oil",
+            "mixed tocopherols (preservative)",
+            "vitamin E supplement",
+            "zinc amino acid complex",
+            "iron amino acid complex",
+            "copper amino acid complex",
+            "manganese amino acid complex"
+        ],
+        "calorie": "4448 kcal/kg"
     }
 ]

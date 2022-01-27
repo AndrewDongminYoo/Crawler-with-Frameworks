@@ -1,21 +1,24 @@
 [
     {
-        "site": "https://www.stevesrealfood.com",
-        "url": "https://www.stevesrealfood.com/frozen-raw-dog-food/freeze-dried-pet-food/beef-dry-diet/",
-        "brand": "Steve's Real Food",
-        "title": "Freeze Dried Beef Diet - Steves Real Food",
-        "image": "https://images.app.goo.gl/u7JjRUjn7iunJK6u9",
-        "analysis": "Protein: 45.5% Fat: 31% Fiber: 3%imum Moisture: 5%imum",
-        "ingredients": [
-            "Ground Beef",
-            "Beef Liver",
-            "Beef Kidney",
-            "Broccoli",
-            "Beef Bone",
-            "Carrots",
-            "Apples",
-            "Romaine Lettuce",
-            "Goat’s Milk",
+      "site": "https://www.stevesrealfood.com",
+      "url": "https://www.stevesrealfood.com/frozen-raw-dog-food/freeze-dried-pet-food/beef-dry-diet/",
+      "brand": "Steve's Real Food",
+      "title": "Freeze Dried Beef Diet - Steves Real Food",
+      "image": "https://images.app.goo.gl/u7JjRUjn7iunJK6u9",
+      "analysis": [
+        "Protein: 45.5% Fat: 31% Fiber: 3%",
+        "Moisture: 5%,"
+      ],
+      "ingredients": [
+        "Ground Beef",
+        "Beef Liver",
+        "Beef Kidney",
+        "Broccoli",
+        "Beef Bone",
+        "Carrots",
+        "Apples",
+        "Romaine Lettuce",
+        "Goat’s Milk",
             "Coconut Oil",
             "Sesame Seeds",
             "Salmon Oil",
@@ -26,8 +29,7 @@
             "Inulin",
             "Ground Eggshell"
         ],
-        "calorie": "",
-        "additives": ""
+      "calorie": ""
     },
     {
         "site": "https://www.stevesrealfood.com",
@@ -60,8 +62,7 @@
             "Green Lipped Mussel",
             "Ground Eggshell Frozen"
         ],
-        "calorie": "",
-        "additives": ""
+      "calorie": ""
     },
     {
         "site": "https://www.stevesrealfood.com",
@@ -95,8 +96,7 @@
             "Sesame Seeds",
             "Ground"
         ],
-        "calorie": "",
-        "additives": ""
+      "calorie": ""
     },
     {
         "site": "https://www.stevesrealfood.com",
@@ -133,8 +133,7 @@
             "Inulin",
             "Ground Eggshell"
         ],
-        "calorie": "",
-        "additives": ""
+      "calorie": ""
     },
     {
         "site": "https://www.stevesrealfood.com",
@@ -168,7 +167,6 @@
             "Inulin",
             "Ground Eggshell"
         ],
-        "calorie": "",
-        "additives": ""
+      "calorie": ""
     }
 ]

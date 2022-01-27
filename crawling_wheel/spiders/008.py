@@ -33,7 +33,7 @@ if __name__ == '__main__':
         additives="#av-tab-section-1-4 > div > div > section > div > table",
         calorie="#av_section_2 > div > div > div > div > div.flex_column.av_one_fifth.el_after_av_one_fifth.avia-builder-el-last.flex_column_div.av-zero-column-padding > div > strong"
     )
-    scraper = WebScrapper("Terra Fellis")
+    scraper = WebScrapper("Terra Felis")
     scraper.crawl(
         ingredients="#description-tab-pane > div > div.product-info-composition.tab-section > div > div > div > div.compostion-text-container.order-1.order-lg-2",
         analysis="#analytical-components-tab-pane > div > div > div > div > p > span",

@@ -1,22 +1,40 @@
-{
+[
+  {
     "site": "https://entomapetfood.com",
     "url": "https://entomapetfood.com/collections/cat-food/products/cat-food?variant=30326740484185",
     "brand": "Entoma",
     "title": "Natural & Sustainable cat food ? Entoma Petfood",
     "image": "http://cdn.shopify.com/s/files/1/2635/6950/products/packaging_chat_2kg_EN_grande.jpg?v=1592343328",
     "analysis": [
-        "CRUDE PROTEINS 38%",
-        "FAT 13%",
-        "FIBERS 2.8%",
-        "WATER 6%",
-        "ASH 6.8%",
-        "CALCIUM 0.9%",
-        "PHOSPHOROUS 0.7%",
-        "OMEGA-3 0.2%",
-        "OMEGA-6 1.7%",
-        "ENERGY  369 Kcal"
+      "CRUDE PROTEINS 38%",
+      "FAT 13%",
+      "FIBERS 2.8%",
+      "WATER 6%",
+      "ASH 6.8%",
+      "CALCIUM 0.9%",
+      "PHOSPHOROUS 0.7%",
+      "OMEGA-3 0.2%",
+      "OMEGA-6 1.7%",
+      "ENERGY  369 Kcal"
     ],
-    "ingredients": "Insects (tenebrio molitor), chickpea, peas, spirulina, pumpkin seed, tumeric, spinach, cranberry, carrot, broccoli, marshmallow root, brewer's yeast, beet pulp, linseed, duck fat, potato.",
-    "calorie": "369 Kcal/100g",
-    "additives": ""
-}
+    "ingredients": [
+      "Insects (tenebrio molitor)",
+      "chickpea",
+      "peas",
+      "spirulina",
+      "pumpkin seed",
+      "tumeric",
+      "spinach",
+      "cranberry",
+      "carrot",
+      "broccoli",
+      "marshmallow root",
+      "brewer's yeast",
+      "beet pulp",
+      "linseed",
+      "duck fat",
+      "potato."
+    ],
+    "calorie": "369 Kcal/100g"
+  }
+]

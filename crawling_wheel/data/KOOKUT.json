@@ -1,59 +1,6 @@
 [
     {
         "site": "https://www.kookut.com",
-        "url": "https://www.kookut.com/products/chicken-duck-dry-food-for-cat",
-        "brand": "KOOKUT",
-        "title": "Chicken & Duck Dry Food for Cat – Kookut",
-        "image": "http://cdn.shopify.com/s/files/1/0561/5740/5392/products/5kg_Cat_ChickenDuck_FRONT.png?v=1618303102",
-        "analysis": [
-            "Analytical constituents Crude protein 34%, Crude Oil & Fats 18%, Crude Ash 9%, Crude Fibres 4%, Omega 6 3.2%, Omega 3 0.8%, Calcium 1.1%, Phosphorus 0.9%",
-            "Vitamins (per kg) Vitamin A 20000 IU, Vitamin D3 1750 IU, Vitamin E 350 IU",
-            "Minerals (mg per kg) Iron 100, Copper 10, Zinc 125, Manganese 30, Iodine, 1,5, Selenium 0,2",
-            "Contains natural anti-oxidants and 1700 mg of Taurine per Kg."
-        ],
-        "ingredients": [
-            "Fresh chicken",
-            "dehydrated chicken",
-            "dehydrated duck",
-            "peas",
-            "split peas",
-            "potatoes",
-            "chicken fat",
-            "hydrolyzed chicken protein",
-            "flax seed",
-            "beet pulp",
-            "salmon oil",
-            "vegetable plant fiber",
-            "chicory (a natural source of FOS and inulin)",
-            "brewery yeast",
-            "MOS (mannan – oligosaccharides)",
-            "minerals",
-            "broccoli",
-            "spinach",
-            "sweet potatoes",
-            "cranberries",
-            "blueberries",
-            "apples",
-            "dried spirulina",
-            "glucosamine hydrochloride",
-            "chondroitin sulfate",
-            "dried yucca schidigera",
-            "rosemary extract",
-            "grape seed extract",
-            "turmeric extract",
-            "clove leaf oil",
-            "dried fenugreek",
-            "lucerne",
-            "dried rosehip",
-            "dried marigold (a natural source of lutein)",
-            "dried parsley",
-            "dried peppermint."
-        ],
-        "calorie": "Metabolic energy 379 Calories/100g",
-        "additives": ""
-    },
-    {
-        "site": "https://www.kookut.com",
         "url": "https://www.kookut.com/products/chicken-turkey-dry-food-for-kitten",
         "brand": "KOOKUT",
         "title": "Chicken & Turkey Dry Food for Kitten – Kookut",
@@ -105,204 +52,7 @@
             "dried parsley",
             "dried peppermint."
         ],
-        "calorie": "Metabolic energy 404 Calories/100g",
-        "additives": ""
-    },
-    {
-        "site": "https://www.kookut.com",
-        "url": "https://www.kookut.com/products/free-run-chicken-natural",
-        "brand": "KOOKUT",
-        "title": "Free Run Chicken - Natural – Kookut",
-        "image": "http://cdn.shopify.com/s/files/1/0561/5740/5392/products/4FreeRunChickenC.jpg?v=1618502178",
-        "analysis": [
-            "Crude protein 21%",
-            "Crude Oil & Fats 0.8%",
-            "Crude Ash 1%",
-            "Crude Fiber 0.1%",
-            "Moisture 76%"
-        ],
-        "ingredients": [
-            "Free Run Chicken 75.3%",
-            "chicken broth 23.3%",
-            "rice 1.4%"
-        ],
-        "calorie": "Metabolic energy (Kcal/100g): 90",
-        "additives": ""
-    },
-    {
-        "site": "https://www.kookut.com",
-        "url": "https://www.kookut.com/products/free-run-chicken-pacific-tuna-natural",
-        "brand": "KOOKUT",
-        "title": "Free Run Chicken & Pacific Tuna - Natural – Kookut",
-        "image": "http://cdn.shopify.com/s/files/1/0561/5740/5392/products/3ChickenTunaC.jpg?v=1618503520",
-        "analysis": [
-            "Crude protein 20%",
-            "Crude Oil & Fats 0.6%",
-            "Crude Ash 1.5%",
-            "Crude Fiber 0.1%",
-            "Moisture 76%"
-        ],
-        "ingredients": [
-            "Free Run Chicken 47.9%",
-            "Pacific Tuna 27.4%",
-            "broth 23.3%",
-            "rice 1.4%"
-        ],
-        "calorie": "Metabolic energy (Kcal/100g): 83",
-        "additives": ""
-    },
-    {
-        "site": "https://www.kookut.com",
-        "url": "https://www.kookut.com/products/free-run-chicken-pumpkin-natural",
-        "brand": "KOOKUT",
-        "title": "Free Run Chicken & Pumpkin - Natural – Kookut",
-        "image": "http://cdn.shopify.com/s/files/1/0561/5740/5392/products/10ChickenPumpkinC.jpg?v=1618506063",
-        "analysis": [
-            "Crude protein 22%",
-            "Crude Oil & Fats 1%",
-            "Crude Ash 1%",
-            "Crude Fiber 0.1%",
-            "Moisture 75%"
-        ],
-        "ingredients": [
-            "Free Run chicken 70%",
-            "broth 23.6%",
-            "pumpkin 5%",
-            "rice 1.4%"
-        ],
-        "calorie": "Metabolic energy (Kcal/100g): 90",
-        "additives": ""
-    },
-    {
-        "site": "https://www.kookut.com",
-        "url": "https://www.kookut.com/products/free-run-chicken-shrimps-natural",
-        "brand": "KOOKUT",
-        "title": "Free Run Chicken & Shrimps - Natural – Kookut",
-        "image": "http://cdn.shopify.com/s/files/1/0561/5740/5392/products/5ChickenShrimpC.jpg?v=1618504307",
-        "analysis": [
-            "Crude protein 19%",
-            "Crude Oil & Fats 0.8%",
-            "Crude Ash 1%",
-            "Crude Fiber 0.1%",
-            "Moisture 79%"
-        ],
-        "ingredients": [
-            "Free Run Chicken 54.8%",
-            "broth 23.3%",
-            "shrimps 20.5%",
-            "rice 1.4%"
-        ],
-        "calorie": "Metabolic energy (Kcal/100g): 79",
-        "additives": ""
-    },
-    {
-        "site": "https://www.kookut.com",
-        "url": "https://www.kookut.com/products/pacific-tuna-baby-clams-natural",
-        "brand": "KOOKUT",
-        "title": "Pacific Tuna & Baby Clams - Natural – Kookut",
-        "image": "http://cdn.shopify.com/s/files/1/0561/5740/5392/products/8TunaBabyClamsC.jpg?v=1618504983",
-        "analysis": [
-            "Crude protein 20%",
-            "Crude Oil & Fats 0.7%",
-            "Crude Ash 2%",
-            "Crude Fiber 0.1%",
-            "Moisture 77%"
-        ],
-        "ingredients": [
-            "Pacific Tuna 67%",
-            "tuna broth 23.6%",
-            "baby clams 8%",
-            "rice 1.4%"
-        ],
-        "calorie": "Metabolic energy (Kcal/100g): 80",
-        "additives": ""
-    },
-    {
-        "site": "https://www.kookut.com",
-        "url": "https://www.kookut.com/products/pacific-tuna-fillet-natural",
-        "brand": "KOOKUT",
-        "title": "Pacific Tuna - Natural – Kookut",
-        "image": "http://cdn.shopify.com/s/files/1/0561/5740/5392/products/1PacificTunaC.jpg?v=1618321750",
-        "analysis": [
-            "Crude protein 21%",
-            "Crude Oil & Fats 0.5%",
-            "Crude Ash 2%",
-            "Crude Fiber 0.1%",
-            "Moisture 76%"
-        ],
-        "ingredients": [
-            "Pacific Tuna 75.3%",
-            "tuna broth 23.3%",
-            "rice 1.4%"
-        ],
-        "calorie": "Metabolic energy (Kcal/100g): 83",
-        "additives": ""
-    },
-    {
-        "site": "https://www.kookut.com",
-        "url": "https://www.kookut.com/products/pacific-tuna-green-mussels-natural",
-        "brand": "KOOKUT",
-        "title": "Pacific Tuna & Green Mussels - Natural – Kookut",
-        "image": "http://cdn.shopify.com/s/files/1/0561/5740/5392/products/7TunaMusselsC_f5bc5a14-f633-454e-b201-85b3a189a3ab.jpg?v=1618505692",
-        "analysis": [
-            "Crude protein 18%",
-            "Crude Oil & Fats 1%",
-            "Crude Ash 2%",
-            "Crude Fiber 0.1%",
-            "Moisture 77%"
-        ],
-        "ingredients": [
-            "Pacific Tuna 54.8%",
-            "broth 23.3%",
-            "green mussels 20.5%",
-            "rice 1.4%"
-        ],
-        "calorie": "Metabolic energy (Kcal/100g): 76",
-        "additives": ""
-    },
-    {
-        "site": "https://www.kookut.com",
-        "url": "https://www.kookut.com/products/pacific-tuna-sardine-natural",
-        "brand": "KOOKUT",
-        "title": "Pacific Tuna & Sardine - Natural – Kookut",
-        "image": "http://cdn.shopify.com/s/files/1/0561/5740/5392/products/6TunaSardineC.jpg?v=1618503867",
-        "analysis": [
-            "Crude protein 20%",
-            "Crude Oil & Fats 0.8%",
-            "Crude Ash 1.5%",
-            "Crude Fiber 0.1%",
-            "Moisture 76%"
-        ],
-        "ingredients": [
-            "Pacific Tuna 54.8%",
-            "tuna broth 23.3%",
-            "sardine 20.5%",
-            "rice 1.4%"
-        ],
-        "calorie": "Metabolic energy (Kcal/100g): 83",
-        "additives": ""
-    },
-    {
-        "site": "https://www.kookut.com",
-        "url": "https://www.kookut.com/products/pacific-tuna-seaweed-natural",
-        "brand": "KOOKUT",
-        "title": "Pacific Tuna & Seaweed - Natural – Kookut",
-        "image": "http://cdn.shopify.com/s/files/1/0561/5740/5392/products/9TunaSeaweedC.jpg?v=1618506382",
-        "analysis": [
-            "Crude protein 20%",
-            "Crude Oil & Fats 1%",
-            "Crude Ash 2%",
-            "Crude Fiber 0.1%",
-            "Moisture 76%"
-        ],
-        "ingredients": [
-            "Pacific Tuna 75%",
-            "tuna broth 23.5%",
-            "seaweed 0.1%",
-            "rice 1.4%"
-        ],
-        "calorie": "Metabolic energy (Kcal/100g): 83",
-        "additives": ""
+        "calorie": "Metabolic energy 404 Calories/100g"
     },
     {
         "site": "https://www.kookut.com",
@@ -355,8 +105,246 @@
             "dried parsley",
             "dried peppermint."
         ],
-        "calorie": "Metabolic energy 379 Calories/100g",
-        "additives": ""
+        "calorie": "Metabolic energy 379 Calories/100g"
+    },
+    {
+        "site": "https://www.kookut.com",
+        "url": "https://www.kookut.com/products/chicken-duck-dry-food-for-cat",
+        "brand": "KOOKUT",
+        "title": "Chicken & Duck Dry Food for Cat – Kookut",
+        "image": "http://cdn.shopify.com/s/files/1/0561/5740/5392/products/5kg_Cat_ChickenDuck_FRONT.png?v=1618303102",
+        "analysis": [
+            "Analytical constituents Crude protein 34%, Crude Oil & Fats 18%, Crude Ash 9%, Crude Fibres 4%, Omega 6 3.2%, Omega 3 0.8%, Calcium 1.1%, Phosphorus 0.9%",
+            "Vitamins (per kg) Vitamin A 20000 IU, Vitamin D3 1750 IU, Vitamin E 350 IU",
+            "Minerals (mg per kg) Iron 100, Copper 10, Zinc 125, Manganese 30, Iodine, 1,5, Selenium 0,2",
+            "Contains natural anti-oxidants and 1700 mg of Taurine per Kg."
+        ],
+        "ingredients": [
+            "Fresh chicken",
+            "dehydrated chicken",
+            "dehydrated duck",
+            "peas",
+            "split peas",
+            "potatoes",
+            "chicken fat",
+            "hydrolyzed chicken protein",
+            "flax seed",
+            "beet pulp",
+            "salmon oil",
+            "vegetable plant fiber",
+            "chicory (a natural source of FOS and inulin)",
+            "brewery yeast",
+            "MOS (mannan – oligosaccharides)",
+            "minerals",
+            "broccoli",
+            "spinach",
+            "sweet potatoes",
+            "cranberries",
+            "blueberries",
+            "apples",
+            "dried spirulina",
+            "glucosamine hydrochloride",
+            "chondroitin sulfate",
+            "dried yucca schidigera",
+            "rosemary extract",
+            "grape seed extract",
+            "turmeric extract",
+            "clove leaf oil",
+            "dried fenugreek",
+            "lucerne",
+            "dried rosehip",
+            "dried marigold (a natural source of lutein)",
+            "dried parsley",
+            "dried peppermint."
+        ],
+        "calorie": "Metabolic energy 379 Calories/100g"
+    },
+    {
+        "site": "https://www.kookut.com",
+        "url": "https://www.kookut.com/products/pacific-tuna-fillet-natural",
+        "brand": "KOOKUT",
+        "title": "Pacific Tuna - Natural – Kookut",
+        "image": "http://cdn.shopify.com/s/files/1/0561/5740/5392/products/1PacificTunaC.jpg?v=1618321750",
+        "analysis": [
+            "Crude protein 21%",
+            "Crude Oil & Fats 0.5%",
+            "Crude Ash 2%",
+            "Crude Fiber 0.1%",
+            "Moisture 76%"
+        ],
+        "ingredients": [
+            "Pacific Tuna 75.3%",
+            "tuna broth 23.3%",
+            "rice 1.4%"
+        ],
+        "calorie": "Metabolic energy (Kcal/100g): 83"
+    },
+    {
+        "site": "https://www.kookut.com",
+        "url": "https://www.kookut.com/products/free-run-chicken-natural",
+        "brand": "KOOKUT",
+        "title": "Free Run Chicken - Natural – Kookut",
+        "image": "http://cdn.shopify.com/s/files/1/0561/5740/5392/products/4FreeRunChickenC.jpg?v=1618502178",
+        "analysis": [
+            "Crude protein 21%",
+            "Crude Oil & Fats 0.8%",
+            "Crude Ash 1%",
+            "Crude Fiber 0.1%",
+            "Moisture 76%"
+        ],
+        "ingredients": [
+            "Free Run Chicken 75.3%",
+            "chicken broth 23.3%",
+            "rice 1.4%"
+        ],
+        "calorie": "Metabolic energy (Kcal/100g): 90"
+    },
+    {
+        "site": "https://www.kookut.com",
+        "url": "https://www.kookut.com/products/pacific-tuna-sardine-natural",
+        "brand": "KOOKUT",
+        "title": "Pacific Tuna & Sardine - Natural – Kookut",
+        "image": "http://cdn.shopify.com/s/files/1/0561/5740/5392/products/6TunaSardineC.jpg?v=1618503867",
+        "analysis": [
+            "Crude protein 20%",
+            "Crude Oil & Fats 0.8%",
+            "Crude Ash 1.5%",
+            "Crude Fiber 0.1%",
+            "Moisture 76%"
+        ],
+        "ingredients": [
+            "Pacific Tuna 54.8%",
+            "tuna broth 23.3%",
+            "sardine 20.5%",
+            "rice 1.4%"
+        ],
+        "calorie": "Metabolic energy (Kcal/100g): 83"
+    },
+    {
+        "site": "https://www.kookut.com",
+        "url": "https://www.kookut.com/products/pacific-tuna-green-mussels-natural",
+        "brand": "KOOKUT",
+        "title": "Pacific Tuna & Green Mussels - Natural – Kookut",
+        "image": "http://cdn.shopify.com/s/files/1/0561/5740/5392/products/7TunaMusselsC_f5bc5a14-f633-454e-b201-85b3a189a3ab.jpg?v=1618505692",
+        "analysis": [
+            "Crude protein 18%",
+            "Crude Oil & Fats 1%",
+            "Crude Ash 2%",
+            "Crude Fiber 0.1%",
+            "Moisture 77%"
+        ],
+        "ingredients": [
+            "Pacific Tuna 54.8%",
+            "broth 23.3%",
+            "green mussels 20.5%",
+            "rice 1.4%"
+        ],
+        "calorie": "Metabolic energy (Kcal/100g): 76"
+    },
+    {
+        "site": "https://www.kookut.com",
+        "url": "https://www.kookut.com/products/free-run-chicken-pacific-tuna-natural",
+        "brand": "KOOKUT",
+        "title": "Free Run Chicken & Pacific Tuna - Natural – Kookut",
+        "image": "http://cdn.shopify.com/s/files/1/0561/5740/5392/products/3ChickenTunaC.jpg?v=1618503520",
+        "analysis": [
+            "Crude protein 20%",
+            "Crude Oil & Fats 0.6%",
+            "Crude Ash 1.5%",
+            "Crude Fiber 0.1%",
+            "Moisture 76%"
+        ],
+        "ingredients": [
+            "Free Run Chicken 47.9%",
+            "Pacific Tuna 27.4%",
+            "broth 23.3%",
+            "rice 1.4%"
+        ],
+        "calorie": "Metabolic energy (Kcal/100g): 83"
+    },
+    {
+        "site": "https://www.kookut.com",
+        "url": "https://www.kookut.com/products/free-run-chicken-pumpkin-natural",
+        "brand": "KOOKUT",
+        "title": "Free Run Chicken & Pumpkin - Natural – Kookut",
+        "image": "http://cdn.shopify.com/s/files/1/0561/5740/5392/products/10ChickenPumpkinC.jpg?v=1618506063",
+        "analysis": [
+            "Crude protein 22%",
+            "Crude Oil & Fats 1%",
+            "Crude Ash 1%",
+            "Crude Fiber 0.1%",
+            "Moisture 75%"
+        ],
+        "ingredients": [
+            "Free Run chicken 70%",
+            "broth 23.6%",
+            "pumpkin 5%",
+            "rice 1.4%"
+        ],
+        "calorie": "Metabolic energy (Kcal/100g): 90"
+    },
+    {
+        "site": "https://www.kookut.com",
+        "url": "https://www.kookut.com/products/pacific-tuna-baby-clams-natural",
+        "brand": "KOOKUT",
+        "title": "Pacific Tuna & Baby Clams - Natural – Kookut",
+        "image": "http://cdn.shopify.com/s/files/1/0561/5740/5392/products/8TunaBabyClamsC.jpg?v=1618504983",
+        "analysis": [
+            "Crude protein 20%",
+            "Crude Oil & Fats 0.7%",
+            "Crude Ash 2%",
+            "Crude Fiber 0.1%",
+            "Moisture 77%"
+        ],
+        "ingredients": [
+            "Pacific Tuna 67%",
+            "tuna broth 23.6%",
+            "baby clams 8%",
+            "rice 1.4%"
+        ],
+        "calorie": "Metabolic energy (Kcal/100g): 80"
+    },
+    {
+        "site": "https://www.kookut.com",
+        "url": "https://www.kookut.com/products/free-run-chicken-shrimps-natural",
+        "brand": "KOOKUT",
+        "title": "Free Run Chicken & Shrimps - Natural – Kookut",
+        "image": "http://cdn.shopify.com/s/files/1/0561/5740/5392/products/5ChickenShrimpC.jpg?v=1618504307",
+        "analysis": [
+            "Crude protein 19%",
+            "Crude Oil & Fats 0.8%",
+            "Crude Ash 1%",
+            "Crude Fiber 0.1%",
+            "Moisture 79%"
+        ],
+        "ingredients": [
+            "Free Run Chicken 54.8%",
+            "broth 23.3%",
+            "shrimps 20.5%",
+            "rice 1.4%"
+        ],
+        "calorie": "Metabolic energy (Kcal/100g): 79"
+    },
+    {
+        "site": "https://www.kookut.com",
+        "url": "https://www.kookut.com/products/pacific-tuna-seaweed-natural",
+        "brand": "KOOKUT",
+        "title": "Pacific Tuna & Seaweed - Natural – Kookut",
+        "image": "http://cdn.shopify.com/s/files/1/0561/5740/5392/products/9TunaSeaweedC.jpg?v=1618506382",
+        "analysis": [
+            "Crude protein 20%",
+            "Crude Oil & Fats 1%",
+            "Crude Ash 2%",
+            "Crude Fiber 0.1%",
+            "Moisture 76%"
+        ],
+        "ingredients": [
+            "Pacific Tuna 75%",
+            "tuna broth 23.5%",
+            "seaweed 0.1%",
+            "rice 1.4%"
+        ],
+        "calorie": "Metabolic energy (Kcal/100g): 83"
     },
     {
         "site": "https://www.kookut.com",
@@ -376,7 +364,6 @@
             "salmon broth 23.3%",
             "rice 1.4%"
         ],
-        "calorie": "Metabolic energy (Kcal/100g): 95",
-        "additives": ""
+        "calorie": "Metabolic energy (Kcal/100g): 95"
     }
 ]

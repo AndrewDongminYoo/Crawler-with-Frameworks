@@ -3,31 +3,29 @@
         "site": "https://nw-naturals.net",
         "url": "https://nw-naturals.net/freeze-dried-cat-nibbles/#FDCat-Chicken-Recipe",
         "brand": "Northwest Naturals",
-        "title": "Freeze Dried Cat Nibbles CHICKEN DIET FOR CATS | Northwest Naturals",
-        "image": "https://nw-naturals.net/wp-content/uploads/2016/06/freeze-dried-cat-food.jpg",
+        "title": "Freeze Dried Cat Nibbles WHITEFISH DIET FOR CATS | Northwest Naturals",
+        "image": "https://images.app.goo.gl/rXj17goDubxR8Yvv6",
         "analysis": [
-            "Minimum Protein 45%",
-            "Minimum Fat 15%",
+            "Minimum Protein 50%",
+            "Minimum Fat 9%",
             "Maximum Fiber 5%",
             "Maximum Moisture 5%",
-            "Ash 9%",
+            "Ash 12%",
             "Carbohydrates 1%",
-            "Calcium 1.73%",
-            "Phosphorous 1.26%",
-            "Copper (ppm) 17.8 ppm",
-            "Zinc (ppm) 228.0 ppm",
-            "Cal/Phos 1.3/1",
-            "Sodium 0.5%",
+            "Calcium 2.75%",
+            "Phosphorous 1.70%",
+            "Copper (ppm) 16.0 ppm",
+            "Zinc (ppm) 230.0 ppm",
+            "Cal/Phos 1.4/1",
+            "Sodium 0.51%",
             "Magnesium 0.13%",
             "Magnesium 0.23%",
-            "ME(kcal/kg) 3807",
-            "Kcal/oz(calculated) 134"
+            "ME(kcal/kg) 3455",
+            "Kcal/oz(calculated) 122"
         ],
         "ingredients": [
-            "Chicken",
-            "Chicken Necks",
-            "Chicken Hearts",
-            "Chicken Liver",
+            "Whitefish",
+            "Whitefish with Bone",
             "Egg",
             "Gelatin",
             "Water",
@@ -47,8 +45,7 @@
             "Copper Proteinate",
             "Mixed Tocopherols (as preservative). Vitamin D3 Supplement."
         ],
-        "calorie": "ME(kcal/kg) 3807",
-        "additives": ""
+        "calorie": "ME(kcal/kg) 3455"
     },
     {
         "site": "https://nw-naturals.net",
@@ -97,8 +94,7 @@
             "Copper Proteinate",
             "Mixed Tocopherols (as preservative). Vitamin D3 Supplement."
         ],
-        "calorie": "ME(kcal/kg) 4905",
-        "additives": ""
+        "calorie": "ME(kcal/kg) 4905"
     },
     {
         "site": "https://nw-naturals.net",
@@ -146,8 +142,7 @@
             "Vitamin E Supplement",
             "Mixed Tocopherols (as preservative). Vitamin D3 Supplement."
         ],
-        "calorie": "ME(kcal/kg) 3875",
-        "additives": ""
+        "calorie": "ME(kcal/kg) 3875"
     },
     {
         "site": "https://nw-naturals.net",
@@ -197,8 +192,7 @@
             "Copper Proteinate",
             "Mixed Tocopherols (as preservative). Vitamin D3 Supplement."
         ],
-        "calorie": "ME(kcal/kg) 3800",
-        "additives": ""
+        "calorie": "ME(kcal/kg) 3800"
     },
     {
         "site": "https://nw-naturals.net",
@@ -246,7 +240,6 @@
             "Copper Proteinate",
             "Mixed Tocopherols (as preservative). Vitamin D3 Supplement."
         ],
-        "calorie": "ME(kcal/kg) 3455",
-        "additives": ""
+        "calorie": "ME(kcal/kg) 3455"
     }
 ]

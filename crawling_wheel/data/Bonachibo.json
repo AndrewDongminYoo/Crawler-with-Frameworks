@@ -31,8 +31,7 @@
             "Cranberry Powder",
             "Psyllium."
         ],
-        "calorie": "",
-        "additives": ""
+        "calorie": ""
     },
     {
         "site": "https://www.bonacibo.com",
@@ -66,8 +65,7 @@
             "Cranberry Powder",
             "Psyllium."
         ],
-        "calorie": "",
-        "additives": ""
+      "calorie": ""
     },
     {
         "site": "https://www.bonacibo.com",
@@ -101,8 +99,7 @@
             "Cranberry Powder",
             "Psyllium."
         ],
-        "calorie": "",
-        "additives": ""
+      "calorie": ""
     },
     {
         "site": "https://www.bonacibo.com",
@@ -136,7 +133,6 @@
             "Cranberry Powder",
             "Psyllium."
         ],
-        "calorie": "",
-        "additives": ""
+      "calorie": ""
     }
 ]

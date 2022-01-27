@@ -33,8 +33,7 @@
             "Calcium Carbonate",
             "Choline Chloride."
         ],
-        "calorie": "Calorie Content (calculated) ME 888 kcal/kg, 150 kcal per pack",
-        "additives": ""
+        "calorie": "Calorie Content (calculated) ME 888 kcal/kg, 150 kcal per pack"
     },
     {
         "site": "https://carupetfood.com",
@@ -69,8 +68,7 @@
             "Minerals (Zinc Amino Acid Chelate, Iron Amino Acid Chelate, Copper Amino Acid Chelate, Manganese Amino Acid Chelate, Magnesium Amino Acid Chelate, Iodine Amino Acid Chelate, Sodium Selenite)",
             "Choline Chloride."
         ],
-        "calorie": "902 kcal/kg",
-        "additives": ""
+      "calorie": "902 kcal/kg"
     },
     {
         "site": "https://carupetfood.com",
@@ -105,8 +103,7 @@
             "Minerals (Zinc Amino Acid Chelate, Iron Amino Acid Chelate, Copper Amino Acid Chelate, Manganese Amino Acid Chelate, Magnesium Amino Acid Chelate, Iodine Amino Acid Chelate, Sodium Selenite)",
             "Choline Chloride."
         ],
-        "calorie": "991 kcal/kg",
-        "additives": ""
+      "calorie": "991 kcal/kg"
     },
     {
         "site": "https://carupetfood.com",
@@ -143,7 +140,6 @@
             "Potassium Chloride",
             "Choline Chloride."
         ],
-        "calorie": "792 kcal/kg",
-        "additives": ""
+      "calorie": "792 kcal/kg"
     }
 ]

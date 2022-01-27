@@ -56,8 +56,7 @@
             "Vitamin B12 Supplement",
             "Folic Acid"
         ],
-        "calorie": "1147 kcal/kg",
-        "additives": ""
+        "calorie": "1147 kcal/kg"
     },
     {
         "site": "https://www.veruspetfoods.com",
@@ -117,8 +116,7 @@
             "Folic Acid",
             "Menadione Sodium Bisulfite Complex (a source of Vitamin K activity)"
         ],
-        "calorie": "1174 kcal/kg",
-        "additives": ""
+        "calorie": "1174 kcal/kg"
     },
     {
         "site": "https://www.veruspetfoods.com",
@@ -177,8 +175,7 @@
             "Folic Acid",
             "Menadione Sodium Bisulfite Complex (a source of Vitamin K activity)"
         ],
-        "calorie": "944 kcal/kg",
-        "additives": ""
+        "calorie": "944 kcal/kg"
     },
     {
         "site": "https://www.veruspetfoods.com",
@@ -236,66 +233,7 @@
             "Vitamin B12 Supplement",
             "Folic Acid"
         ],
-        "calorie": "1215 kcal/kg",
-        "additives": ""
-    },
-    {
-        "site": "https://www.veruspetfoods.com",
-        "url": "https://www.veruspetfoods.com/felineoceanfish-detail/",
-        "brand": "Verus",
-        "title": "Verus Pet Foods - Feline turkeychix&oceanfish-detail",
-        "image": "https://images.app.goo.gl/GowxdxweKXcANXac9",
-        "analysis": [
-            "Guaranteed Analysis As  Fed",
-            "Protein: 9.00% 12.57%",
-            "Fat: 5.00% 11.07%",
-            "Fiber: 1.50% 0.33%",
-            "Moisture: 78.00% 72.60%",
-            "Magnesium: 0.025% 0.03%",
-            "Taurine: 0.05% 0.14%",
-            "Ash: 1.90% 2.32%",
-            "Calcium – 0.51%",
-            "Phosphorus – 0.37%",
-            "Potassium – 0.25%",
-            "Sodium – 0.18%",
-            "Carbs <5 <5"
-        ],
-        "ingredients": [
-            "Ocean Fish (Sardine, Mackerel, Salmon)",
-            "Fish Broth",
-            "Chicken Liver",
-            "Turkey",
-            "Chicken",
-            "Brown Rice Flour",
-            "Natural Flavor",
-            "Agar-Agar",
-            "Salt",
-            "Choline Chloride",
-            "Taurine",
-            "Zinc Proteinate",
-            "Potassium Chloride",
-            "Iron Proteinate",
-            "Copper Proteinate",
-            "Sodium Selenite",
-            "Manganese Proteinate",
-            "Organic Sunflower Oil",
-            "Ethylenediamine Dihydriodide",
-            "Thiamine Mononitrate",
-            "Calcium Carbonate",
-            "Niacin Supplement",
-            "Vitamin E Supplement",
-            "Vitamin A Acetate",
-            "d-Calcium Pantothenate",
-            "Pyridoxine Hydrochloride",
-            "Riboflavin Supplement",
-            "Biotin",
-            "Vitamin D3 Supplement",
-            "Vitamin B12 Supplement",
-            "Folic Acid",
-            "Menadione Sodium Bisulfite Complex (a source of Vitamin K activity)"
-        ],
-        "calorie": "1060 kcal/kg",
-        "additives": ""
+        "calorie": "1215 kcal/kg"
     },
     {
         "site": "https://www.veruspetfoods.com",
@@ -352,8 +290,7 @@
             "Vitamin B12 Supplement",
             "Folic Acid"
         ],
-        "calorie": "1136 kcal/kg",
-        "additives": ""
+        "calorie": "1136 kcal/kg"
     },
     {
         "site": "https://www.veruspetfoods.com",
@@ -412,7 +349,6 @@
             "Folic Acid",
             "Menadione Sodium Bisulfite Complex (a source of Vitamin K activity)"
         ],
-        "calorie": "1091 kcal/kg",
-        "additives": ""
+        "calorie": "1091 kcal/kg"
     }
 ]

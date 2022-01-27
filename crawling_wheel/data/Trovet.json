@@ -25,8 +25,7 @@
             "calcium carbonate",
             "sodium chloride."
         ],
-        "calorie": "3903 kcal/kg",
-        "additives": ""
+        "calorie": "3903 kcal/kg"
     },
     {
         "site": "https://www.trovet.com",
@@ -62,8 +61,7 @@
             "chondroitin sulphate",
             "green tea extract."
         ],
-        "calorie": "3474 kcal/kg",
-        "additives": ""
+      "calorie": "3474 kcal/kg"
     },
     {
         "site": "https://www.trovet.com",
@@ -88,8 +86,7 @@
             "fish oil",
             "vitamins and minerals."
         ],
-        "calorie": "3675 kcal/kg",
-        "additives": ""
+      "calorie": "3675 kcal/kg"
     },
     {
         "site": "https://www.trovet.com",
@@ -122,8 +119,7 @@
             "beta glucans",
             "yucca."
         ],
-        "calorie": "3873 kcal/kg",
-        "additives": ""
+      "calorie": "3873 kcal/kg"
     },
     {
         "site": "https://www.trovet.com",
@@ -153,8 +149,7 @@
             "choline chloride",
             "potassium citrate."
         ],
-        "calorie": "4118 kcal/kg",
-        "additives": ""
+      "calorie": "4118 kcal/kg"
     },
     {
         "site": "https://www.trovet.com",
@@ -184,8 +179,7 @@
             "vitamins and trace elements",
             "choline chloride."
         ],
-        "calorie": "4083 kcal/kg",
-        "additives": ""
+      "calorie": "4083 kcal/kg"
     },
     {
         "site": "https://www.trovet.com",
@@ -213,7 +207,6 @@
             "fish oil",
             "sodium chloride."
         ],
-        "calorie": "3254 kcal/kg",
-        "additives": ""
+      "calorie": "3254 kcal/kg"
     }
 ]

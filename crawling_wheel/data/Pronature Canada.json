@@ -84,8 +84,7 @@
         "calorie": [
             "455 kcal/CUP",
             "4330kcal/kg"
-        ],
-        "additives": ""
+        ]
     },
     {
         "site": "https://www.pronature.ca",
@@ -174,8 +173,7 @@
         "calorie": [
             "455kcal/\"CUP",
             "4330kcal/kg"
-        ],
-        "additives": ""
+        ]
     },
     {
         "site": "https://www.pronature.ca",
@@ -269,8 +267,7 @@
         "calorie": [
             "445 kcal/\"CUP",
             "4240kcal/kg"
-        ],
-        "additives": ""
+        ]
     },
     {
         "site": "https://www.pronature.ca",
@@ -343,8 +340,7 @@
             "dried papaya",
             "rosemary extract."
         ],
-        "calorie": "521 kcal/ CUP 4340 kcal/ kg",
-        "additives": ""
+        "calorie": "521 kcal/ CUP 4340 kcal/ kg"
     },
     {
         "site": "https://www.pronature.ca",
@@ -381,8 +377,7 @@
             "tomatoes",
             "minerals (ferrous sulfate, zinc oxide, zinc proteinate, manganous oxide, manganese proteinate, copper proteinate, sodium selenite, calcium iodate], vitamins [alpha-tocopherol acetate (a source of Vitamin E), nicotinic acid, d- calcium pantothenate, Vitamin A supplement, cholecalciferol (a source of Vitamin D3), thiamine mononitrate, biotin, riboflavin, pyridoxine hydrochloride, Vitamin B12 supplement, folic acid], choline chloride, monosodium phosphate, dried kelp, DL-methionine, taurine, basil, parsley, oregano, ascorbic acid (Vitamin C), yucca schidigera extract, dried papaya, rosemary extract."
         ],
-        "calorie": "465 kcal/ CUP 3876 kcal/ kg",
-        "additives": ""
+        "calorie": "465 kcal/ CUP 3876 kcal/ kg"
     },
     {
         "site": "https://www.pronature.ca",
@@ -470,7 +465,6 @@
         "calorie": [
             "445 kcal/\"CUP",
             "4240 kcal/kg"
-        ],
-        "additives": ""
+        ]
     }
 ]

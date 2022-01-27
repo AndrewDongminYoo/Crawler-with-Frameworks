@@ -37,8 +37,7 @@
             "Vitamin B12",
             "Folic Acid."
         ],
-        "calorie": "4400 kcal/kg",
-        "additives": ""
+        "calorie": "4400 kcal/kg"
     },
     {
         "site": "https://www.itipet.com",
@@ -84,8 +83,7 @@
             "Folic Acid",
             "Vitamin D3"
         ],
-        "calorie": "1010 kcal/kg",
-        "additives": ""
+        "calorie": "1010 kcal/kg"
     },
     {
         "site": "https://www.itipet.com",
@@ -128,8 +126,7 @@
             "Folic Acid",
             "Vitamin D3."
         ],
-        "calorie": "1120 kcal/kg",
-        "additives": ""
+        "calorie": "1120 kcal/kg"
     },
     {
         "site": "https://www.itipet.com",
@@ -169,8 +166,7 @@
             "Folic Acid",
             "Vitamin D3"
         ],
-        "calorie": "1054 kcal/kg",
-        "additives": ""
+        "calorie": "1054 kcal/kg"
     },
     {
         "site": "https://www.itipet.com",
@@ -218,8 +214,7 @@
             "Folic Acid",
             "Vitamin D3."
         ],
-        "calorie": "1100 kcal/kg",
-        "additives": ""
+        "calorie": "1100 kcal/kg"
     },
     {
         "site": "https://www.itipet.com",
@@ -259,8 +254,7 @@
             "Vitamin B12",
             "Folic Acid."
         ],
-        "calorie": "4030 kcal/kg",
-        "additives": ""
+        "calorie": "4030 kcal/kg"
     },
     {
         "site": "https://www.itipet.com",
@@ -300,8 +294,7 @@
             "Vitamin B12",
             "Folic Acid."
         ],
-        "calorie": "4250 kcal/kg",
-        "additives": ""
+        "calorie": "4250 kcal/kg"
     },
     {
         "site": "https://www.itipet.com",
@@ -341,7 +334,6 @@
             "Vitamin B12",
             "Folic Acid."
         ],
-        "calorie": "5080 kcal/kg",
-        "additives": ""
+        "calorie": "5080 kcal/kg"
     }
 ]
