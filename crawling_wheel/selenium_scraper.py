@@ -1,12 +1,13 @@
+import time
+
 from selenium.common.exceptions import JavascriptException
 from selenium.webdriver import Chrome
 from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.remote.webelement import WebElement
 from selenium.webdriver.common.by import By
+from selenium.webdriver.remote.webelement import WebElement
 
+from crawling_wheel.data import result
 from crawling_wheel.models import CatFood
-from crawling_wheel.data.data import result
-import time
 
 
 class WebScrapper:

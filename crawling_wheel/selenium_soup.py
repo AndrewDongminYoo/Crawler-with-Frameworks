@@ -1,16 +1,17 @@
 import time
 
-from selenium.common.exceptions import TimeoutException, JavascriptException
-from selenium.webdriver.support import expected_conditions as EC
 import pymongo
+from bs4 import BeautifulSoup
+from selenium.common.exceptions import TimeoutException
+from selenium.webdriver import Chrome
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
+from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
-from .my_logging import get_my_logger
-from crawling_wheel.data.data import result
-from selenium.webdriver import Chrome
+
+from crawling_wheel.data import result
 from .models import CatFood
-from bs4 import BeautifulSoup
+from .my_logging import get_my_logger
 
 
 class WebScrapper:
