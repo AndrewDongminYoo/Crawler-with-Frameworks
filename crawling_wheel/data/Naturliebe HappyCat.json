@@ -1,0 +1,65 @@
+[
+    {
+        "site": "https://www.green-petfood.com",
+        "url": "https://www.green-petfood.com/catfood/catfood-dry/faircat-safe",
+        "brand": "Naturliebe HappyCat",
+        "title": "FairCat Safe ♥ | green-petfood.com",
+        "image": "https://images.app.goo.gl/ozFvrCK8kXKs77s48",
+        "analysis": "",
+        "ingredients": [
+            "dried chicken protein from a more species-appropriate husbandry 21.0 %",
+            "rice",
+            "dried potato",
+            "chicken fat from a more species-appropriate husbandry 11.2 %",
+            "potato protein",
+            "insects 6.0 %",
+            "beet fibre",
+            "partially hydrolysed yeast",
+            "minerals",
+            "herbs",
+            "fruits",
+            "ground chicory root (natural source of inulin)"
+        ],
+        "calorie": "",
+        "additives": ""
+    },
+    {
+        "site": "https://www.green-petfood.com",
+        "url": "https://www.green-petfood.com/catfood/catfood-dry/faircat-vital",
+        "brand": "Naturliebe HappyCat",
+        "title": "FairCat Vital ☀ | green-petfood.com",
+        "image": "https://images.app.goo.gl/4KLYZrtUFgJXzJA4A",
+        "analysis": "",
+        "ingredients": [
+            "dried chicken protein from a more species-appropriate husbandry 30.0 %",
+            "dried potato",
+            "pea flour (natural source of amino acids)",
+            "chicken fat from a more species-appropriate husbandry 8.9 %",
+            "beet fibre",
+            "potato protein",
+            "dried red lentil",
+            "partially hydrolysed yeast",
+            "ground chicory root (natural source of inulin)."
+        ],
+        "calorie": "",
+        "additives": ""
+    },
+    {
+        "site": "https://www.green-petfood.com",
+        "url": "https://www.green-petfood.com/catfood/catfood-wet/faircat-happy",
+        "brand": "Naturliebe HappyCat",
+        "title": "FairCat Happy ☀ | green-petfood.com",
+        "image": "https://images.app.goo.gl/Jf9XcKKWSVEqegcG8",
+        "analysis": "",
+        "ingredients": [
+            "chicken from a more species-appropriate husbandry (heart, meat, liver, necks) 70.0 %",
+            "stock",
+            "minerals",
+            "cellulose",
+            "faxseed oil 0.50 %",
+            "psyllium husks 0.10 %."
+        ],
+        "calorie": "",
+        "additives": ""
+    }
+]

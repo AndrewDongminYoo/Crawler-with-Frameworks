@@ -1,0 +1,76 @@
+[
+    {
+        "site": "https://www.almonature.com",
+        "url": "https://www.almonature.com/en/cat-products/1001H-HQS-Natural-Chicken-Drumstick-in-broth",
+        "brand": "",
+        "title": "HQS Natural Chicken Drumstick in broth - Almo Nature - US",
+        "image": "https://cdn2.hubspot.net/hubfs/5354869/products/cat/wet/hqs/chicken_Drumstick_in_broth_70_g_412.png",
+        "analysis": [
+            "Crude Protein 17%",
+            "Crude Fat 7%",
+            "Moisture 76%",
+            "Crude Fiber 0.1%",
+            "Ash 3%",
+            "Energy 1200 - Kcal/70 g (2.47 oz) 84.0"
+        ],
+        "ingredients": [
+            "Ingredients: Chicken Drumstick 76%",
+            "Water Sufficient For Cooking 24%."
+        ],
+        "calorie": "1200 - Kcal/70 g (2.47 oz) 84.0",
+        "additives": ""
+    },
+    {
+        "site": "https://www.almonature.com",
+        "url": "https://www.almonature.com/en/cat-products/1002H-HQS-Natural-Chicken-with-Pumpkin-in-broth",
+        "brand": "",
+        "title": "HQS Natural Chicken with Pumpkin in broth - Almo Nature - US",
+        "image": "https://cdn2.hubspot.net/hubfs/5354869/products/cat/wet/hqs/chicken_with_Pumpkin_in_broth_70_g_412.png",
+        "analysis": "",
+        "ingredients": [
+            "Ingredients: Chicken 69%",
+            "Water Sufficient For Cooking 24%",
+            "Pumpkin 7%."
+        ],
+        "calorie": "Kcal/70 g (2.47 oz) 43.5",
+        "additives": ""
+    },
+    {
+        "site": "https://www.almonature.com",
+        "url": "https://www.almonature.com/en/cat-products/1003H-HQS-Natural-Mixed-Seafood-in-broth",
+        "brand": "",
+        "title": "HQS Natural Mixed Seafood in broth - Almo Nature - US",
+        "image": "https://cdn2.hubspot.net/hubfs/5354869/products/cat/wet/hqs/mixed_Seafood_in_broth_70_g_412.png",
+        "analysis": [
+            "Crude Protein 13%",
+            "Crude Fat 0.3%",
+            "Moisture 83%",
+            "Crude Fiber 1%",
+            "Ash 2%",
+            "Energy 480 - Kcal/70 g (2.47 oz) 33.6"
+        ],
+        "ingredients": [
+            "Ingredients: White Fish 46%",
+            "Water Sufficient For Cooking 24%",
+            "Clams 14%",
+            "Squid 9%",
+            "Shrimp 7%."
+        ],
+        "calorie": "480 - Kcal/70 g (2.47 oz) 33.6",
+        "additives": ""
+    },
+    {
+        "site": "https://www.almonature.com",
+        "url": "https://www.almonature.com/en/cat-products/1004H-HQS-Natural-Chicken-Breast-in-broth",
+        "brand": "",
+        "title": "HQS Natural Chicken Breast in broth - Almo Nature - US",
+        "image": "https://cdn2.hubspot.net/hubfs/5354869/products/cat/wet/hqs/chicken_Breast_in_broth_70_g_412.png",
+        "analysis": "",
+        "ingredients": [
+            "Ingredients: Chicken Breast 76%",
+            "Water Sufficient For Cooking 24%."
+        ],
+        "calorie": "620 kcal/kg",
+        "additives": ""
+    }
+]

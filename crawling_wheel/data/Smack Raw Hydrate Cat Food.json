@@ -1,0 +1,102 @@
+[
+    {
+        "site": "https://ca.smackpetfood.com",
+        "url": "https://ca.smackpetfood.com/collections/cats/products/pacific-fish-feast",
+        "brand": "Smack Raw Hydrate Cat Food",
+        "title": "Pacific Fish Feast (CAT) – Smack Pet Food",
+        "image": "http://cdn.shopify.com/s/files/1/0323/7685/products/pff15sup_grande.jpg?v=1558008139",
+        "analysis": [
+            "Crude Protein: - 50.0%",
+            "Crude Fat: - 32.0%",
+            "Crude Fibre: - 1.5%",
+            "Moisture: - 4.0%",
+            "Calcium: - 1.95%",
+            "Phosphorus: - 1.55%",
+            "Carbohydrates: - 3.5%",
+            "Taurine: - 0.27%"
+        ],
+        "ingredients": [
+            "Wild Rockfish",
+            "Wild Herring",
+            "Pumpkin*",
+            "Spinach*",
+            "Celery*",
+            "Apple*",
+            "Parsley*",
+            "Kale*",
+            "Turmeric*",
+            "Tocopherols*."
+        ],
+        "calorie": "(CALCULATED): 5500 kcal/kg, 550 kcal/cup",
+        "additives": ""
+    },
+    {
+        "site": "https://ca.smackpetfood.com",
+        "url": "https://ca.smackpetfood.com/collections/cats/products/purrfect-pork",
+        "brand": "Smack Raw Hydrate Cat Food",
+        "title": "Purrfect Pork (CAT) – Smack Pet Food",
+        "image": "http://cdn.shopify.com/s/files/1/0323/7685/products/pp15sup_grande.jpg?v=1558009874",
+        "analysis": [
+            "Crude Protein: - 40.0%",
+            "Crude Fat: - 30.0%",
+            "Crude Fibre: - 1.8%",
+            "Moisture: - 4.0%",
+            "Carbohydrates: - 2.5%",
+            "Calcium: - 1.90 %",
+            "Phosphorus: - 1.22%",
+            "Taurine: - 0.27%"
+        ],
+        "ingredients": [
+            "Pork (Bone-In)",
+            "Pork Organs (Heart, Liver, Kidney, Tongue, and Spleen)",
+            "Pumpkin*",
+            "Kale*",
+            "Apple*",
+            "Celery*",
+            "Blueberry*",
+            "Cranberry*",
+            "Turmeric*",
+            "Tocopherols*."
+        ],
+        "calorie": "(CALCULATED): 4600 kcal/kg, 460 kcal/cup",
+        "additives": ""
+    },
+    {
+        "site": "https://ca.smackpetfood.com",
+        "url": "https://ca.smackpetfood.com/collections/cats/products/very-berry-for-cats-crunchy-style-240-g",
+        "brand": "Smack Raw Hydrate Cat Food",
+        "title": "Very Berry for Cats – Smack Pet Food",
+        "image": "http://cdn.shopify.com/s/files/1/0323/7685/products/vbfc15sup_grande.jpg?v=1557862038",
+        "analysis": [
+            "Crude Protein: - 52.0%",
+            "Crude Fat: - 27.0%",
+            "Crude Fibre: - 1.8%",
+            "Moisture: - 6.0%",
+            "Carbohydrates: - 1.5%",
+            "Calcium: - 1.00%",
+            "Phosphorus: - 0.80%",
+            "Sodium: - 0.25%",
+            "Magnesium: - 0.08%",
+            "Iron: - 105mg/kg",
+            "Zinc: - 84mg/kg",
+            "Taurine: - 0.23%"
+        ],
+        "ingredients": [
+            "Chicken*",
+            "Wild Salmon",
+            "Chicken Liver",
+            "Chicken Gizzard",
+            "Chicken Heart",
+            "Cranberry*",
+            "Blueberry*",
+            "Parsley*",
+            "Thyme*",
+            "Strawberry*",
+            "Spinach*",
+            "Celery*",
+            "Tocopherols*."
+        ],
+        "calorie": "(CALCULATED): 4740 kcal/kg, 474 kcal/cup",
+        "additives": ""
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "site": "https://www.miamor.de",
+        "url": "https://www.miamor.de/en/product/ragout-royale-in-cream-pouch-chicken-in-carrot-cream-100-g",
+        "brand": "Miamor (German)",
+        "title": "Ragout Royale in Cream Chicken in carrot cream Pouch 100 g",
+        "image": "https://www.miamor.de/fileadmin/products/miamor/73044.png",
+        "analysis": "",
+        "ingredients": [
+            "Meat and animal by-products (including 26% chicken, 14% poultry)",
+            "vegetables (4% carrots)",
+            "cereals",
+            "milk and dairy products",
+            "minerals",
+            "inulin (0.1%)."
+        ],
+        "calorie": "Calories / 100g: 85 kcal",
+        "additives": ""
+    },
+    {
+        "site": "https://www.miamor.de",
+        "url": "https://www.miamor.de/en/product/ragout-royale-in-cream-pouch-duck-in-herb-cream-100-g",
+        "brand": "Miamor (German)",
+        "title": "Ragout Royale in Cream Duck in herb cream Pouch 100 g",
+        "image": "https://www.miamor.de/fileadmin/products/miamor/73043.png",
+        "analysis": "",
+        "ingredients": [
+            "Meat and animal by-products (including 14% poultry, of which 5% duck)",
+            "cereals",
+            "milk and dairy products",
+            "minerals",
+            "herbs (0.5%)",
+            "inulin (0.1%)."
+        ],
+        "calorie": "Calories / 100g: 85 kcal",
+        "additives": ""
+    },
+    {
+        "site": "https://www.miamor.de",
+        "url": "https://www.miamor.de/en/product/ragout-royale-in-cream-pouch-salmon-in-yoghurt-cream-100-g",
+        "brand": "Miamor (German)",
+        "title": "Ragout Royale in Cream Salmon in yoghurt cream Pouch 100 g",
+        "image": "https://www.miamor.de/fileadmin/products/miamor/73041.png",
+        "analysis": "",
+        "ingredients": [
+            "Meat and animal by-products (14 % poultry)",
+            "fish and fish by-products (5 % salmon)",
+            "cereals",
+            "milk and dairy products (4 % yoghurt)",
+            "minerals",
+            "inulin (0.1 %)."
+        ],
+        "calorie": "Calories / 100g: 85 kcal",
+        "additives": ""
+    },
+    {
+        "site": "https://www.miamor.de",
+        "url": "https://www.miamor.de/en/product/ragout-royale-in-cream-pouch-veal-in-tomato-cream-100-g",
+        "brand": "Miamor (German)",
+        "title": "Ragout Royale in Cream Veal in tomato cream Pouch 100 g",
+        "image": "https://www.miamor.de/fileadmin/products/miamor/73042.png",
+        "analysis": "",
+        "ingredients": [
+            "Meat and animal by-products (including 14 % poultry, including 5 % veal)",
+            "vegetables (4 % tomatoes)",
+            "cereals",
+            "milk and dairy products",
+            "minerals",
+            "inulin (0.1 %)."
+        ],
+        "calorie": "Calories / 100g: 85 kcal",
+        "additives": ""
+    }
+]

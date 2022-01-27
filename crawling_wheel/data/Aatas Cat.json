@@ -1,0 +1,112 @@
+[
+    {
+        "site": "https://www.aatascat.com",
+        "url": "https://www.aatascat.com/tantalizingtunachicken",
+        "brand": "Aatas Cat",
+        "title": "TANTALIZING TUNA & CHICKEN",
+        "image": "https://lirp.cdn-website.com/967db7fc/dms3rep/multi/opt/Tuna+%26+Chicken-34f87363-1920w.png",
+        "analysis": [
+            "Crude Protein: 10.0%",
+            "Crude Fat: 0.4%",
+            "Crude Fiber: 1.0%",
+            "Ash: 2.0%",
+            "Moisture: 89.0%"
+        ],
+        "ingredients": [
+            "Tuna Broth",
+            "Tuna",
+            "Chicken",
+            "Gelling agents (Seaweed, Cassia Gum, Guar Gum, Locust Bean Gum, Potassium Chloride & Carbonates)"
+        ],
+        "calorie": "480 kcal/kg",
+        "additives": ""
+    },
+    {
+        "site": "https://www.aatascat.com",
+        "url": "https://www.aatascat.com/tantalizingtunasalmon",
+        "brand": "Aatas Cat",
+        "title": "TANTALIZING TUNA & SALMON",
+        "image": "https://lirp.cdn-website.com/967db7fc/dms3rep/multi/opt/Tuna+%26+Salmon-83be8088-1920w.png",
+        "analysis": [
+            "Crude Protein: 10.0%",
+            "Crude Fat: 0.3%",
+            "Crude Fiber: 1.0%",
+            "Ash: 3.0%",
+            "Moisture: 89.0%"
+        ],
+        "ingredients": [
+            "Tuna Broth",
+            "Tuna",
+            "Salmon",
+            "Gelling agents (Seaweed, Cassia Gum, Guar Gum, Locust Bean Gum, Potassium Chloride & Carbonates)"
+        ],
+        "calorie": "470 kcal/kg",
+        "additives": ""
+    },
+    {
+        "site": "https://www.aatascat.com",
+        "url": "https://www.aatascat.com/tantalizingtunasnapper",
+        "brand": "Aatas Cat",
+        "title": "TANTALIZING TUNA & SNAPPER",
+        "image": "https://lirp.cdn-website.com/967db7fc/dms3rep/multi/opt/Tuna+%26+Snapper-363d8c8f-1920w.png",
+        "analysis": [
+            "Crude Protein: 10.0%",
+            "Crude Fat: 0.3%",
+            "Crude Fiber: 1.0%",
+            "Ash: 3.0%",
+            "Moisture: 89.0%"
+        ],
+        "ingredients": [
+            "Tuna Broth",
+            "Tuna",
+            "Snapper",
+            "Gelling agents (Seaweed, Cassia Gum, Guar Gum, Locust Bean Gum, Potassium Chloride & Carbonates)"
+        ],
+        "calorie": "470 kcal/kg",
+        "additives": ""
+    },
+    {
+        "site": "https://www.aatascat.com",
+        "url": "https://www.aatascat.com/tantalizingtunasquid",
+        "brand": "Aatas Cat",
+        "title": "TANTALIZING TUNA & SQUID",
+        "image": "https://lirp.cdn-website.com/967db7fc/dms3rep/multi/opt/Tuna+%26+Squid-42ea0517-1920w.png",
+        "analysis": [
+            "Crude Protein: 10.0%",
+            "Crude Fat: 0.3%",
+            "Crude Fiber: 1.0%",
+            "Ash: 3.0%",
+            "Moisture: 89.0%"
+        ],
+        "ingredients": [
+            "Tuna Broth",
+            "Tuna",
+            "Squid",
+            "Gelling agents (Seaweed, Cassia Gum, Guar Gum, Locust Bean Gum, Potassium Chloride & Carbonates)"
+        ],
+        "calorie": "470 kcal/kg",
+        "additives": ""
+    },
+    {
+        "site": "https://www.aatascat.com",
+        "url": "https://www.aatascat.com/tantalizingtunatilapia",
+        "brand": "Aatas Cat",
+        "title": "TANTALIZING TUNA & TILAPIA",
+        "image": "https://lirp.cdn-website.com/967db7fc/dms3rep/multi/opt/Tuna+%26+Tilapia-869f11dd-1920w.png",
+        "analysis": [
+            "Crude Protein: 10.0%",
+            "Crude Fat: 0.4%",
+            "Crude Fiber: 1.0%",
+            "Ash: 2.0%",
+            "Moisture: 89.0%"
+        ],
+        "ingredients": [
+            "Tuna Broth",
+            "Tuna",
+            "Tilapia",
+            "Gelling agents (Seaweed, Cassia Gum, Guar Gum, Locust Bean Gum, Potassium Chloride & Carbonates)"
+        ],
+        "calorie": "480 kcal/kg",
+        "additives": ""
+    }
+]
