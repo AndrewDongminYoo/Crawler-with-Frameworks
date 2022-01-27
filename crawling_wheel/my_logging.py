@@ -1,5 +1,6 @@
 import logging.config
-from .settings import LOGGING_CONFIG
+
+from settings import LOGGING_CONFIG
 
 
 def get_my_logger(name):

@@ -26,5 +26,4 @@ class CatFood(me.Document):
     analysis = me.StringField(default="")
     ingredients = me.StringField(default="")
     calorie = me.StringField(default="")
-    additives = me.StringField(default="")
     updated_at = me.DateTimeField(default=datetime.datetime.now())

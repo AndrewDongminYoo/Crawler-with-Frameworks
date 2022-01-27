@@ -2,6 +2,7 @@ import os
 
 BASE_DIR = os.path.realpath(os.path.dirname(__file__))
 LOG_DIR = os.path.join(BASE_DIR, 'logs')
+CALLING_APP = "STRING_REPLACER"
 
 if not os.path.exists(LOG_DIR):
     os.mkdir(LOG_DIR)
@@ -55,7 +56,7 @@ LOGGING_CONFIG = {
         "file": {
             "level": "DEBUG",
             "class": "logging.handlers.RotatingFileHandler",
-            "filename": os.path.join(LOG_DIR, "crawler.log"),
+            "filename": os.path.join(LOG_DIR, f"{CALLING_APP}.log"),
             "formatter": "default",
             "backupCount": 3,
             "maxBytes": 1024 * 1024 * 2,
