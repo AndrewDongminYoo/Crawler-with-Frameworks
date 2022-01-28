@@ -29,3 +29,5 @@ Scrapy~=2.5.1
 itemadapter~=0.4.0
 w3lib~=1.22.0
 lxml~=4.7.1
+feedparser~=6.0.8
+Flask~=2.0.2
