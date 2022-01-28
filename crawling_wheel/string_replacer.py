@@ -25,13 +25,13 @@ col = db.get_collection("CatFood_test005")
 
 
 def string_fixer(string: str):
-    string = re.sub("([\d\.]+)%(\w)", " \\1%, \\2", string)
+    string = re.sub("([\d.]+)%(\w)", " \\1%, \\2", string)
     string = string \
         .replace("(min.)", "") \
         .replace("(max.)", "") \
         .replace("(Max.)", "") \
         .replace("(Min.)", "") \
-        .replace("Energy", "Energy: ") \
+        .replace("Energy", "Energy:") \
         .replace("%.", "%") \
         .replace(" / ", "/") \
         .replace(" (2.47 oz) ", "/")
