@@ -4,13 +4,13 @@ import time
 from mimetypes import guess_extension
 from urllib.parse import urlparse
 
-from seleniumwire import webdriver  # Import from seleniumwire
+from seleniumwire import webdriver
 
 
 def download_assets(requests,
                     asset_dir="temp",
                     default_fname="unnamed",
-                    skip_domains=["facebook", "google", "yahoo", "agkn", "2mdn"],
+                    skip_domains=["facebook", "google", "yahoo", "agkn", "2mdn", "github", "bing", "micpn", "cdn"],
                     exts=[".png", ".jpeg", ".jpg", ".svg", ".gif", ".pdf", ".bmp", ".webp", ".ico"],
                     append_ext=False):
     asset_list = {}
@@ -22,7 +22,7 @@ def download_assets(requests,
 
         ext = guess_extension(request.response.headers['Content-Type'].split(';')[0].strip())
         if ext is None or ext == "" or ext not in exts:
-            # Don't know the file extention, or not in the whitelist
+            # Don't know the file extension, or not in the whitelist
             continue
         parsed_url = urlparse(request.url)
 
@@ -34,44 +34,42 @@ def download_assets(requests,
         if skip:
             continue
 
-        frelpath = parsed_url.path.strip()
-        if frelpath == "":
+        file_rel_path = parsed_url.path.strip()
+        if file_rel_path == "":
             timestamp = str(datetime.datetime.now().replace(microsecond=0).isoformat())
-            frelpath = f"{default_fname}_{req_idx}_{timestamp}{ext}"
-        elif frelpath.endswith("\\") or frelpath.endswith("/"):
+            file_rel_path = f"{default_fname}_{req_idx}_{timestamp}{ext}"
+        elif file_rel_path.endswith("\\") or file_rel_path.endswith("/"):
             timestamp = str(datetime.datetime.now().replace(microsecond=0).isoformat())
-            frelpath = frelpath + f"{default_fname}_{req_idx}_{timestamp}{ext}"
-        elif append_ext and not frelpath.endswith(ext):
-            frelpath = frelpath + f"_{default_fname}{ext}"  # Missing file extension but may not be a problem
-        if frelpath.startswith("\\") or frelpath.startswith("/"):
-            frelpath = frelpath[1:]
+            file_rel_path = file_rel_path + f"{default_fname}_{req_idx}_{timestamp}{ext}"
+        elif append_ext and not file_rel_path.endswith(ext):
+            file_rel_path = file_rel_path + f"_{default_fname}{ext}"  # Missing file extension but may not be a problem
+        if file_rel_path.startswith("\\") or file_rel_path.startswith("/"):
+            file_rel_path = file_rel_path[1:]
 
-        fpath = os.path.join(asset_dir, parsed_url.netloc, frelpath)
-        if os.path.isfile(fpath):
+        file_path = os.path.join(asset_dir, parsed_url.netloc, file_rel_path)
+        if os.path.isfile(file_path):
             continue
-        os.makedirs(os.path.dirname(fpath), exist_ok=True)
-        print(f"Downloading {request.url} to {fpath}")
-        asset_list[fpath] = request.url
+        os.makedirs(os.path.dirname(file_path), exist_ok=True)
+        print(f"Downloading {request.url} to {file_path}")
+        asset_list[file_path] = request.url
         try:
-            with open(fpath, "wb") as file:
+            with open(file_path, "wb") as file:
                 file.write(request.response.body)
         except:
-            print(f"Cannot download {request.url} to {fpath}")
+            print(f"Cannot download {request.url} to {file_path}")
     return asset_list
 
 
 # Create a new instance of the Chrome/Firefox driver
 driver = webdriver.Chrome()
 
-# Go to the Google home page
+# Go to the page
 driver.get('https://www.chewy.com/b/dry-food-388')
 
 # Download content to temp folder
 asset_dir = "static"
 
+# Please browser the internet, it will collect the images for every second
 while True:
-    # Please browser the internet, it will collect the images for every second
+    download_assets(driver.requests, asset_dir=asset_dir, exts=["svg"])
     time.sleep(1)
-    download_assets(driver.requests, asset_dir=asset_dir)
-
-driver.close()
