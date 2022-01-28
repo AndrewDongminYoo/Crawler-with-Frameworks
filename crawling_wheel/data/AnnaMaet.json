@@ -1,20 +1,20 @@
 [
     {
-        "site": "https://annamaet.com",
-        "url": "https://annamaet.com/products/feline-sustain-no-29/",
-        "brand": "AnnaMaet",
-        "title": "FELINE SUSTAIN NO. 29 - Annamaet Pet Foods",
-        "image": "https://r39qcrl5jp-flywheel.netdna-ssl.com/wp-content/uploads/2019/10/FelineSustain_12lb_Front-1.png",
-        "analysis": [
-            "Moisture % 7.99 8.68",
-            "Dry Matter % 92.03",
-            "Protein (Crude) % 39.24 42.64",
-            "Fat (Acid Hydrolysis) % 17.17 18.66",
-            "Fiber (Crude) % 2.13 2.31",
-            "Ash % 7.10 7.71",
-            "Sulfur % 0.68 0.74",
-            "Phosphorus % 1.07 1.16",
-            "Potassium % 0.77 0.84",
+      "site": "https://annamaet.com",
+      "url": "https://annamaet.com/products/feline-sustain-no-29/",
+      "brand": "AnnaMaet",
+      "title": "FELINE SUSTAIN NO. 29 - Annamaet Pet Foods",
+      "image": "https://images.app.goo.gl/Qyawys2xBSs5zkkRA",
+      "analysis": [
+        "Moisture % 7.99 8.68",
+        "Dry Matter % 92.03",
+        "Protein (Crude) % 39.24 42.64",
+        "Fat (Acid Hydrolysis) % 17.17 18.66",
+        "Fiber (Crude) % 2.13 2.31",
+        "Ash % 7.10 7.71",
+        "Sulfur % 0.68 0.74",
+        "Phosphorus % 1.07 1.16",
+        "Potassium % 0.77 0.84",
             "Magnesium % 0.16 0.17",
             "Calcium % 1.38 1.50",
             "Sodium % 0.39 0.42",
@@ -80,22 +80,22 @@
         ],
         "calorie": "3618 kcal/kg"
     },
-    {
-        "site": "https://annamaet.com",
-        "url": "https://annamaet.com/products/grain-free-feline/",
-        "brand": "AnnaMaet",
-        "title": "Annamaet Grain Free Feline Formula | The Peak in Pet Nutrition Since 1986",
-        "image": "https://r39qcrl5jp-flywheel.netdna-ssl.com/wp-content/uploads/2019/10/GFF_12lb_Front-1.png",
-        "analysis": [
-            "Moisture % 7.57 8.19",
-            "Dry Matter % 92.43",
-            "Protein (Crude) % 44.56 48.21",
-            "Fat (Acid Hydrolysis) % 20.94 22.65",
-            "Fiber (Crude) % 2.13 2.30",
-            "Ash % 7.49 8.10",
-            "Sulfur % 0.52 0.56",
-            "Phosphorus % 1.28 1.38",
-            "Potassium % 0.70 0.76",
+  {
+    "site": "https://annamaet.com",
+    "url": "https://annamaet.com/products/grain-free-feline/",
+    "brand": "AnnaMaet",
+    "title": "Annamaet Grain Free Feline Formula | The Peak in Pet Nutrition Since 1986",
+    "image": "https://images.app.goo.gl/E9pgWR41saikUM728",
+    "analysis": [
+      "Moisture % 7.57 8.19",
+      "Dry Matter % 92.43",
+      "Protein (Crude) % 44.56 48.21",
+      "Fat (Acid Hydrolysis) % 20.94 22.65",
+      "Fiber (Crude) % 2.13 2.30",
+      "Ash % 7.49 8.10",
+      "Sulfur % 0.52 0.56",
+      "Phosphorus % 1.28 1.38",
+      "Potassium % 0.70 0.76",
             "Magnesium % 0.16 0.17",
             "Calcium % 1.45 1.57",
             "Sodium % 0.38 0.41",
@@ -159,24 +159,24 @@
             "Calcium Iodate",
             "Yucca Schidigera Extract."
         ],
-      "calorie": "4149 kcal/kg"
+    "calorie": "4149 kcal/kg"
     },
-    {
-        "site": "https://annamaet.com",
-        "url": "https://annamaet.com/products/original-feline/",
-        "brand": "AnnaMaet",
-        "title": "ORIGINAL FELINE - Annamaet Pet Foods",
-        "image": "https://r39qcrl5jp-flywheel.netdna-ssl.com/wp-content/uploads/2019/10/OCat_12lb_Front-1.png",
-        "analysis": [
-            "Moisture % 7.48 8.08",
-            "Dry Matter % 92.52",
-            "Protein (Crude) % 34.48 37.27",
-            "Fat (Acid Hydrolysis) % 15.98 17.27",
-            "Fiber (Crude) % 2.15 2.32",
-            "Ash % 7.28 7.87",
-            "Sulfur % 0.59 0.64",
-            "Phosphorus % 1.10 1.19",
-            "Potassium % 0.65 0.7",
+  {
+    "site": "https://annamaet.com",
+    "url": "https://annamaet.com/products/original-feline/",
+    "brand": "AnnaMaet",
+    "title": "ORIGINAL FELINE - Annamaet Pet Foods",
+    "image": "https://images.app.goo.gl/n1vcekyMsMHCkm9v6",
+    "analysis": [
+      "Moisture % 7.48 8.08",
+      "Dry Matter % 92.52",
+      "Protein (Crude) % 34.48 37.27",
+      "Fat (Acid Hydrolysis) % 15.98 17.27",
+      "Fiber (Crude) % 2.15 2.32",
+      "Ash % 7.28 7.87",
+      "Sulfur % 0.59 0.64",
+      "Phosphorus % 1.10 1.19",
+      "Potassium % 0.65 0.7",
             "Magnesium % 0.18 0.19",
             "Calcium % 1.40 1.51",
             "Sodium % 0.33 0.36",
@@ -242,6 +242,6 @@
             "Sodium Selenite",
             "Calcium Iodate."
         ],
-      "calorie": "4022 kcal/kg"
+    "calorie": "4022 kcal/kg"
     }
 ]

@@ -1,20 +1,20 @@
 [
     {
-        "site": "https://bestbreed.com",
-        "url": "https://bestbreed.com/product_detail/cat-diet/",
-        "brand": "BEST BREED",
-        "title": "Cat Diet - Best Breed",
-        "image": "https://www.bestbreed.com/wp-content/uploads/2017/06/cat_diet.jpg",
-        "analysis": [
-            "Crude Protein: 30.0%",
-            "Crude Fat: 12.0%",
-            "Crude Fiber: 7.0%",
-            "Moisture: 10.0%",
-            "Omega-6 Fatty Acids: 2.8%",
-            "Omega-3 Fatty Acids: 0.5%",
-            "Calcium 1.4%",
-            "Phosphorus 1.0%",
-            "Ash 6.6%",
+      "site": "https://bestbreed.com",
+      "url": "https://bestbreed.com/product_detail/cat-diet/",
+      "brand": "BEST BREED",
+      "title": "Cat Diet - Best Breed",
+      "image": "https://images.app.goo.gl/SVAAEsu7nrNuwWfv5",
+      "analysis": [
+        "Crude Protein: 30.0%",
+        "Crude Fat: 12.0%",
+        "Crude Fiber: 7.0%",
+        "Moisture: 10.0%",
+        "Omega-6 Fatty Acids: 2.8%",
+        "Omega-3 Fatty Acids: 0.5%",
+        "Calcium 1.4%",
+        "Phosphorus 1.0%",
+        "Ash 6.6%",
             "Carbohydrates: 33.0%",
             "Potassium 0.64%",
             "Sodium  0.3%",
@@ -74,22 +74,22 @@
         ],
         "calorie": "401 Kcal/cup"
     },
-    {
-        "site": "https://bestbreed.com",
-        "url": "https://bestbreed.com/product_detail/grain-free-cat-diet/",
-        "brand": "BEST BREED",
-        "title": "Grain Free Cat Diet - Best Breed",
-        "image": "https://www.bestbreed.com/wp-content/uploads/2017/03/Grain-Free-Cat-Diet-2-1.png",
-        "analysis": [
-            "Crude Protein: 38.0%",
-            "Crude Fat: 17.0%",
-            "Crude Fiber: 7.0%",
-            "Moisture: 10.0%",
-            "Omega-6 Fatty Acids: 4.3%",
-            "Omega-3 Fatty Acids: 0.9%",
-            "Calcium 1.5%",
-            "Phosphorus 1.1%",
-            "Ash 7.4%",
+  {
+    "site": "https://bestbreed.com",
+    "url": "https://bestbreed.com/product_detail/grain-free-cat-diet/",
+    "brand": "BEST BREED",
+    "title": "Grain Free Cat Diet - Best Breed",
+    "image": "https://images.app.goo.gl/crYvsWDbwpnGv6MZA",
+    "analysis": [
+      "Crude Protein: 38.0%",
+      "Crude Fat: 17.0%",
+      "Crude Fiber: 7.0%",
+      "Moisture: 10.0%",
+      "Omega-6 Fatty Acids: 4.3%",
+      "Omega-3 Fatty Acids: 0.9%",
+      "Calcium 1.5%",
+      "Phosphorus 1.1%",
+      "Ash 7.4%",
             "Carbohydrates: 21.0%",
             "Potassium 0.8%",
             "Sodium  0.3%",
@@ -148,6 +148,6 @@
             "Sodium Selenite",
             "Calcium Iodate."
         ],
-      "calorie": "424 Kcal/cup"
+    "calorie": "424 Kcal/cup"
     }
 ]

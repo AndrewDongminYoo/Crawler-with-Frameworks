@@ -1,20 +1,20 @@
 [
     {
-        "site": "https://blackwoodpetfood.com",
-        "url": "https://blackwoodpetfood.com/recipes/adult-cat-food-chicken-salmon-with-pumpkin-new-zealand-mussels/#/",
-        "brand": "Blackwood Pet Food",
-        "title": "Wet Cat Food | Blackwood Pet Food Pet Food",
-        "image": "https://blackwoodpetfood.com/wp-content/uploads/2020/10/BlackwoodProduct27.jpg",
-        "analysis": [
-            "Crude Protein: 9.5%",
-            "Crude Fat: 9.0%",
-            "Crude Fiber: 1.0%",
-            "Moisture: 78.0%",
-            "Ash: 2.5%",
-            "Calorie Content 1,284 kcal/kg"
-        ],
-        "ingredients": [
-            "Chicken",
+      "site": "https://blackwoodpetfood.com",
+      "url": "https://blackwoodpetfood.com/recipes/adult-cat-food-chicken-salmon-with-pumpkin-new-zealand-mussels/#/",
+      "brand": "Blackwood Pet Food",
+      "title": "Wet Cat Food | Blackwood Pet Food Pet Food",
+      "image": null,
+      "analysis": [
+        "Crude Protein: 9.5%",
+        "Crude Fat: 9.0%",
+        "Crude Fiber: 1.0%",
+        "Moisture: 78.0%",
+        "Ash: 2.5%",
+        "Calorie Content 1,284 kcal/kg"
+      ],
+      "ingredients": [
+        "Chicken",
             "chicken broth",
             "salmon",
             "pumpkin",
@@ -29,26 +29,26 @@
             "dandelion greens",
             "dried New Zealand green mussels",
             "salmon oil",
-            "taurine",
-            "calcium carbonate",
-            "zinc proteinate",
-            "manganese proteinate",
-            "copper proteinate",
-            "magnesium proteinate",
-            "sodium selenite",
-            "calcium iodate",
-            "thiamine mononitrate",
-            "niacin supplement",
-          "vitamin E supplement",
-          "calcium pantothenate",
-          "pyridoxine hydrochloride",
-          "riboflavin supplement",
-          "biotin",
-          "vitamin A supplement",
-          "vitamin B12 supplement",
-          "vitamin D3 supplement",
-          "folic acid"
-        ],
+        "taurine",
+        "calcium carbonate",
+        "zinc proteinate",
+        "manganese proteinate",
+        "copper proteinate",
+        "magnesium proteinate",
+        "sodium selenite",
+        "calcium iodate",
+        "thiamine mononitrate",
+        "niacin supplement",
+        "vitamin E supplement",
+        "calcium pantothenate",
+        "pyridoxine hydrochloride",
+        "riboflavin supplement",
+        "biotin",
+        "vitamin A supplement",
+        "vitamin B12 supplement",
+        "vitamin D3 supplement",
+        "folic acid"
+      ],
       "calorie": "Calorie Content 1,284 kcal/kg"
     },
   {
@@ -56,7 +56,7 @@
     "url": "https://blackwoodpetfood.com/recipes/bounty-kitten-food-grain-free-chicken-herring/#/",
     "brand": "Blackwood Pet Food",
     "title": "Kitten Food | Blackwood",
-    "image": "https://blackwoodpetfood.com/wp-content/uploads/2020/10/BlackwoodProduct19.jpg",
+    "image": null,
     "analysis": [
       "Crude Protein 43%",
       "Crude Fat 19%",
@@ -137,20 +137,20 @@
     "url": "https://blackwoodpetfood.com/recipes/bounty-cat-food-grain-free-chicken-turkey-recipe-2/#/",
     "brand": "Blackwood Pet Food",
     "title": "Grain Free Cat Food | Blackwood",
-    "image": "https://blackwoodpetfood.com/wp-content/uploads/2020/10/BlackwoodProduct21.jpg",
+    "image": null,
     "analysis": [
       "Crude Protein 42%",
       "Crude Fat 16%",
-            "Crude Fiber 3.5%",
-            "Moisture 10%",
-            "Ash 8.5%",
-            "Omega 6 (Linoleic Acid) 3.2%",
-            "Omega 3 (Linolenic Acid) 0.95%",
-            "Total Microorganisms (Lactobacillus casei, Lactobacillus: 10 Mil. CFU/lb acidophilus, Bifidobacterium animalis, Lactobacillus reuteri) 10 Mil. CFU/lb"
-        ],
-        "ingredients": [
-            "Deboned Chicken",
-            "Deboned Turkey",
+      "Crude Fiber 3.5%",
+      "Moisture 10%",
+      "Ash 8.5%",
+      "Omega 6 (Linoleic Acid) 3.2%",
+      "Omega 3 (Linolenic Acid) 0.95%",
+      "Total Microorganisms (Lactobacillus casei, Lactobacillus: 10 Mil. CFU/lb acidophilus, Bifidobacterium animalis, Lactobacillus reuteri) 10 Mil. CFU/lb"
+    ],
+    "ingredients": [
+      "Deboned Chicken",
+      "Deboned Turkey",
             "Egg Product",
             "Duck Meal",
             "Whitefish Meal",
@@ -213,22 +213,22 @@
         ],
     "calorie": "3,608 kcal/kg"
     },
-    {
-        "site": "https://blackwoodpetfood.com",
-        "url": "https://blackwoodpetfood.com/recipes/bounty-cat-food-grain-free-salmon-rainbow-trout/#/",
-        "brand": "Blackwood Pet Food",
-        "title": "Dry Cat Food | Blackwood",
-        "image": "https://blackwoodpetfood.com/wp-content/uploads/2020/10/BlackwoodProduct23.jpg",
-        "analysis": [
-            "Crude Protein 42%",
-            "Crude Fat 16%",
-            "Crude Fiber 3.5%",
-            "Moisture 10%",
-            "Ash 8.5%",
-            "Omega 6 (Linoleic Acid) 4%",
-            "Omega 3 (Linolenic Acid) 0.80%",
-            "Total Microorganisms (Lactobacillus casei, Lactobacillus: 10 Mil. CFU/lb acidophilus, Bifidobacterium animalis, Lactobacillus reuteri) 10 Mil. CFU/lb"
-        ],
+  {
+    "site": "https://blackwoodpetfood.com",
+    "url": "https://blackwoodpetfood.com/recipes/bounty-cat-food-grain-free-salmon-rainbow-trout/#/",
+    "brand": "Blackwood Pet Food",
+    "title": "Dry Cat Food | Blackwood",
+    "image": null,
+    "analysis": [
+      "Crude Protein 42%",
+      "Crude Fat 16%",
+      "Crude Fiber 3.5%",
+      "Moisture 10%",
+      "Ash 8.5%",
+      "Omega 6 (Linoleic Acid) 4%",
+      "Omega 3 (Linolenic Acid) 0.80%",
+      "Total Microorganisms (Lactobacillus casei, Lactobacillus: 10 Mil. CFU/lb acidophilus, Bifidobacterium animalis, Lactobacillus reuteri) 10 Mil. CFU/lb"
+    ],
         "ingredients": [
             "Salmon",
             "Rainbow Trout",
@@ -284,22 +284,22 @@
             "Manganese Sulfate",
             "Manganese Proteinate",
             "Copper Proteinate",
-            "Manganous Oxide",
-            "Calcium Iodate",
-            "Sodium Selenite",
-            "Dried Lactobacillus casei Fermentation Product",
-            "Dried Lactobacillus acidophilus Fermentation Product",
-            "Dried Bifidobacterium animalis Fermentation Product",
-            "Dried Lactobacillus reuteri Fermentation Product"
+          "Manganous Oxide",
+          "Calcium Iodate",
+          "Sodium Selenite",
+          "Dried Lactobacillus casei Fermentation Product",
+          "Dried Lactobacillus acidophilus Fermentation Product",
+          "Dried Bifidobacterium animalis Fermentation Product",
+          "Dried Lactobacillus reuteri Fermentation Product"
         ],
-      "calorie": "3,609 kcal/kg"
-    },
+    "calorie": "3,609 kcal/kg"
+  },
   {
     "site": "https://blackwoodpetfood.com",
     "url": "https://blackwoodpetfood.com/recipes/special-diet-cat-food-duck-meal-salmon-meal-field-pea-recipe/#/",
     "brand": "Blackwood Pet Food",
     "title": "Diet Cat Food | Blackwood",
-    "image": "https://blackwoodpetfood.com/wp-content/uploads/2020/09/BlackwoodProduct-Resize-1.jpg",
+    "image": null,
     "analysis": [
       "Crude Protein: 38.0%",
       "Crude Fat: 18.0%",
@@ -365,13 +365,13 @@
       "Dried Lactobacillus reuteri Fermentation Product"
     ],
     "calorie": "3785 kcal/kg"
-    },
+  },
   {
     "site": "https://blackwoodpetfood.com",
     "url": "https://blackwoodpetfood.com/recipes/special-diet-cat-food-chicken-meal-field-pea-recipe/#/",
     "brand": "Blackwood Pet Food",
     "title": "Special Dry Cat Food | Blackwood Pet Food",
-    "image": "https://blackwoodpetfood.com/wp-content/uploads/2020/09/BlackwoodProduct4.jpg",
+    "image": null,
     "analysis": [
       "Crude Protein: 40.0%",
       "Crude Fat: 18.0%",
@@ -431,31 +431,31 @@
       "Manganese Proteinate",
       "Copper Proteinate",
       "Manganous Oxide",
-            "Calcium Iodate",
-            "Sodium Selenite",
-            "Dried Lactobacillus casei Fermentation Product",
-            "Dried Lactobacillus acidophilus Fermentation Product",
-            "Dried Bifidobacterium animalis Fermentation Product",
-            "Dried Lactobacillus reuteri Fermentation Product"
-        ],
+      "Calcium Iodate",
+      "Sodium Selenite",
+      "Dried Lactobacillus casei Fermentation Product",
+      "Dried Lactobacillus acidophilus Fermentation Product",
+      "Dried Bifidobacterium animalis Fermentation Product",
+      "Dried Lactobacillus reuteri Fermentation Product"
+    ],
     "calorie": "3771 kcal/kg"
-    },
-    {
-        "site": "https://blackwoodpetfood.com",
-        "url": "https://blackwoodpetfood.com/recipes/kitten-food-chicken-meal-brown-rice-recipe/#/",
-        "brand": "Blackwood Pet Food",
-        "title": "Blackwood Kitten Food | Blackwood Pet Food",
-        "image": "https://blackwoodpetfood.com/wp-content/uploads/2020/09/BlackwoodProduct7.jpg",
-        "analysis": [
-            "Crude Protein: 33.0%",
-            "Crude Fat: 21.0%",
-            "Crude Fiber: 3.0%",
-            "Moisture: 10.0%",
-            "Omega 6 (Linoleic Acid): 4.2%",
-            "Omega 3 (Linolenic Acid): 0.6%",
-            "Total Microorganisms (Lactobacillus casei, Lactobacillus: 10 Mil. CFU/lb acidophilus, Bifidobacterium animalis, Lactobacillus reuteri): 10 Mil CFU / lb"
-        ],
-        "ingredients": [
+  },
+  {
+    "site": "https://blackwoodpetfood.com",
+    "url": "https://blackwoodpetfood.com/recipes/kitten-food-chicken-meal-brown-rice-recipe/#/",
+    "brand": "Blackwood Pet Food",
+    "title": "Blackwood Kitten Food | Blackwood Pet Food",
+    "image": null,
+    "analysis": [
+      "Crude Protein: 33.0%",
+      "Crude Fat: 21.0%",
+      "Crude Fiber: 3.0%",
+      "Moisture: 10.0%",
+      "Omega 6 (Linoleic Acid): 4.2%",
+      "Omega 3 (Linolenic Acid): 0.6%",
+      "Total Microorganisms (Lactobacillus casei, Lactobacillus: 10 Mil. CFU/lb acidophilus, Bifidobacterium animalis, Lactobacillus reuteri): 10 Mil CFU / lb"
+    ],
+    "ingredients": [
             "Chicken Meal",
             "Brown Rice",
             "Chicken Fat (Preserved with Mixed Tocopherols)",
@@ -513,24 +513,24 @@
             "Dried Bifidobacterium animalis Fermentation Product",
             "Dried Lactobacillus reuteri Fermentation Product"
         ],
-      "calorie": "3916 kcal/kg"
+    "calorie": "3916 kcal/kg"
     },
-    {
-        "site": "https://blackwoodpetfood.com",
-        "url": "https://blackwoodpetfood.com/recipes/lean-senior-cat-food-chicken-meal-brown-rice-recipe/#/",
-        "brand": "Blackwood Pet Food",
-        "title": "Dry Senior Cat Food | Blackwood Pet Food",
-        "image": "https://blackwoodpetfood.com/wp-content/uploads/2020/09/BlackwoodProduct13.jpg",
-        "analysis": [
-            "Crude Protein: 30.0%",
-            "Crude Fat: 8.0%",
-            "Crude Fiber: 10.0%",
-            "Moisture: 10.0%",
-            "Omega 6 (Linoleic Acid): 1.8%",
-            "Omega 3 (Linolenic Acid): 0.4%",
-            "Total Microorganisms (Lactobacillus casei, Lactobacillus: 10 Mil. CFU/lb acidophilus, Bifidobacterium animalis, Lactobacillus reuteri) 10 Mil. CFU / lb"
-        ],
-        "ingredients": [
+  {
+    "site": "https://blackwoodpetfood.com",
+    "url": "https://blackwoodpetfood.com/recipes/lean-senior-cat-food-chicken-meal-brown-rice-recipe/#/",
+    "brand": "Blackwood Pet Food",
+    "title": "Dry Senior Cat Food | Blackwood Pet Food",
+    "image": null,
+    "analysis": [
+      "Crude Protein: 30.0%",
+      "Crude Fat: 8.0%",
+      "Crude Fiber: 10.0%",
+      "Moisture: 10.0%",
+      "Omega 6 (Linoleic Acid): 1.8%",
+      "Omega 3 (Linolenic Acid): 0.4%",
+      "Total Microorganisms (Lactobacillus casei, Lactobacillus: 10 Mil. CFU/lb acidophilus, Bifidobacterium animalis, Lactobacillus reuteri) 10 Mil. CFU / lb"
+    ],
+    "ingredients": [
             "Chicken Meal",
             "Brown Rice",
             "Millet",
@@ -579,22 +579,22 @@
             "Manganese Sulfate",
             "Manganese Proteinate",
             "Copper Proteinate",
-            "Manganous Oxide",
-            "Calcium Iodate",
-            "Sodium Selenite",
-            "Dried Lactobacillus casei Fermentation Product",
-            "Dried Lactobacillus acidophilus Fermentation Product",
-            "Dried Bifidobacterium animalis Fermentation Product",
-            "Dried Lactobacillus reuteri Fermentation Product"
-        ],
-      "calorie": "3328 kcal/kg"
-    },
+      "Manganous Oxide",
+      "Calcium Iodate",
+      "Sodium Selenite",
+      "Dried Lactobacillus casei Fermentation Product",
+      "Dried Lactobacillus acidophilus Fermentation Product",
+      "Dried Bifidobacterium animalis Fermentation Product",
+      "Dried Lactobacillus reuteri Fermentation Product"
+    ],
+    "calorie": "3328 kcal/kg"
+  },
   {
     "site": "https://blackwoodpetfood.com",
     "url": "https://blackwoodpetfood.com/recipes/indoor-formula-cat-food-chicken-meal-brown-rice-recipe/#/",
     "brand": "Blackwood Pet Food",
     "title": "Indoor Cat Food Formula | Blackwood Pet Food",
-    "image": "https://blackwoodpetfood.com/wp-content/uploads/2020/09/BlackwoodProduct11.jpg",
+    "image": null,
     "analysis": [
       "Crude Protein: 30.0%",
       "Crude Fat: 12.0%",
@@ -643,30 +643,30 @@
       "Biotin",
       "Folic Acid",
       "Ferrous Sulphate",
-            "Zinc Sulphate",
-            "Zinc Proteinate",
-            "Iron Proteinate",
-            "Copper Sulfate",
-            "Zinc Oxide",
-            "Manganese Sulfate",
-            "Manganese Proteinate",
-            "Copper Proteinate",
-            "Manganous Oxide",
-            "Calcium Iodate",
-            "Sodium Selenite",
-            "Dried Lactobacillus casei Fermentation Product",
-            "Dried Lactobacillus acidophilus Fermentation Product",
-            "Dried Bifidobacterium animalis Fermentation Product",
-            "Dried Lactobacillus reuteri Fermentation Product"
-        ],
+      "Zinc Sulphate",
+      "Zinc Proteinate",
+      "Iron Proteinate",
+      "Copper Sulfate",
+      "Zinc Oxide",
+      "Manganese Sulfate",
+      "Manganese Proteinate",
+      "Copper Proteinate",
+      "Manganous Oxide",
+      "Calcium Iodate",
+      "Sodium Selenite",
+      "Dried Lactobacillus casei Fermentation Product",
+      "Dried Lactobacillus acidophilus Fermentation Product",
+      "Dried Bifidobacterium animalis Fermentation Product",
+      "Dried Lactobacillus reuteri Fermentation Product"
+    ],
     "calorie": "3493 kcal/kg"
-    },
+  },
   {
     "site": "https://blackwoodpetfood.com",
     "url": "https://blackwoodpetfood.com/recipes/adult-cat-food-chicken-meal-brown-rice-recipe/#/",
     "brand": "Blackwood Pet Food",
     "title": "Adult Cat Food | Blackwood Pet Food",
-    "image": "https://blackwoodpetfood.com/wp-content/uploads/2020/09/BlackwoodProduct9.jpg",
+    "image": null,
     "analysis": [
       "Crude Protein: 30.0%",
       "Crude Fat: 17.0%",
@@ -729,11 +729,11 @@
       "Manganous Oxide",
       "Calcium Iodate",
       "Sodium Selenite",
-            "Dried Lactobacillus casei Fermentation Product",
-            "Dried Lactobacillus acidophilus Fermentation Product",
-            "Dried Bifidobacterium animalis Fermentation Product",
-            "Dried Lactobacillus reuteri Fermentation Product"
-        ],
+      "Dried Lactobacillus casei Fermentation Product",
+      "Dried Lactobacillus acidophilus Fermentation Product",
+      "Dried Bifidobacterium animalis Fermentation Product",
+      "Dried Lactobacillus reuteri Fermentation Product"
+    ],
     "calorie": "3733 kcal/kg"
-    }
+  }
 ]

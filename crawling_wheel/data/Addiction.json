@@ -1,20 +1,20 @@
 [
     {
-        "site": "https://addictionpet.com",
-        "url": "https://addictionpet.com/shop/duck-royale/",
-        "brand": "Addiction",
-        "title": "Duck Royale | Addiction Pet Foods",
-        "image": "https://cdn.addictionpet.com/wp-content/uploads/2019/11/Duck-Royale-4lbs-Cat-Front.png",
-        "analysis": [
-            "Crude Protein 30.0%",
-            "Crude Fat 16.0%",
-            "Crude Fiber 3.5%",
-            "Moisture 6.0%"
-        ],
-        "ingredients": [
-            "Duck",
-            "Salmon Meal",
-            "Peas",
+      "site": "https://addictionpet.com",
+      "url": "https://addictionpet.com/shop/duck-royale/",
+      "brand": "Addiction",
+      "title": "Duck Royale | Addiction Pet Foods",
+      "image": "https://images.app.goo.gl/hErVq8XzAnWXpCj86",
+      "analysis": [
+        "Crude Protein 30.0%",
+        "Crude Fat 16.0%",
+        "Crude Fiber 3.5%",
+        "Moisture 6.0%"
+      ],
+      "ingredients": [
+        "Duck",
+        "Salmon Meal",
+        "Peas",
             "Tapioca",
             "Fish Meal",
             "Chicken Fat (preserved with Mixed Tocopherols)",
@@ -50,22 +50,22 @@
         ],
         "calorie": ""
     },
-    {
-        "site": "https://addictionpet.com",
-        "url": "https://addictionpet.com/shop/salmon-bleu-cat/",
-        "brand": "Addiction",
-        "title": "Salmon Bleu Cat | Addiction Pet Foods",
-        "image": "https://p4u4d3s4.stackpathcdn.com/wp-content/uploads/2021/09/af-dry-mockup-sbc-front-facing-01.png",
-        "analysis": [
-            "Crude Protein: 30.0%",
-            "Crude Fat: 15.0%",
-            "Crude Fiber: 4.0%",
-            "Moisture: 10.0%",
-            "Taurine: 0.1%",
-            "Omega-3: 1%",
-            "Omega-6: 2.5%"
-        ],
-        "ingredients": [
+  {
+    "site": "https://addictionpet.com",
+    "url": "https://addictionpet.com/shop/salmon-bleu-cat/",
+    "brand": "Addiction",
+    "title": "Salmon Bleu Cat | Addiction Pet Foods",
+    "image": "https://images.app.goo.gl/jNagmWuQbraUWyUc7",
+    "analysis": [
+      "Crude Protein: 30.0%",
+      "Crude Fat: 15.0%",
+      "Crude Fiber: 4.0%",
+      "Moisture: 10.0%",
+      "Taurine: 0.1%",
+      "Omega-3: 1%",
+      "Omega-6: 2.5%"
+    ],
+    "ingredients": [
             "Salmon",
             "Salmon Meal",
             "Ocean Fish Meal",
@@ -114,24 +114,24 @@
             "Tea Extract",
             "Spearmint Extract."
         ],
-      "calorie": "ME: 3700 Kcal  ME/kg 423 Kcal ME/cup "
+    "calorie": "ME: 3700 Kcal  ME/kg 423 Kcal ME/cup "
     },
-    {
-        "site": "https://addictionpet.com",
-        "url": "https://addictionpet.com/shop/viva-la-venison-cat/",
-        "brand": "Addiction",
-        "title": "Viva La Venison Cat | Addiction Pet Foods",
-        "image": "https://cdn.addictionpet.com/wp-content/uploads/2019/08/Dry-Cat-4lbs-Viva-La-Venison-FRONT-product.png",
-        "analysis": [
-            "Crude Protein 30.0%",
-            "Crude Fat 15.0%",
-            "Crude Fiber 3.5%",
-            "Moisture 10.0%"
-        ],
-        "ingredients": [
-            "Venison Meal",
-            "Peas",
-            "Potatoes",
+  {
+    "site": "https://addictionpet.com",
+    "url": "https://addictionpet.com/shop/viva-la-venison-cat/",
+    "brand": "Addiction",
+    "title": "Viva La Venison Cat | Addiction Pet Foods",
+    "image": "https://images.app.goo.gl/ajwLBDujeeM7mNKNA",
+    "analysis": [
+      "Crude Protein 30.0%",
+      "Crude Fat 15.0%",
+      "Crude Fiber 3.5%",
+      "Moisture 10.0%"
+    ],
+    "ingredients": [
+      "Venison Meal",
+      "Peas",
+      "Potatoes",
             "Tapioca",
             "Chicken Fat (Preserved with Mixed Tocopherols)",
             "Flaxseed",
@@ -170,6 +170,6 @@
             "Sodium Selenite",
             "Green Tea Extract and Rosemary Extract"
         ],
-      "calorie": ""
+    "calorie": ""
     }
 ]

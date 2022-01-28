@@ -1,20 +1,20 @@
 [
     {
-        "site": "https://www.diamondpet.com",
-        "url": "https://www.diamondpet.com/cat/diamond-care/urinary-support-adult-cats/",
-        "brand": "Diamond Pet Foods Premium Edge",
-        "title": "Urinary Support Cat Food Formula for Adult Cats | Diamond CARE",
-        "image": "https://www.diamondpet.com/wp-content/uploads/2020/06/DiamondCARE-Urinary-Cat-082521b.jpg",
-        "analysis": [
-            "Crude Protein 30.0%",
-            "Crude Fat 15.0%",
-            "Crude Fiber 2.0%",
-            "Moisture 10.0%",
-            "Phosphorus 1.0%",
-            "Magnesium 0.1%",
-            "Zinc 150 mg/kg",
-            "Selenium 0.3 mg/kg",
-            "Vitamin E 150 IU/kg",
+      "site": "https://www.diamondpet.com",
+      "url": "https://www.diamondpet.com/cat/diamond-care/urinary-support-adult-cats/",
+      "brand": "Diamond Pet Foods Premium Edge",
+      "title": "Urinary Support Cat Food Formula for Adult Cats | Diamond CARE",
+      "image": "https://images.app.goo.gl/wfNKFVRCexmXVr8r8",
+      "analysis": [
+        "Crude Protein 30.0%",
+        "Crude Fat 15.0%",
+        "Crude Fiber 2.0%",
+        "Moisture 10.0%",
+        "Phosphorus 1.0%",
+        "Magnesium 0.1%",
+        "Zinc 150 mg/kg",
+        "Selenium 0.3 mg/kg",
+        "Vitamin E 150 IU/kg",
             "Taurine 0.1%",
             "Omega-6 Fatty Acids* 2.4%",
             "Omega-3 Fatty Acids* 0.4%"
@@ -55,22 +55,22 @@
         ],
         "calorie": "3,728 kcal/kg"
     },
-    {
-        "site": "https://www.diamondpet.com",
-        "url": "https://www.diamondpet.com/cat/diamond-care/weight-management/",
-        "brand": "Diamond Pet Foods Premium Edge",
-        "title": "Diamond CARE Adult Cat Weight Management Formula | Diamond Pet Foods",
-        "image": "https://diamondpet.com/wp-content/uploads/2020/06/394DN-2001-CARE-WtMgmt-Cat.jpg",
-        "analysis": [
-            "Crude Protein 32.0%",
-            "Crude Fat 9.0%",
-            "Crude Fat 11.0%",
-            "Crude Fiber 10.0%",
-            "Moisture 10.0%",
-            "Zinc 150 mg/kg",
-            "Selenium 0.3 mg/kg",
-            "Vitamin E 300 IU/kg",
-            "Taurine 0.1%",
+  {
+    "site": "https://www.diamondpet.com",
+    "url": "https://www.diamondpet.com/cat/diamond-care/weight-management/",
+    "brand": "Diamond Pet Foods Premium Edge",
+    "title": "Diamond CARE Adult Cat Weight Management Formula | Diamond Pet Foods",
+    "image": "https://images.app.goo.gl/gL1xum4oNgTyyLqm7",
+    "analysis": [
+      "Crude Protein 32.0%",
+      "Crude Fat 9.0%",
+      "Crude Fat 11.0%",
+      "Crude Fiber 10.0%",
+      "Moisture 10.0%",
+      "Zinc 150 mg/kg",
+      "Selenium 0.3 mg/kg",
+      "Vitamin E 300 IU/kg",
+      "Taurine 0.1%",
             "L-Carnitine* 500 mg/kg",
             "Omega-6 Fatty Acids* 2.5%",
             "Omega-3 Fatty Acids* 0.3%",
@@ -119,6 +119,6 @@
             "vitamin D3 supplement",
             "folic acid."
         ],
-      "calorie": "3,080 kcal/kg"
+    "calorie": "3,080 kcal/kg"
     }
 ]

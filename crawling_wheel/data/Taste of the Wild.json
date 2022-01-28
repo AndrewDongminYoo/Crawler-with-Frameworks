@@ -1,20 +1,20 @@
 [
     {
-        "site": "https://www.tasteofthewildpetfood.com",
-        "url": "https://www.tasteofthewildpetfood.com/prey/cat-formulas/turkey-formula-cats/",
-        "brand": "Taste of the Wild",
-        "title": "Turkey Limited Ingredient Formula for Cats - Taste of the Wild Pet Food",
-        "image": "https://www.tasteofthewildpetfood.com/wp-content/uploads/2020/07/prey-turkey-cats-bag-front-122120.jpg",
-        "analysis": [
-            "Crude Protein 33.0%",
-            "Crude Fat 15.0%",
-            "Crude Fiber 3.0%",
-            "Moisture 10.0%",
-            "DHA (Docosahexaenoic Acid) 0.05%",
-            "Zinc 150 mg/kg",
-            "Selenium 0.3 mg/kg",
-            "Vitamin A 15,000 IU/kg",
-            "Vitamin E 150 IU/kg",
+      "site": "https://www.tasteofthewildpetfood.com",
+      "url": "https://www.tasteofthewildpetfood.com/prey/cat-formulas/turkey-formula-cats/",
+      "brand": "Taste of the Wild",
+      "title": "Turkey Limited Ingredient Formula for Cats - Taste of the Wild Pet Food",
+      "image": "https://images.app.goo.gl/EwegcAcLzcAuzTiWA",
+      "analysis": [
+        "Crude Protein 33.0%",
+        "Crude Fat 15.0%",
+        "Crude Fiber 3.0%",
+        "Moisture 10.0%",
+        "DHA (Docosahexaenoic Acid) 0.05%",
+        "Zinc 150 mg/kg",
+        "Selenium 0.3 mg/kg",
+        "Vitamin A 15,000 IU/kg",
+        "Vitamin E 150 IU/kg",
             "Taurine 0.1%",
             "Omega-6 Fatty Acids* 2.4%",
             "Omega-3 Fatty Acids* 0.5%",
@@ -60,22 +60,22 @@
         ],
         "calorie": "*Not recognized as an essential nutrient by the AAFCO Cat Food Nutrient Profiles."
     },
-    {
-        "site": "https://www.tasteofthewildpetfood.com",
-        "url": "https://www.tasteofthewildpetfood.com/taste-of-the-wild/grain-free/cat-formulas/canyon-river-feline-recipe-with-trout-smoked-salmon/",
-        "brand": "Taste of the Wild",
-        "title": "Canyon River® Feline Recipe with Trout & Smoked Salmon | Taste of the Wild®",
-        "image": "https://www.tasteofthewildpetfood.com/wp-content/uploads/2020/06/394T-2003-TOW-Canyon-River-Batch-1.jpg",
-        "analysis": [
-            "Nutrient Analysis",
-            "Crude Protein 32.0%",
-            "Crude Fat 16.0%",
-            "Crude Fiber 3.0%",
-            "Moisture 10.0%",
-            "Zinc 120 mg/kg",
-            "Selenium 0.3 mg/kg",
-            "Vitamin E 150 IU/kg",
-            "Taurine 0.15%",
+  {
+    "site": "https://www.tasteofthewildpetfood.com",
+    "url": "https://www.tasteofthewildpetfood.com/taste-of-the-wild/grain-free/cat-formulas/canyon-river-feline-recipe-with-trout-smoked-salmon/",
+    "brand": "Taste of the Wild",
+    "title": "Canyon River® Feline Recipe with Trout & Smoked Salmon | Taste of the Wild®",
+    "image": "https://images.app.goo.gl/2SkZyJWSw5FyyZum7",
+    "analysis": [
+      "Nutrient Analysis",
+      "Crude Protein 32.0%",
+      "Crude Fat 16.0%",
+      "Crude Fiber 3.0%",
+      "Moisture 10.0%",
+      "Zinc 120 mg/kg",
+      "Selenium 0.3 mg/kg",
+      "Vitamin E 150 IU/kg",
+      "Taurine 0.15%",
             "Omega-6 Fatty Acids* 2.4%",
             "Omega-3 Fatty Acids* 0.3%",
             "Total Microorganisms* (Lactobacillus plantarum, Bacillus subtilis, Lactobacillus acidophilus, Enterococcus faecium, Bifidobacterium animalis) not less than 80,000,000 CFU/lb"
@@ -124,6 +124,6 @@
             "vitamin D3 supplement",
             "folic acid."
         ],
-      "calorie": "3,741 kcal/kg"
+    "calorie": "3,741 kcal/kg"
     }
 ]
