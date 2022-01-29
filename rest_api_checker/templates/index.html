@@ -65,7 +65,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <form action="/s" class="sfw-plp-search__results--sort" id="searchSortForm"
+                                <form action="" class="sfw-plp-search__results--sort" id="searchSortForm"
                                       method="get">
                                     <input name="rh" type="hidden" value="c:325,c:387,c:388,c:11667">
                                 </form>
@@ -77,29 +77,12 @@
                                 <li class="cw-pagination__list-item">
                                     <span class="cw-pagination__previous cw-pagination--is-disabled">Prev</span>
                                 </li>
+                                {% for i in range(1, 18) %}
                                 <li class="cw-pagination__list-item">
-                                    <a class="pagination_selection cw-pagination__item cw-pagination--is-active"
-                                       href="">1</a>
+                                    <a class="pagination_selection cw-pagination__item"
+                                       href="javascript:loadCatFoods('{{ i }}')">{{ i }}</a>
                                 </li>
-                                <li class="cw-pagination__list-item">
-                                    <a class="pagination_selection cw-pagination__item " href="">2</a>
-                                </li>
-                                <li class="cw-pagination__list-item">
-                                    <a class="pagination_selection cw-pagination__item " href="">3</a>
-                                </li>
-                                <li class="cw-pagination__list-item">
-                                    <a class="pagination_selection cw-pagination__item " href="">4</a>
-                                </li>
-                                <li class="cw-pagination__list-item">
-                                    <a class="pagination_selection cw-pagination__item " href="">5</a>
-                                </li>
-                                <li class="cw-pagination__list-item">
-                                    <a class="pagination_selection cw-pagination__item " href="">6</a>
-                                </li>
-                                <li class="cw-pagination__etc">...</li>
-                                <li class="cw-pagination__list-item">
-                                    <a class="pagination_selection cw-pagination__item " href="">9</a>
-                                </li>
+                                {% endfor %}
                                 <li class="cw-pagination__list-item">
                                     <a class="pagination_selection cw-pagination__next " href="">Next</a>
                                 </li>
