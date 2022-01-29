@@ -16,6 +16,20 @@ class CatFood(me.Document):
             "calorie": self.calorie,
         }, ensure_ascii=False)
 
+    def from_dict(self, obj):
+        self.site = obj.get("site")
+        self.url = obj.get("url")
+        self.brand = obj.get("brand")
+        self.title = obj.get("title")
+        self.image = obj.get("image")
+        self.analysis = obj.get("analysis")
+        self.ingredients = obj.get("ingredients")
+        self.calorie = obj.get("calorie")
+        return self
+
+    def to_dict(self, *args, **kwargs):
+        return super().to_mongo(*args, **kwargs)
+
     site = me.URLField(default="")
     url = me.URLField(default="")
     brand = me.StringField(default="")
