@@ -24,7 +24,7 @@ function loadCatFoods(num) {
 function showArticle(article) {
     let {analysis, brand, calorie, image, ingredients, site, title, url} = article
     return `<article class="product-holder js-tracked-product  cw-card cw-card-hover">
-        <a class="product is-10-px-padded" style="padding-bottom: 104px;">
+        <a class="product is-10-px-padded" style="padding-bottom: 104px;" href="javascript:patchImage('${title}')">
             <div class="image-holder">
                 <img alt="${title}"
                      loading="lazy"
@@ -81,4 +81,18 @@ function showArticle(article) {
             </section>
         </a>
     </article>`
+}
+
+function patchImage(title) {
+    let init = {method: "PATCH"}
+    fetch(`/v1/cat-foods?title=${title}`, init)
+        .then((response) => {
+            return response.json()
+        })
+        .then((data) => {
+            console.log(data)
+        })
+        .catch((reason) => {
+            console.log(reason)
+        })
 }
