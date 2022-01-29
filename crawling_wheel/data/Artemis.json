@@ -1,20 +1,20 @@
 [
     {
-      "site": "https://artemiscompany.com",
-      "url": "https://artemiscompany.com/collections/shop-cat-all/products/feline-all-life-stages",
-      "brand": "Artemis",
-      "title": "FRESH MIX Feline All Life Stages Dry Cat Food – Artemis Pet Food Company",
-      "image": "https://images.app.goo.gl/WKnbihAV9KWH9yR49",
-      "analysis": [
-        "Crude Protein: 30.0%",
-        "Crude Fat: 20.0%",
-        "Crude Fiber: 3.0%",
-        "Moisture: 10%",
-        "Magnesium: 0.09%",
-        "Taurine: 0.15%",
-        "Vitamin E: 300 IU/kg",
-        "Biotin: 0.23 mg/kg",
-        "Omega-6 Fatty Acids: 3.4%",
+        "site": "https://artemiscompany.com",
+        "url": "https://artemiscompany.com/collections/shop-cat-all/products/feline-all-life-stages",
+        "brand": "Artemis",
+        "title": "FRESH MIX Feline All Life Stages Dry Cat Food – Artemis Pet Food Company",
+        "image": "http://cdn.shopify.com/s/files/1/1971/5017/products/Artboard5_410c3806-1783-4ab9-89f5-f83d5adc33b9_grande.png?v=1600205821",
+        "analysis": [
+            "Crude Protein: 30.0%",
+            "Crude Fat: 20.0%",
+            "Crude Fiber: 3.0%",
+            "Moisture: 10%",
+            "Magnesium: 0.09%",
+            "Taurine: 0.15%",
+            "Vitamin E: 300 IU/kg",
+            "Biotin: 0.23 mg/kg",
+            "Omega-6 Fatty Acids: 3.4%",
             "Omega-3 Fatty Acids: 0.6%",
             "DHA (Docosohexaenoic Acid): 0.05%"
         ],
@@ -70,22 +70,22 @@
         ],
         "calorie": "3,922 kcal/kg"
     },
-  {
-    "site": "https://artemiscompany.com",
-    "url": "https://artemiscompany.com/collections/shop-cat-all/products/h-i-t-salmon-snow-crab-feline-formula",
-    "brand": "Artemis",
-    "title": "H.I.T. Salmon & Snow Crab Feline Formula – Artemis Pet Food Company",
-    "image": "https://images.app.goo.gl/crFpm428aBPaYHxf9",
-    "analysis": [
-      "Crude protein 40 %",
-      "Crude fat 20 %",
-      "Moisture 10 %",
-      "Crude fiber 3.0 %",
-      "Crude ash 9.0 %",
-      "Magnesium 0.10 %",
-      "Zinc 96 ppm",
-      "Selenium 0.4 ppm",
-      "Vitamin E 90 IU",
+    {
+        "site": "https://artemiscompany.com",
+        "url": "https://artemiscompany.com/collections/shop-cat-all/products/h-i-t-salmon-snow-crab-feline-formula",
+        "brand": "Artemis",
+        "title": "H.I.T. Salmon & Snow Crab Feline Formula – Artemis Pet Food Company",
+        "image": "https://cdn.shopify.com/s/files/1/1971/5017/products/HIT_FELINE_SALMON_SNOWCRAB_6LB-01_600x.png?v=1600205892",
+        "analysis": [
+            "Crude protein 40 %",
+            "Crude fat 20 %",
+            "Moisture 10 %",
+            "Crude fiber 3.0 %",
+            "Crude ash 9.0 %",
+            "Magnesium 0.10 %",
+            "Zinc 96 ppm",
+            "Selenium 0.4 ppm",
+            "Vitamin E 90 IU",
             "Taurine 0.2 %",
             "Omega-6 Fatty Acids* 3.6 %",
             "Omega-3 Fatty Acids* 3.5 %",
@@ -147,24 +147,24 @@
             "Blueberries",
             "Cranberries"
         ],
-    "calorie": "3,720 kcal/kg"
+        "calorie": "3,720 kcal/kg"
     },
-  {
-    "site": "https://artemiscompany.com",
-    "url": "https://artemiscompany.com/collections/shop-cat-all/products/osopure-grain-free-feline-formula-dry-cat-food",
-    "brand": "Artemis",
-    "title": "OSOPURE Feline Grain Free Salmon & Garbanzo Bean Dry Cat Food – Artemis Pet Food Company",
-    "image": "https://images.app.goo.gl/kztc26dZWUSfzETo7",
-    "analysis": [
-      "Crude Protein .min 35.0 %",
-      "Crude Fat: 18.0%",
-      "Crude Fiber: 3.0%",
-      "Moisture: 10.0%",
-      "Zinc min.* 150 mg/kg",
-      "Selenium 0.3 mg/kg",
-      "Vitamin E: 150 IU/kg",
-      "Taurin: 0.15%",
-      "Omega-6 Fatty Acids: 2.8%",
+    {
+        "site": "https://artemiscompany.com",
+        "url": "https://artemiscompany.com/collections/shop-cat-all/products/osopure-grain-free-feline-formula-dry-cat-food",
+        "brand": "Artemis",
+        "title": "OSOPURE Feline Grain Free Salmon & Garbanzo Bean Dry Cat Food – Artemis Pet Food Company",
+        "image": "http://cdn.shopify.com/s/files/1/1971/5017/products/Artboard13_39e9faca-93cd-4e90-b6b2-02d6fee9e9dc_grande.png?v=1600205839",
+        "analysis": [
+            "Crude Protein .min 35.0 %",
+            "Crude Fat: 18.0%",
+            "Crude Fiber: 3.0%",
+            "Moisture: 10.0%",
+            "Zinc min.* 150 mg/kg",
+            "Selenium 0.3 mg/kg",
+            "Vitamin E: 150 IU/kg",
+            "Taurin: 0.15%",
+            "Omega-6 Fatty Acids: 2.8%",
             "Omega-3 Fatty Acids: 0.6%"
         ],
         "ingredients": [
@@ -206,6 +206,6 @@
             "vitamin D supplement",
             "folic acid."
         ],
-    "calorie": "3,861 kcal/kg"
+        "calorie": "3,861 kcal/kg"
     }
 ]

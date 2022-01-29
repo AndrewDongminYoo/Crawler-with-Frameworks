@@ -4,7 +4,7 @@
       "url": "https://www.josera.com/marinesse-p735#82937",
       "brand": "Josera",
       "title": "MARINESSE | Josera Petfood GmbH & Co.Kg.",
-      "image": "https://images.app.goo.gl/Zc3pSBhNMcdVGj8e6",
+      "image": null,
       "analysis": [
         "protein 30.0 %",
         "fat content 15.0 %",
@@ -15,18 +15,18 @@
         "magnesium 0.65 %"
       ],
       "ingredients": [
-            "The formula contains no grain and is suitable for the daily grain free nutrition of healthy and sensitive cats.",
-            "The selected ingredients and reduced number of protein sources offer an alternative for animals with food intolerances.",
-            "A targeted selection of ingredients as well as the best recipes ensure an optimal calcium/phosphorus ratio and reduced magnesium content. This promotes a pH value of 6.0-6.5 which can counter the formation of urinary stones."
-        ],
-        "calorie": ""
+        "The formula contains no grain and is suitable for the daily grain free nutrition of healthy and sensitive cats.",
+        "The selected ingredients and reduced number of protein sources offer an alternative for animals with food intolerances.",
+        "A targeted selection of ingredients as well as the best recipes ensure an optimal calcium/phosphorus ratio and reduced magnesium content. This promotes a pH value of 6.0-6.5 which can counter the formation of urinary stones."
+      ],
+      "calorie": ""
     },
   {
     "site": "https://www.josera.com",
     "url": "https://www.josera.com/senior-p1042",
     "brand": "Josera",
     "title": "SENIOR | Josera Petfood GmbH & Co.Kg.",
-    "image": "https://images.app.goo.gl/VSJZZBwUYq7pMzFt8",
+    "image": "data:image/jpeg;base64,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",
     "analysis": [
       "protein 27.0 %",
       "fat content 20.0 %",
@@ -37,18 +37,18 @@
       "magnesium 0.65 %"
     ],
     "ingredients": [
-            "The special selection of ingredients ensures a reduced phosphorus content and therefore supports the cat’s kidney function. This is particularly important for older cats. In addition, valuable antioxidants such as vitamins C and E and taurine counter cell ageing and thus protect the kidney tissue from free radicals.",
-            "Valuable anti-oxidants such as Vitamin E, Vitamin C and taurine counter cell ageing. L-Carnitine helps to prevent the muscle loss associated with ageing. The reduced phosphorus content supports kidney function.",
-            "The premium quality and the gentle processing of the selected raw materials guarantee high digestibility and offer the optimal light diet even for cats with a sensitive digestive system."
-        ],
-        "calorie": ""
-    },
+      "The special selection of ingredients ensures a reduced phosphorus content and therefore supports the cat’s kidney function. This is particularly important for older cats. In addition, valuable antioxidants such as vitamins C and E and taurine counter cell ageing and thus protect the kidney tissue from free radicals.",
+      "Valuable anti-oxidants such as Vitamin E, Vitamin C and taurine counter cell ageing. L-Carnitine helps to prevent the muscle loss associated with ageing. The reduced phosphorus content supports kidney function.",
+      "The premium quality and the gentle processing of the selected raw materials guarantee high digestibility and offer the optimal light diet even for cats with a sensitive digestive system."
+    ],
+    "calorie": ""
+  },
   {
     "site": "https://www.josera.com",
     "url": "https://www.josera.com/kitten-p1019#111055",
     "brand": "Josera",
     "title": "KITTEN | Josera Petfood GmbH & Co.Kg.",
-    "image": "https://images.app.goo.gl/EHGVerR3owFQvBGw9",
+    "image": null,
     "analysis": [
       "protein 35.0 %",
       "fat content 22.0 %",
@@ -59,18 +59,18 @@
       "magnesium 0.60 %"
     ],
     "ingredients": [
-            "The premium quality and the gentle processing of the selected raw materials guarantee high digestibility and offer the optimal light diet even for cats with a sensitive digestive system.",
-            "Dietetic fibres support the transport of the swallowed hair through the digestive tract and can thus reduce the formation of hairballs.",
-            "Shiny and silky fur as well as healthy skin are signs that your cat is getting the right nutrition. This is ensured by valuable fatty acids, vitamins as well as zinc and copper in an easily absorbable, organically bound form."
-        ],
-        "calorie": ""
-    },
+      "The premium quality and the gentle processing of the selected raw materials guarantee high digestibility and offer the optimal light diet even for cats with a sensitive digestive system.",
+      "Dietetic fibres support the transport of the swallowed hair through the digestive tract and can thus reduce the formation of hairballs.",
+      "Shiny and silky fur as well as healthy skin are signs that your cat is getting the right nutrition. This is ensured by valuable fatty acids, vitamins as well as zinc and copper in an easily absorbable, organically bound form."
+    ],
+    "calorie": ""
+  },
   {
     "site": "https://www.josera.com",
     "url": "https://www.josera.com/sensicat-p746#88204",
     "brand": "Josera",
     "title": "SENSICAT | Josera Petfood GmbH & Co.Kg.",
-    "image": "https://images.app.goo.gl/Po4JS4zjT9kQEqz27",
+    "image": null,
     "analysis": [
       "protein 33.0 %",
       "fat content 18.0 %",
@@ -81,18 +81,18 @@
       "magnesium 0.60 %"
     ],
     "ingredients": [
-            "The premium quality and the gentle processing of the selected raw materials guarantee high digestibility and offer the optimal light diet even for cats with a sensitive digestive system.",
-            "Dietetic fibres support the transport of the swallowed hair through the digestive tract and can thus reduce the formation of hairballs.",
-            "A targeted selection of ingredients as well as the best recipes ensure an optimal calcium/phosphorus ratio and reduced magnesium content. This promotes a pH value of 6.0-6.5 which can counter the formation of urinary stones."
-        ],
-        "calorie": ""
-    },
+      "The premium quality and the gentle processing of the selected raw materials guarantee high digestibility and offer the optimal light diet even for cats with a sensitive digestive system.",
+      "Dietetic fibres support the transport of the swallowed hair through the digestive tract and can thus reduce the formation of hairballs.",
+      "A targeted selection of ingredients as well as the best recipes ensure an optimal calcium/phosphorus ratio and reduced magnesium content. This promotes a pH value of 6.0-6.5 which can counter the formation of urinary stones."
+    ],
+    "calorie": ""
+  },
   {
     "site": "https://www.josera.com",
     "url": "https://www.josera.com/dailycat-p1007#109191",
     "brand": "Josera",
     "title": "DAILYCAT | Josera Petfood GmbH & Co.Kg.",
-    "image": "https://images.app.goo.gl/9cZXPDZ9A52czhPs9",
+    "image": null,
     "analysis": [
       "protein 33.0 %",
       "fat content 16.0 %",
@@ -103,18 +103,18 @@
       "magnesium 0.60 %"
     ],
     "ingredients": [
-            "The formula contains no grain and is suitable for the daily grain free nutrition of healthy and sensitive cats.",
-            "The premium quality and the gentle processing of the selected raw materials guarantee high digestibility and offer the optimal light diet even for cats with a sensitive digestive system.",
-            "Dietetic fibres support the transport of the swallowed hair through the digestive tract and can thus reduce the formation of hairballs."
-        ],
-        "calorie": ""
-    },
+      "The formula contains no grain and is suitable for the daily grain free nutrition of healthy and sensitive cats.",
+      "The premium quality and the gentle processing of the selected raw materials guarantee high digestibility and offer the optimal light diet even for cats with a sensitive digestive system.",
+      "Dietetic fibres support the transport of the swallowed hair through the digestive tract and can thus reduce the formation of hairballs."
+    ],
+    "calorie": ""
+  },
   {
     "site": "https://www.josera.com",
     "url": "https://www.josera.com/naturecat-p751#88217",
     "brand": "Josera",
     "title": "NATURECAT | Josera Petfood GmbH & Co.Kg.",
-    "image": "https://images.app.goo.gl/epvz6AcydRfU8KmS6",
+    "image": null,
     "analysis": [
       "protein 33.0 %",
       "fat content 20.0 %",
@@ -125,18 +125,18 @@
       "magnesium 0.60 %"
     ],
     "ingredients": [
-            "The formula contains no grain and is suitable for the daily grain free nutrition of healthy and sensitive cats.",
-            "A targeted selection of ingredients as well as the best recipes ensure an optimal calcium/phosphorus ratio and reduced magnesium content. This promotes a pH value of 6.0-6.5 which can counter the formation of urinary stones.",
-            "Dietetic fibres support the transport of the swallowed hair through the digestive tract and can thus reduce the formation of hairballs."
-        ],
-        "calorie": ""
-    },
+      "The formula contains no grain and is suitable for the daily grain free nutrition of healthy and sensitive cats.",
+      "A targeted selection of ingredients as well as the best recipes ensure an optimal calcium/phosphorus ratio and reduced magnesium content. This promotes a pH value of 6.0-6.5 which can counter the formation of urinary stones.",
+      "Dietetic fibres support the transport of the swallowed hair through the digestive tract and can thus reduce the formation of hairballs."
+    ],
+    "calorie": ""
+  },
   {
     "site": "https://www.josera.com",
     "url": "https://www.josera.com/naturelle-p771#99354",
     "brand": "Josera",
     "title": "NATURELLE | Josera Petfood GmbH & Co.Kg.",
-    "image": "https://images.app.goo.gl/kgFiFKNHXFXhc3Bz5",
+    "image": null,
     "analysis": [
       "protein 35.0 %",
       "fat content 12.0 %",
@@ -147,10 +147,10 @@
       "magnesium 0.60 %"
     ],
     "ingredients": [
-            "The moderate energy content can prevent overweight. A targeted selection of ingredients promotes a pH value of 6.0-6.5 which can counter the formation of urinary stones.",
-            "The formula contains no grain and is suitable for the daily grain free nutrition of healthy and sensitive cats.",
-            "Reduced risk of tartar formation due to increased binding of calcium in saliva."
-        ],
-        "calorie": ""
-    }
+      "The moderate energy content can prevent overweight. A targeted selection of ingredients promotes a pH value of 6.0-6.5 which can counter the formation of urinary stones.",
+      "The formula contains no grain and is suitable for the daily grain free nutrition of healthy and sensitive cats.",
+      "Reduced risk of tartar formation due to increased binding of calcium in saliva."
+    ],
+    "calorie": ""
+  }
 ]

@@ -1,20 +1,20 @@
 [
     {
-        "site": "https://ca.smackpetfood.com",
-        "url": "https://ca.smackpetfood.com/collections/cats/products/pacific-fish-feast",
-        "brand": "Smack Raw Hydrate Cat Food",
-        "title": "Pacific Fish Feast (CAT) – Smack Pet Food",
-        "image": "https://images.app.goo.gl/McUVzrXXp8bchLMg7",
-        "analysis": [
-            "Crude Protein: - 50.0%",
-            "Crude Fat: - 32.0%",
-            "Crude Fibre: - 1.5%",
-            "Moisture: - 4.0%",
-            "Calcium: - 1.95%",
-            "Phosphorus: - 1.55%",
-            "Carbohydrates: - 3.5%",
-            "Taurine: - 0.27%"
-        ],
+      "site": "https://ca.smackpetfood.com",
+      "url": "https://ca.smackpetfood.com/collections/cats/products/pacific-fish-feast",
+      "brand": "Smack Raw Hydrate Cat Food",
+      "title": "Pacific Fish Feast (CAT) – Smack Pet Food",
+      "image": null,
+      "analysis": [
+        "Crude Protein: - 50.0%",
+        "Crude Fat: - 32.0%",
+        "Crude Fibre: - 1.5%",
+        "Moisture: - 4.0%",
+        "Calcium: - 1.95%",
+        "Phosphorus: - 1.55%",
+        "Carbohydrates: - 3.5%",
+        "Taurine: - 0.27%"
+      ],
         "ingredients": [
             "Wild Rockfish",
             "Wild Herring",
@@ -29,22 +29,22 @@
         ],
         "calorie": "(CALCULATED): 5500 kcal/kg, 550 kcal/cup"
     },
-    {
-        "site": "https://ca.smackpetfood.com",
-        "url": "https://ca.smackpetfood.com/collections/cats/products/purrfect-pork",
-        "brand": "Smack Raw Hydrate Cat Food",
-        "title": "Purrfect Pork (CAT) – Smack Pet Food",
-        "image": "https://images.app.goo.gl/qPb3Ug8CzpDtUaH67",
-        "analysis": [
-            "Crude Protein: - 40.0%",
-            "Crude Fat: - 30.0%",
-            "Crude Fibre: - 1.8%",
-            "Moisture: - 4.0%",
-            "Carbohydrates: - 2.5%",
-            "Calcium: - 1.90 %",
-            "Phosphorus: - 1.22%",
-            "Taurine: - 0.27%"
-        ],
+  {
+    "site": "https://ca.smackpetfood.com",
+    "url": "https://ca.smackpetfood.com/collections/cats/products/purrfect-pork",
+    "brand": "Smack Raw Hydrate Cat Food",
+    "title": "Purrfect Pork (CAT) – Smack Pet Food",
+    "image": null,
+    "analysis": [
+      "Crude Protein: - 40.0%",
+      "Crude Fat: - 30.0%",
+      "Crude Fibre: - 1.8%",
+      "Moisture: - 4.0%",
+      "Carbohydrates: - 2.5%",
+      "Calcium: - 1.90 %",
+      "Phosphorus: - 1.22%",
+      "Taurine: - 0.27%"
+    ],
         "ingredients": [
             "Pork (Bone-In)",
             "Pork Organs (Heart, Liver, Kidney, Tongue, and Spleen)",
@@ -59,22 +59,22 @@
         ],
         "calorie": "(CALCULATED): 4600 kcal/kg, 460 kcal/cup"
     },
-    {
-        "site": "https://ca.smackpetfood.com",
-        "url": "https://ca.smackpetfood.com/collections/cats/products/very-berry-for-cats-crunchy-style-240-g",
-        "brand": "Smack Raw Hydrate Cat Food",
-        "title": "Very Berry for Cats – Smack Pet Food",
-        "image": "https://images.app.goo.gl/My6tLWnZFTq4ABH49",
-        "analysis": [
-            "Crude Protein: - 52.0%",
-            "Crude Fat: - 27.0%",
-            "Crude Fibre: - 1.8%",
-            "Moisture: - 6.0%",
-            "Carbohydrates: - 1.5%",
-            "Calcium: - 1.00%",
-            "Phosphorus: - 0.80%",
-            "Sodium: - 0.25%",
-            "Magnesium: - 0.08%",
+  {
+    "site": "https://ca.smackpetfood.com",
+    "url": "https://ca.smackpetfood.com/collections/cats/products/very-berry-for-cats-crunchy-style-240-g",
+    "brand": "Smack Raw Hydrate Cat Food",
+    "title": "Very Berry for Cats – Smack Pet Food",
+    "image": "https://cdn.shopify.com/s/files/1/0018/2337/5421/products/Smack_cat_1024x.png?v=1529442605",
+    "analysis": [
+      "Crude Protein: - 52.0%",
+      "Crude Fat: - 27.0%",
+      "Crude Fibre: - 1.8%",
+      "Moisture: - 6.0%",
+      "Carbohydrates: - 1.5%",
+      "Calcium: - 1.00%",
+      "Phosphorus: - 0.80%",
+      "Sodium: - 0.25%",
+      "Magnesium: - 0.08%",
             "Iron: - 105mg/kg",
             "Zinc: - 84mg/kg",
             "Taurine: - 0.23%"
