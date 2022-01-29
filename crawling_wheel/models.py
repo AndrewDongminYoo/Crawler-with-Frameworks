@@ -17,14 +17,14 @@ class CatFood(me.Document):
         }, ensure_ascii=False)
 
     def from_dict(self, obj):
-        self.site = obj.get("site")
-        self.url = obj.get("url")
-        self.brand = obj.get("brand")
-        self.title = obj.get("title")
-        self.image = obj.get("image")
-        self.analysis = obj.get("analysis")
-        self.ingredients = obj.get("ingredients")
-        self.calorie = obj.get("calorie")
+        self.site = obj.get("site") or None
+        self.url = obj.get("url") or None
+        self.brand = obj.get("brand") or None
+        self.title = obj.get("title") or None
+        self.image = obj.get("image") or None
+        self.analysis = obj.get("analysis") or None
+        self.ingredients = obj.get("ingredients") or None
+        self.calorie = obj.get("calorie") or None
         return self
 
     def to_dict(self, *args, **kwargs):

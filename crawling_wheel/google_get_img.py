@@ -1,4 +1,4 @@
-from urllib.parse import urlparse
+from urllib.parse import urlparse, quote
 
 from pymongo import MongoClient
 from selenium.common.exceptions import TimeoutException
@@ -21,7 +21,7 @@ def finda(XPATH) -> WebElement:
 
 def search_google_image_with_title(title):
     try:
-        driver.get(f"https://www.google.com/search?q={title}&tbm=isch")
+        driver.get(f"https://www.google.com/search?q={quote(title)}&tbm=isch")
         finda('//*[@id="islrg"]/div[1]/div[1]/a[1]').click()
         return finda('//*[@id="Sva75c"]/div/div/div[3]/div[2]/c-wiz/div/div[1]/div[1]/div[2]/div/a/img').get_attribute(
             "src")
@@ -33,7 +33,7 @@ def search_google_image_with_title(title):
 def search_google_img_get_first(product):
     try:
         url = product['url']
-        driver.get(f"https://www.google.com/search?q={url}&tbm=isch")
+        driver.get(f"https://www.google.com/search?q={quote(url)}&tbm=isch")
         finda('//*[@id="islrg"]/div[1]/div[1]/a[1]').click()
         return finda('//*[@id="Sva75c"]/div/div/div[3]/div[2]/c-wiz/div/div[1]/div[1]/div[2]/div/a/img').get_attribute(
             "src")

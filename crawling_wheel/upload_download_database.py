@@ -7,7 +7,7 @@ from models import CatFood
 
 client = MongoClient()
 db = client.get_database("cat")
-col = db.get_collection("CafFood_test006")
+col = db.get_collection("CatFood_test006")
 data_path = os.path.join(os.curdir, "data")
 files = [x for x in os.listdir(data_path) if x != "__pycache__"]
 
@@ -38,4 +38,5 @@ def download():
 
 
 if __name__ == '__main__':
-    upload()
+    # upload()
+    download()
