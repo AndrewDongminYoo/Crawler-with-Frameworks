@@ -25,11 +25,11 @@
         "lignocellulose (3.5%)",
         "beet pulp (2.5%)",
         "salmon oil (3%)",
-            "linseed (2%)",
-            "poultry fat",
-            "liver hydrolysate (1%, dried)",
-            "sodium chloride",
-            "potassium chloride",
+        "linseed (2%)",
+        "poultry fat",
+        "liver hydrolysate (1%, dried)",
+        "sodium chloride",
+        "potassium chloride",
         "calcium sulphate",
         "chicory insulin (0.2%)",
         "seaweed meal (rich in DHA)",
@@ -66,10 +66,10 @@
       "beet pulp (3%)",
       "linseed (2%)",
       "liver hydrolysate (1%, dried)",
-            "sodium chloride",
-            "salmon oil (0.8%)",
-            "sunflower oil (0.5%)",
-            "potassium chloride",
+      "sodium chloride",
+      "salmon oil (0.8%)",
+      "sunflower oil (0.5%)",
+      "potassium chloride",
       "calcium sulphate (anhydrous)",
       "chicory insulin (0.2%)",
       "yeast cell walls (dried, = 0.042% beta glucane and 0.038% mannan oligosaccharide)",
@@ -282,8 +282,8 @@
       "cranberries (0.1%)",
       "yucca schidigera powder",
       "glucosamine (0.02%)",
-            "chondroitin sulphate (0.01%)."
-        ],
+      "chondroitin sulphate (0.01%)."
+    ],
     "calorie": "Energy content: metabolisable energy (according to FEDIAF, 2016) 14.70 MJ/kg."
-    }
+  }
 ]

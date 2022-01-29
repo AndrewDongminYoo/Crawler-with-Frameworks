@@ -58,8 +58,8 @@
       "Choline Chloride",
       "DL–Methionine",
       "Salt",
-            "Minerals",
-            "(Zinc Proteinate Iron Proteinate Calcium Carbonate Manganese Proteinate Copper Proteinate Sodium selenite Calcium Iodate)",
+      "Minerals",
+      "(Zinc Proteinate Iron Proteinate Calcium Carbonate Manganese Proteinate Copper Proteinate Sodium selenite Calcium Iodate)",
       "Vitamins",
       "(Vitamin E Supplement Niacin Thiamine Mononitrate Vitamin A Supplement D-calcium pantothenate Riboflavin Pyridoxine Hydrochloride Biotin Vitamin B12 Supplement Vitamin D3 Supplement Folic Acid)",
       "Potassium Chloride",
@@ -129,10 +129,10 @@
       "Whole Blueberries",
       "Phosphoric acid",
       "DL–Methionine",
-            "Minerals",
-            "(Zinc Proteinate Iron Proteinate Calcium Carbonate Manganese Proteinate Copper Proteinate Sodium selenite Calcium Iodate)",
-            "Vitamins",
-            "(Vitamin E Supplement Niacin Thiamine Mononitrate Vitamin A Supplement D-pantothenic Acid Riboflavin Pyridoxine Hydrochloride Biotin Vitamin B12 Supplement Vitamin D3 Supplement Folic Acid)",
+      "Minerals",
+      "(Zinc Proteinate Iron Proteinate Calcium Carbonate Manganese Proteinate Copper Proteinate Sodium selenite Calcium Iodate)",
+      "Vitamins",
+      "(Vitamin E Supplement Niacin Thiamine Mononitrate Vitamin A Supplement D-pantothenic Acid Riboflavin Pyridoxine Hydrochloride Biotin Vitamin B12 Supplement Vitamin D3 Supplement Folic Acid)",
       "Choline Chloride",
       "Potassium Chloride",
       "Calcium Propionate",
@@ -203,6 +203,6 @@
       "Taurine",
       "Kale"
     ],
-        "calorie": ""
-    }
+    "calorie": ""
+  }
 ]
