@@ -5,6 +5,7 @@ window.onload = (() => {
 function loadCatFoods(num) {
     let articleContainer = document
         .querySelector("#page-content > div > div > div.row > div > div > section.results-products.js-tracked-product-list")
+    articleContainer.innerHTML = ""
     fetch(`/v1/cat-foods?page=${num}`)
         .then((response) => {
             return response.json()
@@ -23,8 +24,7 @@ function loadCatFoods(num) {
 function showArticle(article) {
     let {analysis, brand, calorie, image, ingredients, site, title, url} = article
     return `<article class="product-holder js-tracked-product  cw-card cw-card-hover">
-        <a class="product is-10-px-padded"
-           href="${url}" style="padding-bottom: 104px;">
+        <a class="product is-10-px-padded" style="padding-bottom: 104px;">
             <div class="image-holder">
                 <img alt="${title}"
                      loading="lazy"
