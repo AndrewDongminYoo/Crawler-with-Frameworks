@@ -11,7 +11,6 @@ col = db.get_collection("CatFood_test005")
 def call_cat_foods():
     args = request.args
     page = int(args.get("page") or 1)
-    per_page = 24
-
-    cat_foods = col.find({}, {"_id": False}).limit(per_page)
+    per_page = 60
+    cat_foods = col.find({}, {"_id": False}).skip((page - 1) * per_page).limit(per_page)
     return jsonify(list(cat_foods))
