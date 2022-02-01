@@ -44,7 +44,7 @@
         "Citric Acid (Preservative)",
         "Rosemary Extract."
       ],
-      "calorie": "(calculated): ME = 3,710 kcal/kg."
+      "calorie": "3710 kcal/kg"
     },
   {
     "site": "https://rawznaturalpetfood.com",
@@ -91,7 +91,7 @@
       "Citric Acid (Preservative)",
       "Rosemary Extract."
     ],
-    "calorie": "(calculated): ME = 3,710 kcal/kg."
+    "calorie": "3710 kcal/kg"
   },
   {
     "site": "https://rawznaturalpetfood.com",
@@ -139,7 +139,7 @@
       "Calcium Iodate*",
       "Folic Acid."
     ],
-    "calorie": "1,131 kcal/kg; 176 kcal/can."
+    "calorie": "1131 kcal/kg"
   },
   {
     "site": "https://rawznaturalpetfood.com",
@@ -187,7 +187,7 @@
       "Calcium Iodate*",
       "Folic Acid."
     ],
-    "calorie": "1,253 kcal/kg; 194 kcal/5.5 oz. can or 107 kcal/3 oz. can."
+    "calorie": "1253 kcal/kg"
   },
   {
     "site": "https://rawznaturalpetfood.com",
@@ -234,7 +234,7 @@
       "Calcium Iodate*",
       "Folic Acid."
     ],
-    "calorie": "1,179 kcal/kg or 183 kcal/can."
+    "calorie": ""
   },
   {
     "site": "https://rawznaturalpetfood.com",
@@ -281,7 +281,7 @@
       "Calcium Iodate*",
       "Folic Acid."
     ],
-    "calorie": "1,165 kcal/kg; 181 kcal/5.5 oz. can or 99 kcal/3 oz. can."
+    "calorie": "1165 kcal/kg"
   },
   {
     "site": "https://rawznaturalpetfood.com",
@@ -326,7 +326,7 @@
       "Calcium Iodate*",
       "Folic Acid."
     ],
-    "calorie": "1,073 kcal/kg; 166 kcal / 5.5 oz. can or 91 kcal / 3 oz. can."
+    "calorie": "1073 kcal/kg"
   },
   {
     "site": "https://rawznaturalpetfood.com",
@@ -370,7 +370,7 @@
       "Calcium Iodate*",
       "Folic Acid."
     ],
-    "calorie": "1,111 kcal/kg; 172 kcal/5.5 oz. can or 94 kcal/3 oz. can."
+    "calorie": "1111 kcal/kg"
   },
   {
     "site": "https://rawznaturalpetfood.com",
@@ -418,7 +418,7 @@
       "Calcium Iodate*",
       "Folic Acid."
     ],
-    "calorie": "1,092 kcal/kg or 169 kcal/can."
+    "calorie": ""
   },
   {
     "site": "https://rawznaturalpetfood.com",
@@ -464,7 +464,7 @@
       "Calcium Iodate*",
       "Folic Acid."
     ],
-    "calorie": "1,286 kcal/kg; 199 kcal/5.5 oz. can or 109 kcal/3 oz. can."
+    "calorie": "1286 kcal/kg"
   },
   {
     "site": "https://rawznaturalpetfood.com",
@@ -502,14 +502,14 @@
       "Manganese Proteinate",
       "Vitamin A Supplement",
       "Calcium Pantothenate",
-            "Riboflavin Supplement",
-            "Pyridoxine Hydrochloride",
-            "Biotin",
-            "Vitamin D3 Supplement",
-            "Vitamin B12 Supplement",
-            "Calcium Iodate*",
-            "Folic Acid."
-        ],
-        "calorie": "1,275 kcal/kg; 198 kcal/5.5 oz. can or 108 kcal/3 oz. can."
-    }
+      "Riboflavin Supplement",
+      "Pyridoxine Hydrochloride",
+      "Biotin",
+      "Vitamin D3 Supplement",
+      "Vitamin B12 Supplement",
+      "Calcium Iodate*",
+      "Folic Acid."
+    ],
+    "calorie": "1275 kcal/kg"
+  }
 ]

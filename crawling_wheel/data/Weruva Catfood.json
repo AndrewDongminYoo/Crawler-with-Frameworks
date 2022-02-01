@@ -40,10 +40,7 @@
         "Biotin",
         "Vitamin B12 Supplement"
       ],
-      "calorie": [
-        "3.0 oz 57 kcal",
-        "KG 673 kcal"
-      ]
+      "calorie": "673 kcal/kg"
     },
   {
     "site": "https://weruva.com",
@@ -89,10 +86,7 @@
       "Biotin",
       "Vitamin B12 Supplement"
     ],
-    "calorie": [
-      "3.0 oz 58 kcal",
-      "KG 683 kcal"
-    ]
+    "calorie": "683 kcal/kg"
   },
   {
     "site": "https://weruva.com",
@@ -138,10 +132,7 @@
       "Biotin",
       "Vitamin B12 Supplement"
     ],
-    "calorie": [
-      "3.0 oz 53 kcal",
-      "KG 618 kcal"
-    ]
+    "calorie": "618 kcal/kg"
   },
   {
     "site": "https://weruva.com",
@@ -185,10 +176,7 @@
       "Biotin",
       "Vitamin B12 Supplement"
     ],
-    "calorie": [
-      "3.0 oz 59 kcal",
-      "KG 698 kcal"
-    ]
+    "calorie": "698 kcal/kg"
   },
   {
     "site": "https://weruva.com",
@@ -233,10 +221,7 @@
       "Biotin",
       "Vitamin B12 Supplement"
     ],
-    "calorie": [
-      "3.0 oz 64 kcal",
-      "KG 752 kcal"
-    ]
+    "calorie": "752 kcal/kg"
   },
   {
     "site": "https://weruva.com",
@@ -280,10 +265,7 @@
       "Biotin",
       "Vitamin B12 Supplement"
     ],
-    "calorie": [
-      "3.0 oz 63 kcal",
-      "KG 746 kcal"
-    ]
+    "calorie": "746 kcal/kg"
   },
   {
     "site": "https://weruva.com",
@@ -329,10 +311,7 @@
       "Biotin",
       "Vitamin B12 Supplement"
     ],
-    "calorie": [
-      "3.0 oz 66 kcal",
-      "KG 774 kcal"
-    ]
+    "calorie": "774 kcal/kg"
   },
   {
     "site": "https://weruva.com",
@@ -375,10 +354,7 @@
       "Biotin",
       "Vitamin B12 Supplement"
     ],
-    "calorie": [
-      "3.0 oz 61 kcal",
-      "KG 723 kcal"
-    ]
+    "calorie": "723 kcal/kg"
   },
   {
     "site": "https://weruva.com",
@@ -423,10 +399,7 @@
       "Biotin",
       "Vitamin B12 Supplement"
     ],
-    "calorie": [
-      "3.0 oz 65 kcal",
-      "KG 770 kcal"
-    ]
+    "calorie": "770 kcal/kg"
   },
   {
     "site": "https://weruva.com",
@@ -470,10 +443,7 @@
       "Biotin",
       "Vitamin B12 Supplement"
     ],
-    "calorie": [
-      "3.0 oz 62 kcal",
-      "KG 733 kcal"
-    ]
+    "calorie": "733 kcal/kg"
   },
   {
     "site": "https://weruva.com",
@@ -519,10 +489,7 @@
       "Biotin",
       "Vitamin B12 Supplement"
     ],
-    "calorie": [
-      "3.0 oz 61 kcal",
-      "KG 718 kcal"
-    ]
+    "calorie": "718 kcal/kg"
   },
   {
     "site": "https://weruva.com",
@@ -560,12 +527,9 @@
       "Potassium Iodide",
       "Menadione Sodium Bisulfite (Source of Vitamin K)",
       "Biotin",
-            "Sodium Selenite",
-            "Vitamin B12 Supplement"
-        ],
-        "calorie": [
-            "3.0 oz 56 kcal",
-            "KG 663 kcal"
-        ]
-    }
+      "Sodium Selenite",
+      "Vitamin B12 Supplement"
+    ],
+    "calorie": "663 kcal/kg"
+  }
 ]

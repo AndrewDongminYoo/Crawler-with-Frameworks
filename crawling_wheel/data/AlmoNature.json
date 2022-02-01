@@ -10,16 +10,14 @@
             "Crude Protein 12%",
             "Crude Fat 0.2%",
             "Crude Fiber 1.5%",
-            "Ash 1.5%",
-            "Energy: 790 kcal ME/kg",
-            "55.3 kcal ME/2.47oz. can"
+            "Ash 1.5%"
         ],
         "ingredients": [
             "Chicken",
             "Water sufficient for processing",
             "Guar gum"
         ],
-        "calorie": "Energy790 kcal ME/kg, 55.3 kcal ME/2.47oz. can"
+        "calorie": "790 kcal/kg"
     },
     {
         "site": "https://www.almonature.com",
@@ -32,9 +30,7 @@
             "Crude fat 1%",
             "Moisture 83.5%",
             "Crude fiber 1.5%",
-            "Ash 1.5%",
-            "Energy: 650 kcal ME/kg",
-            "45.5 kcal ME/2.47oz"
+            "Ash 1.5%"
         ],
         "ingredients": [
             "Ham",
@@ -42,7 +38,7 @@
             "Cheese (Parmigiano Reggiano)",
             "Guar gum"
         ],
-        "calorie": "Energy650 kcal ME/kg, 45.5 kcal ME/2.47oz"
+        "calorie": "650 kcal/kg"
     },
     {
         "site": "https://www.almonature.com",
@@ -55,9 +51,7 @@
             "Crude fat 1%",
             "Moisture 83.5%",
             "Crude fiber 1.5%",
-            "Ash 1.5%",
-            "Energy: 670 kcal ME/kg",
-            "46.9 kcal ME/2.47oz. can"
+            "Ash 1.5%"
         ],
         "ingredients": [
             "Ham",
@@ -65,7 +59,7 @@
             "Turkey",
             "Guar gum"
         ],
-        "calorie": "Energy670 kcal ME/kg, 46.9 kcal ME/2.47oz. can"
+        "calorie": "670 kcal/kg"
     },
     {
         "site": "https://www.almonature.com",
@@ -78,16 +72,14 @@
             "Crude fat 0.7%",
             "Moisture 83.5%",
             "Crude fiber 0.2%",
-            "Ash 1.5%",
-            "Energy: 620 kcal ME/kg",
-            "43.4 kcal ME/2.47oz"
+            "Ash 1.5%"
         ],
         "ingredients": [
             "Turkey",
             "Water sufficient for processing",
             "Guar gum"
         ],
-        "calorie": "Energy620 kcal ME/kg, 43.4 kcal ME/2.47oz"
+        "calorie": "620 kcal/kg"
     },
     {
         "site": "https://www.almonature.com",
@@ -100,16 +92,14 @@
             "Crude fat 10%",
             "Moisture 79%",
             "Crude fiber 1.5%",
-            "Ash 1%",
-            "Energy: 1600 kcal ME/kg",
-            "112 kcal ME/2.47oz"
+            "Ash 1%"
         ],
         "ingredients": [
             "Salmon",
             "Water sufficient for processing",
             "Guar gum"
         ],
-        "calorie": "Energy 1600 kcal ME/kg, 112 kcal ME/2.47oz"
+        "calorie": "1600 kcal/kg"
     },
     {
         "site": "https://www.almonature.com",
@@ -122,8 +112,7 @@
             "Crude Fat 1.5%",
             "Moisture 80.00%",
             "Crude Fiber 1.5%",
-            "Ash 3%",
-            "Energy: 929.4 Kcal ME/kg - 65 Kcal ME/2.47oz"
+            "Ash 3%"
         ],
         "ingredients": [
             "Tuna",
@@ -137,7 +126,7 @@
             "Minerals (Zinc Oxide, Reduced Iron, Sodium Selenite, Manganese Sulfate, Copper Glycine Complex, Potassium Iodide)",
             "Vitamins ((Vitamin E Supplement, Niacin Supplement, Thiamine Mononitrate, Vitamin A Supplement, Vitamin B12 Supplement, Vitamin D3 Supplement, Calcium Pantothenate, Riboflavin, Supplement, Pyridoxine Hydrochloride, Biotin Supplement, Folic Acid, Menadione Sodium Bisulfite Complex (Source of Vitamin K Activity)), Choline Chloride, Magnesium Sulfate, Taurine."
         ],
-        "calorie": "Energy929.4 Kcal ME/kg - 65 Kcal ME/2.47oz"
+        "calorie": "929.4 kcal/kg"
     },
     {
         "site": "https://www.almonature.com",
@@ -150,8 +139,7 @@
             "Crude Fat: 1.5 %",
             "Moisture: 80 %",
             "Crude Fiber: 1.5 %",
-            "Ash 3%",
-            "Energy: 1016.5 Kcal ME/kg - 71.13 Kcal ME/2.47oz"
+            "Ash 3%"
         ],
         "ingredients": [
             "Tuna",
@@ -168,7 +156,7 @@
             "Magnesium Sulfate",
             "Taurine "
         ],
-        "calorie": "Energy1016.5 Kcal ME/kg - 71.13 Kcal ME/2.47oz"
+        "calorie": "1016.5 kcal/kg"
     },
     {
         "site": "https://www.almonature.com",
@@ -181,8 +169,7 @@
             "Crude Fat 1.5%",
             "Moisture 82%",
             "Crude Fiber 1.5%",
-            "Ash 3%",
-            "Energy: 875.5 Kcal ME/kg - 61.3 Kcal ME/2.47oz"
+            "Ash 3%"
         ],
         "ingredients": [
             "Salmon",
@@ -198,7 +185,7 @@
             "Magnesium Sulfate",
             "Taurine. "
         ],
-        "calorie": "Energy875.5 Kcal ME/kg - 61.3 Kcal ME/2.47oz"
+        "calorie": "875.5 kcal/kg"
     },
     {
         "site": "https://www.almonature.com",
@@ -211,8 +198,7 @@
             "Crude Fat 1.50%",
             "Moisture 81.00%",
             "Crude Fiber 0.50%",
-            "Ash 2.50%",
-            "Energy: Kcal/2.47 oz 65.0"
+            "Ash 2.50%"
         ],
         "ingredients": [
             "Chicken",
@@ -229,7 +215,7 @@
             "Vitamins (Vitamin E Supplement, Niacin Supplement, Vitamin A Supplement, Vitamin B12 Supplement, Vitamin D3 Supplement, Calcium Pantothenate, Riboflavin Supplement, Pyridoxine Hydrochloride, Biotin, Folic Acid, Menadione Sodium Bisulfite Complex (Source of Vitamin K Activity))",
             "Potassium Chloride."
         ],
-        "calorie": "EnergyKcal/2.47 oz 65.0"
+        "calorie": "65.0 kcal/2.47oz"
     },
     {
         "site": "https://www.almonature.com",
@@ -242,8 +228,7 @@
             "Crude Fat 1.5%",
             "Moisture 81.0%",
             "Crude Fiber 0.5%",
-            "Ash 2.5%",
-            "Energy: Kcal/2.47 oz 71.13"
+            "Ash 2.5%"
         ],
         "ingredients": [
             "Chicken",
@@ -259,7 +244,7 @@
             "Taurine",
             "Vitamins (Vitamin E Supplement, Niacin Supplement, Vitamin A Supplement, Vitamin B12 Supplement, Vitamin D3 Supplement, Calcium Pantothenate, Riboflavin Supplement, Pyridoxine Hydrochloride, Biotin, Folic Acid, Menadione Sodium Bisulfite Complex (Source of Vitamin K Activity))."
         ],
-        "calorie": "EnergyKcal/2.47 oz 71.13"
+        "calorie": "71.13 kcal/2.47oz"
     },
     {
         "site": "https://www.almonature.com",
@@ -272,8 +257,7 @@
             "Crude Fat 1.5%",
             "Moisture 81.0%",
             "Crude Fiber 0.5%",
-            "Ash 2.5%",
-            "Energy: 935.7 Kcal ME/kg - 65 Kcal ME/2.47oz"
+            "Ash 2.5%"
         ],
         "ingredients": [
             "Chicken",
@@ -289,7 +273,7 @@
             "Taurine",
             "Vitamins (Vitamin E Supplement, Niacin Supplement, Vitamin A Supplement, Vitamin B12 Supplement, Vitamin D3 Supplement, Calcium Pantothenate, Riboflavin Supplement, Pyridoxine Hydrochloride, Biotin, Folic Acid, Menadione Sodium Bisulfite Complex (Source of Vitamin K Activity))."
         ],
-        "calorie": "Energy935.7 Kcal ME/kg - 65 Kcal ME/2.47oz"
+        "calorie": "935.7 kcal/kg"
     },
     {
         "site": "https://www.almonature.com",
@@ -302,8 +286,7 @@
             "Crude Fat 1.5%",
             "Moisture 81.0%",
             "Crude Fiber 0.5%",
-            "Ash 2.5%",
-            "Energy: Kcal/2.47 oz 65"
+            "Ash 2.5%"
         ],
         "ingredients": [
             "Tuna",
@@ -319,7 +302,7 @@
             "Taurine",
             "Vitamins (Vitamin E Supplement, Niacin Supplement, Vitamin A Supplement, Vitamin B12 Supplement, Vitamin D3 Supplement, Calcium Pantothenate, Riboflavin Supplement, Pyridoxine Hydrochloride, Biotin, Folic Acid, Menadione Sodium Bisulfite Complex (Source of Vitamin K Activity))."
         ],
-        "calorie": "EnergyKcal/2.47 oz 65"
+        "calorie": "65 kcal/2.47oz"
     },
     {
         "site": "https://www.almonature.com",
@@ -332,8 +315,7 @@
             "Crude Fat 1.5%",
             "Moisture 83.0%",
             "Crude Fiber 0.5%",
-            "Ash 2.5%",
-            "Energy: Kcal/2.47 oz 61.3"
+            "Ash 2.5%"
         ],
         "ingredients": [
             "Salmon",
@@ -349,7 +331,7 @@
             "Vitamins (Vitamin E Supplement, Niacin Supplement, Vitamin A Supplement, Vitamin B12 Supplement, Vitamin D3 Supplement, Calcium Pantothenate, Riboflavin Supplement, Pyridoxine Hydrochloride, Biotin, Folic Acid, Menadione Sodium Bisulfite Complex (Source of Vitamin K Activity))",
             "Choline Chloride."
         ],
-        "calorie": "EnergyKcal/2.47 oz 61.3"
+        "calorie": "61.3 kcal/2.47oz"
     },
     {
         "site": "https://www.almonature.com",
@@ -362,8 +344,7 @@
             "Crude Fat 1.5%",
             "Moisture 83.0%",
             "Crude Fiber 0.5%",
-            "Ash 2.5%",
-            "Energy: Kcal/2.47 oz 62.4"
+            "Ash 2.5%"
         ],
         "ingredients": [
             "Mackerel",
@@ -380,7 +361,7 @@
             "Vitamins (Vitamin E Supplement, Niacin Supplement, Vitamin A Supplement, Vitamin B12 supplement, Vitamin D3 Supplement, Calcium Pantothenate, Riboflavin Supplement, Pyridoxine Hydrochloride, Biotin, Folic Acid, Menadione Sodium Bisulfite Complex (Source of Vitamin K Activity))",
             "Choline Chloride."
         ],
-        "calorie": "EnergyKcal/2.47 oz 62.4"
+        "calorie": "62.4 kcal/2.47oz"
     },
     {
         "site": "https://www.almonature.com",
@@ -393,8 +374,7 @@
             "Crude Fat 2%",
             "Moisture 81%",
             "Crude Fiber 0.5%",
-            "Ash 2.5%",
-            "Energy: 890.8 kcals/kg - 62.3 kcals/2.47 oz"
+            "Ash 2.5%"
         ],
         "ingredients": [
             "Chicken",
@@ -410,7 +390,7 @@
             "Taurine",
             "Vitamins (Vitamin E Supplement, Niacin Supplement, Vitamin A Supplement, Vitamin B12 Supplement, Vitamin D3 Supplement, Calcium Pantothenate, Riboflavin Supplement, Pyridoxine Hydrochloride, Biotin, Folic Acid, Menadione Sodium Bisulfite Complex (Source Of Vitamin K Activity))."
         ],
-        "calorie": "Energy890.8 kcals/kg - 62.3 kcals/2.47 oz"
+        "calorie": "890.8 kcal/kg"
     },
     {
         "site": "https://www.almonature.com",
@@ -423,8 +403,7 @@
             "Crude Fat 2%",
             "Moisture 81%",
             "Crude Fiber 0.5%",
-            "Ash 2.5%",
-            "Energy: 897.3 kcals/kg - 62.8 kcals/2.47 oz"
+            "Ash 2.5%"
         ],
         "ingredients": [
             "Chicken",
@@ -440,7 +419,7 @@
             "Choline Chloride",
             "Vitamins (Vitamin E Supplement, Niacin Supplement, Vitamin A Supplement, Vitamin B12 Supplement, Vitamin D3 Supplement, Calcium Pantothenate, Riboflavin Supplement, Pyridoxine Hydrochloride, Biotin, Folic Acid, Menadione Sodium Bisulfite Complex (Source Of Vitamin K Activity))."
         ],
-        "calorie": "Energy897.3 kcals/kg - 62.8 kcals/2.47 oz"
+        "calorie": "897.3 kcal/kg"
     },
     {
         "site": "https://www.almonature.com",
@@ -453,8 +432,7 @@
             "Crude Fat 2%",
             "Moisture 81%",
             "Crude Fiber 0.5%",
-            "Ash 2.5%",
-            "Energy: 949 kcals/kg - 66.4 kcals/2.47 oz."
+            "Ash 2.5%"
         ],
         "ingredients": [
             "Chicken",
@@ -470,7 +448,7 @@
             "Taurine",
             "Vitamins (Vitamin E Supplement, Niacin Supplement, Vitamin A Supplement, Vitamin B12 Supplement, Vitamin D3 Supplement, Calcium Pantothenate, Riboflavin Supplement, Pyridoxine Hydrochloride, Biotin, Folic Acid, Menadione Sodium Bisulfite Complex (Source Of Vitamin K Activity))."
         ],
-        "calorie": "Energy949 kcals/kg - 66.4 kcals/2.47 oz."
+        "calorie": "949 kcal/kg"
     },
     {
         "site": "https://www.almonature.com",
@@ -483,8 +461,7 @@
             "Crude Fat 2%",
             "Moisture 81%",
             "Crude Fiber 0.5%",
-            "Ash 2.5%",
-            "Energy: 892.2 Kcal ME/kg - 62.4 Kcal ME/2.47oz"
+            "Ash 2.5%"
         ],
         "ingredients": [
             "Mackerel",
@@ -500,7 +477,7 @@
             "Taurine",
             "Vitamins (Vitamin E Supplement, Niacin Supplement, Vitamin A Supplement, Vitamin B12 Supplement, Vitamin D3 Supplement, Calcium Pantothenate, Riboflavin Supplement, Pyridoxine Hydrochloride, Biotin, Folic Acid, Menadione Sodium Bisulfite Complex (Source Of Vitamin K Activity))."
         ],
-        "calorie": "Energy892.2 Kcal ME/kg - 62.4 Kcal ME/2.47oz"
+        "calorie": "892.2 kcal/kg"
     },
     {
         "site": "https://www.almonature.com",
@@ -513,8 +490,7 @@
             "Crude Fat 2%",
             "Moisture 81%",
             "Crude Fiber 0.5%",
-            "Ash 2.5%",
-            "Energy: 873.4 kcals/kg - 61.1 kcals/2.47 oz"
+            "Ash 2.5%"
         ],
         "ingredients": [
             "Tuna",
@@ -529,7 +505,7 @@
             "Choline Chloride",
             "Vitamins (Vitamin E Supplement, Niacin Supplement, Vitamin A Supplement, Vitamin B12 Supplement, Vitamin D3 Supplement, Calcium Pantothenate, Riboflavin Supplement, Pyridoxine Hydrochloride, Biotin, Folic Acid, Menadione Sodium Bisulfite Complex (Source Of Vitamin K Activity))."
         ],
-        "calorie": "Energy873.4 kcals/kg - 61.1 kcals/2.47 oz"
+        "calorie": "873.4 kcal/kg"
     },
     {
         "site": "https://www.almonature.com",
@@ -542,14 +518,13 @@
             "Crude Fat 7%",
             "Moisture 76%",
             "Crude Fiber 0.1%",
-            "Ash 3%",
-            "Energy 1200 - Kcal/70 g (2.47 oz) 84.0"
+            "Ash 3%"
         ],
         "ingredients": [
             "Ingredients: Chicken Drumstick 76%",
             "Water Sufficient For Cooking 24%."
         ],
-        "calorie": "1200 - Kcal/70 g (2.47 oz) 84.0"
+        "calorie": "1200 kcal/kg"
     },
     {
         "site": "https://www.almonature.com",
@@ -563,7 +538,7 @@
             "Water Sufficient For Cooking 24%",
             "Pumpkin 7%."
         ],
-        "calorie": "Kcal/70 g (2.47 oz) 43.5"
+        "calorie": "43.5 /kcal/70g"
     },
     {
         "site": "https://www.almonature.com",
@@ -576,8 +551,7 @@
             "Crude Fat 0.3%",
             "Moisture 83%",
             "Crude Fiber 1%",
-            "Ash 2%",
-            "Energy 480 - Kcal/70 g (2.47 oz) 33.6"
+            "Ash 2%"
         ],
         "ingredients": [
             "Ingredients: White Fish 46%",
@@ -586,7 +560,7 @@
             "Squid 9%",
             "Shrimp 7%."
         ],
-        "calorie": "480 - Kcal/70 g (2.47 oz) 33.6"
+        "calorie": "480 kcal/kg"
     },
     {
         "site": "https://www.almonature.com",
@@ -612,15 +586,14 @@
             "Crude Fat 2%",
             "Moisture 79%",
             "Crude Fiber 0.1%",
-            "Ash 1%",
-            "Energy: 750 - Kcal/70 g/52.5"
+            "Ash 1%"
         ],
         "ingredients": [
             "Tuna 69%",
             "Water Sufficient For Cooking 24%",
             "Cheese 7%."
         ],
-        "calorie": "Energy750 - Kcal/70 g (2.47 oz) 52.5"
+        "calorie": "750 kcal/kg"
     },
     {
         "site": "https://www.almonature.com",
@@ -633,14 +606,13 @@
             "Crude Fat 0.4%",
             "Moisture 80%",
             "Crude Fiber 0.1%",
-            "Ash 1%",
-            "Energy: 693 Kcal ME/kg: 48.5 Kcal ME/2.47oz"
+            "Ash 1%"
         ],
         "ingredients": [
             "Pacific Tuna 76%",
             "Water Sufficient For Cooking 24%."
         ],
-        "calorie": "Energy693 Kcal ME/kg – 48.5 Kcal ME/2.47oz"
+        "calorie": "693 kcal/kg"
     },
     {
         "site": "https://www.almonature.com",
@@ -653,15 +625,14 @@
             "Crude Fat 0.6%",
             "Moisture 80.8%",
             "Crude Fiber 0.1%",
-            "Ash 1%",
-            "Energy: Kcal/70 g/41.7"
+            "Ash 1%"
         ],
         "ingredients": [
             "Chicken 70%",
             "Water Sufficient for Processing 24%",
             "Quinoa 6%."
         ],
-        "calorie": "EnergyKcal/70 g (2.47 oz) 41.7"
+        "calorie": "41.7 /kcal/70g"
     },
     {
         "site": "https://www.almonature.com",
@@ -674,8 +645,7 @@
             "Crude Fat 4.3%",
             "Moisture 82.4%",
             "Crude Fiber 0.1%",
-            "Ash 1%",
-            "Energy: Kcal/70 g/55.8"
+            "Ash 1%"
         ],
         "ingredients": [
             "Chicken 50%",
@@ -685,7 +655,7 @@
             "Chicken Liver 1%",
             "Dehydrated Egg 1%."
         ],
-        "calorie": "EnergyKcal/70 g (2.47 oz) 55.8"
+        "calorie": "55.8 /kcal/70g"
     },
     {
         "site": "https://www.almonature.com",
@@ -698,8 +668,7 @@
             "Crude Fat: 1.5 %",
             "Moisture: 82 %",
             "Crude Fiber: 1.5 %",
-            "Ash: 3 %",
-            "Energy: 935.7 Kcal ME/kg - 65 Kcal ME/2.47oz"
+            "Ash: 3 %"
         ],
         "ingredients": [
             "Chicken",
@@ -719,7 +688,7 @@
             "Magnesium Sulfate",
             "Taurine"
         ],
-        "calorie": "Energy935.7 Kcal ME/kg - 65 Kcal ME/2.47oz"
+        "calorie": "935.7 kcal/kg"
     },
     {
         "site": "https://www.almonature.com",
@@ -732,8 +701,7 @@
             "Crude Fat: 1.5 %",
             "Moisture: 82 %",
             "Crude Fiber: 1.5 %",
-            "Ash: 3 %",
-            "Energy: 928.8 Kcal ME/kg - 65 Kcal ME/2.47oz"
+            "Ash: 3 %"
         ],
         "ingredients": [
             "Tuna",
@@ -747,7 +715,7 @@
             "Magnesium Sulfate",
             "Taurine. "
         ],
-        "calorie": "Energy928.8 Kcal ME/kg - 65 Kcal ME/2.47oz"
+        "calorie": "928.8 kcal/kg"
     },
     {
         "site": "https://www.almonature.com",
@@ -760,14 +728,13 @@
             "Crude Fat 1%",
             "Moisture 78%",
             "Crude Fiber 1%",
-            "Ash 2%",
-            "Energy: 660 - Kcal/70 g/46.2"
+            "Ash 2%"
         ],
         "ingredients": [
             "Salmon 76%",
             "Water Sufficient For Cooking 24%."
         ],
-        "calorie": "Energy660 - Kcal/70 g (2.47 oz) 46.2"
+        "calorie": "660 kcal/kg"
     },
     {
         "site": "https://www.almonature.com",
@@ -780,15 +747,14 @@
             "Crude Fat 1%",
             "Moisture 78%",
             "Crude Fiber 1%",
-            "Ash 3%",
-            "Energy: 690 - Kcal/70 g/48.3"
+            "Ash 3%"
         ],
         "ingredients": [
             "Salmon 38%",
             "Chicken 38%",
             "Water Sufficient For Cooking 24%."
         ],
-        "calorie": "Energy690 - Kcal/70 g (2.47 oz) 48.3"
+        "calorie": "690 kcal/kg"
     },
     {
         "site": "https://www.almonature.com",
@@ -801,15 +767,14 @@
             "Crude Fat 0.5%",
             "Moisture 80%",
             "Crude Fiber 1%",
-            "Ash 2%",
-            "Energy: 630 - Kcal/70 g/44.1"
+            "Ash 2%"
         ],
         "ingredients": [
             "Tuna 70%",
             "Water Sufficient For Cooking 24%",
             "Whitebait 6%."
         ],
-        "calorie": "Energy630 - Kcal/70 g (2.47 oz) 44.1"
+        "calorie": "630 kcal/kg"
     },
     {
         "site": "https://www.almonature.com",
@@ -822,14 +787,13 @@
             "Crude Fat 0.5%",
             "Moisture 81%",
             "Crude Fiber 0.1%",
-            "Ash 1%",
-            "Energy: Kcal/70 g (2.47oz) 47.2"
+            "Ash 1%"
         ],
         "ingredients": [
             "Tuna 76%",
             "Water Sufficient For Cooking 24%."
         ],
-        "calorie": "EnergyKcal/70 g (2.47oz) 47.2"
+        "calorie": "47.2 /kcal/70g"
     },
     {
         "site": "https://www.almonature.com",
@@ -842,15 +806,14 @@
             "Crude Fat 0.3%",
             "Moisture 83%",
             "Crude Fiber 1%",
-            "Ash 2%",
-            "Energy: 650 - Kcal/70 g/45.5"
+            "Ash 2%"
         ],
         "ingredients": [
             "Tuna 70%",
             "Water Sufficient For Cooking 24%",
             "Shrimp 6%."
         ],
-        "calorie": "Energy650 - Kcal/70 g (2.47 oz) 45.5"
+        "calorie": "650 kcal/kg"
     },
     {
         "site": "https://www.almonature.com",
@@ -863,15 +826,14 @@
             "Crude Fat 1%",
             "Moisture 83%",
             "Crude Fiber 1%",
-            "Ash 2%",
-            "Energy: Kcal/70 g/39.2"
+            "Ash 2%"
         ],
         "ingredients": [
             "Tuna 48%",
             "Chicken 28%",
             "Water Sufficient For Cooking 24%."
         ],
-        "calorie": "EnergyKcal/70 g (2.47 oz) 39.2"
+        "calorie": "39.2 /kcal/70g"
     },
     {
         "site": "https://www.almonature.com",
@@ -884,15 +846,14 @@
             "Crude Fat 3%",
             "Moisture 80%",
             "Crude Fiber 1%",
-            "Ash 3%",
-            "Energy: Kcal/70 g/49.7"
+            "Ash 3%"
         ],
         "ingredients": [
             "Trout 38%",
             "Tuna 38%",
             "Water Sufficient For Cooking 24%."
         ],
-        "calorie": "Energy Kcal/70 g (2.47 oz) 49.7"
+        "calorie": "49.7 /kcal/70g"
     },
     {
         "site": "https://www.almonature.com",
@@ -905,15 +866,14 @@
             "Crude Fat 0.3%",
             "Moisture 80%",
             "Crude Fiber 1%",
-            "Ash 2%",
-            "Energy: Kcal/70 g/43.4"
+            "Ash 2%"
         ],
         "ingredients": [
             "Chicken 70%",
             "Water Sufficient For Cooking 24%",
             "shrimp 6%."
         ],
-        "calorie": "EnergyKcal/70 g (2.47 oz) 43.4"
+        "calorie": "43.4 /kcal/70g"
     },
     {
         "site": "https://www.almonature.com",
@@ -926,15 +886,14 @@
             "Crude Fat 1%",
             "Moisture 80%",
             "Crude Fiber 0.5%",
-            "Ash 3%",
-            "Energy: Kcal/70 g/42.0"
+            "Ash 3%"
         ],
         "ingredients": [
             "Chicken 70%",
             "Water Sufficient For Cooking 24%",
             "Cheese 6%."
         ],
-        "calorie": "Energy Kcal/70 g (2.47 oz) 42.0"
+        "calorie": "42.0 /kcal/70g"
     },
     {
         "site": "https://www.almonature.com",
@@ -947,14 +906,13 @@
             "Crude Fat 0.5%",
             "Moisture 83%",
             "Crude Fiber 1%",
-            "Ash 3%",
-            "Energy: Kcal/70 g/39.2"
+            "Ash 3%"
         ],
         "ingredients": [
             "Mackerel 76%",
             "Water Sufficient For Cooking 24%."
         ],
-        "calorie": "EnergyKcal/70 g (2.47 oz) 39.2"
+        "calorie": "39.2 /kcal/70g"
     },
     {
         "site": "https://www.almonature.com",
@@ -967,15 +925,14 @@
             "Crude Fat 0.6%",
             "Moisture 81%",
             "Crude Fiber 0.1%",
-            "Ash 1%",
-            "Energy: Kcal/70 g/47.0"
+            "Ash 1%"
         ],
         "ingredients": [
             "Tuna 70%",
             "Water Sufficient For Cooking 24%",
             "Clams 6%"
         ],
-        "calorie": "EnergyKcal/70 g (2.47 oz) 47.0"
+        "calorie": "47.0 /kcal/70g"
     },
     {
         "site": "https://www.almonature.com",
@@ -988,15 +945,14 @@
             "Crude Fat 0.5%",
             "Moisture 82%",
             "Crude Fiber 0.1%",
-            "Ash 1%",
-            "Energy: Kcal/70 g/42.9"
+            "Ash 1%"
         ],
         "ingredients": [
             "Mackerel 48%",
             "White Fish 28%",
             "Water Sufficient For Cooking 24%."
         ],
-        "calorie": "EnergyKcal/70 g (2.47 oz) 42.9"
+        "calorie": "42.9 /kcal/70g"
     },
     {
         "site": "https://www.almonature.com",
@@ -1009,14 +965,13 @@
             "Crude Fat 0.9%",
             "Moisture 80%",
             "Crude Fiber 0.1%",
-            "Ash 1%",
-            "Energy: Kcal/70 g/51.6"
+            "Ash 1%"
         ],
         "ingredients": [
             "Chicken 73%",
             "Water Sufficient For Cooking 24%",
             "Liver 3%."
         ],
-        "calorie": "Energy Kcal/70 g (2.47 oz) 51.6"
+        "calorie": "51.6 /kcal/70g"
     }
 ]

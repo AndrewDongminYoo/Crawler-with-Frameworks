@@ -48,7 +48,7 @@
             "Calcium Iodate",
             "Folic Acid"
         ],
-        "calorie": "Using the calculations provided by the AAFCO, Nutram I12 Ideal Solution Support Weight Control has approximately 104 calories per 100g (29 calories/ounce), which is a few more calories compared to the average of the other wet cat foods in the CatFoodDB."
+        "calorie": "104 kcal/100g"
     },
     {
         "site": "http://catfooddb.com",
@@ -96,7 +96,7 @@
             "Calcium Iodate",
             "Folic Acid"
         ],
-        "calorie": "Using the calculations provided by the AAFCO, Nutram I17 Ideal Solution Support Indoor has approximately 109 calories per 100g (31 calories/ounce), which is a few more calories compared to the average of the other wet cat foods in the CatFoodDB."
+      "calorie": "109 kcal/100g"
     },
     {
         "site": "http://catfooddb.com",
@@ -149,7 +149,7 @@
             "Calcium Iodate",
             "Folic Acid"
         ],
-        "calorie": "Using the calculations provided by the AAFCO, Nutram I19 Ideal Solution Support Skin, Coat And Stomach has approximately 111 calories per 100g (31 calories/ounce), which is considerably more calories compared to the average of the other wet cat foods in the CatFoodDB."
+      "calorie": "111 kcal/100g"
     },
     {
         "site": "http://catfooddb.com",
@@ -198,7 +198,7 @@
             "Calcium Iodate",
             "Folic Acid"
         ],
-        "calorie": "Using the calculations provided by the AAFCO, Nutram S1 Sound Balanced Wellness Kitten has approximately 106 calories per 100g (30 calories/ounce), which is a few more calories compared to the average of the other wet cat foods in the CatFoodDB."
+      "calorie": "106 kcal/100g"
     },
     {
         "site": "http://catfooddb.com",
@@ -246,7 +246,7 @@
             "Calcium Iodate",
             "Folic Acid"
         ],
-        "calorie": "Using the calculations provided by the AAFCO, Nutram S5 Sound Balanced Wellness Adult & Senior has approximately 106 calories per 100g (30 calories/ounce), which is a few more calories compared to the average of the other wet cat foods in the CatFoodDB."
+      "calorie": "106 kcal/100g"
     },
     {
         "site": "http://catfooddb.com",
@@ -301,7 +301,7 @@
             "Calcium Iodate",
             "Folic Acid"
         ],
-        "calorie": "Using the calculations provided by the AAFCO, Nutram T22 Total Grain-Free Chicken And Turkey Recipe has approximately 109 calories per 100g (31 calories/ounce), which is a few more calories compared to the average of the other wet cat foods in the CatFoodDB."
+      "calorie": "109 kcal/100g"
     },
     {
         "site": "http://catfooddb.com",
@@ -357,7 +357,7 @@
             "Calcium Iodate",
             "Folic Acid"
         ],
-        "calorie": "Using the calculations provided by the AAFCO, Nutram T24 Total Grain-Free Trout And Salmon Meal Recipe has approximately 116 calories per 100g (33 calories/ounce), which is considerably more calories compared to the average of the other wet cat foods in the CatFoodDB."
+      "calorie": "116 kcal/100g"
     },
     {
         "site": "http://catfooddb.com",
@@ -402,7 +402,7 @@
             "Ginger",
             "Rosemary"
         ],
-        "calorie": "Using the calculations provided by the AAFCO, Nutram I12 Ideal Solution Support Weight Control Dry has approximately 341 calories per 100g (96 calories/ounce), which is fewer calories compared to the average of the other dry cat foods in the CatFoodDB."
+      "calorie": "341 kcal/100g"
     },
     {
         "site": "http://catfooddb.com",
@@ -451,7 +451,7 @@
             "Ginger",
             "Rosemary"
         ],
-        "calorie": "Using the calculations provided by the AAFCO, Nutram I17 Ideal Solution Support Indoor Dry has approximately 363 calories per 100g (102 calories/ounce), which is an average amount of calories compared to the average of the other dry cat foods in the CatFoodDB."
+      "calorie": "363 kcal/100g"
     },
     {
         "site": "http://catfooddb.com",
@@ -488,7 +488,7 @@
             "Ginger",
             "Rosemary"
         ],
-        "calorie": "Using the calculations provided by the AAFCO, Nutram I19 Ideal Solution Support Skin, Coat And Stomach Dry has approximately 363 calories per 100g (103 calories/ounce), which is an average amount of calories compared to the average of the other dry cat foods in the CatFoodDB."
+      "calorie": "363 kcal/100g"
     },
     {
         "site": "http://catfooddb.com",
@@ -534,7 +534,7 @@
             "Ginger",
             "Rosemary"
         ],
-        "calorie": "Using the calculations provided by the AAFCO, Nutram S1 Sound Balanced Wellness Kitten Dry has approximately 382 calories per 100g (108 calories/ounce), which is an average amount of calories compared to the average of the other dry cat foods in the CatFoodDB."
+      "calorie": "382 kcal/100g"
     },
     {
         "site": "http://catfooddb.com",
@@ -579,7 +579,7 @@
             "Ginger",
             "Rosemary"
         ],
-        "calorie": "Using the calculations provided by the AAFCO, Nutram S5 Sound Balanced Wellness Adult & Senior Dry has approximately 366 calories per 100g (103 calories/ounce), which is an average amount of calories compared to the average of the other dry cat foods in the CatFoodDB."
+      "calorie": "366 kcal/100g"
     },
     {
         "site": "http://catfooddb.com",
@@ -623,7 +623,7 @@
             "Ginger",
             "Rosemary"
         ],
-        "calorie": "Using the calculations provided by the AAFCO, Nutram T22 Total Grain-Free Chicken And Turkey Recipe Dry has approximately 384 calories per 100g (109 calories/ounce), which is a few more calories compared to the average of the other dry cat foods in the CatFoodDB."
+      "calorie": "384 kcal/100g"
     },
     {
         "site": "http://catfooddb.com",
@@ -664,6 +664,6 @@
             "Ginger",
             "Rosemary"
         ],
-        "calorie": "Using the calculations provided by the AAFCO, Nutram T24 Total Grain-Free Trout And Salmon Meal Recipe Dry has approximately 371 calories per 100g (105 calories/ounce), which is an average amount of calories compared to the average of the other dry cat foods in the CatFoodDB."
+      "calorie": "371 kcal/100g"
     }
 ]

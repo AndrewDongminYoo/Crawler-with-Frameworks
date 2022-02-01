@@ -35,12 +35,12 @@
         "Vitamin E Supplement",
         "Yucca Schidigera Extract",
         "Dried Lactobacillus acidophilus Fermentation Product*",
-            "Dried Bacillus subtilis Fermentation Product*",
-            "Dried Bifidobacterium thermophilum Fermentation Product*",
-            "Dried Bifidobacterium longum Fermentation Product*",
-            "Dried Enterococcus faecium Fermentation Product*",
-            "Zinc Proteinate",
-            "Zinc Sulfate",
+        "Dried Bacillus subtilis Fermentation Product*",
+        "Dried Bifidobacterium thermophilum Fermentation Product*",
+        "Dried Bifidobacterium longum Fermentation Product*",
+        "Dried Enterococcus faecium Fermentation Product*",
+        "Zinc Proteinate",
+        "Zinc Sulfate",
         "Selenium Yeast",
         "Ferrous Sulfate",
         "Copper Proteinate",
@@ -59,7 +59,7 @@
         "Folic Acid",
         "Chelated Calcium Iodate."
       ],
-      "calorie": "3900 Kcal/kg ME"
+      "calorie": "3900 kcal/kg"
     },
   {
     "site": "https://www.grandmamaes.com",
@@ -97,7 +97,7 @@
       "Dried Bifidobacterium longum Fermentation Product",
       "Dried Enterococcus faecium Fermentation Product",
       "Zinc Proteinate",
-            "Zinc Sulfate",
+      "Zinc Sulfate",
       "Sodium Selenite",
       "Ferrous Sulfate",
       "Copper Proteinate",
@@ -116,7 +116,7 @@
       "Folic Acid",
       "Calcium Iodate."
     ],
-    "calorie": "3525 Kcal/kg"
+    "calorie": "3525 kcal/kg"
   },
   {
     "site": "https://www.grandmamaes.com",
@@ -154,12 +154,12 @@
       "Taurine",
       "Vitamin E Supplement",
       "Niacin Supplement",
-            "Thiamine Mononitrate",
-            "Pyridoxine Hydrochloride",
-            "Riboflavin Supplement",
-            "Yucca Schidigera Extract",
-            "Biotin",
-            "d-Calcium Pantothenate",
+      "Thiamine Mononitrate",
+      "Pyridoxine Hydrochloride",
+      "Riboflavin Supplement",
+      "Yucca Schidigera Extract",
+      "Biotin",
+      "d-Calcium Pantothenate",
       "Vitamin B12 Supplement",
       "Vitamin A Acetate",
       "Vitamin D3 Supplement",
@@ -178,7 +178,7 @@
       "Sodium Selenite",
       "Chelated Calcium Iodate."
     ],
-    "calorie": "3700 Kcal/kg"
+    "calorie": "3700 kcal/kg"
   },
   {
     "site": "https://www.grandmamaes.com",
@@ -216,11 +216,11 @@
       "Vitamin E Supplement",
       "Dried Lactobacillus acidophilus Fermentation Product",
       "Dried Bacillus subtilis Fermentation Product",
-            "Dried Bifidobacterium thermophilum Fermentation Product",
-            "Dried Bifidobacterium longum Fermentation Product",
-            "Dried Enterococcus faecium Fermentation Product",
-            "Chelated Zinc Proteinate",
-            "Zinc Sulfate",
+      "Dried Bifidobacterium thermophilum Fermentation Product",
+      "Dried Bifidobacterium longum Fermentation Product",
+      "Dried Enterococcus faecium Fermentation Product",
+      "Chelated Zinc Proteinate",
+      "Zinc Sulfate",
       "Selenium Yeast",
       "Ferrous Sulfate",
       "Chelated Copper Proteinate",
@@ -239,7 +239,7 @@
       "Folic Acid",
       "Calcium Iodate."
     ],
-    "calorie": "3820 KCAL/KG"
+    "calorie": "3820 kcal/kg"
   },
   {
     "site": "https://www.grandmamaes.com",
@@ -277,16 +277,16 @@
       "Lecithin",
       "DL-Methionine",
       "Calcium Carbonate",
-            "L-Lysine",
-            "Salt",
-            "Taurine",
-            "Yucca Schidigera Extract",
-            "Vitamin E Supplement",
-            "Niacin Supplement",
-            "Thiamine Mononitrate",
-            "Pyridoxine Hydrochloride",
-            "Riboflavin Supplement",
-            "Ascorbic Acid",
+      "L-Lysine",
+      "Salt",
+      "Taurine",
+      "Yucca Schidigera Extract",
+      "Vitamin E Supplement",
+      "Niacin Supplement",
+      "Thiamine Mononitrate",
+      "Pyridoxine Hydrochloride",
+      "Riboflavin Supplement",
+      "Ascorbic Acid",
             "Biotin",
             "d-Calcium Pantothenate",
             "Vitamin B12 Supplement",
@@ -307,6 +307,6 @@
             "Sodium Selenite",
             "Calcium Iodate."
         ],
-        "calorie": "2950 Kcal/kg"
+    "calorie": "2950 kcal/kg"
     }
 ]

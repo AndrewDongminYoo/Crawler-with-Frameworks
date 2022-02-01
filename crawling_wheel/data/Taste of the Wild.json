@@ -35,11 +35,11 @@
         "taurine",
         "dried Lactobacillus plantarum fermentation product",
         "dried Bacillus subtilis fermentation product",
-            "dried Lactobacillus acidophilus fermentation product",
-            "dried Enterococcus faecium fermentation product",
-            "dried Bifidobacterium animalis fermentation product",
-            "zinc proteinate",
-            "vitamin E supplement",
+        "dried Lactobacillus acidophilus fermentation product",
+        "dried Enterococcus faecium fermentation product",
+        "dried Bifidobacterium animalis fermentation product",
+        "zinc proteinate",
+        "vitamin E supplement",
         "niacin",
         "manganese proteinate",
         "copper proteinate",
@@ -58,7 +58,7 @@
         "vitamin D3 supplement",
         "folic acid."
       ],
-      "calorie": "*Not recognized as an essential nutrient by the AAFCO Cat Food Nutrient Profiles."
+      "calorie": ""
     },
   {
     "site": "https://www.tasteofthewildpetfood.com",
@@ -96,16 +96,16 @@
       "taurine",
       "dried chicory root",
       "tomatoes",
-            "blueberries",
-            "raspberries",
-            "yucca schidigera extract",
-            "dried Lactobacillus plantarum fermentation product",
-            "dried Bacillus subtilis fermentation product",
-            "dried Lactobacillus acidophilus fermentation product",
-            "dried Enterococcus faecium fermentation product",
-            "dried Bifidobacterium animalis fermentation product",
-            "zinc proteinate",
-            "vitamin E supplement",
+      "blueberries",
+      "raspberries",
+      "yucca schidigera extract",
+      "dried Lactobacillus plantarum fermentation product",
+      "dried Bacillus subtilis fermentation product",
+      "dried Lactobacillus acidophilus fermentation product",
+      "dried Enterococcus faecium fermentation product",
+      "dried Bifidobacterium animalis fermentation product",
+      "zinc proteinate",
+      "vitamin E supplement",
             "niacin",
             "manganese proteinate",
             "copper proteinate",
@@ -124,6 +124,6 @@
             "vitamin D3 supplement",
             "folic acid."
         ],
-    "calorie": "3,741 kcal/kg"
+    "calorie": "3741 kcal/kg"
     }
 ]

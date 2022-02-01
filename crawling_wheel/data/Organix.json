@@ -40,7 +40,7 @@
         "Rosemary Extract",
         "Dried Bacillus coagulans Fermentation Product"
       ],
-      "calorie": "Calorie Content (me calculated): 3739 kcal/kg, 412 kcal/cup"
+      "calorie": "3739 kcal/kg"
     },
   {
     "site": "https://www.castorpolluxpet.com",
@@ -83,7 +83,7 @@
       "Potassium Chloride",
       "Dried Bacillus coagulans Fermentation Product"
     ],
-    "calorie": "Calorie Content (me calculated): 3614 kcal/kg, 393 kcal/cup"
+    "calorie": "3614 kcal/kg"
   },
   {
     "site": "https://www.castorpolluxpet.com",
@@ -126,7 +126,7 @@
       "Rosemary Extract",
       "Dried Bacillus coagulans Fermentation Product"
     ],
-    "calorie": "Calorie Content (me calculated): 3726 kcal/kg, 411 kcal/cup"
+    "calorie": "3726 kcal/kg"
   },
   {
     "site": "https://www.castorpolluxpet.com",
@@ -165,7 +165,7 @@
       "Choline Chloride",
       "Vitamins (Niacin, Vitamin E Supplement, Vitamin A Supplement, Thiamine Mononitrate, Pyridoxine Hydrochloride, Riboflavin Supplement, d-Calcium Pantothenate, Vitamin D3 Supplement, Biotin, Vitamin B12 Supplement, Folic Acid)"
     ],
-    "calorie": "5.5 oz. can: 1,225 kcal ME/kg or 191 kcal ME/can."
+    "calorie": "1.225 kcal/kg"
   },
   {
     "site": "https://www.castorpolluxpet.com",
@@ -202,7 +202,7 @@
       "Minerals (Zinc Amino Acid Complex, Iron Amino Acid Complex, Copper Amino Acid Complex, Manganese Amino Acid Complex, Sodium Selenite, Calcium Iodate)",
       "Vitamins (Niacin, Vitamin E Supplement, Vitamin A Supplement, Thiamine Mononitrate, Pyridoxine Hydrochloride, Riboflavin Supplement, d-Calcium Pantothenate, Vitamin D3 Supplement, Biotin, Vitamin B12 Supplement, Folic Acid)"
     ],
-    "calorie": "Kittens and pregnant or nursing females may consume two to three timesthe recommended amount."
+    "calorie": ""
   },
   {
     "site": "https://www.castorpolluxpet.com",
@@ -240,7 +240,7 @@
       "Choline Chloride",
       "Vitamins (Niacin, Vitamin E Supplement, Vitamin A Supplement, Thiamine Mononitrate, Pyridoxine Hydrochloride, Riboflavin Supplement, d-Calcium Pantothenate, Vitamin D3 Supplement, Biotin, Vitamin B12 Supplement, Folic Acid)"
     ],
-    "calorie": "Kittens and pregnant or nursing females may consume two to three times the recommended amount."
+    "calorie": ""
   },
   {
     "site": "https://www.castorpolluxpet.com",
@@ -279,7 +279,7 @@
       "Minerals (Zinc Amino Acid Complex, Iron Amino Acid Complex, Copper Amino Acid Complex, Manganese Amino Acid Complex, Sodium Selenite, Calcium Iodate)",
       "Vitamins (Niacin, Vitamin E Supplement, Vitamin A Supplement, Thiamine Mononitrate, Pyridoxine Hydrochloride, Riboflavin Supplement, d-Calcium Pantothenate, Vitamin D3 Supplement, Biotin, Vitamin B12 Supplement, Folic Acid)"
     ],
-    "calorie": "5.5 oz. cans 1327 kcal/kg, 207 kcal per 5.5 oz. can"
+    "calorie": "1327 kcal/kg"
   },
   {
     "site": "https://www.castorpolluxpet.com",
@@ -316,7 +316,7 @@
       "Taurine",
       "Vitamins (Niacin, Vitamin E Supplement, Vitamin A Supplement, Thiamine Mononitrate, Pyridoxine Hydrochloride, Riboflavin Supplement, d-Calcium Pantothenate, Vitamin D3 Supplement, Biotin, Vitamin B12 Supplement, Folic Acid)"
     ],
-    "calorie": "5.5 oz. can: 1,241 kcal ME/kg or 194 kcal ME/can."
+    "calorie": "1.241 kcal/kg"
   },
   {
     "site": "https://www.castorpolluxpet.com",
@@ -341,7 +341,7 @@
       "Organic Flaxseed",
       "Rosemary Extract"
     ],
-    "calorie": "Threonine\t1.49 %"
+    "calorie": ""
   },
   {
     "site": "https://www.castorpolluxpet.com",
@@ -379,9 +379,9 @@
       "Sodium Alginate",
       "Organic Cranberries",
       "Organic Rosemary",
-            "Organic Sage",
-            "Xanthan Gum"
-        ],
-        "calorie": "1113 kcal/kg"
-    }
+      "Organic Sage",
+      "Xanthan Gum"
+    ],
+    "calorie": "1113 kcal/kg"
+  }
 ]

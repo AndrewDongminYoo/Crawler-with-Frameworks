@@ -25,8 +25,8 @@
         "Thiamine Mononitrate",
         "Vitamin E Supplement",
         "Iron Oxide Color",
-            "Zinc Sulfate",
-            "Ferrous Sulfate",
+        "Zinc Sulfate",
+        "Ferrous Sulfate",
         "Manganese Sulfate",
         "Copper Sulfate",
         "Pyridoxine Hydrochloride",
@@ -35,7 +35,7 @@
         "Folic Acid",
         "Menadione Sodium Bisulfite Complex"
       ],
-      "calorie": "Calorie Content (Calculated): 1004 kcal/kg"
+      "calorie": "1004 kcal/kg"
     },
   {
     "site": "https://www.sheba.com",

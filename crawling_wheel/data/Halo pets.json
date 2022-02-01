@@ -39,7 +39,7 @@
         "magnesium sulfate",
         "natural flavor."
       ],
-      "calorie": "1,025 Kcal/Kg"
+      "calorie": "1025 kcal/kg"
     },
   {
     "site": "https://halopets.com",
@@ -84,7 +84,7 @@
       "flaxseed oil (preserved with mixed tocopherols)",
       "tricalcium phosphate."
     ],
-    "calorie": "1,145 Kcal/Kg"
+    "calorie": "1145 kcal/kg"
   },
   {
     "site": "https://halopets.com",
@@ -128,7 +128,7 @@
       "natural flavor",
       "salmon oil (preserved with mixed tocopherols)."
     ],
-    "calorie": "1,047 Kcal/Kg"
+    "calorie": "1047 kcal/kg"
   },
   {
     "site": "https://halopets.com",
@@ -173,7 +173,7 @@
       "salmon oil (preserved with mixed tocopherols)",
       "natural flavor."
     ],
-    "calorie": "985 Kcal/Kg"
+    "calorie": "985 kcal/kg"
   },
   {
     "site": "https://halopets.com",
@@ -220,7 +220,7 @@
       "mixed tocopherols (preservative)",
       "l-ascorbyl-2-polyphosphate (source of vitamin C)."
     ],
-    "calorie": "3,760kcal/kg"
+    "calorie": "3760 kcal/kg"
   },
   {
     "site": "https://halopets.com",
@@ -269,7 +269,7 @@
       "mixed tocopherols (preservative)",
       "l-ascorbyl-2-polyphosphate (source of vitamin C)."
     ],
-    "calorie": "3,610 kcal/kg"
+    "calorie": "3610 kcal/kg"
   },
   {
     "site": "https://halopets.com",
@@ -318,7 +318,7 @@
       "mixed tocopherols (preservative)",
       "l-ascorbyl-2-polyphosphate (source of vitamin C)."
     ],
-    "calorie": "3,630 kcal/kg"
+    "calorie": "3630 kcal/kg"
   },
   {
     "site": "https://halopets.com",
@@ -356,15 +356,15 @@
       "dried carrots",
       "dried sweet potatoes",
       "salt",
-            "inulin",
-            "vitamins (vitamin E supplement, niacin supplement, thiamine mononitrate, d-calcium pantothenate, vitamin A supplement, pyridoxine hydrochloride, riboflavin supplement, vitamin D3 supplement, vitamin B12 supplement, folic acid, biotin)",
-            "taurine",
-            "minerals (zinc proteinate, iron proteinate, copper proteinate, manganese proteinate, sodium selenite, calcium iodate)",
-            "potassium chloride",
-            "choline chloride",
-            "mixed tocopherols (preservative)",
-            "l-ascorbyl-2-polyphosphate (source of vitamin C)."
-        ],
-        "calorie": "3,930 kcal/kg"
+      "inulin",
+      "vitamins (vitamin E supplement, niacin supplement, thiamine mononitrate, d-calcium pantothenate, vitamin A supplement, pyridoxine hydrochloride, riboflavin supplement, vitamin D3 supplement, vitamin B12 supplement, folic acid, biotin)",
+      "taurine",
+      "minerals (zinc proteinate, iron proteinate, copper proteinate, manganese proteinate, sodium selenite, calcium iodate)",
+      "potassium chloride",
+      "choline chloride",
+      "mixed tocopherols (preservative)",
+      "l-ascorbyl-2-polyphosphate (source of vitamin C)."
+    ],
+    "calorie": "3930 kcal/kg"
     }
 ]

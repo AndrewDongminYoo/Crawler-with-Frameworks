@@ -39,7 +39,7 @@
         "Dried Organic Kelp",
         "Zinc Sulfate"
       ],
-      "calorie": "Calories 138/oz 1 ounce = approx. 3 -4 nuggets"
+      "calorie": "138 kcal/oz"
     },
   {
     "site": "https://primalpetfoods.com",
@@ -81,7 +81,7 @@
       "Organic Ground Alfalfa",
       "Dried Organic Kelp"
     ],
-    "calorie": "Calories 128/oz 1 ounce = approx. 3 -4 nuggets"
+    "calorie": "128 kcal/oz"
   },
   {
     "site": "https://primalpetfoods.com",
@@ -121,7 +121,7 @@
       "Dried Organic Kelp",
       "Zinc Sulfate"
     ],
-    "calorie": "Calories 126/oz 1 ounce = approx. 3 -4 nuggets"
+    "calorie": "126 kcal/oz"
   },
   {
     "site": "https://primalpetfoods.com",
@@ -160,7 +160,7 @@
       "Organic Ground Alfalfa",
       "Dried Organic Kelp"
     ],
-    "calorie": "Calories 128/oz 1 ounce = approx. 3 -4 nuggets"
+    "calorie": "128 kcal/oz"
   },
   {
     "site": "https://primalpetfoods.com",
@@ -200,7 +200,7 @@
       "Organic Ground Alfalfa",
       "Dried Organic Kelp"
     ],
-    "calorie": "Calories 123/oz 1 ounce = approx. 3 -4 nuggets"
+    "calorie": "123 kcal/oz"
   },
   {
     "site": "https://primalpetfoods.com",
@@ -241,7 +241,7 @@
       "Dried Organic Kelp",
       "Zinc Sulfate"
     ],
-    "calorie": "Calories 125/oz 1 ounce = approx. 3 -4 nuggets"
+    "calorie": "125 kcal/oz"
   },
   {
     "site": "https://primalpetfoods.com",
@@ -279,8 +279,8 @@
       "Taurine",
       "Vitamin E Supplement",
       "Organic Ground Alfalfa",
-            "Dried Organic Kelp."
-        ],
-        "calorie": "Calories 35/oz 1 measured cup of Pronto = approx. 4 oz"
-    }
+      "Dried Organic Kelp."
+    ],
+    "calorie": "35 kcal/oz"
+  }
 ]

@@ -27,7 +27,7 @@
         "Turmeric*",
         "Tocopherols*."
       ],
-      "calorie": "(CALCULATED): 5500 kcal/kg, 550 kcal/cup"
+      "calorie": "5500 kcal/kg"
     },
   {
     "site": "https://ca.smackpetfood.com",
@@ -57,7 +57,7 @@
       "Turmeric*",
       "Tocopherols*."
     ],
-    "calorie": "(CALCULATED): 4600 kcal/kg, 460 kcal/cup"
+    "calorie": "4600 kcal/kg"
   },
   {
     "site": "https://ca.smackpetfood.com",
@@ -85,15 +85,15 @@
       "Chicken Liver",
       "Chicken Gizzard",
       "Chicken Heart",
-            "Cranberry*",
-            "Blueberry*",
-            "Parsley*",
-            "Thyme*",
-            "Strawberry*",
-            "Spinach*",
-            "Celery*",
-            "Tocopherols*."
-        ],
-        "calorie": "(CALCULATED): 4740 kcal/kg, 474 kcal/cup"
+      "Cranberry*",
+      "Blueberry*",
+      "Parsley*",
+      "Thyme*",
+      "Strawberry*",
+      "Spinach*",
+      "Celery*",
+      "Tocopherols*."
+    ],
+    "calorie": "4740 kcal/kg"
     }
 ]

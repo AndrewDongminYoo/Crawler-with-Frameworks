@@ -38,7 +38,7 @@
         "borage oil (0.05%)",
         "yucca schidigera powder."
       ],
-      "calorie": "Energy content: metabolisable energy (according to FEDIAF, 2016) 15.45 MJ/kg."
+      "calorie": "15.45 MJ/kg"
     },
   {
     "site": "https://www.mera-petfood.com",
@@ -78,7 +78,7 @@
       "blueberries*",
       "yucca schidigera powder."
     ],
-    "calorie": "Energy content: metabolisable energy (according to FEDIAF, 2016) 15.50 MJ/kg. "
+    "calorie": "15.50 MJ/kg"
   },
   {
     "site": "https://www.mera-petfood.com",
@@ -119,7 +119,7 @@
       "blueberries*",
       "yucca schidigera powder."
     ],
-    "calorie": "Metabolisable energy (according to FEDIAF, 2016) 17.15 MJ/kg."
+    "calorie": "17.15 MJ/kg"
   },
   {
     "site": "https://www.mera-petfood.com",
@@ -161,7 +161,7 @@
       "glucosamine from animal tissues (0.02%)",
       "chondroitin sulphate (0.01%)."
     ],
-    "calorie": "Energy content: metabolisable energy (according to FEDIAF, 2016) 16.30 MJ/kg."
+    "calorie": "16.30 MJ/kg"
   },
   {
     "site": "https://www.mera-petfood.com",
@@ -205,7 +205,7 @@
       "yucca schidigera powder",
       "hop extract (0.01%)."
     ],
-    "calorie": "Energy content: metabolisable energy (according to FEDIAF, 2016) 15.45 MJ/kg."
+    "calorie": "15.45 MJ/kg"
   },
   {
     "site": "https://www.mera-petfood.com",
@@ -244,7 +244,7 @@
       "chamomile blossom (0.1%)",
       "yucca schidigera powder."
     ],
-    "calorie": "Energy content: metabolisable energy (according to FEDIAF, 2016) 15.90 MJ/kg."
+    "calorie": "15.90 MJ/kg"
   },
   {
     "site": "https://www.mera-petfood.com",
@@ -284,6 +284,6 @@
       "glucosamine (0.02%)",
       "chondroitin sulphate (0.01%)."
     ],
-    "calorie": "Energy content: metabolisable energy (according to FEDIAF, 2016) 14.70 MJ/kg."
+    "calorie": "14.70 MJ/kg"
   }
 ]

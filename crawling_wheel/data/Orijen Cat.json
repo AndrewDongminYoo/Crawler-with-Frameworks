@@ -74,7 +74,7 @@
       "Copper chelate: 11 mg",
       "Choline chloride: 1200 mg. Zootechnical additives: Enterococcus faecium NCIMB10415: 600x10^6 CFU."
     ],
-    "calorie": "METABOLIZABLE ENERGY: is 4160 kcal/kg (540 kcal per 250ml/130g cup) with calories distributed to support peak conditioning; 40% from protein, 18% from vegetables and fruit, and 43% from fat."
+    "calorie": "4160 kcal/kg"
   },
   {
     "site": "https://www.orijenpetfoods.com",
@@ -159,7 +159,7 @@
       "Copper chelate: 11 mg",
       "Choline chloride: 1200 mg Zootechnical additives: Enterococcus faecium NCIMB10415: 600x10^6 CFU."
     ],
-    "calorie": "is 3710 kcal/kg"
+    "calorie": "3710 kcal/kg"
   },
   {
     "site": "https://www.orijenpetfoods.com",
@@ -245,7 +245,7 @@
       "Copper chelate: 11 mg",
       "Choline chloride: 1200 mg. Zootechnical additives: Enterococcus faecium NCIMB10415: 600x10^6 CFU."
     ],
-    "calorie": "is 4120 kcal/kg (535 kcal per 250ml/130g cup) with calories distributed to support peak conditioning; 40% from protein, 17% from vegetables and fruit, and 44% from fat."
+    "calorie": "4120 kcal/kg"
   },
   {
     "site": "https://www.orijenpetfoods.com",
@@ -315,7 +315,7 @@
       "Copper chelate: 11 mg",
       "Choline chloride: 1200 mg Zootechnical additives: Enterococcus faecium NCIMB10415: 600x10^6 CFU."
     ],
-    "calorie": "is 4120 kcal/kg (535 kcal per 250ml/130g cup) with calories distributed to support peak conditioning; 42% from protein, 15% from vegetables and fruit, and 44% from fat."
+    "calorie": "4120 kcal/kg"
   },
   {
     "site": "https://www.orijenpetfoods.com",
@@ -407,6 +407,6 @@
       "rosehips",
       "dried enterococcus faecium fermentation product."
     ],
-    "calorie": "is 4120 kcal/kg (535 kcal per 250ml/130g cup) with calories distributed to support peak conditioning; 40% from protein, 17% from vegetables and fruit, and 44% from fat."
+    "calorie": "4120 kcal/kg"
   }
 ]

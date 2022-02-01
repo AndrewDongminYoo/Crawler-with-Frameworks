@@ -35,24 +35,24 @@
         "dried carrot",
         "suncured alfalfa meal",
         "inulin",
-            "fructooligosaccharide",
-            "yeast extract",
-            "dried pomegranate",
-            "dried apple",
-            "dried spinach",
-            "psyllium seed husk",
-            "dried sweet orange",
-            "dried blueberry",
-            "salt",
-            "brewers dried yeast",
-            "turmeric",
-            "vitamin A supplement",
-            "vitamin D3 supplement",
-            "vitamin E supplement",
-            "ascorbic acid",
-            "niacin",
-            "calcium pantothenate",
-            "riboflavin",
+        "fructooligosaccharide",
+        "yeast extract",
+        "dried pomegranate",
+        "dried apple",
+        "dried spinach",
+        "psyllium seed husk",
+        "dried sweet orange",
+        "dried blueberry",
+        "salt",
+        "brewers dried yeast",
+        "turmeric",
+        "vitamin A supplement",
+        "vitamin D3 supplement",
+        "vitamin E supplement",
+        "ascorbic acid",
+        "niacin",
+        "calcium pantothenate",
+        "riboflavin",
         "pyridoxine hydrochloride",
         "thiamine mononitrate",
         "biotin",
@@ -71,7 +71,7 @@
         "rosemary extract",
         "mixed tocopherols (a preservative)."
       ],
-      "calorie": "EM Kcal/lb 1889 - Mj/lb 7.90 388 Kcal/cup"
+      "calorie": "388 kcal/cup"
     },
   {
     "site": "https://www.farmina.com",
@@ -109,14 +109,14 @@
       "suncured alfalfa meal",
       "dried carrot",
       "inulin",
-            "fructooligosaccharide",
-            "yeast extract",
-            "dried pomegranate",
-            "dried apple",
-            "dried spinach",
-            "psyllium seed husk",
-            "dried sweet orange",
-            "dried blueberry",
+      "fructooligosaccharide",
+      "yeast extract",
+      "dried pomegranate",
+      "dried apple",
+      "dried spinach",
+      "psyllium seed husk",
+      "dried sweet orange",
+      "dried blueberry",
       "salt",
       "brewers dried yeast",
       "turmeric",
@@ -145,7 +145,7 @@
       "rosemary extract",
       "mixed tocopherols (a preservative)."
     ],
-    "calorie": "EM Kcal/lb 1613 - Mj/lb 6.75 349 Kcal/cup"
+    "calorie": "349 kcal/cup"
   },
   {
     "site": "https://www.farmina.com",
@@ -219,7 +219,7 @@
       "rosemary extract",
       "mixed tocopherols (a natural preservative)."
     ],
-    "calorie": "EM Kcal/lb 1889 - Mj/lb 7.90 388 Kcal/cup"
+    "calorie": "388 kcal/cup"
   },
   {
     "site": "https://www.farmina.com",
@@ -288,7 +288,7 @@
       "rosemary extract",
       "mixed tocopherols (a preservative)."
     ],
-    "calorie": "EM Kcal/lb 1907 - Mj/lb 7.98 412 Kcal/cup"
+    "calorie": "412 kcal/cup"
   },
   {
     "site": "https://www.farmina.com",
@@ -358,7 +358,7 @@
       "rosemary extract",
       "mixed tocopherols (a preservative)."
     ],
-    "calorie": "EM Kcal/lb 1891 - Mj/lb 7.91 388 Kcal/cup"
+    "calorie": "388 kcal/cup"
   },
   {
     "site": "https://www.farmina.com",
@@ -430,7 +430,7 @@
       "rosemary extract",
       "mixed tocopherols (a preservative)."
     ],
-    "calorie": "EM Kcal/lb 1907 - Mj/lb 7.98 412 Kcal/cup"
+    "calorie": "412 kcal/cup"
   },
   {
     "site": "https://www.farmina.com",
@@ -504,7 +504,7 @@
       "rosemary extract",
       "mixed tocopherols (a preservative)."
     ],
-    "calorie": "EM Kcal/lb 1904 - Mj/lb 7.96 412 Kcal/cup"
+    "calorie": "412 kcal/cup"
   },
   {
     "site": "https://www.farmina.com",
@@ -552,16 +552,16 @@
       "vitamin A supplement",
       "vitamin D3 supplement",
       "vitamin E supplement",
-            "ascorbic acid",
-            "niacin",
-            "calcium pantothenate",
-            "riboflavin",
-            "pyridoxine hydrochloride",
-            "thiamine mononitrate",
-            "biotin",
-            "folic acid",
-            "vitamin B12 supplement",
-            "choline chloride",
+      "ascorbic acid",
+      "niacin",
+      "calcium pantothenate",
+      "riboflavin",
+      "pyridoxine hydrochloride",
+      "thiamine mononitrate",
+      "biotin",
+      "folic acid",
+      "vitamin B12 supplement",
+      "choline chloride",
             "beta-carotene",
             "zinc methionine hydroxy analogue chelate",
             "manganese methionine hydroxy analogue chelate",
@@ -574,6 +574,6 @@
             "rosemary extract",
             "mixed tocopherols (a preservative)."
         ],
-    "calorie": "EM Kcal/lb 1807 - Mj/lb 7.56 391 Kcal/cup"
+    "calorie": "391 kcal/cup"
     }
 ]

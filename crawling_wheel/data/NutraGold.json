@@ -35,16 +35,16 @@
         "ground rice",
         "egg derivatives",
         "powdered cellulose",
-            "salmon",
-            "potatoes (3%)",
-            "millet",
-            "chicken fat (preserved with mixed tocopherols)",
-            "natural chicken flavor",
-            "linseed",
-            "ocean fish meal",
-            "potassium chloride",
-            "DL-methionine",
-            "choline chloride",
+        "salmon",
+        "potatoes (3%)",
+        "millet",
+        "chicken fat (preserved with mixed tocopherols)",
+        "natural chicken flavor",
+        "linseed",
+        "ocean fish meal",
+        "potassium chloride",
+        "DL-methionine",
+        "choline chloride",
             "dried chicory root",
             "taurine",
             "shell fish flour (a source of glucosamine)",
@@ -66,6 +66,6 @@
             "dried Trichoderma longibrachiatum fermentation extract",
             "vitamins and minerals."
         ],
-        "calorie": "3,389 kcal/kg."
+      "calorie": "3389 kcal/kg"
     }
 ]

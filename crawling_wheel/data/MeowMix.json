@@ -37,7 +37,7 @@
         "CARRAGEENAN",
         "SODIUM NITRITE (TO PROMOTE COLOR RETENTION)"
       ],
-      "calorie": "Meow Mix® Savory Morsels With Real Chicken Breast in Gravy cat food is formulated to meet the nutritional levels established by the AAFCO Cat Food Nutrient Profiles for adult maintenance."
+      "calorie": ""
     },
   {
     "site": "https://www.meowmix.com",
@@ -85,7 +85,7 @@
       "RED 3",
       "CANTHAXANTHIN (COLOR PRESERVED WITH ETHOXYQUIN)"
     ],
-    "calorie": "Meow Mix® Savory Morsels Seafood Entrée in Gravy cat food is formulated to meet the nutritional levels established by the AAFCO Cat Food Nutrient Profiles for adult maintenance."
+    "calorie": ""
   },
   {
     "site": "https://www.meowmix.com",
@@ -123,7 +123,7 @@
       "MINERALS (FERROUS SULFATE, ZINC OXIDE, MANGANESE SULFATE, COPPER AMINO ACID COMPLEX, POTASSIUM IODIDE, SODIUM SELENITE)",
       "SODIUM NITRITE (TO PROMOTE COLOR RETENTION)"
     ],
-    "calorie": "Meow Mix® Tender Favorites® With Real Chicken & Beef in Sauce cat food is formulated to meet the nutritional levels established by the AAFCO Cat Food Nutrient Profiles for adult maintenance."
+    "calorie": ""
   },
   {
     "site": "https://www.meowmix.com",
@@ -161,7 +161,7 @@
       "SOYBEAN OIL",
       "SODIUM NITRITE (TO PROMOTE COLOR RETENTION)"
     ],
-    "calorie": "Meow Mix® Tender Favorites® With Real Chicken & Liver in Sauce cat food is formulated to meet the nutritional levels established by the AAFCO Cat Food Nutrient Profiles for adult maintenance."
+    "calorie": ""
   },
   {
     "site": "https://www.meowmix.com",
@@ -196,7 +196,7 @@
       "CANTHAXANTHIN (COLOR PRESERVED WITH ETHOXYQUIN)",
       "SODIUM NITRITE (TO PROMOTE COLOR RETENTION)"
     ],
-    "calorie": "Meow Mix® Tender Favorites® With Real Salmon & Crab Meat in Sauce cat food is formulated to meet the nutritional levels established by the AAFCO Cat Food Nutrient Profiles for adult maintenance."
+    "calorie": ""
   },
   {
     "site": "https://www.meowmix.com",
@@ -230,7 +230,7 @@
       "SODIUM NITRITE (TO PROMOTE COLOR RETENTION)",
       "CANTHAXANTHIN (COLOR PRESERVED WITH ETHOXYQUIN)"
     ],
-    "calorie": "Meow Mix® Tender Favorites® With Real Tuna & Whole Shrimp in Sauce cat food is formulated to meet the nutritional levels established by the AAFCO Cat Food Nutrient Profiles for adult maintenance."
+    "calorie": ""
   },
   {
     "site": "https://www.meowmix.com",
@@ -274,7 +274,7 @@
       "SODIUM NITRITE (TO PROMOTE COLOR RETENTION)",
       "ROSEMARY EXTRACT"
     ],
-    "calorie": "Meow Mix® Tender Favorites® With Real Turkey & Giblets in Sauce cat food is formulated to meet the nutritional levels established by the AAFCO Cat Food Nutrient Profiles for adult maintenance."
+    "calorie": ""
   },
   {
     "site": "https://www.meowmix.com",
@@ -310,7 +310,7 @@
       "Carrageenan",
       "Magnesium Sulfate."
     ],
-    "calorie": "930 kcal/kg; 75 kcal/2.75 oz cup"
+    "calorie": "930 kcal/kg"
   },
   {
     "site": "https://www.meowmix.com",
@@ -347,7 +347,7 @@
       "Carrageenan",
       "Magnesium Sulfate"
     ],
-    "calorie": "1010 kcal/kg; 80kcal/2.75 oz cup"
+    "calorie": "1010 kcal/kg"
   },
   {
     "site": "https://www.meowmix.com",
@@ -384,7 +384,7 @@
       "Carrageenan",
       "Magnesium Sulfate."
     ],
-    "calorie": "1010 kcal/kg; 80kcal/2.75 oz cup"
+    "calorie": "1010 kcal/kg"
   },
   {
     "site": "https://www.meowmix.com",
@@ -422,7 +422,7 @@
       "Minerals (Ferrous Sulfate, Zinc Oxide, Manganese Sulfate, Copper Glycine Complex, Potassium Iodide, Sodium Selenite)",
       "Taurine",
       "Magnesium Sulfate."
-        ],
-        "calorie": "947 kcal/kg; 73 kcal/cup"
-    }
+    ],
+    "calorie": "947 kcal/kg"
+  }
 ]

@@ -53,7 +53,7 @@
         "vitamin D3 supplement",
         "folic acid."
       ],
-      "calorie": "3,728 kcal/kg"
+      "calorie": "3728 kcal/kg"
     },
   {
     "site": "https://www.diamondpet.com",
@@ -91,16 +91,16 @@
       "sodium bisulfate",
       "DL-Methionine",
       "choline chloride",
-            "taurine",
-            "dried chicory root",
-            "L-Carnitine",
-            "dried Lactobacillus plantarum fermentation product",
-            "dried Bacillus subtilis fermentation product",
-            "dried Lactobacillus acidophilus fermentation product",
-            "dried Enterococcus faecium fermentation product",
-            "dried Bifidobacterium animalis fermentation product",
-            "vitamin E supplement",
-            "zinc proteinate",
+      "taurine",
+      "dried chicory root",
+      "L-Carnitine",
+      "dried Lactobacillus plantarum fermentation product",
+      "dried Bacillus subtilis fermentation product",
+      "dried Lactobacillus acidophilus fermentation product",
+      "dried Enterococcus faecium fermentation product",
+      "dried Bifidobacterium animalis fermentation product",
+      "vitamin E supplement",
+      "zinc proteinate",
             "niacin",
             "manganese proteinate",
             "copper proteinate",
@@ -119,6 +119,6 @@
             "vitamin D3 supplement",
             "folic acid."
         ],
-    "calorie": "3,080 kcal/kg"
+    "calorie": "3080 kcal/kg"
     }
 ]

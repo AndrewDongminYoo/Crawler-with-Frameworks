@@ -33,7 +33,7 @@
         "Calcium Carbonate",
         "Choline Chloride."
       ],
-      "calorie": "Calorie Content (calculated) ME 888 kcal/kg, 150 kcal per pack"
+      "calorie": "888 kcal/kg"
     },
   {
     "site": "https://carupetfood.com",
@@ -141,5 +141,5 @@
       "Choline Chloride."
     ],
     "calorie": "792 kcal/kg"
-    }
+  }
 ]

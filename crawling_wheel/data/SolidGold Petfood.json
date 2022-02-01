@@ -53,7 +53,7 @@
         "Dried Enterococcus Faecium Fermentation Product",
         "Dried Lactobacillus Casei Fermentation Product."
       ],
-      "calorie": "Calories (ME) 3,300 kcal/kg, 360 kcal/cup"
+      "calorie": "3300 kcal/kg"
     },
   {
     "site": "https://solidgoldpet.com",
@@ -104,7 +104,7 @@
       "Dried Enterococcus Faecium Fermentation Product",
       "Dried Lactobacillus Casei Fermentation Product."
     ],
-    "calorie": "Calories (ME) 3,970 kcal/kg"
+    "calorie": "3970 kcal/kg"
   },
   {
     "site": "https://solidgoldpet.com",
@@ -160,7 +160,7 @@
       "Dried Enterococcus Faecium Fermentation Product",
       "Dried Lactobacillus Casei Fermentation Product."
     ],
-    "calorie": "Calories (ME) 3,600 kcal/kg, 425 kcal/cup"
+    "calorie": "3600 kcal/kg"
   },
   {
     "site": "https://solidgoldpet.com",
@@ -215,7 +215,7 @@
       "Dried Enterococcus Faecium Fermentation Product",
       "Dried Lactobacillus Casei Fermentation Product."
     ],
-    "calorie": "3,820 kcal/kg"
+    "calorie": "3820 kcal/kg"
   },
   {
     "site": "https://solidgoldpet.com",
@@ -269,7 +269,7 @@
       "Dried Enterococcus Faecium Fermentation Product",
       "Dried Lactobacillus Casei Fermentation Product."
     ],
-    "calorie": "Calories (ME) 3600 kcal/kg"
+    "calorie": "3600 kcal/kg"
   },
   {
     "site": "https://solidgoldpet.com",
@@ -321,7 +321,7 @@
       "Rosemary Extract",
       "Dried Bacillus Coagulans Fermentation Product."
     ],
-    "calorie": "Calories (ME) 3525 kcal/kg, 380 kcal/cup"
+    "calorie": "3525 kcal/kg"
   },
   {
     "site": "https://solidgoldpet.com",
@@ -421,7 +421,7 @@
       "Dried Enterococcus Faecium Fermentation Product",
       "Dried Lactobacillus Casei Fermentation Product."
     ],
-    "calorie": "Calories (ME) 3,970 kcal/kg"
+    "calorie": "3970 kcal/kg"
   },
   {
     "site": "https://solidgoldpet.com",
@@ -459,16 +459,16 @@
       "Ground Flaxseed",
       "Natural Flavor",
       "Dried Eggs",
-            "Carrots",
-            "Potassium Chloride",
-            "Choline Chloride",
-            "Salmon Oil (Preserved with Mixed Tocopherols)",
-            "Pumpkin",
-            "Blueberries",
-            "Cranberries",
-            "Vitamins (Vitamin E Supplement, L-Ascorbyl-2-Polyphosphate (Source of Vitamin C), Niacin, Calcium Pantothenate, Riboflavin, Pyridoxine Hydrochloride, Thiamine Mononitrate, Vitamin A Supplement, Vitamin B12 Supplement, Vitamin D3 Supplement, Biotin, Folic Acid)",
-            "Calcium Sulfate",
-            "Minerals (Zinc Sulfate, Ferrous Sulfate, Copper Sulfate, Manganese Sulfate, Zinc Proteinate, Manganese Proteinate, Copper Proteinate, Sodium Selenite, Calcium Iodate)",
+      "Carrots",
+      "Potassium Chloride",
+      "Choline Chloride",
+      "Salmon Oil (Preserved with Mixed Tocopherols)",
+      "Pumpkin",
+      "Blueberries",
+      "Cranberries",
+      "Vitamins (Vitamin E Supplement, L-Ascorbyl-2-Polyphosphate (Source of Vitamin C), Niacin, Calcium Pantothenate, Riboflavin, Pyridoxine Hydrochloride, Thiamine Mononitrate, Vitamin A Supplement, Vitamin B12 Supplement, Vitamin D3 Supplement, Biotin, Folic Acid)",
+      "Calcium Sulfate",
+      "Minerals (Zinc Sulfate, Ferrous Sulfate, Copper Sulfate, Manganese Sulfate, Zinc Proteinate, Manganese Proteinate, Copper Proteinate, Sodium Selenite, Calcium Iodate)",
             "Taurine",
             "DL-Methionine",
             "Dried Chicory Root",
@@ -477,6 +477,6 @@
             "Dried Enterococcus Faecium Fermentation Product",
             "Dried Lactobacillus Casei Fermentation Product."
         ],
-        "calorie": "Calories (ME) 3,600 kcal/kg, 425 kcal/cup"
+    "calorie": "3600 kcal/kg"
     }
 ]

@@ -18,7 +18,7 @@
         "Minerals, Salmon Oil 0.1%",
         "Sunflower Oil 0.1%"
       ],
-      "calorie": "Kcal/100g: 119"
+      "calorie": "119 kcal/100g"
     },
   {
     "site": "https://www.naturopetfoods.com",
@@ -41,7 +41,7 @@
       "Minerals, Salmon Oil 0.1%",
       "Sunflower Oil 0.1%"
     ],
-    "calorie": "Kcal/100g: 126"
+    "calorie": "126 kcal/100g"
   },
   {
     "site": "https://www.naturopetfoods.com",
@@ -64,7 +64,7 @@
       "Minerals, Salmon Oil 0.1%",
       "Sunflower Oil 0.1%."
     ],
-    "calorie": "Kcal/100g: 126"
+    "calorie": "126 kcal/100g"
   },
   {
     "site": "https://www.naturopetfoods.com",
@@ -87,6 +87,6 @@
       "Salmon Oil 0.1%",
       "Sunflower Oil 0.1%."
     ],
-    "calorie": "Kcal/100g: 117"
+    "calorie": "117 kcal/100g"
   }
 ]

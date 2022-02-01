@@ -52,7 +52,7 @@
         "dried parsley",
         "dried peppermint."
       ],
-      "calorie": "Metabolic energy 404 Calories/100g"
+      "calorie": "404 kcal/100g"
     },
   {
     "site": "https://www.kookut.com",
@@ -105,7 +105,7 @@
       "dried parsley",
       "dried peppermint."
     ],
-    "calorie": "Metabolic energy 379 Calories/100g"
+    "calorie": "379 kcal/100g"
   },
   {
     "site": "https://www.kookut.com",
@@ -157,7 +157,7 @@
       "dried parsley",
       "dried peppermint."
     ],
-    "calorie": "Metabolic energy 379 Calories/100g"
+    "calorie": "379 kcal/100g"
   },
   {
     "site": "https://www.kookut.com",
@@ -177,7 +177,7 @@
       "tuna broth 23.3%",
       "rice 1.4%"
     ],
-    "calorie": "Metabolic energy (Kcal/100g): 83"
+    "calorie": "83 kcal/100g"
   },
   {
     "site": "https://www.kookut.com",
@@ -197,7 +197,7 @@
       "chicken broth 23.3%",
       "rice 1.4%"
     ],
-    "calorie": "Metabolic energy (Kcal/100g): 90"
+    "calorie": "90 kcal/100g"
   },
   {
     "site": "https://www.kookut.com",
@@ -218,7 +218,7 @@
       "sardine 20.5%",
       "rice 1.4%"
     ],
-    "calorie": "Metabolic energy (Kcal/100g): 83"
+    "calorie": "83 kcal/100g"
   },
   {
     "site": "https://www.kookut.com",
@@ -239,7 +239,7 @@
       "green mussels 20.5%",
       "rice 1.4%"
     ],
-    "calorie": "Metabolic energy (Kcal/100g): 76"
+    "calorie": "76 kcal/100g"
   },
   {
     "site": "https://www.kookut.com",
@@ -260,7 +260,7 @@
       "broth 23.3%",
       "rice 1.4%"
     ],
-    "calorie": "Metabolic energy (Kcal/100g): 83"
+    "calorie": "83 kcal/100g"
   },
   {
     "site": "https://www.kookut.com",
@@ -281,7 +281,7 @@
       "pumpkin 5%",
       "rice 1.4%"
     ],
-    "calorie": "Metabolic energy (Kcal/100g): 90"
+    "calorie": "90 kcal/100g"
   },
   {
     "site": "https://www.kookut.com",
@@ -302,7 +302,7 @@
       "baby clams 8%",
       "rice 1.4%"
     ],
-    "calorie": "Metabolic energy (Kcal/100g): 80"
+    "calorie": "80 kcal/100g"
   },
   {
     "site": "https://www.kookut.com",
@@ -323,7 +323,7 @@
       "shrimps 20.5%",
       "rice 1.4%"
     ],
-    "calorie": "Metabolic energy (Kcal/100g): 79"
+    "calorie": "79 kcal/100g"
   },
   {
     "site": "https://www.kookut.com",
@@ -344,7 +344,7 @@
       "seaweed 0.1%",
       "rice 1.4%"
     ],
-    "calorie": "Metabolic energy (Kcal/100g): 83"
+    "calorie": "83 kcal/100g"
   },
   {
     "site": "https://www.kookut.com",
@@ -364,6 +364,6 @@
       "salmon broth 23.3%",
       "rice 1.4%"
     ],
-    "calorie": "Metabolic energy (Kcal/100g): 95"
+    "calorie": "95 kcal/100g"
   }
 ]

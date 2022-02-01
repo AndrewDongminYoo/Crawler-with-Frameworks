@@ -85,7 +85,7 @@
       "Dried Aspergillus oryzae Fermentation Extract",
       "Dried Trichoderma longibrachiatum Fermentation Extract"
     ],
-    "calorie": "516.72 Kcals Per Cup"
+    "calorie": "516.72 kcal/cup"
   },
   {
     "site": "https://www.natureslogic.com",
@@ -158,7 +158,7 @@
       "Dried Aspergillus oryzae Fermentation Extract",
       "Dried Trichoderma longibrachiatum Fermentation Extract"
     ],
-    "calorie": "527.04 Kcals Per Cup"
+    "calorie": "527.04 kcal/cup"
   },
   {
     "site": "https://www.natureslogic.com",
@@ -243,7 +243,7 @@
       "Dried Aspergillus oryzae Fermentation Extract",
       "Dried Trichoderma longibrachiatum Fermentation Extract"
     ],
-    "calorie": "457.37 Kcals Per Cup"
+    "calorie": "457.37 kcal/cup"
   },
   {
     "site": "https://www.natureslogic.com",
@@ -331,7 +331,7 @@
       "Dried Aspergillus oryzae Fermentation Extract",
       "Dried Trichoderma longibrachiatum Fermentation Extract"
     ],
-    "calorie": "516.19 Kcals Per Cup"
+    "calorie": "516.19 kcal/cup"
   },
   {
     "site": "https://www.natureslogic.com",
@@ -374,39 +374,39 @@
       "Pantothenic Acid 47.40 mg/kg",
       "Niacin 113.32 mg/kg",
       "Pyridoxine 12.42 mg/kg",
-            "Folic acid 1.37 mg/kg",
-            "Vitamin B12 0.35 mg/kg",
-            "Choline 3297.96 mg/kg",
-            "Carbs 3.30%",
-            "Ash 9.53 %"
-        ],
-        "ingredients": [
-            "Beef",
-            "Beef Broth",
-            "Beef Liver",
-            "Sardines",
-            "Montmorillonite Clay",
-            "Porcine Plasma",
-            "Herring Oil (Preserved With Mixed Tocopherols)",
-          "Egg Shell Meal",
-          "Brewers Dried Yeast",
-          "Dried Apple",
-          "Dried Apricot",
-          "Alfalfa Meal",
-          "Dried Artichoke",
-          "Dried Blueberry",
-          "Dried Broccoli",
-          "Dried Carrot",
-          "Dried Chicory Root",
-          "Dried Cranberry",
-          "Dried Kelp",
-          "Parsley",
-          "Dried Pumpkin",
-          "Rosemary",
-          "Dried Spinach",
-          "Dried Tomato"
-        ],
-    "calorie": "225 Kcals Per Can"
+      "Folic acid 1.37 mg/kg",
+      "Vitamin B12 0.35 mg/kg",
+      "Choline 3297.96 mg/kg",
+      "Carbs 3.30%",
+      "Ash 9.53 %"
+    ],
+    "ingredients": [
+      "Beef",
+      "Beef Broth",
+      "Beef Liver",
+      "Sardines",
+      "Montmorillonite Clay",
+      "Porcine Plasma",
+      "Herring Oil (Preserved With Mixed Tocopherols)",
+      "Egg Shell Meal",
+      "Brewers Dried Yeast",
+      "Dried Apple",
+      "Dried Apricot",
+      "Alfalfa Meal",
+      "Dried Artichoke",
+      "Dried Blueberry",
+      "Dried Broccoli",
+      "Dried Carrot",
+      "Dried Chicory Root",
+      "Dried Cranberry",
+      "Dried Kelp",
+      "Parsley",
+      "Dried Pumpkin",
+      "Rosemary",
+      "Dried Spinach",
+      "Dried Tomato"
+    ],
+    "calorie": "225 kcal"
   },
   {
     "site": "https://www.natureslogic.com",
@@ -444,26 +444,26 @@
       "Vitamin A 82723.34 IU/kg",
       "Vitamin D 291.65 IU/kg",
       "Vitamin E 22.68 IU/kg",
-            "Thiamine 3.68 mg/kg",
-            "Riboflavin 10.86 mg/kg",
-            "Pantothenic Acid 36.76 mg/kg",
-            "Niacin 99.32 mg/kg",
-            "Pyridoxine 7.31 mg/kg",
-            "Folic acid 2.99 mg/kg",
-            "Vitamin B12 0.06 mg/kg",
-            "Choline 3476.60 mg/kg",
-            "Carbs 4.00%",
-            "Ash 14.18 %"
+      "Thiamine 3.68 mg/kg",
+      "Riboflavin 10.86 mg/kg",
+      "Pantothenic Acid 36.76 mg/kg",
+      "Niacin 99.32 mg/kg",
+      "Pyridoxine 7.31 mg/kg",
+      "Folic acid 2.99 mg/kg",
+      "Vitamin B12 0.06 mg/kg",
+      "Choline 3476.60 mg/kg",
+      "Carbs 4.00%",
+      "Ash 14.18 %"
         ],
         "ingredients": [
-            "Chicken",
-            "Chicken Broth",
-            "Chicken Liver",
-            "Chicken Heart",
-            "Dried Egg Product",
-            "Porcine Plasma",
-            "Montmorillonite Clay",
-            "Herring Oil (Preserved with Mixed Tocopherols)",
+          "Chicken",
+          "Chicken Broth",
+          "Chicken Liver",
+          "Chicken Heart",
+          "Dried Egg Product",
+          "Porcine Plasma",
+          "Montmorillonite Clay",
+          "Herring Oil (Preserved with Mixed Tocopherols)",
           "Brewers Dried Yeast",
           "Dried Apple",
           "Dried Apricot",
@@ -482,7 +482,7 @@
           "Dried Tomato",
           "Egg Shell Meal"
         ],
-    "calorie": "230 Kcals Per Can"
+    "calorie": "230 kcal"
   },
   {
     "site": "https://www.natureslogic.com",
@@ -520,27 +520,27 @@
       "Vitamin A 94429.21 IU/kg",
       "Vitamin D 1238.27 IU/kg",
       "Vitamin E 24.25 IU/kg",
-            "Thiamine 4.85 mg/kg",
-            "Riboflavin 13.60 mg/kg",
-            "Pantothenic Acid 38.11 mg/kg",
-            "Niacin 112.78 mg/kg",
-            "Pyridoxine 6.06 mg/kg",
-            "Folic acid 2.72 mg/kg",
-            "Vitamin B12 0.08 mg/kg",
-            "Choline 4187.31 mg/kg",
-            "Carbs 4.02 %",
-            "Ash 10.8%"
+      "Thiamine 4.85 mg/kg",
+      "Riboflavin 13.60 mg/kg",
+      "Pantothenic Acid 38.11 mg/kg",
+      "Niacin 112.78 mg/kg",
+      "Pyridoxine 6.06 mg/kg",
+      "Folic acid 2.72 mg/kg",
+      "Vitamin B12 0.08 mg/kg",
+      "Choline 4187.31 mg/kg",
+      "Carbs 4.02 %",
+      "Ash 10.8%"
         ],
         "ingredients": [
-            "Duck",
-            "Duck Broth",
-            "Poultry Liver",
-            "Poultry Heart",
-            "Salmon",
-            "Dried Egg Product",
-            "Porcine Plasma",
-            "Montmorillonite Clay",
-            "Herring Oil (Preserved with Mixed Tocopherols)",
+          "Duck",
+          "Duck Broth",
+          "Poultry Liver",
+          "Poultry Heart",
+          "Salmon",
+          "Dried Egg Product",
+          "Porcine Plasma",
+          "Montmorillonite Clay",
+          "Herring Oil (Preserved with Mixed Tocopherols)",
           "Brewers Dried Yeast",
           "Dried Apple",
           "Dried Apricot",
@@ -559,7 +559,7 @@
           "Dried Tomato",
           "Egg Shell Meal"
         ],
-    "calorie": "230 Kcals Per Can"
+    "calorie": "230 kcal"
   },
   {
     "site": "https://www.natureslogic.com",
@@ -597,25 +597,25 @@
       "Vitamin A 120955.75 IU/kg",
       "Vitamin D 348.21 IU/kg",
       "Vitamin E 33.09 IU/kg",
-            "Thiamine 4.98 mg/kg",
-            "Riboflavin 18.73 mg/kg",
-            "Pantothenic Acid 55.80 mg/kg",
-            "Niacin 139.90 mg/kg",
-            "Pyridoxine 10.12 mg/kg",
-            "Folic acid 1.40 mg/kg",
-            "Vitamin B12 0.42 mg/kg",
-            "Choline 3980.35 mg/kg",
-            "Carbs 4.80 %",
-            "Ash 11.5 %"
+      "Thiamine 4.98 mg/kg",
+      "Riboflavin 18.73 mg/kg",
+      "Pantothenic Acid 55.80 mg/kg",
+      "Niacin 139.90 mg/kg",
+      "Pyridoxine 10.12 mg/kg",
+      "Folic acid 1.40 mg/kg",
+      "Vitamin B12 0.42 mg/kg",
+      "Choline 3980.35 mg/kg",
+      "Carbs 4.80 %",
+      "Ash 11.5 %"
         ],
         "ingredients": [
-            "Rabbit",
-            "Water Sufficient For Processing",
-            "Pork Liver",
-            "Dried Egg Product",
-            "Montmorillonite Clay",
-            "Porcine Plasma",
-            "Herring Oil (Preserved With Mixed Tocopherols)",
+          "Rabbit",
+          "Water Sufficient For Processing",
+          "Pork Liver",
+          "Dried Egg Product",
+          "Montmorillonite Clay",
+          "Porcine Plasma",
+          "Herring Oil (Preserved With Mixed Tocopherols)",
           "Brewers Dried Yeast",
           "Egg Shell Meal",
           "Dried Apple",
@@ -634,7 +634,7 @@
           "Dried Spinach",
           "Dried Tomato"
         ],
-    "calorie": "212 Kcals Per Can"
+    "calorie": "212 kcal"
   },
   {
     "site": "https://www.natureslogic.com",
@@ -672,23 +672,23 @@
       "Vitamin A 2668.93 IU/kg",
       "Vitamin D 5414.36 IU/kg",
       "Vitamin E 60.30 IU/kg",
-            "Thiamine 1.69 mg/kg",
-            "Riboflavin 6.02 mg/kg",
-            "Pantothenic Acid 8.59 mg/kg",
-            "Niacin 124.97 mg/kg",
-            "Pyridoxine 0.71 mg/kg",
-            "Folic acid 0.30 mg/kg",
-            "Vitamin B12 0.01 mg/kg",
-            "Choline 3641.15 mg/kg",
-            "Carbs 3.40 %",
-            "Ash 20.4 %"
+      "Thiamine 1.69 mg/kg",
+      "Riboflavin 6.02 mg/kg",
+      "Pantothenic Acid 8.59 mg/kg",
+      "Niacin 124.97 mg/kg",
+      "Pyridoxine 0.71 mg/kg",
+      "Folic acid 0.30 mg/kg",
+      "Vitamin B12 0.01 mg/kg",
+      "Choline 3641.15 mg/kg",
+      "Carbs 3.40 %",
+      "Ash 20.4 %"
         ],
         "ingredients": [
-            "Sardines",
-            "Water Sufficient For Processing",
-            "Dried Egg Product",
-            "Porcine Plasma",
-            "Montmorillonite Clay",
+          "Sardines",
+          "Water Sufficient For Processing",
+          "Dried Egg Product",
+          "Porcine Plasma",
+          "Montmorillonite Clay",
           "Herring Oil (Preserved With Mixed Tocopherols)",
           "Brewers Dried Yeast",
           "Dried Apple",
@@ -707,7 +707,7 @@
           "Dried Spinach",
           "Dried Tomato"
         ],
-    "calorie": "171 Kcals Per Can"
+    "calorie": "171 kcal"
   },
   {
     "site": "https://www.natureslogic.com",
@@ -745,16 +745,16 @@
       "Vitamin A 27795.33 IU/kg",
       "Vitamin D 377.06 IU/kg",
       "Vitamin E 22.23 IU/kg",
-            "Thiamine 4.48 mg/kg",
-            "Riboflavin 13.34 mg/kg",
-            "Pantothenic Acid 36.57 mg/kg",
-            "Niacin 91.79 mg/kg",
-            "Pyridoxine 5.14 mg/kg",
-            "Folic acid 2.88 mg/kg",
-            "Vitamin B12 0.06 mg/kg",
-            "Choline 3445.13 mg/kg",
-            "Carbs 4.69 %",
-            "Ash 11.0 %"
+      "Thiamine 4.48 mg/kg",
+      "Riboflavin 13.34 mg/kg",
+      "Pantothenic Acid 36.57 mg/kg",
+      "Niacin 91.79 mg/kg",
+      "Pyridoxine 5.14 mg/kg",
+      "Folic acid 2.88 mg/kg",
+      "Vitamin B12 0.06 mg/kg",
+      "Choline 3445.13 mg/kg",
+      "Carbs 4.69 %",
+      "Ash 11.0 %"
         ],
         "ingredients": [
             "Turkey",
@@ -781,6 +781,6 @@
             "Dried Spinach",
             "Dried Tomato"
         ],
-    "calorie": "219 Kcals Per Can"
+    "calorie": "219 kcal"
     }
 ]

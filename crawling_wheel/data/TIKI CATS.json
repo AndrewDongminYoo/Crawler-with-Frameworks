@@ -42,10 +42,7 @@
         "potassium iodide",
         "vitamin D3 supplement"
       ],
-      "calorie": [
-        "66 kcal/2.8 oz. can",
-        "128 kcal/5.5 oz. can"
-      ]
+      "calorie": "66 kcal/2.8oz"
     },
   {
     "site": "https://tikipets.com",
@@ -91,10 +88,7 @@
       "potassium iodide",
       "vitamin D3 supplement."
     ],
-    "calorie": [
-      "59 kcal/2.8 oz. can",
-      "116 kcal/5.5 oz. can"
-    ]
+    "calorie": "59 kcal/2.8oz"
   },
   {
     "site": "https://tikipets.com",
@@ -140,10 +134,7 @@
       "potassium iodide",
       "vitamin D3 supplement"
     ],
-    "calorie": [
-      "59 kcal/2.8 oz. can",
-      "114 kcal/5.5 oz. can"
-    ]
+    "calorie": "59 kcal/2.8oz"
   },
   {
     "site": "https://tikipets.com",
@@ -189,10 +180,7 @@
       "potassium iodide",
       "vitamin D3 supplement"
     ],
-    "calorie": [
-      "61 kcal/2.8 oz. can",
-      "120 kcal/5.5 oz. can"
-    ]
+    "calorie": "61 kcal/2.8oz"
   },
   {
     "site": "https://tikipets.com",
@@ -238,10 +226,7 @@
       "potassium iodide",
       "vitamin D3 supplement"
     ],
-    "calorie": [
-      "59 kcal/2.8 oz. can",
-      "116 kcal/5.5 oz. can"
-    ]
+    "calorie": "59 kcal/2.8oz"
   },
   {
     "site": "https://tikipets.com",
@@ -279,17 +264,14 @@
       "vitamin B12 supplement",
       "copper amino acid chelate",
       "manganous oxide",
-            "calcium pantothenate",
-            "riboflavin supplement (vitamin B2)",
-            "sodium selenite",
-            "pyridoxine hydrochloride (vitamin B6)",
-            "folic acid",
-            "potassium iodide",
-            "vitamin D3 supplement"
-        ],
-        "calorie": [
-          "66 kcal/2.8 oz. can",
-          "129 kcal/5.5 oz. can"
-        ]
-    }
+      "calcium pantothenate",
+      "riboflavin supplement (vitamin B2)",
+      "sodium selenite",
+      "pyridoxine hydrochloride (vitamin B6)",
+      "folic acid",
+      "potassium iodide",
+      "vitamin D3 supplement"
+    ],
+    "calorie": "66 kcal/2.8oz"
+  }
 ]

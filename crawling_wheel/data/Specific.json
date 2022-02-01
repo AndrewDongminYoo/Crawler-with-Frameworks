@@ -42,10 +42,7 @@
         "taurine",
         "Yucca powder. With natural antioxidants (tocopherols, rosemary extract and vitamin C). Contains no added artificial colours or flavourings."
       ],
-      "calorie": [
-        "Metabolisable Energy kJ 1485",
-        "Metabolisable Energy kcal 355"
-      ]
+      "calorie": "1485 kJ"
     },
   {
     "site": "https://www.specific-diets.co.uk",
@@ -76,7 +73,7 @@
       "minerals",
       "taurine."
     ],
-    "calorie": "Metabolisable Energy kJ 1526"
+    "calorie": "1526 KJ"
   },
   {
     "site": "https://www.specific-diets.co.uk",
@@ -117,7 +114,7 @@
       "taurine",
       "Yucca powder. With natural antioxidants (tocopherols and vitamin C)."
     ],
-    "calorie": "Metabolisable Energy kJ\t1565"
+    "calorie": "1565 KJ"
   },
   {
     "site": "https://www.specific-diets.co.uk",
@@ -159,10 +156,7 @@
       "taurine",
       "Yucca powder. With natural antioxidants (tocopherols, rosemary extract and vitamin C). Contains no added artificial colours or flavourings."
     ],
-    "calorie": [
-      "Metabolisable Energy kJ 1751",
-      "Metabolisable Energy kcal 418"
-    ]
+    "calorie": "1751 kJ"
   },
   {
     "site": "https://www.specific-diets.co.uk",
@@ -204,10 +198,7 @@
       "taurine",
       "Yucca powder. With natural antioxidants (tocopherols, rosemary extract and vitamin C). Contains no added artificial colours or flavourings"
     ],
-    "calorie": [
-      "Metabolisable Energy kJ 1480",
-      "Metabolisable Energy kcal 353"
-    ]
+    "calorie": "1480 kJ"
   },
   {
     "site": "https://www.specific-diets.co.uk",
@@ -245,21 +236,18 @@
       "potato protein",
       "cellulose powder",
       "animal protein hydrolysate",
-            "vitamins and trace elements (including chelated trace elements)",
-            "minerals (including tripotassium citrate)",
-            "egg powder",
-            "fish oil",
-            "fructo-oligo-saccharides",
-            "beet pulp",
-            "methionine",
-            "ammonium chloride",
-            "taurine",
-            "Yucca powder",
+      "vitamins and trace elements (including chelated trace elements)",
+      "minerals (including tripotassium citrate)",
+      "egg powder",
+      "fish oil",
+      "fructo-oligo-saccharides",
+      "beet pulp",
+      "methionine",
+      "ammonium chloride",
+      "taurine",
+      "Yucca powder",
             "L-carnitine. With natural antioxidants (tocopherols, rosemary extract and vitamin C). Contains no added artificial colours or flavourings."
         ],
-        "calorie": [
-            "Metabolisable Energy kJ 1641",
-            "Metabolisable Energy kcal 392"
-        ]
+    "calorie": "1641 kJ"
     }
 ]

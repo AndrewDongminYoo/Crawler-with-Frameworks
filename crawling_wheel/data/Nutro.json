@@ -50,7 +50,7 @@
         "Folic Acid",
         "Rosemary Extract.Visit our Ingredient Glossary for more information."
       ],
-      "calorie": "Metabolizable energy 3,914 kcal/kg; 439 kcal/cup (calculated)"
+      "calorie": "3914 kcal/kg"
     },
   {
     "site": "https://www.nutro.ca",
@@ -102,7 +102,7 @@
       "Folic Acid",
       "Rosemary Extract. Visit our Ingredient Glossary for more information."
     ],
-    "calorie": "Metabolizable energy 3,663 kcal/kg; 378 kcal/cup (calculated)"
+    "calorie": "3663 kcal/kg"
   },
   {
     "site": "https://www.nutro.ca",
@@ -131,7 +131,7 @@
       "Choline Chloride",
       "Sodium Hexametaphosphate."
     ],
-    "calorie": "Feeding GuidelinesFeed adult cats 4 to 5 servings per 3.6kg (8 lbs) of body weight daily. Adjust to maintain ideal body condition.Calorie Content1,135 kcal/kg, 43 kcal/serving ME (calculated)Nutritional Adequacy StatementNUTRO™ PERFECT PORTIONS™ PATÉ CHICKEN RECIPE Cat Food is formulated to meet the nutritional levels established by the AAFCO Cat Food Nutrient Profiles for maintenance."
+    "calorie": "1135 kcal/kg"
   },
   {
     "site": "https://www.nutro.ca",
@@ -161,7 +161,7 @@
       "Vitamins",
       "Sodium Hexametaphosphate."
     ],
-    "calorie": "Feeding GuidelinesFeed adult cats 3 to 4 servings per 3.6kg (8 lbs) of body weight daily. Adjust to maintain ideal body condition.Calorie Content1,253 kcal/kg, 47 kcal/serving ME (calculated)Nutritional Adequacy StatementNUTRO™ PERFECT PORTIONS™ PATÉ TURKEY RECIPE Cat Food is formulated to meet the nutritional levels established by the AAFCO Cat Food Nutrient Profiles for maintenance."
+    "calorie": "1253 kcal/kg"
   },
   {
     "site": "https://www.nutro.ca",
@@ -190,7 +190,7 @@
       "Choline Chloride",
       "Sodium Hexametaphosphate."
     ],
-    "calorie": "Feeding GuidelinesFeed adult cats 4 to 5 servings per 3.6kg (8 lbs) of body weight daily. Adjust to maintain ideal body condition.Calorie Content1,135 kcal/kg, 43 kcal/serving ME (calculated)Nutritional Adequacy StatementNUTRO™ PERFECT PORTIONS™ PATÉ CHICKEN & LIVER RECIPE Cat Food is formulated to meet the nutritional levels established by the AAFCO Cat Food Nutrient Profiles for maintenance."
+    "calorie": "1135 kcal/kg"
   },
   {
     "site": "https://www.nutro.ca",
@@ -219,7 +219,7 @@
       "Tetrasodium Pyrophosphate",
       "Sodium Hexametaphosphate."
     ],
-    "calorie": "Feeding GuidelinesFeed adult cats 4 to 5 servings per 3.6kg (8 lbs) of body weight daily. Adjust to maintain ideal body condition.Calorie Content1,004 kcal/kg, 38 kcal/serving ME (calculated)Nutritional Adequacy StatementNUTRO™ PERFECT PORTIONS™ CUTS IN GRAVY CHICKEN RECIPE Cat Food is formulated to meet the nutritional levels established by the AAFCO Cat Food Nutrient Profiles for maintenance."
+    "calorie": "1004 kcal/kg"
   },
   {
     "site": "https://www.nutro.ca",
@@ -249,7 +249,7 @@
       "Tetrasodium Pyrophosphate",
       "Sodium Hexametaphosphate."
     ],
-    "calorie": "Feeding GuidelinesFeed adult cats 6 to 7 servings per 3.6kg (8 lbs) of body weight daily. Adjust to maintain ideal body condition.Calorie Content706 kcal/kg, 26 kcal/serving ME (calculated)Nutritional Adequacy StatementNUTRO™ PERFECT PORTIONS™ CUTS IN GRAVY SALMON RECIPE Cat Food is formulated to meet the nutritional levels established by the AAFCO Cat Food Nutrient Profiles for maintenance."
+    "calorie": "706 kcal/kg"
   },
   {
     "site": "https://www.nutro.ca",
@@ -279,6 +279,6 @@
       "Taurine",
       "Sodium Hexametaphosphate."
     ],
-    "calorie": "Feeding GuidelinesFeed adult cats 5 to 6 servings per 3.6kg (8 lbs) of body weight daily. Adjust to maintain ideal body condition.Calorie Content875 kcal/kg, 33 kcal/serving ME (calculated)Nutritional Adequacy StatementNUTRO™ PERFECT PORTIONS™ CUTS IN GRAVY TUNA RECIPE Cat Food is formulated to meet the nutritional levels established by the AAFCO Cat Food Nutrient Profiles for maintenance."
+    "calorie": "875 kcal/kg"
   }
 ]

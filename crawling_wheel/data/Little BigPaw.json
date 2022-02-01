@@ -20,7 +20,7 @@
         "Salmon Oil 0.1%",
         "Sunflower Oil 0.1%."
       ],
-      "calorie": "128kcal per 100g"
+      "calorie": "128 kcal/100g"
     },
   {
     "site": "https://www.littlebigpaw.co.uk",
@@ -43,7 +43,7 @@
       "Salmon Oil 0.1%",
       "Sunflower Oil 0.1%."
     ],
-    "calorie": "128kcal per 100g"
+    "calorie": "128 kcal/100g"
   },
   {
     "site": "https://www.littlebigpaw.co.uk",
@@ -66,7 +66,7 @@
       "Salmon Oil 0.1%",
       "Sunflower Oil 0.1%."
     ],
-    "calorie": "110kcal per 100g"
+    "calorie": "110 kcal/100g"
   },
   {
     "site": "https://www.littlebigpaw.co.uk",
@@ -88,7 +88,7 @@
       "Salmon Oil 0.1%",
       "Sunflower Oil 0.1%."
     ],
-    "calorie": "118kcal per 100g"
+    "calorie": "118 kcal/100g"
   },
   {
     "site": "https://www.littlebigpaw.co.uk",
@@ -111,6 +111,6 @@
       "Salmon Oil 0.1%",
       "Sunflower Oil 0.1%."
     ],
-    "calorie": "128kcal per 100g"
+    "calorie": "128 kcal/100g"
   }
 ]

@@ -35,16 +35,16 @@
         "Oats",
         "Chicken Fat",
         "Flaxseed",
-            "Tomato Pomace",
-            "Pumpkin",
-            "Brewers Dried Yeast",
-            "Cranberries",
-            "Natural Chicken Flavor",
-            "Salmon Oil",
-            "Apples",
-            "Pomegranates",
-            "Potassium Chloride",
-            "Choline Chloride",
+        "Tomato Pomace",
+        "Pumpkin",
+        "Brewers Dried Yeast",
+        "Cranberries",
+        "Natural Chicken Flavor",
+        "Salmon Oil",
+        "Apples",
+        "Pomegranates",
+        "Potassium Chloride",
+        "Choline Chloride",
             "Chicory Root Extract",
             "Hydrolyzed Yeast",
             "Taurine",
@@ -67,16 +67,16 @@
             "Thiamine Mononitrate",
             "Copper Proteinate",
             "Ground Cinnamon",
-            "Ground Fennel",
-            "Ground Peppermint",
-            "Manganese Proteinate",
-            "Manganese Sulfate",
-            "d-Calcium Pantothenate",
-            "Sodium Selenite",
-            "Dried Enterococcus faecium Fermentation Product",
-            "Pyridoxine Hydrochloride",
-            "Riboflavin",
-            "Dried Bacillus coagulans Fermentation Product",
+        "Ground Fennel",
+        "Ground Peppermint",
+        "Manganese Proteinate",
+        "Manganese Sulfate",
+        "d-Calcium Pantothenate",
+        "Sodium Selenite",
+        "Dried Enterococcus faecium Fermentation Product",
+        "Pyridoxine Hydrochloride",
+        "Riboflavin",
+        "Dried Bacillus coagulans Fermentation Product",
         "Biotin",
         "Vitamin D3 Supplement",
         "Dried Lactobacillus delbrueckii Fermentation Product",
@@ -95,7 +95,7 @@
         "Green Tea Extract",
         "Spearmint Extract."
       ],
-      "calorie": "(CALCULATED): This food contains 3,952 kcal/kg or 458 kcal/cup ME (metabolizable energy) on an as fed basis."
+      "calorie": "3952 kcal/kg"
     },
   {
     "site": "https://www.wellnesspetfood.com",
@@ -133,16 +133,16 @@
       "Barley",
       "Rice",
       "Chicken Fat",
-            "Oats",
-            "Flaxseed",
-            "Tomato Pomace",
-            "Pumpkin",
-            "Brewers Dried Yeast",
-            "Cranberries",
-            "Natural Fish Flavor",
-            "Apples",
-            "Pomegranates",
-            "Potassium Chloride",
+      "Oats",
+      "Flaxseed",
+      "Tomato Pomace",
+      "Pumpkin",
+      "Brewers Dried Yeast",
+      "Cranberries",
+      "Natural Fish Flavor",
+      "Apples",
+      "Pomegranates",
+      "Potassium Chloride",
             "Choline Chloride",
             "Chicory Root Extract",
             "Hydrolyzed Yeast",
@@ -167,16 +167,16 @@
             "Copper Proteinate",
             "Ground Cinnamon",
             "Ground Fennel",
-            "Ground Peppermint",
-            "Manganese Proteinate",
-            "Manganese Sulfate",
-            "d-Calcium Pantothenate",
-            "Sodium Selenite",
-            "Dried Enterococcus faecium Fermentation Product",
-            "Pyridoxine Hydrochloride",
-            "Riboflavin",
-            "Dried Bacillus coagulans Fermentation Product",
-            "Menadione Sodium Bisulfite Complex (Vitamin K)",
+      "Ground Peppermint",
+      "Manganese Proteinate",
+      "Manganese Sulfate",
+      "d-Calcium Pantothenate",
+      "Sodium Selenite",
+      "Dried Enterococcus faecium Fermentation Product",
+      "Pyridoxine Hydrochloride",
+      "Riboflavin",
+      "Dried Bacillus coagulans Fermentation Product",
+      "Menadione Sodium Bisulfite Complex (Vitamin K)",
       "Biotin",
       "Vitamin D3 Supplement",
       "Dried Lactobacillus delbrueckii Fermentation Product",
@@ -195,7 +195,7 @@
       "Green Tea Extract",
       "Spearmint Extract."
     ],
-    "calorie": "(CALCULATED): This food contains 3,873 kcal/kg or 472 kcal/cup ME (metabolizable energy) on an as fed basis."
+    "calorie": "3873 kcal/kg"
   },
   {
     "site": "https://www.wellnesspetfood.com",
@@ -223,7 +223,7 @@
       "WEIGHT OF CAT (LBS) 10 - 15 WEIGHT OF CAT (KG)5 - 7 DRY FOOD ALONE (CUPS/DAY) ½ - ⅔ DRY FOOD ALONE (GRAMS/DAY)66 - 82 COMBINATION FEEDING ½ + 3 oz can†"
     ],
     "ingredients": "",
-    "calorie": "This food contains 3,907 kcal/kg or 477 kcal/cup ME (metabolizable energy) on an as fed basis."
+    "calorie": "3907 kcal/kg"
   },
   {
     "site": "https://www.wellnesspetfood.com",
@@ -250,7 +250,7 @@
       "AGE IN MONTHS9 - 12 DRY FOOD ALONE (CUPS/DAY) ⅝ - ⅔ DRY FOOD ALONE (GRAMS/DAY)69 - 79 COMBINATION FEEDING ⅝+ 3 oz can†"
     ],
     "ingredients": "",
-    "calorie": "This food contains 3,907 kcal/kg or 477 kcal/cup ME (metabolizable energy) on an as fed basis."
+    "calorie": "3907 kcal/kg"
   },
   {
     "site": "https://www.wellnesspetfood.com",
@@ -278,7 +278,7 @@
       "WEIGHT OF CAT (LBS)10 - 15 WEIGHT OF CAT (KG)5 - 7 DRY FOOD ALONE (CUPS/DAY)⅔ - ¾ DRY FOOD ALONE (GRAMS/DAY)75 - 94 COMBINATION FEEDING⅔ + 3 oz can†"
     ],
     "ingredients": "",
-    "calorie": "This food contains 3,432 kcal/kg or 391 kcal/cup ME (metabolizable energy) on an as fed basis."
+    "calorie": "3432 kcal/kg"
   },
   {
     "site": "https://www.wellnesspetfood.com",
@@ -306,7 +306,7 @@
       "WEIGHT OF CAT (LBS) 10 - 15 WEIGHT OF CAT (KG)5 - 7 DRY FOOD ALONE (CUPS/DAY) ½ - ⅔ DRY FOOD ALONE (GRAMS/DAY)74 - 93 COMBINATION FEEDING ⅔ + 3 oz can†"
     ],
     "ingredients": "",
-    "calorie": "This food contains 3,451 kcal/kg or 469 kcal/cup ME (metabolizable energy) on an as fed basis."
+    "calorie": "3451 kcal/kg"
   },
   {
     "site": "https://www.wellnesspetfood.com",
@@ -344,16 +344,16 @@
       "Ground Flaxseed",
       "Potatoes",
       "Lentils",
-            "Tomato Pomace",
-            "Chicken Fat (preserved with Mixed Tocopherols)",
-            "Pea Fiber",
-            "Cranberries",
-            "Natural Turkey Flavor",
-            "Choline Chloride",
-            "Potassium Chloride",
-            "Chicory Root Extract",
-            "Taurine",
-            "Calcium Chloride",
+      "Tomato Pomace",
+      "Chicken Fat (preserved with Mixed Tocopherols)",
+      "Pea Fiber",
+      "Cranberries",
+      "Natural Turkey Flavor",
+      "Choline Chloride",
+      "Potassium Chloride",
+      "Chicory Root Extract",
+      "Taurine",
+      "Calcium Chloride",
             "Vitamin E Supplement",
             "L-Carnitine",
             "Zinc Proteinate",
@@ -363,16 +363,16 @@
             "Zinc Sulfate",
             "Calcium Carbonate",
             "Niacin",
-            "Iron Proteinate",
-            "Ferrous Sulfate",
-            "Vitamin A Supplement",
-            "Ascorbic Acid (Vitamin C)",
-            "Copper Sulfate",
-            "Thiamine Mononitrate",
-            "Copper Proteinate",
-            "Manganese Proteinate",
-            "Manganese Sulfate",
-            "d-Calcium Pantothenate",
+      "Iron Proteinate",
+      "Ferrous Sulfate",
+      "Vitamin A Supplement",
+      "Ascorbic Acid (Vitamin C)",
+      "Copper Sulfate",
+      "Thiamine Mononitrate",
+      "Copper Proteinate",
+      "Manganese Proteinate",
+      "Manganese Sulfate",
+      "d-Calcium Pantothenate",
       "Sodium Selenite",
       "Pyridoxine Hydrochloride",
       "Riboflavin",
@@ -391,7 +391,7 @@
       "Green Tea Extract",
       "Spearmint Extract."
     ],
-    "calorie": "PLEASE STORE FOOD IN A DRY, COOL PLACE"
+    "calorie": ""
   },
   {
     "site": "https://www.wellnesspetfood.com",
@@ -422,7 +422,7 @@
       "Natural Source of vitamins",
       "minerals and Omega Fatty acids"
     ],
-    "calorie": "This food contains 3,672 kcal/kg or 507 kcal/cup ME (metabolizable energy) on an as fed basis."
+    "calorie": "3672 kcal/kg"
   },
   {
     "site": "https://www.wellnesspetfood.com",
@@ -451,7 +451,7 @@
       "WEIGHT OF CAT (LBS) 10 - 15 WEIGHT OF CAT (KG)5 - 7 DRY FOOD ALONE (CUPS/DAY) ½ - ⅔ DRY FOOD ALONE (GRAMS/DAY)76 - 95 COMBINATION FEEDING ½ + 3 oz can†"
     ],
     "ingredients": "",
-    "calorie": "This food contains 3,392 kcal/kg or 444 kcal/cup ME (metabolizable energy) on an as fed basis."
+    "calorie": "3392 kcal/kg"
   },
   {
     "site": "https://www.wellnesspetfood.com",
@@ -479,7 +479,7 @@
       "WEIGHT OF CAT (LBS)10 - 15 WEIGHT OF CAT (KG)5 - 7 DRY FOOD ALONE (CUPS/ DAY)½ - ⅔ DRY FOOD ALONE (GRAMS/ DAY)66 - 83 COMBINATION FEEDING½ + 3 oz can†"
     ],
     "ingredients": "",
-    "calorie": "This food contains 3,873 kcal/kg or 472 kcal/cup ME (metabolizable energy) on an as fed basis."
+    "calorie": "3873 kcal/kg"
   },
   {
     "site": "https://www.wellnesspetfood.com",
@@ -507,7 +507,7 @@
       "WEIGHT OF CAT (LBS)10 - 15 WEIGHT OF CAT (KG)5 - 7 DRY FOOD ALONE (CUPS/DAY)⅔ - ¾ DRY FOOD ALONE (GRAMS/DAY)65 - 81 COMBINATION FEEDING⅔ + 3 oz can†"
     ],
     "ingredients": "",
-    "calorie": "This food contains 3,952 kcal/kg or 458 kcal/cup ME (metabolizable energy) on an as fed basis."
+    "calorie": "3952 kcal/kg"
   },
   {
     "site": "https://www.wellnesspetfood.com",
@@ -536,7 +536,7 @@
       "WEIGHT OF CAT (LBS)10 - 15 WEIGHT OF CAT (KG)5 - 7 DRY FOOD ALONE (CUPS/ DAY)⅔ - ¾ DRY FOOD ALONE (GRAMS/DAY)73 - 91 COMBINATION FEEDING⅔ + 3 oz can†"
     ],
     "ingredients": "",
-    "calorie": "This food contains 3,532 kcal/kg or 420 kcal/cup ME (metabolizable energy) on an as fed basis."
+    "calorie": "3532 kcal/kg"
   },
   {
     "site": "https://www.wellnesspetfood.com",
@@ -562,7 +562,7 @@
       "WEIGHT OF CAT (LBS)10 - 15 WEIGHT OF CAT (KG)4.5 - 6.8 DRY FOOD ALONE (CUPS)⅔ - ¾ DRY FOOD ALONE (GRAMS)80 - 90 COMBINATION FEEDING⅔ + 3 oz can†"
     ],
     "ingredients": "",
-    "calorie": "This food contains 3,614 kcal/kg or 434 kcal/cup ME (metabolizable energy) on an as fed basis."
+    "calorie": "3614 kcal/kg"
   },
   {
     "site": "https://www.wellnesspetfood.com",
@@ -588,7 +588,7 @@
       "WEIGHT OF CAT (LBS)10 - 15 DRY FOOD ALONE (CUPS/DAY)½ - ⅔ Combination Feeding½ + 3 oz can†"
     ],
     "ingredients": "",
-    "calorie": "Calorie Control: This food contains 3,977 kcal/cup or 497 kcal/cup ME (metabolizable energy) on an as fed basis."
+    "calorie": "3977 kcal/kg"
   },
   {
     "site": "https://www.wellnesspetfood.com",
@@ -615,7 +615,7 @@
       "AGE (MONTHS)9 - 12 DRY FOOD ALONE (CUPS/DAY)⅔ - ¾ COMBINATION FEEDING⅔ + 3 oz can†"
     ],
     "ingredients": "",
-    "calorie": "This food contains 3,977 kcal/kg or 497 kcal/cup ME (metabolizable energy) on an as fed basis."
+    "calorie": "3977 kcal/kg"
   },
   {
     "site": "https://www.wellnesspetfood.com",
@@ -641,7 +641,7 @@
       "WEIGHT OF CAT (LBS)10 - 15 DRY FOOD ALONE (CUPS/DAY)½ - ⅔ COMBINATION FEEDING½ + 3 oz can†"
     ],
     "ingredients": "",
-    "calorie": "This food contains 3,902 kcal/kg or 496 kcal/cup ME (metabolizable energy) on an as fed basis."
+    "calorie": "3902 kcal/kg"
   },
   {
     "site": "https://www.wellnesspetfood.com",
@@ -671,7 +671,7 @@
       "This food contains 3,561 kcal/kg or 445 kcal/cup ME (metabolizable energy) on an as fed basis."
     ],
     "ingredients": "",
-    "calorie": "This food contains 3,561 kcal/kg or 445 kcal/cup ME (metabolizable energy) on an as fed basis."
+    "calorie": "3561 kcal/kg"
   },
   {
     "site": "https://www.wellnesspetfood.com",
@@ -700,6 +700,6 @@
       "WEIGHT OF CAT (LBS) 10 - 15 WEIGHT OF CAT (KG)5 - 7 DRY FOOD ALONE (CUPS/DAY) ⅝ -¾ DRY FOOD ALONE (GRAMS/DAY)78 - 98 COMBINATION FEEDING ⅝ + 3 oz can†"
     ],
     "ingredients": "",
-    "calorie": "This food contains 3,277 kcal/kg or 445 kcal/cup ME (metabolizable energy) on an as fed basis."
+    "calorie": "3277 kcal/kg"
   }
 ]

@@ -38,7 +38,7 @@
         "Sodium Selenite",
         "Rosemary Extract."
       ],
-      "calorie": "3,550 kcal/kg"
+      "calorie": "3550 kcal/kg"
     },
   {
     "site": "https://fussiecat.com",
@@ -77,7 +77,7 @@
       "Sodium Selenite",
       "Rosemary Extract."
     ],
-    "calorie": "3,604 kcal/kg"
+    "calorie": "3604 kcal/kg"
   },
   {
     "site": "https://fussiecat.com",
@@ -115,7 +115,7 @@
       "Sodium Selenite",
       "Rosemary Extract."
     ],
-    "calorie": "3,598 kcal/kg"
+    "calorie": "3598 kcal/kg"
   },
   {
     "site": "https://fussiecat.com",
@@ -168,7 +168,7 @@
       "Biotin",
       "Vitamin B12 Supplement."
     ],
-    "calorie": "612 kcal/kg, 49 kcal Per Can"
+    "calorie": "612 kcal/kg"
   },
   {
     "site": "https://fussiecat.com",
@@ -221,7 +221,7 @@
       "Biotin",
       "Vitamin B12 Supplement."
     ],
-    "calorie": "600 kcal/kg, 48 kcal Per Can"
+    "calorie": "600 kcal/kg"
   },
   {
     "site": "https://fussiecat.com",
@@ -274,7 +274,7 @@
       "Biotin",
       "Vitamin B12 Supplement."
     ],
-    "calorie": "600 kcal/kg, 48 kcal Per Can"
+    "calorie": "600 kcal/kg"
   },
   {
     "site": "https://fussiecat.com",
@@ -327,7 +327,7 @@
       "Biotin",
       "Vitamin B12 Supplement."
     ],
-    "calorie": " 600 kcal/kg, 48 kcal Per Can"
+    "calorie": "600 kcal/kg"
   },
   {
     "site": "https://fussiecat.com",
@@ -380,7 +380,7 @@
       "Biotin",
       "Vitamin B12 Supplement."
     ],
-    "calorie": "600 kcal/kg, 48 kcal Per Can"
+    "calorie": "600 kcal/kg"
   },
   {
     "site": "https://fussiecat.com",
@@ -433,7 +433,7 @@
       "Biotin",
       "Vitamin B12 Supplement."
     ],
-    "calorie": "600 kcal/kg, 48 kcal Per Can"
+    "calorie": "600 kcal/kg"
   },
   {
     "site": "https://fussiecat.com",
@@ -488,7 +488,7 @@
       "Biotin",
       "Vitamin B12 Supplement."
     ],
-    "calorie": "706 kcal/kg, 56 kcal Per Can"
+    "calorie": "706 kcal/kg"
   },
   {
     "site": "https://fussiecat.com",
@@ -543,7 +543,7 @@
       "Biotin",
       "Vitamin B12 Supplement."
     ],
-    "calorie": "706 kcal/kg, 56 kcal Per Can"
+    "calorie": "706 kcal/kg"
   },
   {
     "site": "https://fussiecat.com",
@@ -597,7 +597,7 @@
       "Biotin",
       "Vitamin B12 Supplement."
     ],
-    "calorie": "682 kcal/kg, 56 kcal Per Can"
+    "calorie": "682 kcal/kg"
   },
   {
     "site": "https://fussiecat.com",
@@ -635,16 +635,16 @@
       "Sodium Chloride",
       "Fructooligosaccharide",
       "Taurine",
-            "Vitamin E Supplement",
-            "Ferrous Sulfate",
-            "Thiamine Mononitrate (Source of Vitamin B1)",
-            "Nicotinic Acid (Source of Vitamin B3)",
-            "Calcium Pantothenate",
-            "Manganese Sulfate",
-            "Copper Sulfate",
-            "Vitamin A Supplement",
-            "Riboflavin Supplement (Source of Vitamin B2)",
-            "Pyridoxine Hydrochloride (Source of Vitamin B6)",
+      "Vitamin E Supplement",
+      "Ferrous Sulfate",
+      "Thiamine Mononitrate (Source of Vitamin B1)",
+      "Nicotinic Acid (Source of Vitamin B3)",
+      "Calcium Pantothenate",
+      "Manganese Sulfate",
+      "Copper Sulfate",
+      "Vitamin A Supplement",
+      "Riboflavin Supplement (Source of Vitamin B2)",
+      "Pyridoxine Hydrochloride (Source of Vitamin B6)",
             "Folic Acid",
             "Potassium Iodide",
             "Vitamin D3 Supplement",
@@ -652,6 +652,6 @@
             "Biotin",
             "Vitamin B12 Supplement."
         ],
-    "calorie": "682 kcal/kg, 56 kcal Per Can"
+    "calorie": "682 kcal/kg"
     }
 ]
