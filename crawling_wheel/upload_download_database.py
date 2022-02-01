@@ -12,14 +12,17 @@ data_path = os.path.join(os.curdir, "data")
 files = [x for x in os.listdir(data_path) if x != "__pycache__"]
 
 
-def upload():
+def upload(name=None):
     for fp in files:
-        file_path = os.path.join(data_path, fp)
-        with open(file=file_path, mode="r", encoding="utf8") as old:
-            obj = json.load(old)
-            for data in obj:
-                cat_food = CatFood().from_dict(obj=data)
-                col.update_one({"url": cat_food["url"]}, {"$set": cat_food.to_mongo()}, upsert=True)
+        if name and name != fp:
+            pass
+        else:
+            file_path = os.path.join(data_path, fp)
+            with open(file=file_path, mode="r", encoding="utf8") as old:
+                obj = json.load(old)
+                for data in obj:
+                    cat_food = CatFood().from_dict(obj=data)
+                    col.update_one({"url": cat_food["url"]}, {"$set": cat_food.to_mongo()}, upsert=True)
 
 
 def download():
@@ -38,5 +41,5 @@ def download():
 
 
 if __name__ == '__main__':
-    # upload()
-    download()
+    upload("Natural Greatness.json")
+    # download()
