@@ -41,5 +41,5 @@ def download():
 
 
 if __name__ == '__main__':
-    upload("Natural Greatness.json")
-    # download()
+    # upload("AlmoNature.json")
+    download()
