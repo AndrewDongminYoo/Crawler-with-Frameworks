@@ -5,6 +5,7 @@ from pymongo import MongoClient
 client = MongoClient()
 db = client.get_database("cat")
 col = db.get_collection("CatFood_test006")
+col2 = db.get_collection("CatFood_test007")
 
 
 # def main():
@@ -294,7 +295,7 @@ def main():
         if energy:
             # print("\033[93m"+item.get('brand')+" \033[0m"+hello_peter(energy))
             calorie = hello_peter(energy)
-            col.update_one({"_id": item["_id"]}, {"$set": {"calorie": calorie}}, upsert=True)
+            col2.update_one({"url": item["url"]}, {"$set": {"calorie": calorie}}, upsert=True)
         # for name, attr in item.items():
         #     if not attr:
         #         print(item["title"]+" \t\t "+name)
