@@ -3,11 +3,9 @@ import os
 
 from pymongo import MongoClient
 
-from models import CatFood
-
 client = MongoClient()
 db = client.get_database("cat")
-col = db.get_collection("CatFood_test006")
+col = db.get_collection("CatFood_test007")
 data_path = os.path.join(os.curdir, "data")
 files = [x for x in os.listdir(data_path) if x != "__pycache__"]
 
@@ -21,18 +19,17 @@ def upload(name=None):
             with open(file=file_path, mode="r", encoding="utf8") as old:
                 obj = json.load(old)
                 for data in obj:
-                    cat_food = CatFood().from_dict(obj=data)
-                    col.update_one({"url": cat_food["url"]}, {"$set": cat_food.to_mongo()}, upsert=True)
+                    col.update_one({"url": data["url"]}, {"$set": data}, upsert=True)
 
 
 def download():
     result = dict()
     for data in col.find({}, {"_id": False, "updated_at": False}):
-        cat_food = CatFood().from_dict(obj=data)
-        if cat_food.brand + ".json" in result.keys():
-            result[cat_food.brand + ".json"].append(cat_food.to_dict())
+        del data["analysis"]
+        if data["brand"] + ".json" in result.keys():
+            result[data["brand"] + ".json"].append(data)
         else:
-            result[cat_food.brand + ".json"] = [cat_food.to_dict()]
+            result[data["brand"] + ".json"] = [data]
 
     for key, value in result.items():
         file_path = os.path.join(data_path, key)
@@ -41,5 +38,5 @@ def download():
 
 
 if __name__ == '__main__':
-    # upload("AlmoNature.json")
-    download()
+    upload()
+    # download()

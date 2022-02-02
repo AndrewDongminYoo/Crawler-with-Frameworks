@@ -1,63 +1,54 @@
 [
-    {
-      "site": "https://www.castorpolluxpet.com",
-      "url": "https://www.castorpolluxpet.com/cats/recipes/organix-grain-free-organic-chicken-sweet-potato-recipe?id=114",
-      "brand": "Organix",
-      "title": "ORGANIX® Grain Free Organic Chicken & Sweet Potato Recipe - Castor & Pollux Natural Petworks",
-      "image": "https://www.castorpolluxpet.com/web-resources/products/ORG-CD-GF-ChickSweetPotato-lg.png",
-      "analysis": [
-        "Crude Protein: 32%",
-        "Crude Fat: 14%",
-        "Crude Fiber: 3.5%",
-        "Moisture: 11%",
-        "Taurine: 0.10%",
-        "Omega-6 fatty acid*: 2.50%",
-        "Omega-3 fatty acid*: 0.30%"
-      ],
-      "ingredients": [
-        "Organic Chicken",
-        "Organic Chicken Meal",
-        "Organic Pea Protein",
-        "Organic Sweet Potatoes",
-        "Organic Peas",
-        "Organic Chickpeas",
-        "Organic Tapioca",
-        "Organic Sunflower Seed Meal",
-        "Organic Coconut Oil",
-        "Organic Chicken Fat (preserved with mixed tocopherols)",
-        "Natural Flavor",
-        "Organic Flaxseed",
-        "Organic Chicken Liver",
-        "Organic Dried Alfalfa Meal",
-        "Salt",
-        "Choline Chloride",
-        "Vitamins (Vitamin E Supplement, Niacin Supplement, Thiamine Mononitrate, d-Calcium Pantothenate, Vitamin A Supplement, Pyridoxine Hydrochloride, Riboflavin Supplement, Vitamin D3 Supplement, Biotin, Vitamin B12 Supplement, Folic Acid)",
-        "Minerals (Zinc Amino Acid Complex, Iron Amino Acid Complex, Copper Amino Acid Complex, Manganese Amino Acid Complex, Sodium Selenite, Calcium Iodate)",
-        "Taurine",
-        "Salmon Oil",
-        "Organic Cranberries",
-        "Potassium Chloride",
-        "Rosemary Extract",
-        "Dried Bacillus coagulans Fermentation Product"
-      ],
-      "calorie": "3739 kcal/kg"
-    },
   {
-    "site": "https://www.castorpolluxpet.com",
-    "url": "https://www.castorpolluxpet.com/cats/recipes/organix-grain-free-organic-kitten-recipe?id=182",
+    "url": "https://www.castorpolluxpet.com/cats/recipes/organix-grain-free-organic-chicken-sweet-potato-recipe?id=114",
     "brand": "Organix",
-    "title": "ORGANIX® Grain Free Organic Kitten Recipe - Castor & Pollux Natural Petworks",
-    "image": "https://www.castorpolluxpet.com/web-resources/products/ORG-CD-Kitten-NoWgt-FRONT.png",
-    "analysis": [
-      "Crude Protein: 32%",
-      "Crude Fat: 14%",
-      "Crude Fiber: 4%",
-      "Moisture: 11%",
-      "Taurine: 0.10%",
-      "Omega-6 fatty acid*: 2.50%",
-      "Omega-3 fatty acid*: 0.30%",
-      "Docosahexaenoic acid (DHA): 0.05%"
+    "calorie": "3739 kcal/kg",
+    "crude fat": "14%",
+    "crude fiber": "3.5%",
+    "crude protein": "32%",
+    "image": "https://www.castorpolluxpet.com/web-resources/products/ORG-CD-GF-ChickSweetPotato-lg.png",
+    "ingredients": [
+      "Organic Chicken",
+      "Organic Chicken Meal",
+      "Organic Pea Protein",
+      "Organic Sweet Potatoes",
+      "Organic Peas",
+      "Organic Chickpeas",
+      "Organic Tapioca",
+      "Organic Sunflower Seed Meal",
+      "Organic Coconut Oil",
+      "Organic Chicken Fat (preserved with mixed tocopherols)",
+      "Natural Flavor",
+      "Organic Flaxseed",
+      "Organic Chicken Liver",
+      "Organic Dried Alfalfa Meal",
+      "Salt",
+      "Choline Chloride",
+      "Vitamins (Vitamin E Supplement, Niacin Supplement, Thiamine Mononitrate, d-Calcium Pantothenate, Vitamin A Supplement, Pyridoxine Hydrochloride, Riboflavin Supplement, Vitamin D3 Supplement, Biotin, Vitamin B12 Supplement, Folic Acid)",
+      "Minerals (Zinc Amino Acid Complex, Iron Amino Acid Complex, Copper Amino Acid Complex, Manganese Amino Acid Complex, Sodium Selenite, Calcium Iodate)",
+      "Taurine",
+      "Salmon Oil",
+      "Organic Cranberries",
+      "Potassium Chloride",
+      "Rosemary Extract",
+      "Dried Bacillus coagulans Fermentation Product"
     ],
+    "moisture": "11%",
+    "omega-3": "0.30%",
+    "omega-6": "2.50%",
+    "site": "https://www.castorpolluxpet.com",
+    "taurine": "0.10%",
+    "title": "ORGANIX® Grain Free Organic Chicken & Sweet Potato Recipe - Castor & Pollux Natural Petworks"
+  },
+  {
+    "url": "https://www.castorpolluxpet.com/cats/recipes/organix-grain-free-organic-kitten-recipe?id=182",
+    "DHA": "0.05%",
+    "brand": "Organix",
+    "calorie": "3614 kcal/kg",
+    "crude fat": "14%",
+    "crude fiber": "4%",
+    "crude protein": "32%",
+    "image": "https://www.castorpolluxpet.com/web-resources/products/ORG-CD-Kitten-NoWgt-FRONT.png",
     "ingredients": [
       "Organic Chicken",
       "Organic Chicken Meal",
@@ -83,23 +74,21 @@
       "Potassium Chloride",
       "Dried Bacillus coagulans Fermentation Product"
     ],
-    "calorie": "3614 kcal/kg"
+    "moisture": "11%",
+    "omega-3": "0.30%",
+    "omega-6": "2.50%",
+    "site": "https://www.castorpolluxpet.com",
+    "taurine": "0.10%",
+    "title": "ORGANIX® Grain Free Organic Kitten Recipe - Castor & Pollux Natural Petworks"
   },
   {
-    "site": "https://www.castorpolluxpet.com",
     "url": "https://www.castorpolluxpet.com/cats/recipes/organix-organic-chicken-brown-rice-recipe?id=115",
     "brand": "Organix",
-    "title": "ORGANIX® Organic Chicken & Brown Rice Recipe - Castor & Pollux Natural Petworks",
+    "calorie": "3726 kcal/kg",
+    "crude fat": "14%",
+    "crude fiber": "3.5%",
+    "crude protein": "32%",
     "image": "https://www.castorpolluxpet.com/web-resources/products/ORG-CD-GF-ChickBrownRice-lg.png",
-    "analysis": [
-      "Crude Protein: 32%",
-      "Crude Fat: 14%",
-      "Crude Fiber: 3.5%",
-      "Moisture: 11%",
-      "Taurine: 0.10%",
-      "Omega-6 fatty acid*: 2.50%",
-      "Omega-3 fatty acid*: 0.30%"
-    ],
     "ingredients": [
       "Organic Chicken",
       "Organic Chicken Meal",
@@ -126,22 +115,22 @@
       "Rosemary Extract",
       "Dried Bacillus coagulans Fermentation Product"
     ],
-    "calorie": "3726 kcal/kg"
+    "moisture": "11%",
+    "omega-3": "0.30%",
+    "omega-6": "2.50%",
+    "site": "https://www.castorpolluxpet.com",
+    "taurine": "0.10%",
+    "title": "ORGANIX® Organic Chicken & Brown Rice Recipe - Castor & Pollux Natural Petworks"
   },
   {
-    "site": "https://www.castorpolluxpet.com",
     "url": "https://www.castorpolluxpet.com/cats/recipes/organix-grain-free-organic-turkey-recipe?id=203",
     "brand": "Organix",
-    "title": "ORGANIX® Grain Free Organic Turkey Recipe - Castor & Pollux Natural Petworks",
+    "calorie": "1.225 kcal/kg",
+    "crude ash": "2.10%",
+    "crude fat": "5.00%",
+    "crude fiber": "1.00%",
+    "crude protein": "9.00%",
     "image": "https://www.castorpolluxpet.com/web-resources/products/ORX-GF-Turkey-Pate-large.png",
-    "analysis": [
-      "Crude Protein: 9.00%",
-      "Crude Fat: 5.00%",
-      "Crude Fiber: 1.00%",
-      "Moisture: 78.00%",
-      "Ash: 2.10%",
-      "Taurine: 0.10%"
-    ],
     "ingredients": [
       "Organic Turkey",
       "Water Sufficient for Processing",
@@ -165,22 +154,20 @@
       "Choline Chloride",
       "Vitamins (Niacin, Vitamin E Supplement, Vitamin A Supplement, Thiamine Mononitrate, Pyridoxine Hydrochloride, Riboflavin Supplement, d-Calcium Pantothenate, Vitamin D3 Supplement, Biotin, Vitamin B12 Supplement, Folic Acid)"
     ],
-    "calorie": "1.225 kcal/kg"
+    "moisture": "78.00%",
+    "site": "https://www.castorpolluxpet.com",
+    "taurine": "0.10%",
+    "title": "ORGANIX® Grain Free Organic Turkey Recipe - Castor & Pollux Natural Petworks"
   },
   {
-    "site": "https://www.castorpolluxpet.com",
     "url": "https://www.castorpolluxpet.com/cats/recipes/organix-grain-free-organic-chicken-chicken-liver-recipe?id=202",
     "brand": "Organix",
-    "title": "ORGANIX® Grain Free Organic Chicken & Chicken Liver Recipe - Castor & Pollux Natural Petworks",
+    "calorie": "",
+    "crude ash": "2.10%",
+    "crude fat": "5.00%",
+    "crude fiber": "1.00%",
+    "crude protein": "9.00%",
     "image": "https://www.castorpolluxpet.com/web-resources/products/ORX-GF-Chicken-ChickenLiver-Pate-large.png",
-    "analysis": [
-      "Crude Protein: 9.00%",
-      "Crude Fat: 5.00%",
-      "Crude Fiber: 1.00%",
-      "Moisture: 78.00%",
-      "Ash: 2.10%",
-      "Taurine: 0.10%"
-    ],
     "ingredients": [
       "Organic Chicken",
       "Water Sufficient for Processing",
@@ -202,22 +189,20 @@
       "Minerals (Zinc Amino Acid Complex, Iron Amino Acid Complex, Copper Amino Acid Complex, Manganese Amino Acid Complex, Sodium Selenite, Calcium Iodate)",
       "Vitamins (Niacin, Vitamin E Supplement, Vitamin A Supplement, Thiamine Mononitrate, Pyridoxine Hydrochloride, Riboflavin Supplement, d-Calcium Pantothenate, Vitamin D3 Supplement, Biotin, Vitamin B12 Supplement, Folic Acid)"
     ],
-    "calorie": ""
+    "moisture": "78.00%",
+    "site": "https://www.castorpolluxpet.com",
+    "taurine": "0.10%",
+    "title": "ORGANIX® Grain Free Organic Chicken & Chicken Liver Recipe - Castor & Pollux Natural Petworks"
   },
   {
-    "site": "https://www.castorpolluxpet.com",
     "url": "https://www.castorpolluxpet.com/cats/recipes/organix-grain-free-organic-chicken-recipe?id=201",
     "brand": "Organix",
-    "title": "ORGANIX® Grain Free Organic Chicken Recipe - Castor & Pollux Natural Petworks",
+    "calorie": "",
+    "crude ash": "2.10%",
+    "crude fat": "5.00%",
+    "crude fiber": "1.00%",
+    "crude protein": "9.00%",
     "image": "https://www.castorpolluxpet.com/web-resources/products/ORX-GF-Chicken-Pate-large.png",
-    "analysis": [
-      "Crude Protein: 9.00%",
-      "Crude Fat: 5.00%",
-      "Crude Fiber: 1.00%",
-      "Moisture: 78.00%",
-      "Ash: 2.10%",
-      "Taurine: 0.10%"
-    ],
     "ingredients": [
       "Organic Chicken",
       "Water Sufficient for Processing",
@@ -240,23 +225,21 @@
       "Choline Chloride",
       "Vitamins (Niacin, Vitamin E Supplement, Vitamin A Supplement, Thiamine Mononitrate, Pyridoxine Hydrochloride, Riboflavin Supplement, d-Calcium Pantothenate, Vitamin D3 Supplement, Biotin, Vitamin B12 Supplement, Folic Acid)"
     ],
-    "calorie": ""
+    "moisture": "78.00%",
+    "site": "https://www.castorpolluxpet.com",
+    "taurine": "0.10%",
+    "title": "ORGANIX® Grain Free Organic Chicken Recipe - Castor & Pollux Natural Petworks"
   },
   {
-    "site": "https://www.castorpolluxpet.com",
     "url": "https://www.castorpolluxpet.com/cats/recipes/organix-grain-free-organic-kitten-recipe-pate?id=181",
+    "DHA": "0.10%",
     "brand": "Organix",
-    "title": "ORGANIX® Grain Free Organic Kitten Recipe Pate - Castor & Pollux Natural Petworks",
+    "calorie": "1327 kcal/kg",
+    "crude ash": "2.10%",
+    "crude fat": "7.00%",
+    "crude fiber": "1.00%",
+    "crude protein": "9.00%",
     "image": "https://www.castorpolluxpet.com/web-resources/products/ORG-CW-GF-Kitten-pate-lg.png",
-    "analysis": [
-      "Crude Protein: 9.00%",
-      "Crude Fat: 7.00%",
-      "Crude Fiber: 1.00%",
-      "Moisture: 78.00%",
-      "Ash: 2.10%",
-      "Taurine: 0.20%",
-      "DHA*: 0.10%"
-    ],
     "ingredients": [
       "Organic Chicken",
       "Water Sufficient for Processing",
@@ -279,22 +262,20 @@
       "Minerals (Zinc Amino Acid Complex, Iron Amino Acid Complex, Copper Amino Acid Complex, Manganese Amino Acid Complex, Sodium Selenite, Calcium Iodate)",
       "Vitamins (Niacin, Vitamin E Supplement, Vitamin A Supplement, Thiamine Mononitrate, Pyridoxine Hydrochloride, Riboflavin Supplement, d-Calcium Pantothenate, Vitamin D3 Supplement, Biotin, Vitamin B12 Supplement, Folic Acid)"
     ],
-    "calorie": "1327 kcal/kg"
+    "moisture": "78.00%",
+    "site": "https://www.castorpolluxpet.com",
+    "taurine": "0.20%",
+    "title": "ORGANIX® Grain Free Organic Kitten Recipe Pate - Castor & Pollux Natural Petworks"
   },
   {
-    "site": "https://www.castorpolluxpet.com",
     "url": "https://www.castorpolluxpet.com/cats/recipes/organix-organic-turkey-brown-rice-chicken-recipe?id=204",
     "brand": "Organix",
-    "title": "ORGANIX® Organic Turkey, Brown Rice & Chicken Recipe - Castor & Pollux Natural Petworks",
+    "calorie": "1.241 kcal/kg",
+    "crude ash": "2.10%",
+    "crude fat": "6%",
+    "crude fiber": "1.00%",
+    "crude protein": "8%",
     "image": "https://www.castorpolluxpet.com/web-resources/products/ORX-Turkey-Brown-Rice-Chicken-Pate-large.png",
-    "analysis": [
-      "Crude Protein: 8%",
-      "Crude Fat: 6%",
-      "Crude Fiber: 1.00%",
-      "Moisture: 78.00%",
-      "Ash: 2.10%",
-      "Taurine: 0.10%"
-    ],
     "ingredients": [
       "Organic Turkey",
       "Water Sufficient for Processing",
@@ -316,20 +297,19 @@
       "Taurine",
       "Vitamins (Niacin, Vitamin E Supplement, Vitamin A Supplement, Thiamine Mononitrate, Pyridoxine Hydrochloride, Riboflavin Supplement, d-Calcium Pantothenate, Vitamin D3 Supplement, Biotin, Vitamin B12 Supplement, Folic Acid)"
     ],
-    "calorie": "1.241 kcal/kg"
+    "moisture": "78.00%",
+    "site": "https://www.castorpolluxpet.com",
+    "taurine": "0.10%",
+    "title": "ORGANIX® Organic Turkey, Brown Rice & Chicken Recipe - Castor & Pollux Natural Petworks"
   },
   {
-    "site": "https://www.castorpolluxpet.com",
     "url": "https://www.castorpolluxpet.com/cats/recipes/organix-organic-cat-treats-chicken-recipe?id=95",
     "brand": "Organix",
-    "title": "ORGANIX® Organic Cat Treats - Chicken Recipe - Castor & Pollux Natural Petworks",
+    "calorie": "",
+    "crude fat": "13.00%",
+    "crude fiber": "5.00%",
+    "crude protein": "14.50%",
     "image": "https://www.castorpolluxpet.com/web-resources/products/ORG-DC-Chicken-lg.png",
-    "analysis": [
-      "Crude Protein: 14.50%",
-      "Crude Fat: 13.00%",
-      "Crude Fiber: 5.00%",
-      "Moisture: 10.00%"
-    ],
     "ingredients": [
       "Organic Chicken",
       "Organic Peas",
@@ -341,22 +321,19 @@
       "Organic Flaxseed",
       "Rosemary Extract"
     ],
-    "calorie": ""
+    "moisture": "10.00%",
+    "site": "https://www.castorpolluxpet.com",
+    "title": "ORGANIX® Organic Cat Treats - Chicken Recipe - Castor & Pollux Natural Petworks"
   },
   {
-    "site": "https://www.castorpolluxpet.com",
     "url": "https://www.castorpolluxpet.com/cats/recipes/organix-grain-free-organic-shredded-chicken-recipe?id=69",
     "brand": "Organix",
-    "title": "Now Serving - Castor & Pollux Natural Petworks",
+    "calorie": "1113 kcal/kg",
+    "crude ash": "2.10%",
+    "crude fat": "5.00%",
+    "crude fiber": "1.00%",
+    "crude protein": "8.00%",
     "image": "https://www.castorpolluxpet.com/wp-content/uploads/2021/05/xcp-organix-learn-more-product-img.png.pagespeed.ic.gldgy3oSyg.png",
-    "analysis": [
-      "Crude Protein: 8.00%",
-      "Crude Fat: 5.00%",
-      "Crude Fiber: 1.00%",
-      "Moisture: 81.00%",
-      "Ash: 2.10%",
-      "Taurine: 0.10%"
-    ],
     "ingredients": [
       "Organic Chicken",
       "Water Sufficient for Processing",
@@ -382,6 +359,9 @@
       "Organic Sage",
       "Xanthan Gum"
     ],
-    "calorie": "1113 kcal/kg"
+    "moisture": "81.00%",
+    "site": "https://www.castorpolluxpet.com",
+    "taurine": "0.10%",
+    "title": "Now Serving - Castor & Pollux Natural Petworks"
   }
 ]

@@ -1,71 +1,62 @@
 [
-    {
-      "site": "https://www.kookut.com",
-      "url": "https://www.kookut.com/products/chicken-turkey-dry-food-for-kitten",
-      "brand": "KOOKUT",
-      "title": "Chicken & Turkey Dry Food for Kitten – Kookut",
-      "image": "http://cdn.shopify.com/s/files/1/0561/5740/5392/products/5kg_Kitten_ChickenTurkey_FRONT.png?v=1618302245",
-      "analysis": [
-        "Analytical constituents Crude protein 38%, Crude Oil & Fats 20%, Crude Ash 9%, Crude Fibres 4%, Omega 6 3.3%, Omega 3 0.8%, Calcium 1.1%, Phosphorus 0.9%",
-        "Vitamins (per kg) Vitamin A 20000 IU, Vitamin D3 1750 IU, Vitamin E 450 IU",
-        "Minerals (mg per kg) Iron 100, Copper 10, Zinc 125, Manganese 30, Iodine 1,5, Selenium 0,2",
-        "Contains natural anti-oxidants and 2200 mg of Taurine per Kg."
-      ],
-      "ingredients": [
-        "Fresh chicken",
-        "dehydrated chicken",
-        "dehydrated turkey",
-        "peas",
-        "split peas",
-        "hydrolyzed chicken protein",
-        "chicken fat",
-        "potatoes",
-        "potato protein",
-        "flax seed",
-        "salmon oil",
-        "brewery yeast",
-        "beet pulp",
-        "chicory (a natural source of FOS and inulin)",
-        "vegetable plant fiber",
-        "whole eggs",
-        "carrots",
-        "MOS (mannan – oligosaccharides)",
-        "minerals",
-        "broccoli",
-        "spinach",
-        "sweet potatoes",
-        "cranberries",
-        "blueberries",
-        "apples",
-        "dried spirulina",
-        "glucosamine hydrochloride",
-        "chondroitin sulfate",
-        "dried yucca schidigera",
-        "rosemary extract",
-        "grape seed extract",
-        "turmeric extract",
-        "clove leaf oil",
-        "dried fenugreek",
-        "lucerne",
-        "dried rosehip",
-        "dried marigold (a natural source of lutein)",
-        "dried parsley",
-        "dried peppermint."
-      ],
-      "calorie": "404 kcal/100g"
-    },
   {
+    "url": "https://www.kookut.com/products/chicken-turkey-dry-food-for-kitten",
+    "brand": "KOOKUT",
+    "calorie": "404 kcal/100g",
+    "crude protein": "38%",
+    "image": "http://cdn.shopify.com/s/files/1/0561/5740/5392/products/5kg_Kitten_ChickenTurkey_FRONT.png?v=1618302245",
+    "ingredients": [
+      "Fresh chicken",
+      "dehydrated chicken",
+      "dehydrated turkey",
+      "peas",
+      "split peas",
+      "hydrolyzed chicken protein",
+      "chicken fat",
+      "potatoes",
+      "potato protein",
+      "flax seed",
+      "salmon oil",
+      "brewery yeast",
+      "beet pulp",
+      "chicory (a natural source of FOS and inulin)",
+      "vegetable plant fiber",
+      "whole eggs",
+      "carrots",
+      "MOS (mannan – oligosaccharides)",
+      "minerals",
+      "broccoli",
+      "spinach",
+      "sweet potatoes",
+      "cranberries",
+      "blueberries",
+      "apples",
+      "dried spirulina",
+      "glucosamine hydrochloride",
+      "chondroitin sulfate",
+      "dried yucca schidigera",
+      "rosemary extract",
+      "grape seed extract",
+      "turmeric extract",
+      "clove leaf oil",
+      "dried fenugreek",
+      "lucerne",
+      "dried rosehip",
+      "dried marigold (a natural source of lutein)",
+      "dried parsley",
+      "dried peppermint."
+    ],
+    "iron": "100, ",
     "site": "https://www.kookut.com",
+    "title": "Chicken & Turkey Dry Food for Kitten – Kookut",
+    "vitamin A": "20000 IU"
+  },
+  {
     "url": "https://www.kookut.com/products/salmon-white-fish-dry-food-for-cat",
     "brand": "KOOKUT",
-    "title": "Salmon & White Fish Dry Food for Cat – Kookut",
+    "calorie": "379 kcal/100g",
+    "crude protein": "34%",
     "image": "data:image/jpeg;base64,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",
-    "analysis": [
-      "Analytical constituents Crude protein 34%, Crude Oil & Fats 18%, Crude Ash 9%, Crude Fibres 4%, Omega 6 3.5%, Omega 3 0.8%, Calcium 1.4%, Phosphorus 1.1%",
-      "Vitamins (per kg) Vitamin A 15000 IU, Vitamin D3 1750 IU, Vitamin E 350 IU",
-      "Minerals (mg per kg) Iron 100, Copper 10, Zinc 125, Manganese 30, Iodine 1,5, Selenium 0,2",
-      "Contains natural anti-oxidants and 1700 mg of Taurine per Kg."
-    ],
     "ingredients": [
       "Fresh salmon",
       "dehydrated white fish",
@@ -105,20 +96,17 @@
       "dried parsley",
       "dried peppermint."
     ],
-    "calorie": "379 kcal/100g"
+    "iron": "100, ",
+    "site": "https://www.kookut.com",
+    "title": "Salmon & White Fish Dry Food for Cat – Kookut",
+    "vitamin A": "15000 IU"
   },
   {
-    "site": "https://www.kookut.com",
     "url": "https://www.kookut.com/products/chicken-duck-dry-food-for-cat",
     "brand": "KOOKUT",
-    "title": "Chicken & Duck Dry Food for Cat – Kookut",
+    "calorie": "379 kcal/100g",
+    "crude protein": "34%",
     "image": "data:image/jpeg;base64,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",
-    "analysis": [
-      "Analytical constituents Crude protein 34%, Crude Oil & Fats 18%, Crude Ash 9%, Crude Fibres 4%, Omega 6 3.2%, Omega 3 0.8%, Calcium 1.1%, Phosphorus 0.9%",
-      "Vitamins (per kg) Vitamin A 20000 IU, Vitamin D3 1750 IU, Vitamin E 350 IU",
-      "Minerals (mg per kg) Iron 100, Copper 10, Zinc 125, Manganese 30, Iodine, 1,5, Selenium 0,2",
-      "Contains natural anti-oxidants and 1700 mg of Taurine per Kg."
-    ],
     "ingredients": [
       "Fresh chicken",
       "dehydrated chicken",
@@ -157,213 +145,196 @@
       "dried parsley",
       "dried peppermint."
     ],
-    "calorie": "379 kcal/100g"
+    "iron": "100, ",
+    "site": "https://www.kookut.com",
+    "title": "Chicken & Duck Dry Food for Cat – Kookut",
+    "vitamin A": "20000 IU"
   },
   {
-    "site": "https://www.kookut.com",
     "url": "https://www.kookut.com/products/pacific-tuna-fillet-natural",
     "brand": "KOOKUT",
-    "title": "Pacific Tuna - Natural – Kookut",
+    "calorie": "83 kcal/100g",
+    "crude ash": "2%",
+    "crude fat": "0.5%",
+    "crude fiber": "0.1%",
+    "crude protein": "21%",
     "image": "http://cdn.shopify.com/s/files/1/0561/5740/5392/products/1PacificTunaC.jpg?v=1618321750",
-    "analysis": [
-      "Crude protein 21%",
-      "Crude Oil & Fats 0.5%",
-      "Crude Ash 2%",
-      "Crude Fiber 0.1%",
-      "Moisture 76%"
-    ],
     "ingredients": [
       "Pacific Tuna 75.3%",
       "tuna broth 23.3%",
       "rice 1.4%"
     ],
-    "calorie": "83 kcal/100g"
+    "moisture": "76%",
+    "site": "https://www.kookut.com",
+    "title": "Pacific Tuna - Natural – Kookut"
   },
   {
-    "site": "https://www.kookut.com",
     "url": "https://www.kookut.com/products/free-run-chicken-natural",
     "brand": "KOOKUT",
-    "title": "Free Run Chicken - Natural – Kookut",
+    "calorie": "90 kcal/100g",
+    "crude ash": "1%",
+    "crude fat": "0.8%",
+    "crude fiber": "0.1%",
+    "crude protein": "21%",
     "image": "http://cdn.shopify.com/s/files/1/0561/5740/5392/products/4FreeRunChickenC.jpg?v=1618502178",
-    "analysis": [
-      "Crude protein 21%",
-      "Crude Oil & Fats 0.8%",
-      "Crude Ash 1%",
-      "Crude Fiber 0.1%",
-      "Moisture 76%"
-    ],
     "ingredients": [
       "Free Run Chicken 75.3%",
       "chicken broth 23.3%",
       "rice 1.4%"
     ],
-    "calorie": "90 kcal/100g"
+    "moisture": "76%",
+    "site": "https://www.kookut.com",
+    "title": "Free Run Chicken - Natural – Kookut"
   },
   {
-    "site": "https://www.kookut.com",
     "url": "https://www.kookut.com/products/pacific-tuna-sardine-natural",
     "brand": "KOOKUT",
-    "title": "Pacific Tuna & Sardine - Natural – Kookut",
+    "calorie": "83 kcal/100g",
+    "crude ash": "1.5%",
+    "crude fat": "0.8%",
+    "crude fiber": "0.1%",
+    "crude protein": "20%",
     "image": "http://cdn.shopify.com/s/files/1/0561/5740/5392/products/6TunaSardineC.jpg?v=1618503867",
-    "analysis": [
-      "Crude protein 20%",
-      "Crude Oil & Fats 0.8%",
-      "Crude Ash 1.5%",
-      "Crude Fiber 0.1%",
-      "Moisture 76%"
-    ],
     "ingredients": [
       "Pacific Tuna 54.8%",
       "tuna broth 23.3%",
       "sardine 20.5%",
       "rice 1.4%"
     ],
-    "calorie": "83 kcal/100g"
+    "moisture": "76%",
+    "site": "https://www.kookut.com",
+    "title": "Pacific Tuna & Sardine - Natural – Kookut"
   },
   {
-    "site": "https://www.kookut.com",
     "url": "https://www.kookut.com/products/pacific-tuna-green-mussels-natural",
     "brand": "KOOKUT",
-    "title": "Pacific Tuna & Green Mussels - Natural – Kookut",
+    "calorie": "76 kcal/100g",
+    "crude ash": "2%",
+    "crude fat": "1%",
+    "crude fiber": "0.1%",
+    "crude protein": "18%",
     "image": "http://cdn.shopify.com/s/files/1/0561/5740/5392/products/7TunaMusselsC_f5bc5a14-f633-454e-b201-85b3a189a3ab.jpg?v=1618505692",
-    "analysis": [
-      "Crude protein 18%",
-      "Crude Oil & Fats 1%",
-      "Crude Ash 2%",
-      "Crude Fiber 0.1%",
-      "Moisture 77%"
-    ],
     "ingredients": [
       "Pacific Tuna 54.8%",
       "broth 23.3%",
       "green mussels 20.5%",
       "rice 1.4%"
     ],
-    "calorie": "76 kcal/100g"
+    "moisture": "77%",
+    "site": "https://www.kookut.com",
+    "title": "Pacific Tuna & Green Mussels - Natural – Kookut"
   },
   {
-    "site": "https://www.kookut.com",
     "url": "https://www.kookut.com/products/free-run-chicken-pacific-tuna-natural",
     "brand": "KOOKUT",
-    "title": "Free Run Chicken & Pacific Tuna - Natural – Kookut",
+    "calorie": "83 kcal/100g",
+    "crude ash": "1.5%",
+    "crude fat": "0.6%",
+    "crude fiber": "0.1%",
+    "crude protein": "20%",
     "image": "https://cdn.shopify.com/s/files/1/0561/5740/5392/products/3ChickenTunaC_1445x.jpg?v=1618503520",
-    "analysis": [
-      "Crude protein 20%",
-      "Crude Oil & Fats 0.6%",
-      "Crude Ash 1.5%",
-      "Crude Fiber 0.1%",
-      "Moisture 76%"
-    ],
     "ingredients": [
       "Free Run Chicken 47.9%",
       "Pacific Tuna 27.4%",
       "broth 23.3%",
       "rice 1.4%"
     ],
-    "calorie": "83 kcal/100g"
+    "moisture": "76%",
+    "site": "https://www.kookut.com",
+    "title": "Free Run Chicken & Pacific Tuna - Natural – Kookut"
   },
   {
-    "site": "https://www.kookut.com",
     "url": "https://www.kookut.com/products/free-run-chicken-pumpkin-natural",
     "brand": "KOOKUT",
-    "title": "Free Run Chicken & Pumpkin - Natural – Kookut",
+    "calorie": "90 kcal/100g",
+    "crude ash": "1%",
+    "crude fat": "1%",
+    "crude fiber": "0.1%",
+    "crude protein": "22%",
     "image": "http://cdn.shopify.com/s/files/1/0561/5740/5392/products/10ChickenPumpkinC.jpg?v=1618506063",
-    "analysis": [
-      "Crude protein 22%",
-      "Crude Oil & Fats 1%",
-      "Crude Ash 1%",
-      "Crude Fiber 0.1%",
-      "Moisture 75%"
-    ],
     "ingredients": [
       "Free Run chicken 70%",
       "broth 23.6%",
       "pumpkin 5%",
       "rice 1.4%"
     ],
-    "calorie": "90 kcal/100g"
+    "moisture": "75%",
+    "site": "https://www.kookut.com",
+    "title": "Free Run Chicken & Pumpkin - Natural – Kookut"
   },
   {
-    "site": "https://www.kookut.com",
     "url": "https://www.kookut.com/products/pacific-tuna-baby-clams-natural",
     "brand": "KOOKUT",
-    "title": "Pacific Tuna & Baby Clams - Natural – Kookut",
+    "calorie": "80 kcal/100g",
+    "crude ash": "2%",
+    "crude fat": "0.7%",
+    "crude fiber": "0.1%",
+    "crude protein": "20%",
     "image": "https://cdn.shopify.com/s/files/1/0561/5740/5392/products/8TunaBabyClamsC_1445x.jpg?v=1618504983",
-    "analysis": [
-      "Crude protein 20%",
-      "Crude Oil & Fats 0.7%",
-      "Crude Ash 2%",
-      "Crude Fiber 0.1%",
-      "Moisture 77%"
-    ],
     "ingredients": [
       "Pacific Tuna 67%",
       "tuna broth 23.6%",
       "baby clams 8%",
       "rice 1.4%"
     ],
-    "calorie": "80 kcal/100g"
+    "moisture": "77%",
+    "site": "https://www.kookut.com",
+    "title": "Pacific Tuna & Baby Clams - Natural – Kookut"
   },
   {
-    "site": "https://www.kookut.com",
     "url": "https://www.kookut.com/products/free-run-chicken-shrimps-natural",
     "brand": "KOOKUT",
-    "title": "Free Run Chicken & Shrimps - Natural – Kookut",
+    "calorie": "79 kcal/100g",
+    "crude ash": "1%",
+    "crude fat": "0.8%",
+    "crude fiber": "0.1%",
+    "crude protein": "19%",
     "image": "http://cdn.shopify.com/s/files/1/0561/5740/5392/products/5ChickenShrimpC.jpg?v=1618504307",
-    "analysis": [
-      "Crude protein 19%",
-      "Crude Oil & Fats 0.8%",
-      "Crude Ash 1%",
-      "Crude Fiber 0.1%",
-      "Moisture 79%"
-    ],
     "ingredients": [
       "Free Run Chicken 54.8%",
       "broth 23.3%",
       "shrimps 20.5%",
       "rice 1.4%"
     ],
-    "calorie": "79 kcal/100g"
+    "moisture": "79%",
+    "site": "https://www.kookut.com",
+    "title": "Free Run Chicken & Shrimps - Natural – Kookut"
   },
   {
-    "site": "https://www.kookut.com",
     "url": "https://www.kookut.com/products/pacific-tuna-seaweed-natural",
     "brand": "KOOKUT",
-    "title": "Pacific Tuna & Seaweed - Natural – Kookut",
+    "calorie": "83 kcal/100g",
+    "crude ash": "2%",
+    "crude fat": "1%",
+    "crude fiber": "0.1%",
+    "crude protein": "20%",
     "image": "https://cdn.shopify.com/s/files/1/0561/5740/5392/products/9TunaSeaweedC_1200x.jpg?v=1619130452",
-    "analysis": [
-      "Crude protein 20%",
-      "Crude Oil & Fats 1%",
-      "Crude Ash 2%",
-      "Crude Fiber 0.1%",
-      "Moisture 76%"
-    ],
     "ingredients": [
       "Pacific Tuna 75%",
       "tuna broth 23.5%",
       "seaweed 0.1%",
       "rice 1.4%"
     ],
-    "calorie": "83 kcal/100g"
+    "moisture": "76%",
+    "site": "https://www.kookut.com",
+    "title": "Pacific Tuna & Seaweed - Natural – Kookut"
   },
   {
-    "site": "https://www.kookut.com",
     "url": "https://www.kookut.com/products/wild-alaskan-salmon-natural",
     "brand": "KOOKUT",
-    "title": "Wild Alaskan Salmon - Natural – Kookut",
+    "calorie": "95 kcal/100g",
+    "crude ash": "1%",
+    "crude fat": "2%",
+    "crude fiber": "0.1%",
+    "crude protein": "17%",
     "image": "data:image/jpeg;base64,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",
-    "analysis": [
-      "Crude protein 17%",
-      "Crude Oil & Fats 2%",
-      "Crude Ash 1%",
-      "Crude Fiber 0.1%",
-      "Moisture 78%"
-    ],
     "ingredients": [
       "Wild Alaskan Salmon 75.3%",
       "salmon broth 23.3%",
       "rice 1.4%"
     ],
-    "calorie": "95 kcal/100g"
+    "moisture": "78%",
+    "site": "https://www.kookut.com",
+    "title": "Wild Alaskan Salmon - Natural – Kookut"
   }
 ]

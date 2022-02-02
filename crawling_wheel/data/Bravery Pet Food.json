@@ -1,23 +1,17 @@
 [
     {
-      "site": "http://www.braverypetfood.com",
       "url": "http://www.braverypetfood.com/en/cats/salmon-adult-cat-sterilized/",
+      "DHA\\+EPA": "0.50%",
       "brand": "Bravery Pet Food",
-      "title": "Salmon - Sterilized Adult Cat - Bravery Pet Food",
+      "calcium": "1.00%",
+      "calorie": "3575 kcal/kg",
+      "chondroitin": "220 mg",
+      "crude ash": "7.90%",
+      "crude fat": "12.00%",
+      "crude fiber": "5.00%",
+      "crude protein": "33.00%",
+      "glucosamine": "300 mg",
       "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxITEhISEBEVEhIVEBkVEBERFxYQEhIXFhUXGBQSFhMZHCggGBolGxcVITItJSkrLi4uGB8zODMsOCgtLisBCgoKDg0OGxAQGy0mICIzNi0tLS8vLS0uKy0rNzYtLS0vLS8vLy0uLzgtLS0tLy0tLS0tKy0vLS0rLS0vKy0tLf/AABEIAOEA4QMBIgACEQEDEQH/xAAcAAEAAgMBAQEAAAAAAAAAAAAABgcDBAUBAgj/xABLEAACAQIEAgYEBgwOAwAAAAAAAQIDEQQSITEFQQYTIlFhcSMygZEHFCRCodFSU2Jyc5KisbKzwfAVFjM0VGR0goOTwuHi8UNEY//EABoBAQADAQEBAAAAAAAAAAAAAAABAgMEBQb/xAArEQEBAAIBAgQFAwUAAAAAAAAAAQIRAxIhBDFBgSIyUWGRE3HwFKGxwdH/2gAMAwEAAhEDEQA/ALxAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0ONcUjh6aqSi5JzUUlbdpvn5Ab4IzT6ZUnvTkvNo2F0mg9o/lIrcpE9Nd4HBl0npreNvOSR8/xqpd0fx19Q64dNSAEal0wpL5t/KV/wBh8vplS+w/K/2HVDSTgi76Yx+1fl/8TE+m8PtX5f8AxJ6oaqWg5HAOOxxOdRjlyWvrmvmv4LuOuSgAAAAAAAAAAAAAAAAAAAAAAAAI507V8PH8NH9GRIyL/CIr4WP4eP6Mwb0hHUS/dH1GiznwuttDJCUuTa9rK9KOtt1sLJxlktnyvK5bX5XMHCW6kHnjlqQlkqR7mufk00eZnz1NGNafWScZWcWrK+6ts13aEdNT1R25YePgYp04rx8j4jVzJd75ePNHjQmJcmKp4RNLG4jq45pLmkkldyb2SXebdWpbRJt9y+sxwoSclKaV0rxVvUvpZeO5aSK7vqmfwaXviL/Y0/zzJ0Qn4Oo2liPKH55k2JTAABIAAAAAAAAAAAAAAAAAAAAAER6f1bqlSXe5y9nZj+eRLivek3GqEsZOhKTjOmoxvKyg7xU7KV9+3b2EyKZ3s4DoHqoHSqRj/wBoxulfncnTPbR6s4+IouVZuLlFxfakud12Y9z3T/dEjnSSV7o4VXENz5xVu1l9ez2ik09/2EWLY1sYbB5NXaN9funeSV9+82o1r9lyTu7Zlpqm/osrnNnSjJZo1JK1r025TpySt2XeTte3jrr3W3qODjbbRR9W+yvor3v3GeXZpixzwjTzQbbtouTvsmuTNjA3nBSd2/nNq2vcvD/c+MNh5Q/9hvbKklleVWfZyp2a7rWtz5b2DqJrRbyd7LZuz187v3FoitzoVjsvEJUvmyoONvu01P8ARuWSUn0exqjj6FW/rYi3sqNw/NIuw25cOnTHw/J1y/uAAydAAAAAAAAAAAAAAAAAAAAAAFA9J5qeJxU5SWuInu/m55Rh9Ct7C/Wz8i15OVDrHvUqdY992738dS2OXSpnh1LG4Px50+zXvVhZKD3lDtau+8lZv3Ik2Er0K38lUTd2srvGXZ3eV62tqVfwzGKdLLfLLLanKykrWVr9pXe/uMuGo1VZOWfV6tOD1as1volf3k3kwUx4eTW9LOxGC0a525EX+KWnKzd+7nl719KPjhfSirCSjVzVISkkpWclHVuVprS9rq3kYsTx2k4rEwUuzNJRkrNqTby325Nrwt3i2fUmN9Y6VRQgoqSazXvpZP76TTszVweM9JKPXLqUnZSXalp6u9l5q/kYcb0kpK01JtuKeR8tbZH9L8vcYF0ioyWqt2nfKrt2ton43+giyJm3axtOOZTS1y+ta1tG13W7OgqJ04J7Z43svCK/fwOJj+k9GVWME24Ws+rtdvRp37j4r9LV8Yp+ibjGcMivls1NeGl9PKw/Y1dd3Ylxhx7Sik1qkm73W3K3IuuErpNbNXXtKnl0s7Wbq6m7eXrezrytk2LP4TiOsoUaiVs9GE7b2zRTtf2mvNL27aY+Gs3dZb9m2ADB1gAAAAAAAAAAAAAAAAAAAADDjZ2pzfdCT9yZ+ZsHHDww1OOJo1JvKtKap6rKlLtS2fPmfpPjMrYeu9rUJu/lBn5a4liZdRTs7NJabpkVPZ18Hj8DFxUaVZJLWNqMLNuWvZWqel9V3rZIkNKpgZPs1ZrXSMpR2vsqij5fWV9hKOIa6x0pyo5bqWW8bK95Kxu/EKmXrYxmoOObbNBJ/OT5LxMc8L9G/Hy461v7PMcqlOnGEozgoyzZ/Wi27v11po2+ZzFVdrXdt7X002O3g8ZVtOVm4wtnkruKvtc2KuCzyUZ4ftuOZJLLKS+y0tcY55Tzx/CM8Mb5ZflHXVfsueSn3Ox2ZcDvHPGlPLlcrqWllq3qmYq/AKkVmcKkU2rNpSXadle1rXehrMt+l/DG4feflq8Kis6fcZaj9PD8LH9JG5w3gtSM5KWjjHNKKTbS73exr1KUFWh23frY2WW3zlzzFplJVbjbLp2HJ5b9XLbNl1zXtfL6m/L2H6A6JSvgsJ/Zqa90Ev2FL1uBx19NiN9usS/0lx9CZXwOG/BJe5tG3JLIx4+SZ5dpr3t+n1dsAGLcAAAAAAAAAAAAAAAAAAAAAc7pG7YTFP8Aq1X9XI/KXFJegp+SP1L00lbh+Pb2WBrt/wCTM/K/F36GHkRR1uCcUwsKFCNSrDNFV+sShVdeHWq0VSnlyKT5tu1rH1hOMYWOGpUXVUanxSpB1lCq+qnKpndKSy2cZKTi3FNpp62syEZj3MX/AFKy/Rm97v1/n5TvhXHMLThSozalGpCbxU/SrI5xtkUMvbslBJrnmenPD/DVJUFaebEQpTw0JKMoxlScllrJtdlqDnFJ69ohtOq43tbVWd0n48/IyLFy717o91u4jqutL9E3v+fzuly4nR+LU6fWqM4Qqt2hV6zNOWaNOM0sqT9WV9LGbGcYoSpOnCazfFqcFUUJ9t0/WoyutE9GmtO9kMli297exJHiqeJXrvlr7LdEt3bfPf8Av6JrQ4rGdGlDOpVLZa/ZkpOMW+qi5tWklrz7u44TXymnZ6ddDT++jBwiXaPqm/lNL8ND9NES25TabJMbJ91rYpO70l/dcbFn9An8gw/3sl7qkkVnipWvu/Bblj/BzK/D6HnV/X1Dr5vlcHhvn9klABzO4AAAAAAAAAAAAAAAAAAAAAc7pHBPCYpSSaeGqppq6adOV01zRT+O4Th3Tj8nov8Aw4fUXZiopwmmrpxaaeqem1ipunnD41MbTpuNbIsHCWTCzjRbnLEuEb3lFa5svfqjXj5Jj5xz83DlyXtdIz/BGH/o1H/Kh9RscP4LhJVIqeGpOLvdKFKL9V21lZWvbmm1e2tjDwzhUKOKwF1ic0sbSg1XrU6sJejzzUqcJyvo4vutJFr4uhGL7FJT1s4wpwbhta/Ydr67tfna1/WxvbTn/pMse9yV8+i+BtL0eGzdf2VFUmnSU1GVrrV9pvypve57hejOAzVFXpUYJV4KnljSnmg3UzK8U7XUVq9na+5YuDw0GrypJO2sJU4LdJ3vlTtutbbPQ2lgqX2qn+JH6it5Z5aXnh7e+1ZUejnDvR3o0LOrFSl6K7TqVFOGW14pQjB3+631Rz+I8EwcJQVKlRnF0oyzdXTu2291bsu1rrk7lvfEqX2qn+JH6jBicPBWy0oNu+0Icl4/UxOab8jLw2WvNU+A4Zh09KFJeVOH1GLGYCinJqjSTWqahBNNbNO25atBWetKD8MsF+aJr9IIQeExLVFJrD1O0owVuzKzve5f9Wb8mV8Pl0/Mq+vHG3euFSv3VZfUWx8GF/4Oop2up1U7bX6+pe3gVzip6vsyfsLE+DF/IY+Fet+tk/2lOWfC18Pfj9ksABzu0AAAAAAAAAAAAAAAAAAAAAYsT6kvvWQTpl0NhjZU59ZOnOMVCTjNxWWMnONopavM77rZdxO8U+xL71nKnLQRFm5pCeD9AOqxFKrUxdevClLPTjUqzdqkfUbpyumrOXPmTWpQjLVrWzWZNxavvqvZ7kEz4ni6cfWnFPubV/cLl60xw9J3/uy0qMY7Lfd6tvbm9eS9yPs0lxWg/wDyx9rsvezK8ZTScs8cvNp5kvF223REyl8qtcLj5zTZMOJwyna/K/K+5h/hKjv1i3tz37tjUr8Qd32ZONrwyycFpKUdezdvs5tdMt3bTtXkqmWU9W3Dh0e80ek2FSwmJfZ0w9S3ZjfSD5nR4ficySlfNZPVWumk9dLXWaz21T0WxqdKX8kxX9nqfoMmW9UUymPRbPorjFLfV/m+lIsH4Ln8ia7sTVXf86/7SvMZUttZffWf+on3wUSvhKm387qbbaxg/wBpty/K5vD/ADpoADmdwAAAAAAAAAAAAAAAAAAAAAw4z1JeRH+J4+NKKbtd+qm1FPvu2d/HfycvI4uIgpRyySknupK6fsIy3rstjZL38kQxnGLylKdRdySlovBRTOHieMX2/wCvDu/dEr4h0Sw9X1c1F99N3X4sroi+N+D3ERu6FenUu75ailRf4yzXfsODPw/La9rw/ifCTz3Pb/j4pYq770tdba8vZdtL99d/CY6UZqUJWktXJfV3fu+4imL4PxGg23h6jj/87V427ssW3bzR2OiVSWIqKEqdSMlJZ88Wla923mSaehjeLklnZ18mfBljbjlKtBU4zUZVKacsi3V2r6uN/Mx1ZRi7K8dVG0WoRbsssEm7ZsttraW12Pa2EhLRxtrfstw+mLRj+KJWUdEpKVpXn2o6Kad73tbe60Wh68fL5bvk3cNKNll2+m99b873ve/O5zelP80xP9nn+izew9KMb2Wr3b3l4vx1Zz+krvhsQns6Mr8uTJnzK5fJVbyoTqU6taMYqMO+zbejkl5J39xPfghlfCVn/XJ/qqRX9Sk1GUYylll6yhNtSs7q66ssH4JIWwtdJNfLJetz9FR12Rvy+Tj8PPiicAA5neAAAAAAAAAAAAAAAAAAAD5ne2hp1p1fmq4GbiD9HP70hnGOPOlLJGlKo1QqVLpSyqUYSlTpuSi0s3V1Fvf1dHc6vHKGJrUK1FXg6lOUVOO8W1pJarVeaK5w/QbHwzXr15XhKKvZ5W9pr5RuuRW79GvHjhe+V9u6Sw6RVNPQXbjNxacnGapvEJyi8i7NqVN/40d9L9HC8TlObUYqVPqI1Iyi25Sk5Ti6aVrXTg+fNEU/ivjbtuVR3ctMiS7U4yjtX+ao5V4SfeYZdFsbaS6yvd08t8rdnky516fR7PzHdezjvr/lJ8P0glJ4eHVJyrRk5Sh1kqVF29HGc3TVs080POL32XU4Ri5VKFKrOCpyqUozcFd5MyUlFtpO6Ts9NyA8Q6LY2pa1WvTtKTvCEr2k9I6V9lt7F43kHR6jiMPQjSnCvWknJupKPaeaTfObel7bibVznH0/De/ulGcORyfjlX+j1fxb/tOdxPBVK6aaxMU79jLentzjzXt5l5Jb3c+VsnabSmEzmdI6nyavq/5GW2j25GjhqFSMIxtiJZW7SnGTesbJack7PW+x88RhXnQrU+rqTlKDUPRuPzVp3Xvf3kzW0ZW3G9kFrVk43yt6WvbM9O99W19JYHwOSTwldpWvjJPv3pUvBELj0W4hLT4m4/dTnQivcm5E26DcHxeDoSp1FFynWdR5G3FXjCKV2l9jfbma8uUs7Obgwyl3YnYNChUq/OVjcpt8zB2PsAAAAAAAAAAAAAAAAAAAAAPLHoA8sLHoA8yruGVdx6APMq7hlXcegDzKhY9ACwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/Z",
-      "analysis": [
-        "Crude protein 33.00%",
-        "Crude fat 12.00%",
-        "Crude ber 5.00%",
-        "Crude ash 7.90%",
-        "Calcium 1.00%",
-        "Phosphorus 0.90%",
-        "Sodium 0.75%",
-        "Magnesium 0.09% Water 8.00%",
-        "EPA + DHA 0.50%",
-        "Glucosamine hydrochloride 300 mg/kg",
-        "Chondroitin sulfate 220 mg/kg."
-      ],
       "ingredients": [
         "Dehydrated salmon",
         "tapioca",
@@ -40,28 +34,25 @@
         "hydrolyzates from cartilage (source of chondroitin)",
         "concentrate of lyophilized melon juice (rich in superoxide dismutase – SOD)."
       ],
-      "calorie": "3575 kcal/kg"
+      "magnesium": "0.09%",
+      "phosphorous": "0.90%",
+      "site": "http://www.braverypetfood.com",
+      "sodium": "0.75%",
+      "title": "Salmon - Sterilized Adult Cat - Bravery Pet Food"
     },
   {
-    "site": "https://www.braverypetfood.com",
     "url": "https://www.braverypetfood.com/en/cats/chicken-adult-cat-sterilized/",
+    "DHA\\+EPA": "0.50%",
     "brand": "Bravery Pet Food",
-    "title": "Chicken - Adult Cat Sterilized - Bravery Pet Food",
+    "calcium": "1.20%",
+    "calorie": "3575 kcal/kg",
+    "chondroitin": "220 mg",
+    "crude ash": "7.90%",
+    "crude fat": "12.00%",
+    "crude fiber": "5.00%",
+    "crude protein": "33.00%",
+    "glucosamine": "300 mg",
     "image": "data:image/jpeg;base64,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",
-    "analysis": [
-      "Crude protein 33.00%",
-      "Crude fat 12.00%",
-      "Crude ber 5.00%",
-      "Crude ash 7.90%",
-      "Calcium 1.20%",
-      "Phosphorus 1.00%",
-      "Sodium 0.75%",
-      "Magnesium 0.09%",
-      "Water 8.00%",
-      "EPA + DHA 0.50%",
-      "glucosamine hydrochloride 300 mg/kg",
-      "chondroitin sulfate 220 mg/kg."
-    ],
     "ingredients": [
       "Dehydrated chicken meat",
       "tapioca",
@@ -86,28 +77,26 @@
       "hydrolyzates from cartilage (source of chondroitin)",
       "lyophilized melon juice concentrate (rich in superoxide dismutase – SOD)."
     ],
-    "calorie": "3575 kcal/kg"
+    "magnesium": "0.09%",
+    "moisture": "8.00%",
+    "phosphorous": "1.00%",
+    "site": "https://www.braverypetfood.com",
+    "sodium": "0.75%",
+    "title": "Chicken - Adult Cat Sterilized - Bravery Pet Food"
   },
   {
-    "site": "https://www.braverypetfood.com",
     "url": "https://www.braverypetfood.com/en/cats/chicken-adult-cat/",
+    "DHA\\+EPA": "0.38%",
     "brand": "Bravery Pet Food",
-    "title": "Chicken - Adult Cat - Bravery Pet Food",
+    "calcium": "1.30%",
+    "calorie": "3795 kcal/kg",
+    "chondroitin": "220 mg",
+    "crude ash": "8.20%",
+    "crude fat": "16.00%",
+    "crude fiber": "3.70%",
+    "crude protein": "32.00%",
+    "glucosamine": "300 mg",
     "image": "data:image/jpeg;base64,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",
-    "analysis": [
-      "Crude protein 32.00%",
-      "Crude fat 16.00%",
-      "Crude ber 3.70%",
-      "Crude ash 8.20%",
-      "Calcium 1.30%",
-      "Phosphorus 1.10%",
-      "Sodium 0.70%",
-      "Magnesium 0.09%",
-      "Water 8.00%",
-      "EPA + DHA 0.38%",
-      "Glucosamine hydrochloride 300 mg/kg",
-      "Chondroitin sulfate 220 mg/kg."
-    ],
     "ingredients": [
       "Dehydrated chicken meat",
       "tapioca",
@@ -132,28 +121,26 @@
       "hydrolyzates from cartilage (source of chondroitin)",
       "lyophilized melon juice concentrate (rich in superoxide dismutase – SOD)."
     ],
-    "calorie": "3795 kcal/kg"
+    "magnesium": "0.09%",
+    "moisture": "8.00%",
+    "phosphorous": "1.10%",
+    "site": "https://www.braverypetfood.com",
+    "sodium": "0.70%",
+    "title": "Chicken - Adult Cat - Bravery Pet Food"
   },
   {
-    "site": "https://www.braverypetfood.com",
     "url": "https://www.braverypetfood.com/en/cats/chicken-kitten-cat/",
+    "DHA\\+EPA": "0.50%",
     "brand": "Bravery Pet Food",
-    "title": "Chicken - Kitten Cat - Bravery Pet Food",
+    "calcium": "1.30%",
+    "calorie": "4020 kcal/kg",
+    "chondroitin": "220 mg",
+    "crude ash": "7.80%",
+    "crude fat": "18.00%",
+    "crude fiber": "1.90%",
+    "crude protein": "38.00%",
+    "glucosamine": "300 mg",
     "image": "data:image/jpeg;base64,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",
-    "analysis": [
-      "Crude protein 38.00%",
-      "Crude fat 18.00%",
-      "Crude ber 1.90%",
-      "Crude ash 7.80%",
-      "Calcium 1.30%",
-      "Phosphorus 1.10%",
-      "Sodium 0.40%",
-      "Magnesium 0.09%",
-      "Water 8.00%",
-      "EPA + DHA 0.50%",
-      "Glucosamine hydrochloride 300 mg/kg",
-      "Chondroitin sulfate 220 mg/kg."
-    ],
     "ingredients": [
       "Dehydrated chicken meat",
       "tapioca",
@@ -178,28 +165,26 @@
       "hydrolyzates from cartilage (source of chondroitin)",
       "lyophilized melon juice concentrate (rich in superoxide dismutase – SOD)."
     ],
-    "calorie": "4020 kcal/kg"
+    "magnesium": "0.09%",
+    "moisture": "8.00%",
+    "phosphorous": "1.10%",
+    "site": "https://www.braverypetfood.com",
+    "sodium": "0.40%",
+    "title": "Chicken - Kitten Cat - Bravery Pet Food"
   },
   {
-    "site": "https://www.braverypetfood.com",
     "url": "https://www.braverypetfood.com/en/cats/salmon-adult-cat/",
+    "DHA\\+EPA": "0.52%",
     "brand": "Bravery Pet Food",
-    "title": "Salmon - Adult Cat - Bravery Pet Food",
+    "calcium": "1.00%",
+    "calorie": "3795 kcal/kg",
+    "chondroitin": "220 mg",
+    "crude ash": "8.20%",
+    "crude fat": "16.00%",
+    "crude fiber": "3.70%",
+    "crude protein": "32.00%",
+    "glucosamine": "300 mg",
     "image": "data:image/jpeg;base64,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",
-    "analysis": [
-      "Crude protein 32.00%",
-      "Crude fat 16.00%",
-      "Crude ber 3.70%",
-      "Crude ash 8.20%",
-      "Calcium 1.00%",
-      "Phosphorus 1.00%",
-      "Sodium 0.60%",
-      "Magnesium 0.09%",
-      "Water 8.00%",
-      "EPA + DHA 0.52%",
-      "Glucosamine hydrochloride 300 mg/kg",
-      "Chondroitin sulfate 220 mg/kg."
-    ],
     "ingredients": [
       "Dehydrated salmon",
       "tapioca",
@@ -223,6 +208,11 @@
       "hydrolyzates from cartilage (source of chondroitin)",
       "lyophilized melon juice concentrate (rich in superoxide dismutase – SOD)."
     ],
-    "calorie": "3795 kcal/kg"
+    "magnesium": "0.09%",
+    "moisture": "8.00%",
+    "phosphorous": "1.00%",
+    "site": "https://www.braverypetfood.com",
+    "sodium": "0.60%",
+    "title": "Salmon - Adult Cat - Bravery Pet Food"
   }
 ]

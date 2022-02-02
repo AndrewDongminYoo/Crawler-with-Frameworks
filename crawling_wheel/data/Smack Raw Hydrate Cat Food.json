@@ -1,50 +1,42 @@
 [
-    {
-      "site": "https://ca.smackpetfood.com",
-      "url": "https://ca.smackpetfood.com/collections/cats/products/pacific-fish-feast",
-      "brand": "Smack Raw Hydrate Cat Food",
-      "title": "Pacific Fish Feast (CAT) – Smack Pet Food",
-      "image": "data:image/jpeg;base64,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",
-      "analysis": [
-        "Crude Protein: - 50.0%",
-        "Crude Fat: - 32.0%",
-        "Crude Fibre: - 1.5%",
-        "Moisture: - 4.0%",
-        "Calcium: - 1.95%",
-        "Phosphorus: - 1.55%",
-        "Carbohydrates: - 3.5%",
-        "Taurine: - 0.27%"
-      ],
-      "ingredients": [
-        "Wild Rockfish",
-        "Wild Herring",
-        "Pumpkin*",
-        "Spinach*",
-        "Celery*",
-        "Apple*",
-        "Parsley*",
-        "Kale*",
-        "Turmeric*",
-        "Tocopherols*."
-      ],
-      "calorie": "5500 kcal/kg"
-    },
   {
+    "url": "https://ca.smackpetfood.com/collections/cats/products/pacific-fish-feast",
+    "brand": "Smack Raw Hydrate Cat Food",
+    "calcium": "1.95%",
+    "calorie": "5500 kcal/kg",
+    "carbohydrate": "3.5%",
+    "crude fat": "32.0%",
+    "crude fiber": "1.5%",
+    "crude protein": "50.0%",
+    "image": "data:image/jpeg;base64,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",
+    "ingredients": [
+      "Wild Rockfish",
+      "Wild Herring",
+      "Pumpkin*",
+      "Spinach*",
+      "Celery*",
+      "Apple*",
+      "Parsley*",
+      "Kale*",
+      "Turmeric*",
+      "Tocopherols*."
+    ],
+    "moisture": "4.0%",
+    "phosphorous": "1.55%",
     "site": "https://ca.smackpetfood.com",
+    "taurine": "0.27%",
+    "title": "Pacific Fish Feast (CAT) – Smack Pet Food"
+  },
+  {
     "url": "https://ca.smackpetfood.com/collections/cats/products/purrfect-pork",
     "brand": "Smack Raw Hydrate Cat Food",
-    "title": "Purrfect Pork (CAT) – Smack Pet Food",
+    "calcium": "1.90 %",
+    "calorie": "4600 kcal/kg",
+    "carbohydrate": "2.5%",
+    "crude fat": "30.0%",
+    "crude fiber": "1.8%",
+    "crude protein": "40.0%",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfXjAiJLOkYL_tdgamdNV2jyooU70ugYeNB1ue11KcpXFSRXou5LI9w9xcURQFbZQPj-0&usqp=CAU",
-    "analysis": [
-      "Crude Protein: - 40.0%",
-      "Crude Fat: - 30.0%",
-      "Crude Fibre: - 1.8%",
-      "Moisture: - 4.0%",
-      "Carbohydrates: - 2.5%",
-      "Calcium: - 1.90 %",
-      "Phosphorus: - 1.22%",
-      "Taurine: - 0.27%"
-    ],
     "ingredients": [
       "Pork (Bone-In)",
       "Pork Organs (Heart, Liver, Kidney, Tongue, and Spleen)",
@@ -57,28 +49,22 @@
       "Turmeric*",
       "Tocopherols*."
     ],
-    "calorie": "4600 kcal/kg"
+    "moisture": "4.0%",
+    "phosphorous": "1.22%",
+    "site": "https://ca.smackpetfood.com",
+    "taurine": "0.27%",
+    "title": "Purrfect Pork (CAT) – Smack Pet Food"
   },
   {
-    "site": "https://ca.smackpetfood.com",
     "url": "https://ca.smackpetfood.com/collections/cats/products/very-berry-for-cats-crunchy-style-240-g",
     "brand": "Smack Raw Hydrate Cat Food",
-    "title": "Very Berry for Cats – Smack Pet Food",
+    "calcium": "1.00%",
+    "calorie": "4740 kcal/kg",
+    "carbohydrate": "1.5%",
+    "crude fat": "27.0%",
+    "crude fiber": "1.8%",
+    "crude protein": "52.0%",
     "image": "https://cdn.shopify.com/s/files/1/0018/2337/5421/products/Smack_cat_1024x.png?v=1529442605",
-    "analysis": [
-      "Crude Protein: - 52.0%",
-      "Crude Fat: - 27.0%",
-      "Crude Fibre: - 1.8%",
-      "Moisture: - 6.0%",
-      "Carbohydrates: - 1.5%",
-      "Calcium: - 1.00%",
-      "Phosphorus: - 0.80%",
-      "Sodium: - 0.25%",
-      "Magnesium: - 0.08%",
-      "Iron: - 105mg/kg",
-      "Zinc: - 84mg/kg",
-      "Taurine: - 0.23%"
-    ],
     "ingredients": [
       "Chicken*",
       "Wild Salmon",
@@ -94,6 +80,14 @@
       "Celery*",
       "Tocopherols*."
     ],
-    "calorie": "4740 kcal/kg"
+    "iron": "105mg",
+    "magnesium": "0.08%",
+    "moisture": "6.0%",
+    "phosphorous": "0.80%",
+    "site": "https://ca.smackpetfood.com",
+    "sodium": "0.25%",
+    "taurine": "0.23%",
+    "title": "Very Berry for Cats – Smack Pet Food",
+    "zinc": "84mg"
   }
 ]

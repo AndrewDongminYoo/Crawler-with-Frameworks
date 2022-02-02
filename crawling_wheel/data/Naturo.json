@@ -1,38 +1,32 @@
 [
-    {
-      "site": "https://www.naturopetfoods.com",
-      "url": "https://www.naturopetfoods.com/adult-cat-chicken-mousse",
-      "brand": "Naturo",
-      "title": "Adult Cat Chicken Mousse - Naturo Pet Foods",
-      "image": "https://d35n88tefzpgan.cloudfront.net/media/catalog/product/c/h/chickmousse-plain.jpg",
-      "analysis": [
-        "Crude Protein 10%",
-        "Crude Fat 8%",
-        "Crude Fibre 0.5%",
-        "Crude Ash 2%",
-        "Moisture 77%"
-      ],
-      "ingredients": [
-        "Chicken 70%",
-        "Chicken Broth 10% (from 0.35% Chicken Stock Powder)",
-        "Minerals, Salmon Oil 0.1%",
-        "Sunflower Oil 0.1%"
-      ],
-      "calorie": "119 kcal/100g"
-    },
   {
+    "url": "https://www.naturopetfoods.com/adult-cat-chicken-mousse",
+    "brand": "Naturo",
+    "calorie": "119 kcal/100g",
+    "crude ash": "2%",
+    "crude fat": "8%",
+    "crude fiber": "0.5%",
+    "crude protein": "10%",
+    "image": "https://d35n88tefzpgan.cloudfront.net/media/catalog/product/c/h/chickmousse-plain.jpg",
+    "ingredients": [
+      "Chicken 70%",
+      "Chicken Broth 10% (from 0.35% Chicken Stock Powder)",
+      "Minerals, Salmon Oil 0.1%",
+      "Sunflower Oil 0.1%"
+    ],
+    "moisture": "77%",
     "site": "https://www.naturopetfoods.com",
+    "title": "Adult Cat Chicken Mousse - Naturo Pet Foods"
+  },
+  {
     "url": "https://www.naturopetfoods.com/adult-cat-salmon-mousse",
     "brand": "Naturo",
-    "title": "Adult Cat Salmon Mousse - Naturo Pet Foods",
+    "calorie": "126 kcal/100g",
+    "crude ash": "2.5%",
+    "crude fat": "10%",
+    "crude fiber": "0.5%",
+    "crude protein": "10.5%",
     "image": "https://d35n88tefzpgan.cloudfront.net/media/catalog/product/cache/09d07303dc78bbb0fef271ae650a672c/s/a/salmonmousse-rec.jpg",
-    "analysis": [
-      "Crude Protein 10.5%",
-      "Crude Fat 10%",
-      "Crude Fibre 0.5%",
-      "Crude Ash 2.5%",
-      "Moisture 77%"
-    ],
     "ingredients": [
       "Salmon 26%",
       "Chicken 24%",
@@ -41,21 +35,19 @@
       "Minerals, Salmon Oil 0.1%",
       "Sunflower Oil 0.1%"
     ],
-    "calorie": "126 kcal/100g"
+    "moisture": "77%",
+    "site": "https://www.naturopetfoods.com",
+    "title": "Adult Cat Salmon Mousse - Naturo Pet Foods"
   },
   {
-    "site": "https://www.naturopetfoods.com",
     "url": "https://www.naturopetfoods.com/adult-cat-tuna-mousse",
     "brand": "Naturo",
-    "title": "Adult Cat Tuna Mousse - Naturo Pet Foods",
+    "calorie": "126 kcal/100g",
+    "crude ash": "2.5%",
+    "crude fat": "10%",
+    "crude fiber": "0.5%",
+    "crude protein": "10.5%",
     "image": "https://d35n88tefzpgan.cloudfront.net/media/catalog/product/cache/09d07303dc78bbb0fef271ae650a672c/t/u/tunamousse-rec.jpg",
-    "analysis": [
-      "Crude Protein 10.5%",
-      "Crude Fat 10%",
-      "Crude Fibre 0.5%",
-      "Crude Ash 2.5%",
-      "Moisture 77%"
-    ],
     "ingredients": [
       "Tuna 26%",
       "Chicken 24%",
@@ -64,21 +56,19 @@
       "Minerals, Salmon Oil 0.1%",
       "Sunflower Oil 0.1%."
     ],
-    "calorie": "126 kcal/100g"
+    "moisture": "77%",
+    "site": "https://www.naturopetfoods.com",
+    "title": "Adult Cat Tuna Mousse - Naturo Pet Foods"
   },
   {
-    "site": "https://www.naturopetfoods.com",
     "url": "https://www.naturopetfoods.com/adult-cat-turkey-mousse",
     "brand": "Naturo",
-    "title": "Adult Cat Turkey Mousse - Naturo Pet Foods",
+    "calorie": "117 kcal/100g",
+    "crude ash": "2.5%",
+    "crude fat": "8%",
+    "crude fiber": "0.5%",
+    "crude protein": "10.5%",
     "image": "data:image/jpeg;base64,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",
-    "analysis": [
-      "Crude Protein 10.5%",
-      "Crude Fat 8%",
-      "Crude Fibre 0.5%",
-      "Crude Ash 2.5%",
-      "Moisture 77%."
-    ],
     "ingredients": [
       "Turkey 36%",
       "Chicken 34%",
@@ -87,6 +77,8 @@
       "Salmon Oil 0.1%",
       "Sunflower Oil 0.1%."
     ],
-    "calorie": "117 kcal/100g"
+    "moisture": "77%",
+    "site": "https://www.naturopetfoods.com",
+    "title": "Adult Cat Turkey Mousse - Naturo Pet Foods"
   }
 ]

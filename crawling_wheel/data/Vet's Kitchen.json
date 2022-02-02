@@ -1,45 +1,41 @@
 [
-    {
-      "site": "https://vetskitchen.co.uk",
-      "url": "https://vetskitchen.co.uk/collections/dry-cat-food/products/dry-cat-chicken",
-      "brand": "Vet's Kitchen",
-      "title": "Everyday Health Dry Cat Food Tasty Chicken – Vet's Kitchen",
-      "image": "https://cdn.shopify.com/s/files/1/0388/4223/7067/t/7/assets/acf.dry-food-cat-header.jpg?v=1605569689",
-      "analysis": [
-        "Crude Protein 41%",
-        "Crude Fat 15%",
-        "Crude Fibre 2.5%",
-        "Crude Ash 7.5%."
-      ],
-      "ingredients": [
-        "Ingredients (Composition) Chicken 80% (Freshly prepared Chicken 60%, Dried Chicken 18.5%, Chicken Gravy 1.5%)",
-        "Sweet Potato",
-        "Brewer’s Yeast",
-        "Chicory Pulp (1% as a source of Prebiotic FOS)",
-        "Parsley 0.5%",
-        "Minerals",
-        "Dandelion 0.1%."
-      ],
-      "calorie": "392.5 kcal/100g"
-    },
   {
+    "url": "https://vetskitchen.co.uk/collections/dry-cat-food/products/dry-cat-chicken",
+    "brand": "Vet's Kitchen",
+    "calorie": "392.5 kcal/100g",
+    "crude ash": "7.5%",
+    "crude fat": "15%",
+    "crude fiber": "2.5%",
+    "crude protein": "41%",
+    "image": "https://cdn.shopify.com/s/files/1/0388/4223/7067/t/7/assets/acf.dry-food-cat-header.jpg?v=1605569689",
+    "ingredients": [
+      "Ingredients (Composition) Chicken 80% (Freshly prepared Chicken 60%, Dried Chicken 18.5%, Chicken Gravy 1.5%)",
+      "Sweet Potato",
+      "Brewer’s Yeast",
+      "Chicory Pulp (1% as a source of Prebiotic FOS)",
+      "Parsley 0.5%",
+      "Minerals",
+      "Dandelion 0.1%."
+    ],
     "site": "https://vetskitchen.co.uk",
+    "title": "Everyday Health Dry Cat Food Tasty Chicken – Vet's Kitchen"
+  },
+  {
     "url": "https://vetskitchen.co.uk/collections/dry-cat-food/products/dry-cat-food-salmon",
     "brand": "Vet's Kitchen",
-    "title": "Sensitive Digestion Dry Cat Food Succulent Salmon – Vet's Kitchen",
+    "calorie": "386 kcal/100g",
+    "crude ash": "7%",
+    "crude fat": "14%",
+    "crude fiber": "3%",
+    "crude protein": "40%",
     "image": "https://cdn.shopify.com/s/files/1/0388/4223/7067/t/7/assets/acf.dry-food-cat-header.jpg?v=1605569689",
-    "analysis": [
-      "Nutritional Info (Analytical Constituents): Crude Protein 40%",
-      "Crude Fat 14%",
-      "Crude Fibre 3%",
-      "Crude Ash 7%",
-      "Omega 3 3.6%",
-      "Omega 6 0.9%"
-    ],
     "ingredients": [
       "Ingredients (Composition): ",
       "Salmon 80% (Freshly Prepared Salmon 64%, Dried Salmon 15%, Salmon Stock 1%), White Rice, Beet Pulp, Brewer’s Yeast, Lucerne, Chicory (1% as a Source of Prebiotic FOS), Fish Stock , Parsley 0.5%, Minerals, Dandelion 0.1%."
     ],
-    "calorie": "386 kcal/100g"
+    "omega-3": "3.6%",
+    "omega-6": "0.9%",
+    "site": "https://vetskitchen.co.uk",
+    "title": "Sensitive Digestion Dry Cat Food Succulent Salmon – Vet's Kitchen"
   }
 ]

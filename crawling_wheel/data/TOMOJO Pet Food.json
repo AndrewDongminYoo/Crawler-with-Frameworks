@@ -1,45 +1,42 @@
 [
-    {
-      "site": "https://en.tomojo.co",
-      "url": "https://en.tomojo.co/collections/croquettes-et-friandises-pour-chat/products/croquettes-chat-adulte-au-sorgho",
-      "brand": "TOMOJO Pet Food",
-      "title": "CROQUETTES CHAT WITH SORGHO ADULT - Tomojo",
-      "image": "https://cdn.shopify.com/s/files/1/0067/2392/8128/products/Coffret_chat_1_600x.png?v=1635865900",
-      "analysis": "",
-      "ingredients": [
-        "Ingredients: Dehydrated insects 28%",
-        "corn gluten",
-        "peas**",
-        "sorghum**",
-        "potato starch",
-        "sunflower oil",
-        "linseed cake**",
-        "yeast",
-        "animal protein hydrolysate*",
-        "beet pulp",
-        "dicalcium phosphate",
-        "lithothamnion",
-        "chicory root powder",
-        "calcium carbonate",
-        "apple pomace**",
-        "whole chia seeds",
-        "a mixture of plants rich in natural saponins (Yucca schidigera juice, Camellia sp. Quillaja saponaria, Chenopodium quinoa)",
-        "flax",
-        "thyme",
-        "oregano",
-        "parsley",
-        "marjoram",
-        "spirulina."
-      ],
-      "calorie": ""
-    },
   {
+    "url": "https://en.tomojo.co/collections/croquettes-et-friandises-pour-chat/products/croquettes-chat-adulte-au-sorgho",
+    "brand": "TOMOJO Pet Food",
+    "calorie": "",
+    "image": "https://cdn.shopify.com/s/files/1/0067/2392/8128/products/Coffret_chat_1_600x.png?v=1635865900",
+    "ingredients": [
+      "Ingredients: Dehydrated insects 28%",
+      "corn gluten",
+      "peas**",
+      "sorghum**",
+      "potato starch",
+      "sunflower oil",
+      "linseed cake**",
+      "yeast",
+      "animal protein hydrolysate*",
+      "beet pulp",
+      "dicalcium phosphate",
+      "lithothamnion",
+      "chicory root powder",
+      "calcium carbonate",
+      "apple pomace**",
+      "whole chia seeds",
+      "a mixture of plants rich in natural saponins (Yucca schidigera juice, Camellia sp. Quillaja saponaria, Chenopodium quinoa)",
+      "flax",
+      "thyme",
+      "oregano",
+      "parsley",
+      "marjoram",
+      "spirulina."
+    ],
     "site": "https://en.tomojo.co",
+    "title": "CROQUETTES CHAT WITH SORGHO ADULT - Tomojo"
+  },
+  {
     "url": "https://en.tomojo.co/collections/croquettes-et-friandises-pour-chat/products/croquettes-chat-sans-cereales-adulte",
     "brand": "TOMOJO Pet Food",
-    "title": "CEREAL FREE CAT CROKE ADULT - Tomojo",
+    "calorie": "",
     "image": "https://cdn.shopify.com/s/files/1/0067/2392/8128/products/Coffretchat2_600x.png?v=1635865653",
-    "analysis": "",
     "ingredients": [
       "Ingredients: Dehydrated insects (34%)",
       "peas",
@@ -62,6 +59,7 @@
       "parsley",
       "marjoram."
     ],
-    "calorie": ""
+    "site": "https://en.tomojo.co",
+    "title": "CEREAL FREE CAT CROKE ADULT - Tomojo"
   }
 ]

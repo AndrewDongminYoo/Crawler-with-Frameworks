@@ -1,17 +1,13 @@
 [
     {
-      "site": "https://www.catit.com",
       "url": "https://www.catit.com/shop/catit-chicken-dinner/",
       "brand": "Hagen Catit Dinner",
-      "title": "Catit Chicken Dinner Tilapia & Green Beans",
+      "calorie": "790 kcal/kg",
+      "crude ash": "2.8%",
+      "crude fat": "2.8%",
+      "crude fiber": "0.9%",
+      "crude protein": "6.5%",
       "image": "https://www.catit.com.my/wp-content/uploads/2019/08/Chicken-dinner_TILAPIA-AND-GREEN-BEANS_TEXTURE_US.jpg",
-      "analysis": [
-        "Protein:: 6.5%",
-        "Fat:: 2.8%",
-        "Fiber:: 0.9%",
-        "Moisture:: 85.0%",
-        "Ash:: 2.8%"
-      ],
       "ingredients": [
         "Chicken Broth",
         "Water Sufficient for Processing",
@@ -41,6 +37,8 @@
         "Sodium Selenite",
         "Potassium Iodide"
       ],
-      "calorie": "790 kcal/kg"
+      "moisture": "85.0%",
+      "site": "https://www.catit.com",
+      "title": "Catit Chicken Dinner Tilapia & Green Beans"
     }
 ]

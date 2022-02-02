@@ -1,13 +1,10 @@
 [
   {
-    "site": "https://www.petfoodetc.com",
     "url": "https://www.petfoodetc.com/tuffys-dinnertime-cat-food-40-lb.aspx",
     "brand": "Tuffy's Petfoods Dinnertime",
-    "title": "Tuffy's - Tuffys Dinnertime Cat Food 40 lb #013110404149",
+    "calorie": "3360 kcal/kg",
+    "crude protein": "31.0%",
     "image": "https://www.petfoodetc.com/resize/shared/images/Cat%20Food/FeedTrade-Dinrtm-Cat.jpg?bh=250",
-    "analysis": [
-      "Crude Protein: 31.0% Crude Fat  9.0% Crude Fiber: 3.5% Moisture: 12.0% Taurine: 0.1% "
-    ],
     "ingredients": [
       "Whole grain ground corn",
       "poultry by-product meal",
@@ -26,6 +23,7 @@
       "taurine",
       "vitamins (vitamin A acetate, vitamin D3 supplement, vitamin E supplement, niacin, pantothenic acid, thiamine mononitrate, riboflavin supplement, pyridoxine hydrochloride, folic acid, menadione sodium bisulfate comples (source of vitamin K activity), biotin, vitamin B12 supplement). Animal feeding tests using the Association of American Feed Control Officials (AAFCO) protocols substantiate that Tuffy's DInnertime Cat food provides complete and balanced nutrition for all life stages."
     ],
-    "calorie": "3360 kcal/kg"
+    "site": "https://www.petfoodetc.com",
+    "title": "Tuffy's - Tuffys Dinnertime Cat Food 40 lb #013110404149"
   }
 ]

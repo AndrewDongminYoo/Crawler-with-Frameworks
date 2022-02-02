@@ -1,66 +1,61 @@
 [
-    {
-      "site": "https://www.nutro.ca",
-      "url": "https://www.nutro.ca/en/natural-cat-food/nutro/wholesome-essentials-dry-kitten-food-chicken-and-brown-rice-recipe",
-      "brand": "Nutro",
-      "title": "Chicken & Brown Rice WHOLESOME ESSENTIALS™ Dry Kitten Food l NUTRO | NUTRO™ CAT",
-      "image": "https://cdn.onemars.net/sites/nutro_ca_5OF0_B9cV/image/nutro-wholesome-essentials-dry-kitten-food-chicken-_-brown-rice-recipe_1581519972238.png",
-      "analysis": [
-        "Crude Protein 36.00% Crude Fat 19.00% Crude Fibre 4.00% Moisture 10.00% Docosahexaenoic Acid (DHA) 0.05% Calcium 1.20% Selenium 0.35 mg/kg Vitamin E 250 IU/kg Taurine 0.18% Omega-6 Fatty Acids * 3.80% * Not recognized as an essential nutrient by the AAFCO Cat Food Nutrient Profiles "
-      ],
-      "ingredients": [
-        "Chicken",
-        "Chicken Meal",
-        "Pea Protein",
-        "Chicken Fat (preserved with Mixed Tocopherols)",
-        "Brewers Rice",
-        "Whole Brown Rice",
-        "Potato Protein",
-        "Whole Grain Oatmeal",
-        "Dried Plain Beet Pulp",
-        "Fish Meal",
-        "Dehydrated Alfalfa Meal",
-        "Natural Flavour",
-        "Soybean Oil (preserved with Mixed Tocopherols)",
-        "Potassium Chloride",
-        "Choline Chloride",
-        "Salt",
-        "Fish Oil (preserved with Mixed Tocopherols)",
-        "DL-Methionine",
-        "Mixed Tocopherols and Citric Acid (preservatives)",
-        "Taurine",
-        "Zinc Sulfate",
-        "Vitamin E Supplement",
-        "L-Ascorbyl-2-Polyphosphate",
-        "Iron Amino Acid Chelate",
-        "Yucca Schidigera Extract",
-        "Vitamin B12 Supplement",
-        "Copper Amino Acid Chelate",
-        "Niacin Supplement",
-        "Manganese Amino Acid Chelate",
-        "Biotin",
-        "Riboflavin Supplement (Vitamin B2)",
-        "D-Calcium Pantothenate",
-        "Thiamine Mononitrate (Vitamin B1)",
-        "Vitamin A Supplement",
-        "Pyridoxine Hydrochloride (Vitamin B6)",
-        "Sodium Selenite",
-        "Potassium Iodide",
-        "Vitamin D3 Supplement",
-        "Folic Acid",
-        "Rosemary Extract.Visit our Ingredient Glossary for more information."
-      ],
-      "calorie": "3914 kcal/kg"
-    },
   {
+    "url": "https://www.nutro.ca/en/natural-cat-food/nutro/wholesome-essentials-dry-kitten-food-chicken-and-brown-rice-recipe",
+    "brand": "Nutro",
+    "calorie": "3914 kcal/kg",
+    "crude protein": "36.00%",
+    "image": "https://cdn.onemars.net/sites/nutro_ca_5OF0_B9cV/image/nutro-wholesome-essentials-dry-kitten-food-chicken-_-brown-rice-recipe_1581519972238.png",
+    "ingredients": [
+      "Chicken",
+      "Chicken Meal",
+      "Pea Protein",
+      "Chicken Fat (preserved with Mixed Tocopherols)",
+      "Brewers Rice",
+      "Whole Brown Rice",
+      "Potato Protein",
+      "Whole Grain Oatmeal",
+      "Dried Plain Beet Pulp",
+      "Fish Meal",
+      "Dehydrated Alfalfa Meal",
+      "Natural Flavour",
+      "Soybean Oil (preserved with Mixed Tocopherols)",
+      "Potassium Chloride",
+      "Choline Chloride",
+      "Salt",
+      "Fish Oil (preserved with Mixed Tocopherols)",
+      "DL-Methionine",
+      "Mixed Tocopherols and Citric Acid (preservatives)",
+      "Taurine",
+      "Zinc Sulfate",
+      "Vitamin E Supplement",
+      "L-Ascorbyl-2-Polyphosphate",
+      "Iron Amino Acid Chelate",
+      "Yucca Schidigera Extract",
+      "Vitamin B12 Supplement",
+      "Copper Amino Acid Chelate",
+      "Niacin Supplement",
+      "Manganese Amino Acid Chelate",
+      "Biotin",
+      "Riboflavin Supplement (Vitamin B2)",
+      "D-Calcium Pantothenate",
+      "Thiamine Mononitrate (Vitamin B1)",
+      "Vitamin A Supplement",
+      "Pyridoxine Hydrochloride (Vitamin B6)",
+      "Sodium Selenite",
+      "Potassium Iodide",
+      "Vitamin D3 Supplement",
+      "Folic Acid",
+      "Rosemary Extract.Visit our Ingredient Glossary for more information."
+    ],
     "site": "https://www.nutro.ca",
+    "title": "Chicken & Brown Rice WHOLESOME ESSENTIALS™ Dry Kitten Food l NUTRO | NUTRO™ CAT"
+  },
+  {
     "url": "https://www.nutro.ca/en/natural-cat-food/nutro/wholesome-essentials-indoor-adult-dry-cat-food-chicken-and-brown-rice-recipe",
     "brand": "Nutro",
-    "title": "Chicken & Brown Rice WHOLESOME ESSENTIALS™ Indoor Adult Cat Food l NUTRO | NUTRO™ CAT",
+    "calorie": "3663 kcal/kg",
+    "crude protein": "33.00%",
     "image": "https://cdn.onemars.net/sites/nutro_ca_5OF0_B9cV/image/nutro-wholesome-essentials-indoor-adult-dry-cat-food-chicken-_-brown-rice-recipe_1581519870115.png",
-    "analysis": [
-      "Crude Protein 33.00% Crude Fat 14.00% Crude Fibre 7.00% Moisture 10.00% Calcium 0.90% Vitamin E 250 IU/kg Taurine 0.18% Omega-6 Fatty Acids * 3.00% "
-    ],
     "ingredients": [
       "Chicken",
       "Chicken Meal",
@@ -102,17 +97,15 @@
       "Folic Acid",
       "Rosemary Extract. Visit our Ingredient Glossary for more information."
     ],
-    "calorie": "3663 kcal/kg"
+    "site": "https://www.nutro.ca",
+    "title": "Chicken & Brown Rice WHOLESOME ESSENTIALS™ Indoor Adult Cat Food l NUTRO | NUTRO™ CAT"
   },
   {
-    "site": "https://www.nutro.ca",
     "url": "https://www.nutro.ca/en/natural-cat-food/nutro/perfect-portions-adult-wet-cat-food-pate-chicken-recipe",
     "brand": "Nutro",
-    "title": "Chicken PERFECT PORTIONS™ Paté Adult Wet Cat Food l NUTRO | NUTRO™ CAT",
+    "calorie": "1135 kcal/kg",
+    "crude protein": "11.5%",
     "image": "https://cdn.onemars.net/sites/nutro_ca_5OF0_B9cV/image/00079105128926_a1n1_1581519745173.png",
-    "analysis": [
-      "Crude Protein 11.5% Crude Fat 6.0% Crude Fiber 1.0% Moisture 78.0% Ash 3.0%; Taurine 0.06% "
-    ],
     "ingredients": [
       "Chicken",
       "Chicken Broth",
@@ -131,17 +124,15 @@
       "Choline Chloride",
       "Sodium Hexametaphosphate."
     ],
-    "calorie": "1135 kcal/kg"
+    "site": "https://www.nutro.ca",
+    "title": "Chicken PERFECT PORTIONS™ Paté Adult Wet Cat Food l NUTRO | NUTRO™ CAT"
   },
   {
-    "site": "https://www.nutro.ca",
     "url": "https://www.nutro.ca/en/natural-cat-food/nutro/perfect-portions-adult-wet-cat-food-pate-turkey-recipe",
     "brand": "Nutro",
-    "title": "Turkey PERFECT PORTIONS™ Paté Adult Wet Cat Food l NUTRO | NUTRO™ CAT",
+    "calorie": "1253 kcal/kg",
+    "crude protein": "11.5%",
     "image": "https://cdn.onemars.net/sites/nutro_ca_5OF0_B9cV/image/00079105128896_a1n1_1581519700698.png",
-    "analysis": [
-      "Crude Protein 11.5% Crude Fat 7.0% Crude Fiber 1.0% Moisture 78.0% Ash 3.0% Taurine 0.07% "
-    ],
     "ingredients": [
       "Turkey",
       "Turkey Broth",
@@ -161,17 +152,15 @@
       "Vitamins",
       "Sodium Hexametaphosphate."
     ],
-    "calorie": "1253 kcal/kg"
+    "site": "https://www.nutro.ca",
+    "title": "Turkey PERFECT PORTIONS™ Paté Adult Wet Cat Food l NUTRO | NUTRO™ CAT"
   },
   {
-    "site": "https://www.nutro.ca",
     "url": "https://www.nutro.ca/en/natural-cat-food/nutro/perfect-portions-adult-wet-cat-food-pate-chicken-and-liver-recipe",
     "brand": "Nutro",
-    "title": "Chicken & Liver PERFECT PORTIONS™ Paté Adult Wet Cat Food l NUTRO | NUTRO™ CAT",
+    "calorie": "1135 kcal/kg",
+    "crude protein": "11.5%",
     "image": "https://cdn.onemars.net/sites/nutro_ca_5OF0_B9cV/image/00079105128926_a1n1_1581519745173.png",
-    "analysis": [
-      "Crude Protein 11.5% Crude Fat 6.0% Crude Fiber 1.0% Moisture 78.0% Ash 3.0% Taurine 0.06% "
-    ],
     "ingredients": [
       "Chicken",
       "Chicken Liver",
@@ -190,17 +179,15 @@
       "Choline Chloride",
       "Sodium Hexametaphosphate."
     ],
-    "calorie": "1135 kcal/kg"
+    "site": "https://www.nutro.ca",
+    "title": "Chicken & Liver PERFECT PORTIONS™ Paté Adult Wet Cat Food l NUTRO | NUTRO™ CAT"
   },
   {
-    "site": "https://www.nutro.ca",
     "url": "https://www.nutro.ca/en/natural-cat-food/nutro/perfect-portions-adult-wet-cat-food-cuts-in-gravy-chicken-recipe",
     "brand": "Nutro",
-    "title": "Chicken PERFECT PORTIONS™ CUTS IN GRAVY Adult Wet Cat Food l NUTRO | NUTRO™ CAT",
+    "calorie": "1004 kcal/kg",
+    "crude protein": "7.0%",
     "image": "https://cdn.onemars.net/sites/nutro_ca_5OF0_B9cV/image/00079105128858_a1n1_1581519614611.png",
-    "analysis": [
-      "Crude Protein 7.0% Crude Fat 3.5% Crude Fiber 1.0% Moisture 82.0% Ash 3.0% Taurine 0.06% "
-    ],
     "ingredients": [
       "Chicken Broth",
       "Chicken",
@@ -219,17 +206,15 @@
       "Tetrasodium Pyrophosphate",
       "Sodium Hexametaphosphate."
     ],
-    "calorie": "1004 kcal/kg"
+    "site": "https://www.nutro.ca",
+    "title": "Chicken PERFECT PORTIONS™ CUTS IN GRAVY Adult Wet Cat Food l NUTRO | NUTRO™ CAT"
   },
   {
-    "site": "https://www.nutro.ca",
     "url": "https://www.nutro.ca/en/natural-cat-food/nutro/perfect-portions-adult-wet-cat-food-cuts-in-gravy-salmon-recipe",
     "brand": "Nutro",
-    "title": "Salmon PERFECT PORTIONS™ CUTS IN GRAVY Adult Wet Cat Food l NUTRO | NUTRO™ CAT",
+    "calorie": "706 kcal/kg",
+    "crude protein": "7.0%",
     "image": "https://cdn.onemars.net/sites/nutro_ca_5OF0_B9cV/image/00079105128865_a1n1_1581519643829.png",
-    "analysis": [
-      "Crude Protein 7.0% Crude Fat 2.5% Crude Fiber 1.0% Moisture 84.0% Ash 3.0% Taurine 0.06% "
-    ],
     "ingredients": [
       "Chicken Broth",
       "Water",
@@ -249,17 +234,15 @@
       "Tetrasodium Pyrophosphate",
       "Sodium Hexametaphosphate."
     ],
-    "calorie": "706 kcal/kg"
+    "site": "https://www.nutro.ca",
+    "title": "Salmon PERFECT PORTIONS™ CUTS IN GRAVY Adult Wet Cat Food l NUTRO | NUTRO™ CAT"
   },
   {
-    "site": "https://www.nutro.ca",
     "url": "https://www.nutro.ca/en/natural-cat-food/nutro/perfect-portions-adult-wet-cat-food-cuts-in-gravy-tuna-recipe",
     "brand": "Nutro",
-    "title": "Tuna PERFECT PORTIONS™ CUTS IN GRAVY Adult Wet Cat Food l NUTRO | NUTRO™ CAT",
+    "calorie": "875 kcal/kg",
+    "crude protein": "7.0%",
     "image": "data:image/jpeg;base64,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",
-    "analysis": [
-      "Crude Protein 7.0% Crude Fat 3.0% Crude Fiber 1.0% Moisture 84.0% Ash 3.5% Taurine 0.06% "
-    ],
     "ingredients": [
       "Chicken Broth",
       "Water",
@@ -279,6 +262,7 @@
       "Taurine",
       "Sodium Hexametaphosphate."
     ],
-    "calorie": "875 kcal/kg"
+    "site": "https://www.nutro.ca",
+    "title": "Tuna PERFECT PORTIONS™ CUTS IN GRAVY Adult Wet Cat Food l NUTRO | NUTRO™ CAT"
   }
 ]
